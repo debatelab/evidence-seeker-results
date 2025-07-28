@@ -1,0 +1,39 @@
+site_name: EvidenceSeeker-Ergebnisse
+
+nav:
+  - Home: index.md
+#  - About: about.md
+
+hooks: 
+  - src/initialisation.py
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+theme:
+  name: material
+  #custom_dir: custom_theme
+  palette:
+    primary: deep purple
+    accent: indigo
+  icon:
+    logo: material/clipboard-text-search-outline
+
+#plugins: []
+
+repo_url: https://github.com/debatelab/evidence-seeker
+repo_name: debatelab/evidence-seeker
+
+copyright: 
+  2024-25  <a href="https://debatelab.philosophie.kit.edu/index.php" target="_blank" rel="noopener">DebateLab @ KIT</a>
+
+extra_css:
+  - style/extra.css
+

@@ -6,6 +6,7 @@ from mkdocs.utils.templates import TemplateContext
 from mkdocs.structure.pages import Page
 from jinja2 import Environment
 import glob
+import random
 
 from evidence_seeker.results import EvidenceSeekerResult
 
@@ -185,6 +186,7 @@ def construct_result_site(ev_result : EvidenceSeekerResult):
 
 def write_index(results : list[EvidenceSeekerResult]):
     _results = [{"statement": res.request, "count_claims": res.count_claims(),"time": res.request_time, "feedback": res.feedback["binary"], "request_uid": res.request_uid} for res in results]
+    random.shuffle(_results)
     env = Environment()
     md_template = env.from_string(overview_template)
     with open(f"./docs/index.md", "w", encoding="utf-8") as f:

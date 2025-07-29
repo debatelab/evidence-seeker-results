@@ -130,8 +130,9 @@ def get_sources(documents, confirmation_by_document) -> str | None:
         grouped[doc]["texts"] = sorted(grouped[doc]["texts"], key=lambda item: item["conf"], reverse=True)
         t.append(f"    {grouped[doc]['author']}: *{grouped[doc]['title']}* ([Link]({grouped[doc]['url']})):")
         for text in grouped[doc]["texts"]:
-            short = f'"{text["original_text"].strip().replace("\n"," ").replace('"',"'")}" **[{round(text["conf"],5)}]**'
-            detailed = f'"{text["full_text"].strip().replace("\n","").replace('"',"'")}"'
+            orig = text["original_text"].strip().replace("\n"," ").replace('"',"'")
+            short = f'"{orig}" **[{round(text["conf"],5)}]**'
+            detailed = '"' + text["full_text"].strip().replace("\n","").replace('"',"'") + '"'
             part = f"    - {short}\n"
             part += f"        <details>\n"
             part += f"        <summary>Mehr Details</summary>\n"

@@ -16,6 +16,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - pymdownx.snippets
 
 theme:
   name: material
@@ -25,6 +27,8 @@ theme:
     accent: indigo
   icon:
     logo: material/clipboard-text-search-outline
+    annotation: material/information
+    repo: fontawesome/brands/github
 
 #plugins: []
 
@@ -40,4 +44,3 @@ copyright:
 
 extra_css:
   - extra_styles.css
-

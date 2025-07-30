@@ -27,7 +27,8 @@ Es folgen die von der Pipeline gefundene Präzisierungen der eingegebenen Aussag
 
 {{ sources }}
 {% else %}
-Aussagen vom Typ '{{ translation[claim.statement_type.value] }}' wurden vom EvidenceSeeker nicht geprüft.
+Aussagen vom Typ <font color=orange>'{{ translation[claim.statement_type.value] }}'</font> wurden vom EvidenceSeeker nicht geprüft.
+
 {% endif %}
 {% endfor %}
 
@@ -51,3 +52,10 @@ Bewertung der Ergebnisse durch den\*die Nutzer\*in
     Der\*die originale Nutzer\*in hat die Ergebnisse der EvidenceSeeker-Pipeline nicht bewertet.
 </div>
 {% endif %}
+
+*[deskriptiv]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[deskriptive Aussage]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[normativ]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
+*[normative Aussage]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
+*[askriptiv]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.
+*[askriptive Aussage]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.

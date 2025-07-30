@@ -2,7 +2,6 @@
 title: Beispielausgabe (2025-07-23 18:58:10 UTC)
 date: 2025-07-23 18:58:10 UTC
 ---
-
 # Ergebnis der EvidenceSeeker-Pipeline
 
 ## Originale Eingabe

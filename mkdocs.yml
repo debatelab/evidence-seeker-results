@@ -5,7 +5,7 @@ nav:
 #  - About: about.md
 
 hooks: 
-  - src/initialisation.py
+  - hooks/initialisation.py
 
 markdown_extensions:
   - attr_list
@@ -39,5 +39,5 @@ copyright:
   </a>
 
 extra_css:
-  - style/extra.css
+  - extra_styles.css
 

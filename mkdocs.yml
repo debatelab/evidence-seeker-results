@@ -22,6 +22,7 @@ markdown_extensions:
 theme:
   name: material
   #custom_dir: custom_theme
+  favicon: img/favicon.ico
   palette:
     primary: deep purple
     accent: indigo

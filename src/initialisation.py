@@ -15,10 +15,9 @@ overview_template = """
 
 Die EvidenceSeeker-Pipeline ist ein RAG-basierter LLM-Workflow für das Fact-Checking beliebiger Aussagen relativ zu einer gegebenen Datenbasis. Die EvidenceSeeker-Pipeline wurde im Rahmen des [KIdeKu-Projekts](https://compphil2mmae.github.io/research/kideku/) am Karlsruher Institut für Technologie entwickelt. KIdeKu wird gefördert vom [BMFSFJ](https://www.bmbfsfj.bund.de/).
 
-Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis verwendet Artikel der Zeitschrift [APuZ](https://www.bpb.de/shop/zeitschriften/apuz/), die von der Bundeszentrale für politische Bildung herausgegeben wird.
+Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis verwendet die Artikel des Jahrgangs 2024 der Zeitschrift [APuZ](https://www.bpb.de/shop/zeitschriften/apuz/), die von der Bundeszentrale für politische Bildung herausgegeben wird.
 
-[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo){ .md-button .md-button--primary }
-
+[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT evidence-seeker-demo){ .md-button .md-button--primary }
 ### Beispiele
 
 !!! warning "Inhaltswarnung"

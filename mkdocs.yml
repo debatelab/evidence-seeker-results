@@ -32,7 +32,11 @@ repo_url: https://github.com/debatelab/evidence-seeker
 repo_name: debatelab/evidence-seeker
 
 copyright: 
-  2024-25  <a href="https://debatelab.philosophie.kit.edu/index.php" target="_blank" rel="noopener">DebateLab @ KIT</a>
+  Copyright © 2024-2025 <a href="https://compphil2mmae.github.io/" target="_blank" rel="noopener">CompPhil²MMAE</a> @ KIT
+  </br>
+  Teil von <a href="https://compphil2mmae.github.io/research/kideku/">
+    <img src="./img/logoKIdeKu.jpg" class="img-fluid" alt="KIdeKu" width="20">
+  </a>
 
 extra_css:
   - style/extra.css

@@ -1,0 +1,61 @@
+# Ergebnis der EvidenceSeeker-Pipeline
+
+## Originale Eingabe
+
+!!! quote "<font size="4pt" color="rgb(31, 31, 31)">*{{ statement }}*</font>"
+
+    <div style="text-align: right;" markdown><font color="grey">{{ time }}</font></div>
+
+## Ergebnisse
+
+Es folgen die von der Pipeline gefundene Präzisierungen der eingegebenen Aussagen und deren Bewertung bezüglich der gegebenen Datenbasis.
+
+{% for claim, sources in claims %}
+---
+
+**Präzisierte Aussage:** _{{ claim.text }}_ <font color="orange">[{{ translation[claim.statement_type.value] }}e Aussage]</font>
+
+**Status**: {{ translation[claim.verbalized_confirmation] }}
+
+{% if sources is not none %}
+
+|Metrik|Wert|
+|:---|---:|
+|Durchschnittliche Bestätigung|{{ "%.3f"|format(claim.average_confirmation) }} |
+|Evidentielle Abweichung|{{ "%.3f"|format(claim.evidential_uncertainty) }}|
+|Breite der Evidenzbasis|{{ "%.3f"|format(claim.n_evidence) }}|
+
+{{ sources }}
+{% else %}
+Aussagen vom Typ <font color=orange>'{{ translation[claim.statement_type.value] }}'</font> wurden vom EvidenceSeeker nicht geprüft.
+
+{% endif %}
+{% endfor %}
+
+## Feedback des\*der Nutzer\*in
+
+Bewertung der Ergebnisse durch den\*die Nutzer\*in
+
+{% if feedback == 'positive' %}
+<div class="grid cards" style="background-color:rgb(153, 205, 50, 0.15)" markdown>
+- :material-thumb-up-outline:{ .lg .top .thumbup } 
+    Der\*die originale Nutzer\*in hat die Ergebnisse der EvidenceSeeker-Pipeline <font color="yellowgreen">**positiv**</font> bewertet.
+</div>
+{% elif feedback == 'negative' %}
+<div class="grid cards" style="background-color:rgb(255, 99, 71, 0.15)" markdown>
+- :material-thumb-down-outline:{ .lg .top .thumbdown } 
+    Der\*die originale Nutzer\*in hat die Ergebnisse der EvidenceSeeker-Pipeline <font color="tomato">**negativ**</font> bewertet.
+</div>
+{% else %}
+<div class="grid cards" style="background-color:rgb(211, 211, 211, 0.15)" markdown>
+- :material-dots-circle:{ .lg .top .neutral } 
+    Der\*die originale Nutzer\*in hat die Ergebnisse der EvidenceSeeker-Pipeline nicht bewertet.
+</div>
+{% endif %}
+
+*[deskriptiv]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[deskriptive Aussage]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[normativ]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
+*[normative Aussage]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
+*[askriptiv]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.
+*[askriptive Aussage]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.

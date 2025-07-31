@@ -5,7 +5,7 @@ nav:
 #  - About: about.md
 
 hooks: 
-  - src/initialisation.py
+  - hooks/initialisation.py
 
 markdown_extensions:
   - attr_list
@@ -16,24 +16,35 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - abbr
+  - pymdownx.snippets
 
 theme:
   name: material
-  #custom_dir: custom_theme
+  custom_dir: overrides
+  favicon: img/favicon.ico
   palette:
     primary: deep purple
     accent: indigo
   icon:
     logo: material/clipboard-text-search-outline
+    annotation: material/information
+    repo: fontawesome/brands/github
 
 #plugins: []
 
 repo_url: https://github.com/debatelab/evidence-seeker
 repo_name: debatelab/evidence-seeker
+doku_url: https://bwsyncandshare.kit.edu/f/4824063061
+doku_name: Dokumentation
+doku_icon: ./img/detective.png
 
 copyright: 
-  2024-25  <a href="https://debatelab.philosophie.kit.edu/index.php" target="_blank" rel="noopener">DebateLab @ KIT</a>
+  Copyright © 2024-2025 <a href="https://compphil2mmae.github.io/" target="_blank" rel="noopener">CompPhil²MMAE</a> @ KIT
+  </br>
+  Teil von <a href="https://compphil2mmae.github.io/research/kideku/">
+    <img src="./img/logoKIdeKu.jpg" class="img-fluid" alt="KIdeKu" width="20">
+  </a>
 
 extra_css:
-  - style/extra.css
-
+  - extra_styles.css

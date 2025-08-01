@@ -1662,7 +1662,7 @@ confirmation_config:
   used_model_key: together.ai
   verbose: false
 feedback:
-  binary: null
+  binary: positive
 preprocessing_config:
   config_version: v0.1
   description: Configuration of EvidenceSeeker's preprocessing component.

@@ -16,26 +16,6 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
 <div class="grid cards" markdown>
 
 
--   :fontawesome-solid-quote-right:  _Italiens rechtsnationale Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 2 askriptive,
-    - 3 normative
-    - und 3 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-21 18:10:27 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_7913e354-1bde-4784-9a26-e0a471b08ae9)
-
-
 -   :fontawesome-solid-quote-right:  _In der modernen Welt haben digitale Technologien nahezu alle Lebensbereiche revolutioniert._
     
     
@@ -56,6 +36,26 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     [:octicons-arrow-right-24: Details](results/result_d4b8c590-aad4-4ba5-b9c5-861e5dc8a662)
 
 
+-   :fontawesome-solid-quote-right:  _Italiens rechtsnationale Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen._
+    
+    
+    ---
+
+    Analysiert als
+
+    - 2 askriptive,
+    - 3 normative
+    - und 3 deskriptive Aussagen
+    
+
+    ---
+    
+    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-21 18:10:27 UTC</font>
+    
+
+    [:octicons-arrow-right-24: Details](results/result_7913e354-1bde-4784-9a26-e0a471b08ae9)
+
+
 -   :fontawesome-solid-quote-right:  _Das Spannungsverhältnis von Umwelt- und Industriepolitik lässt sich nicht vollständig auflösen._
     
     
@@ -74,6 +74,26 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     
 
     [:octicons-arrow-right-24: Details](results/result_251d70a5-9ece-4e6d-bf8a-7e41f052445b)
+
+
+-   :fontawesome-solid-quote-right:  _Ökologische Aspekte sind mittlerweile zur wichtigsten Determinante einer industriellen Strukturpolitik geworden._
+    
+    
+    ---
+
+    Analysiert als
+
+    - 3 askriptive,
+    - 2 normative
+    - und 3 deskriptive Aussagen
+    
+
+    ---
+    
+    :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-08-01 11:45:46 UTC</font>
+    
+
+    [:octicons-arrow-right-24: Details](results/result_f087fe02-3a8a-4d3e-bf0b-22c8e2642fd5)
 
 
 </div>

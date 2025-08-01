@@ -94,7 +94,7 @@ def write_index(results : list[EvidenceSeekerResult]):
 
 def load_results():
     results = []
-    for p in glob.glob(pathname="request_*.yaml", root_dir="./data/"):
+    for p in glob.glob(pathname="**/request_*.yaml", root_dir="./data/", recursive=True):
         results.append(EvidenceSeekerResult.from_logfile("./data/" + p))
     return results
 

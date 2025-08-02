@@ -4,7 +4,7 @@ Die EvidenceSeeker-Pipeline ist ein RAG-basierter LLM-Workflow für das Fact-Che
 
 Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis verwendet die Artikel des Jahrgangs 2024 der Zeitschrift [APuZ](https://www.bpb.de/shop/zeitschriften/apuz/), die von der Bundeszentrale für politische Bildung herausgegeben wird.
 
-[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT evidence-seeker-demo){ .md-button .md-button--primary }
+[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo){ .md-button .md-button--primary }
 ### Beispiele
 
 !!! warning "Inhaltswarnung"
@@ -37,7 +37,7 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     :material-dots-circle:{ .lg .top } <font color="grey" size=size=2em>{{ ev_result.time }}</font>
     {% endif %}
 
-    [:octicons-arrow-right-24: Details](results/result_{{ ev_result.request_uid }})
+    [:octicons-arrow-right-24: Details](results/result_{{ ev_result.request_uid }}.md)
 
 {% endfor %}
 </div>

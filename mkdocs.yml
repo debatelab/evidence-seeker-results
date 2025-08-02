@@ -1,7 +1,7 @@
 site_name: EvidenceSeeker-Ergebnisse
 
 nav:
-  - Home: index.md
+  - Home: ./index.md
 #  - About: about.md
 
 hooks: 
@@ -18,6 +18,8 @@ markdown_extensions:
   - pymdownx.superfences
   - abbr
   - pymdownx.snippets
+
+use_directory_urls: false
 
 theme:
   name: material

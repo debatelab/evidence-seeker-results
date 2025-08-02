@@ -4,7 +4,7 @@ Die EvidenceSeeker-Pipeline ist ein RAG-basierter LLM-Workflow für das Fact-Che
 
 Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis verwendet die Artikel des Jahrgangs 2024 der Zeitschrift [APuZ](https://www.bpb.de/shop/zeitschriften/apuz/), die von der Bundeszentrale für politische Bildung herausgegeben wird.
 
-[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT evidence-seeker-demo){ .md-button .md-button--primary }
+[:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo){ .md-button .md-button--primary }
 ### Beispiele
 
 !!! warning "Inhaltswarnung"
@@ -16,7 +16,7 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
 <div class="grid cards" markdown>
 
 
--   :fontawesome-solid-quote-right:  _In der modernen Welt haben digitale Technologien nahezu alle Lebensbereiche revolutioniert._
+-   :fontawesome-solid-quote-right:  _In der Bundeswehr gibt es keinen politischen Extremismus._
     
     
     ---
@@ -24,36 +24,16 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     Analysiert als
 
     - 2 askriptive,
-    - 3 normative
+    - 2 normative
     - und 4 deskriptive Aussagen
     
 
     ---
     
-    :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-07-23 18:58:10 UTC</font>
+    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-08-01 17:42:20 UTC</font>
     
 
-    [:octicons-arrow-right-24: Details](results/result_d4b8c590-aad4-4ba5-b9c5-861e5dc8a662)
-
-
--   :fontawesome-solid-quote-right:  _Italiens rechtsnationale Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 2 askriptive,
-    - 3 normative
-    - und 3 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-21 18:10:27 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_7913e354-1bde-4784-9a26-e0a471b08ae9)
+    [:octicons-arrow-right-24: Details](results/result_774c518e-ee4e-48e2-bfa7-68fd683293bd.md)
 
 
 -   :fontawesome-solid-quote-right:  _Das Spannungsverhältnis von Umwelt- und Industriepolitik lässt sich nicht vollständig auflösen._
@@ -73,7 +53,27 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-23 19:03:29 UTC</font>
     
 
-    [:octicons-arrow-right-24: Details](results/result_251d70a5-9ece-4e6d-bf8a-7e41f052445b)
+    [:octicons-arrow-right-24: Details](results/result_251d70a5-9ece-4e6d-bf8a-7e41f052445b.md)
+
+
+-   :fontawesome-solid-quote-right:  _Italiens rechtsnationale Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen._
+    
+    
+    ---
+
+    Analysiert als
+
+    - 2 askriptive,
+    - 3 normative
+    - und 3 deskriptive Aussagen
+    
+
+    ---
+    
+    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-21 18:10:27 UTC</font>
+    
+
+    [:octicons-arrow-right-24: Details](results/result_7913e354-1bde-4784-9a26-e0a471b08ae9.md)
 
 
 -   :fontawesome-solid-quote-right:  _Ökologische Aspekte sind mittlerweile zur wichtigsten Determinante einer industriellen Strukturpolitik geworden._
@@ -93,7 +93,47 @@ Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktio
     :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-08-01 11:45:46 UTC</font>
     
 
-    [:octicons-arrow-right-24: Details](results/result_f087fe02-3a8a-4d3e-bf0b-22c8e2642fd5)
+    [:octicons-arrow-right-24: Details](results/result_f087fe02-3a8a-4d3e-bf0b-22c8e2642fd5.md)
+
+
+-   :fontawesome-solid-quote-right:  _Die Osterweiterung hat die EU-Institutionen nachhaltig geschwächt._
+    
+    
+    ---
+
+    Analysiert als
+
+    - 3 askriptive,
+    - 2 normative
+    - und 3 deskriptive Aussagen
+    
+
+    ---
+    
+    :material-dots-circle:{ .lg .top } <font color="grey" size=size=2em>2025-08-01 17:35:21 UTC</font>
+    
+
+    [:octicons-arrow-right-24: Details](results/result_49d05eba-516e-4c77-bad4-ca1ba6862cfc.md)
+
+
+-   :fontawesome-solid-quote-right:  _In der modernen Welt haben digitale Technologien nahezu alle Lebensbereiche revolutioniert._
+    
+    
+    ---
+
+    Analysiert als
+
+    - 2 askriptive,
+    - 3 normative
+    - und 4 deskriptive Aussagen
+    
+
+    ---
+    
+    :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-07-23 18:58:10 UTC</font>
+    
+
+    [:octicons-arrow-right-24: Details](results/result_d4b8c590-aad4-4ba5-b9c5-861e5dc8a662.md)
 
 
 </div>

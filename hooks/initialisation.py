@@ -45,13 +45,7 @@ def get_sources(documents, confirmation_by_document) -> str | None:
         t = "\n\n".join(t) + "\n\n"
         return '\n\n??? abstract "Verwendete Quellen"\n\n' + t + '\n\n'
 
-def download():
-    dotenv.load_dotenv()
-    assert "HF_TOKEN" in os.environ.keys()
-    snapshot_download(repo_id="DebateLabKIT/evidence-seeker-appdata", local_files_only=True, repo_type="dataset", allow_patterns="*.yaml", local_dir="./data", token=os.environ["HF_TOKEN"])
-
 def on_startup(command, dirty):
-    #download()
     results = load_results()
     for ev_result in results:
         construct_result_site(ev_result=ev_result)

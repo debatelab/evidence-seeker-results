@@ -12,6 +12,8 @@ from evidence_seeker.results import EvidenceSeekerResult
 
 log = logging.getLogger('mkdocs')
 
+SHOW_DETAILS = True
+
 def get_sources(documents, confirmation_by_document) -> str | None:
     grouped = {}
     for doc in documents:
@@ -78,12 +80,13 @@ def construct_result_site(ev_result : EvidenceSeekerResult):
         f.write(md)
 
 def write_index(results : list[EvidenceSeekerResult]):
+    global SHOW_DETAILS
     _results = [{"statement": res.request, "count_claims": res.count_claims(),"time": res.request_time, "feedback": res.feedback["binary"], "request_uid": res.request_uid} for res in results]
     random.shuffle(_results)
     env = Environment(loader=FileSystemLoader("./templates"))
     md_template = env.get_template("index.tmpl")
     with open("./docs/index.md", "w", encoding="utf-8") as f:
-        md = md_template.render(_results=_results, show_details=True)
+        md = md_template.render(_results=_results, show_details=SHOW_DETAILS)
         f.write(md)
 
 def load_results():

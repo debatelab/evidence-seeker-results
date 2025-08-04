@@ -12,7 +12,7 @@ jobs:
       with:
         python-version: 3.12.10
     - run: pip install -r ./requirements.txt
-    - run: mkdocs gh-deploy --config-file ./mkdocs.yaml --site-dir ./site --force --message "Re-deploy site"
+    - run: mkdocs gh-deploy --config-file ./mkdocs.yml --site-dir ./site --force --message "Re-deploy site"
   deploy:
     needs: build
     runs-on: ubuntu_latest

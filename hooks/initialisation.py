@@ -8,65 +8,13 @@ from jinja2 import Environment, FileSystemLoader
 import glob
 import random
 
-from evidence_seeker.results import EvidenceSeekerResult
-
+from evidence_seeker import (
+    EvidenceSeekerResult,
+    result_as_markdown,
+)
 log = logging.getLogger("mkdocs")
 
 SHOW_DETAILS = True
-
-
-def get_sources(documents, confirmation_by_document) -> str | None:
-    grouped = {}
-    for doc in documents:
-        if doc.metadata["file_name"] not in grouped.keys():
-            grouped[doc.metadata["file_name"]] = {
-                "author": doc.metadata["author"],
-                "url": doc.metadata["url"],
-                "title": doc.metadata["title"].replace("{", "").replace("}", ""),
-                "texts": [
-                    {
-                        "original_text": doc.metadata["original_text"],
-                        "conf": confirmation_by_document[doc.uid],
-                        "full_text": doc.text,
-                    }
-                ],
-            }
-        else:
-            grouped[doc.metadata["file_name"]]["texts"].append(
-                {
-                    "original_text": doc.metadata["original_text"],
-                    "conf": confirmation_by_document[doc.uid],
-                    "full_text": doc.text,
-                }
-            )
-
-    t = []
-    for doc in grouped.keys():
-        grouped[doc]["texts"] = sorted(
-            grouped[doc]["texts"], key=lambda item: item["conf"], reverse=True
-        )
-        t.append(
-            f"    {grouped[doc]['author']}: *{grouped[doc]['title']}* ([Link]({grouped[doc]['url']})):"
-        )
-        for text in grouped[doc]["texts"]:
-            orig = text["original_text"].strip().replace("\n", " ").replace('"', "'")
-            short = f'"{orig}" **[{round(text["conf"],5)}]**'
-            detailed = (
-                '"'
-                + text["full_text"].strip().replace("\n", "").replace('"', "'")
-                + '"'
-            )
-            part = f"    - {short}\n"
-            part += f"        <details>\n"
-            part += f"        <summary>Mehr Details</summary>\n"
-            part += f"        {detailed}\n"
-            part += f"        </details>"
-            t.append(part)
-    if len(t) == 0:
-        return None
-    else:
-        t = "\n\n".join(t) + "\n\n"
-        return '\n\n??? abstract "Verwendete Quellen"\n\n' + t + "\n\n"
 
 
 def on_startup(command, dirty):
@@ -79,29 +27,28 @@ def on_startup(command, dirty):
 def construct_result_site(ev_result: EvidenceSeekerResult):
     env = Environment(loader=FileSystemLoader("./templates"))
     md_template = env.get_template("result.tmpl")
-    claims = [
-        (claim, get_sources(claim.documents, claim.confirmation_by_document))
-        for claim in ev_result.claims
-    ]
     translation = {
-        "ascriptive": "askriptiv",
+        "strongly_confirmed": "im hohen Maße bestätigt",
+        "confirmed": "bestätigt",
+        "weakly_confirmed": "im geringen Maße bestätigt",
+        "strongly_disconfirmed": "im hohen Maße widerlegt",
+        "disconfirmed": "widerlegt",
+        "weakly_disconfirmed": "im geringen Maße widerlegt",
+        "inconclusive_confirmation": "weder bestätigt noch widerlegt",
+        "ascriptive": "zuschreibend",
         "descriptive": "deskriptiv",
         "normative": "normativ",
-        "The claim is neither confirmed nor disconfirmed.": "Die Aussage wird weder bestätigt noch widerlegt.",
-        "The claim is strongly confirmed.": "Die Aussage wird im hohen Maße bestätigt.",
-        "The claim is strongly disconfirmed.": "Die Aussage wird im hohen Maße widerlegt.",
-        "The claim is weakly confirmed.": "Die Aussage wird in geringem Maße bestätigt.",
-        "The claim is weakly disconfirmed.": "Die Aussage wird in geringem Maße widerlegt.",
     }
-    md = md_template.render(
-        feedback=ev_result.feedback["binary"],
-        statement=ev_result.request,
-        time=ev_result.request_time,
-        claims=claims,
-        translation=translation,
+    md = result_as_markdown(
+        ev_result,
+        translation,
+        md_template,
+        group_docs_by_sources=True
     )
     with open(
-        f"./docs/results/result_{ev_result.request_uid}.md", "w", encoding="utf-8"
+        f"./docs/results/result_{ev_result.request_uid}.md",
+        "w",
+        encoding="utf-8"
     ) as f:
         f.write(md)
 

@@ -20,17 +20,29 @@ Es folgen die von der Pipeline gefundene Präzisierungen der eingegebenen Aussag
 
 **Präzisierte Aussage:** _{{ claim.text }}_ <font color="orange">[{{ translation[claim.statement_type.value] }}e Aussage]</font>
 
-**Status**: {{ translation[claim.verbalized_confirmation] }}
 
-{% if sources is not none %}
+{% if sources %}
 
-|Metrik|Wert|
-|:---|---:|
-|Durchschnittliche Bestätigung|{{ "%.3f"|format(claim.average_confirmation) }} |
-|Evidentielle Abweichung|{{ "%.3f"|format(claim.evidential_uncertainty) }}|
-|Breite der Evidenzbasis|{{ "%.3f"|format(claim.n_evidence) }}|
+**Bestätigungslevel**: {{ translation[claim.confirmation_level.value] }}
 
-{{ sources }}
+??? abstract "Einzelanalysen bzgl. relevanter Textstellen"
+
+{% for doc_info in sources.values() %}
+    **Quelle:** {{ doc_info.author }} - *{{ doc_info.title }}* ([Link]({{ doc_info.url }}))
+
+{% for text in doc_info.texts %}
+    + *Textstelle:* "{{ text.original_text }}" (**Bestätigungslevel für die Interpretation:** *{{ translation[text.conf_level] }})*
+        <details>
+        <summary>Textstelle mit Textkontext</summary>
+
+        - "{{ text.full_text }}"
+
+        </details>
+
+{% endfor %}
+{% endfor %}
+
+
 {% else %}
 Aussagen vom Typ <font color=orange>'{{ translation[claim.statement_type.value] }}'</font> wurden vom EvidenceSeeker nicht geprüft.
 
@@ -62,5 +74,5 @@ Bewertung der Ergebnisse durch den\*die Nutzer\*in
 *[deskriptive Aussage]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
 *[normativ]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
 *[normative Aussage]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
-*[askriptiv]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.
-*[askriptive Aussage]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.
+*[zuschreibend]: Zuschreibende Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu.
+*[zuschreibende Aussage]: Zuschreibende Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu.

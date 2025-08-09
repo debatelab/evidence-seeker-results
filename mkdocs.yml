@@ -39,13 +39,13 @@ repo_url: https://github.com/debatelab/evidence-seeker
 repo_name: debatelab/evidence-seeker
 doku_url: https://bwsyncandshare.kit.edu/f/4824063061
 doku_name: Dokumentation
-doku_icon: ./img/detective.png
+doku_icon: /img/detective.png
 
 copyright: 
   Copyright © 2024-2025 <a href="https://compphil2mmae.github.io/" target="_blank" rel="noopener">CompPhil²MMAE</a> @ KIT
   </br>
   Teil von <a href="https://compphil2mmae.github.io/research/kideku/">
-    <img src="./img/logoKIdeKu.jpg" class="img-fluid" alt="KIdeKu" width="20">
+    <img src="/img/logoKIdeKu.jpg" class="img-fluid" alt="KIdeKu" width="20">
   </a>
 
 extra_css:

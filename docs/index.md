@@ -1,143 +1,71 @@
 # Ergebnisse der EvidenceSeeker-DemoApp
 
-Die EvidenceSeeker-Pipeline ist ein RAG-basierter LLM-Workflow für das Fact-Checking beliebiger Aussagen relativ zu einer gegebenen Datenbasis. Die EvidenceSeeker-Pipeline wurde im Rahmen des [KIdeKu-Projekts](https://compphil2mmae.github.io/research/kideku/) am Karlsruher Institut für Technologie entwickelt. KIdeKu wird gefördert vom [BMFSFJ](https://www.bmbfsfj.bund.de/).
+Die EvidenceSeeker-Pipeline ist ein RAG-basierter LLM-Workflow für das 
+Fact-Checking beliebiger Aussagen relativ zu einer gegebenen Datenbasis. 
+Die EvidenceSeeker-Pipeline wurde im Rahmen des [KIdeKu-Projekts](https://compphil2mmae.github.io/research/kideku/) 
+am Karlsruher Institut für Technologie entwickelt. 
+KIdeKu wird gefördert vom [BMBFSFJ](https://www.bmbfsfj.bund.de/).
 
-Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis verwendet die Artikel des Jahrgangs 2024 der Zeitschrift [APuZ](https://www.bpb.de/shop/zeitschriften/apuz/), die von der Bundeszentrale für politische Bildung herausgegeben wird.
+Diese Webseite sammelt Ergebnisse der Pipeline, die durch Nutzer*inneninteraktion 
+über eine DemoApp erstellt wurden. Die der DemoApp zugrundeliegende Datenbasis 
+verwendet die Artikel des Jahrgangs 2024 der Zeitschrift 
+"Aus Politik und Zeitgeschichte" ([APuZ](https://www.bpb.de/shop/zeitschriften/apuz/)), 
+die von der Bundeszentrale für politische Bildung herausgegeben wird.
 
 [:simple-huggingface: DemoApp jetzt selbst ausprobieren](https://huggingface.co/spaces/DebateLabKIT/evidence-seeker-demo){ .md-button .md-button--primary }
 ### Beispiele
 
 !!! warning "Inhaltswarnung"
 
-    Die folgenden Beispiele enthalten reale Nutzer\*inneneingaben, die auf ihre Inhalte von den Ersteller\*innen dieser Seite nicht geprüft wurden 
+    Die folgenden Beispiele enthalten Nutzer\*inneneingaben, die auf ihre Inhalte von den Ersteller\*innen dieser Seite nicht geprüft wurden 
     und möglicherweise sensible oder für manche Personen beunruhigende Inhalte haben können. 
     Die beinhalteten Aussagen und ihre Bewertung durch die Pipeline geben nicht die Meinung der Ersteller\*innen dieser Seite wieder.
 
 <div class="grid cards" markdown>
 
 
--   :fontawesome-solid-quote-right:  _In der Bundeswehr gibt es keinen politischen Extremismus._
+-   :fontawesome-solid-quote-right:  _Populismus bedroht Demokratien._
     
     
     ---
 
     Analysiert als
 
-    - 2 askriptive,
-    - 2 normative
-    - und 4 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-08-01 17:42:20 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_774c518e-ee4e-48e2-bfa7-68fd683293bd.md)
-
-
--   :fontawesome-solid-quote-right:  _Das Spannungsverhältnis von Umwelt- und Industriepolitik lässt sich nicht vollständig auflösen._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 2 askriptive,
-    - 2 normative
-    - und 3 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-23 19:03:29 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_251d70a5-9ece-4e6d-bf8a-7e41f052445b.md)
-
-
--   :fontawesome-solid-quote-right:  _Italiens rechtsnationale Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 2 askriptive,
+    - 1 zuschreibende,
     - 3 normative
     - und 3 deskriptive Aussagen
     
 
     ---
     
-    :material-thumb-up-outline:{ .lg .top .thumbup } <font color="grey" size=size=2em>2025-07-21 18:10:27 UTC</font>
+    :material-dots-circle:{ .lg .top } <font color="grey" size=size=2em>2025-08-08 19:23:06 UTC</font>
     
 
-    [:octicons-arrow-right-24: Details](results/result_7913e354-1bde-4784-9a26-e0a471b08ae9.md)
+    [:octicons-arrow-right-24: Details](results/result_677e1e34-a850-41d4-bf90-4ff5ffc9f010.md)
 
 
--   :fontawesome-solid-quote-right:  _Ökologische Aspekte sind mittlerweile zur wichtigsten Determinante einer industriellen Strukturpolitik geworden._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 3 askriptive,
-    - 2 normative
-    - und 3 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-08-01 11:45:46 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_f087fe02-3a8a-4d3e-bf0b-22c8e2642fd5.md)
-
-
--   :fontawesome-solid-quote-right:  _Die Osterweiterung hat die EU-Institutionen nachhaltig geschwächt._
+-   :fontawesome-solid-quote-right:  _Populismus bedroht Demokratien._
     
     
     ---
 
     Analysiert als
 
-    - 3 askriptive,
-    - 2 normative
-    - und 3 deskriptive Aussagen
-    
-
-    ---
-    
-    :material-dots-circle:{ .lg .top } <font color="grey" size=size=2em>2025-08-01 17:35:21 UTC</font>
-    
-
-    [:octicons-arrow-right-24: Details](results/result_49d05eba-516e-4c77-bad4-ca1ba6862cfc.md)
-
-
--   :fontawesome-solid-quote-right:  _In der modernen Welt haben digitale Technologien nahezu alle Lebensbereiche revolutioniert._
-    
-    
-    ---
-
-    Analysiert als
-
-    - 2 askriptive,
+    - 3 zuschreibende,
     - 3 normative
-    - und 4 deskriptive Aussagen
+    - und 1 deskriptive Aussagen
     
 
     ---
     
-    :material-thumb-down-outline:{ .lg .top .thumbdown } <font color="grey" size=size=2em>2025-07-23 18:58:10 UTC</font>
+    :material-dots-circle:{ .lg .top } <font color="grey" size=size=2em>2025-08-08 19:28:47 UTC</font>
     
 
-    [:octicons-arrow-right-24: Details](results/result_d4b8c590-aad4-4ba5-b9c5-861e5dc8a662.md)
+    [:octicons-arrow-right-24: Details](results/result_56ccd501-c10e-458a-a1ba-7cdb4386bce7.md)
 
 
 </div>
 
-*[deskriptive]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[deskriptive]: Deskriptive Aussagen sind beschreibende wertfreie Aussagen, die typischerweise Sachverhalte zum Ausdruck bringen sollen.
 *[normative]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
-*[askriptive]: Askriptive Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu. Unsere EvidenceSeeker-Pipeline erkennt askriptive Aussagen, aber prüft sie nicht weiter.
+*[zuschreibende]: Zuschreibende Aussagen sind Aussagen darüber, was eine Person oder Gruppe von Personen bspw. denkt, fühlt oder sagt. Zugeschrieben werden hier also Einstellungen und Handlungen bzgl. bestimmter Aussagen (wie bspw. Überzeugungen).

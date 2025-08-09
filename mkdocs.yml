@@ -2,7 +2,7 @@ site_name: EvidenceSeeker-Ergebnisse
 
 nav:
   - Home: ./index.md
-#  - About: about.md
+  - Grundidee: main_idea.md
 
 hooks: 
   - hooks/initialisation.py
@@ -25,6 +25,7 @@ theme:
   name: material
   custom_dir: overrides
   favicon: img/favicon.ico
+  language: de
   palette:
     primary: deep purple
     accent: indigo
@@ -37,7 +38,7 @@ theme:
 
 repo_url: https://github.com/debatelab/evidence-seeker
 repo_name: debatelab/evidence-seeker
-doku_url: https://bwsyncandshare.kit.edu/f/4824063061
+doku_url: https://debatelab.github.io/evidence-seeker
 doku_name: Dokumentation
 doku_icon: /img/detective.png
 

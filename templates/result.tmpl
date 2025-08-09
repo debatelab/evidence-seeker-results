@@ -3,23 +3,22 @@ title: Beispielausgabe ({{ request }})
 data: {{ time }}
 ---
 
-# Ergebnis der EvidenceSeeker-Pipeline
+# Analyse der EvidenceSeeker DemoApp
 
-## Originale Eingabe
+## Originale Eingabe zur Prüfung
 
 !!! quote "<font size="4pt" color="rgb(31, 31, 31)">*{{ statement }}*</font>"
 
     <div style="text-align: right;" markdown><font color="grey">{{ time }}</font></div>
 
-## Ergebnisse
+## Analyseergebnisse
 
-Es folgen die von der Pipeline gefundene Präzisierungen der eingegebenen Aussagen und deren Bewertung bezüglich der gegebenen Datenbasis.
+Es folgen die von der Pipeline gefundenen Interpretationen der eingegebenen Aussagen und deren Bewertung bezüglich der gegebenen Wissensbasis.
 
 {% for claim, sources in claims %}
 ---
 
-**Präzisierte Aussage:** _{{ claim.text }}_ <font color="orange">[{{ translation[claim.statement_type.value] }}e Aussage]</font>
-
+**Gefundene Interpretation:** _{{ claim.text }}_ <font color="orange">[{{ translation[claim.statement_type.value] }}e Aussage]</font>
 
 {% if sources %}
 
@@ -70,9 +69,10 @@ Bewertung der Ergebnisse durch den\*die Nutzer\*in
 </div>
 {% endif %}
 
-*[deskriptiv]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
-*[deskriptive Aussage]: Deskriptive Aussagen beschreiben wertfrei einen Sachverhalt.
+*[deskriptiv]: Deskriptive Aussagen sind beschreibende wertfreie Aussagen, die typischerweise Sachverhalte zum Ausdruck bringen sollen.
+*[deskriptive Aussage]: Deskriptive Aussagen sind beschreibende wertfreie Aussagen, die typischerweise Sachverhalte zum Ausdruck bringen sollen.
 *[normativ]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
 *[normative Aussage]: Normative Aussagen sind Aussagen, die Werturteile, Empfehlungen oder Vorschriften enthalten. Unsere EvidenceSeeker-Pipeline erkennt normative Aussagen, aber prüft sie nicht weiter.
-*[zuschreibend]: Zuschreibende Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu.
-*[zuschreibende Aussage]: Zuschreibende Aussagen schreiben einer oder mehreren Personen Merkmale, Eigenschaften, Aussagen oder Überzeugungen zu.
+*[zuschreibend]: Zuschreibende Aussagen sind Aussagen darüber, was eine Person oder Gruppe von Personen bspw. denkt, fühlt oder sagt. Zugeschrieben werden hier also Einstellungen und Handlungen bzgl. bestimmter Aussagen (wie bspw. Überzeugungen).
+*[zuschreibende Aussage]: Zuschreibende Aussagen sind Aussagen darüber, was eine Person oder Gruppe von Personen bspw. denkt, fühlt oder sagt. Zugeschrieben werden hier also Einstellungen und Handlungen bzgl. bestimmter Aussagen (wie bspw. Überzeugungen).
+*[Bestätigungslevel]: Der EvidenceSeeker weist jeder gefundenen Interpretation ein von 7 Bestätigungsleveln durch die Wissensbasis zu: 'im hohen Maße bestätigt', 'bestätigt', 'im geringen Maße bestätigt', 'weder bestätigt noch widerlegt', 'im niedrigen Maße widerlegt', 'widerlegt' und 'im hohen Maße widerlegt'. 

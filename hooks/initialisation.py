@@ -46,7 +46,7 @@ def construct_result_site(ev_result: EvidenceSeekerResult):
         group_docs_by_sources=True
     )
     with open(
-        f"./docs/results/result_{ev_result.uid}.md",
+        f"./docs/results/{ev_result.uid}.md",
         "w",
         encoding="utf-8"
     ) as f:
@@ -76,7 +76,7 @@ def write_index(results: list[EvidenceSeekerResult]):
 def load_results():
     results = []
     for p in glob.glob(
-        pathname="**/request_*.yaml", root_dir="./data/", recursive=True
+        pathname="**/*.yaml", root_dir="./data/", recursive=True
     ):
         results.append(EvidenceSeekerResult.from_logfile("./data/" + p))
     return results

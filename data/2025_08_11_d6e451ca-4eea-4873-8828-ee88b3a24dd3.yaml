@@ -1,0 +1,1195 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document:
+    135b44d2-4e73-4b04-b81c-385f521586e1: -5.66715218500664e-14
+    611dc2a5-8b35-44ba-9971-58b65c43ea23: -1.461780827789912e-31
+    a28c375e-0930-435d-aa44-68f46d454be9: -3.823468514872047e-16
+  confirmation_level: &id001 inconclusive_confirmation
+  documents:
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Sexismus
+
+        So gut das Grundgesetz im Meinungskampf aufgestellt ist, so ermüdend wie deutlich
+        sind seine unausgeschöpften Potenziale in Bezug auf die
+
+        Geschlechterverhältnisse, genauer: in Bezug auf Sexismus. '
+      page_label: '3'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "[23] Seitdem wird um die Grenzen dieses Grundrechts gerungen.  Jüngst erklärte\
+      \ das Gericht, dass Politikerinnen in\nsozialen Medien nicht ungebremst beschimpft\
+      \ werden dürfen – auch, weil sich sonst irgendwann niemand mehr engagieren werde.\
+      \  [24] Und schon seit Langem\nist klargestellt, dass Lügen verfassungsrechtlich\
+      \ nicht durch das Recht auf freie Meinungsäußerung geschützt sind; das scheint\
+      \ in „postfaktischen“ Zeiten\nwichtiger denn je.\n Sexismus\nSo gut das Grundgesetz\
+      \ im Meinungskampf aufgestellt ist, so ermüdend wie deutlich sind seine unausgeschöpften\
+      \ Potenziale in Bezug auf die\nGeschlechterverhältnisse, genauer: in Bezug auf\
+      \ Sexismus.  Die Mütter des Grundgesetzes haben darum gekämpft, unterstützt\
+      \ von Postkarten aus dem ganzen\nLand, den Grundsatz der Gleichberechtigung\
+      \ in die Verfassung aufzunehmen.  Sie setzten sich durch: „Frauen und Männer\
+      \ sind gleichberechtigt“, heißt es in\nArtikel 3 Absatz 2 GG.  Dieser Gleichberechtigungsgrundsatz\
+      \ wurde in der Folgezeit engagiert mobilisiert, über die Gerichte und in den\
+      \ Parlamenten. "
+    uid: 135b44d2-4e73-4b04-b81c-385f521586e1
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Rassismus und Migration
+
+        Sexismus ist nicht die einzige Ungleichheit, die uns weiter beschäftigen sollte. '
+      page_label: '4'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Die Verfassung hat ausdrücklich das Potenzial, hier für Verbesserungen\
+      \ zu sorgen.  Artikel 3 Absatz 2 GG verspricht seit 1994 „die\ntatsächliche\
+      \ Durchsetzung der Gleichberechtigung von Männern und Frauen“ und die „Beseitigung\
+      \ aller Nachteile“.  Die UN-Konvention zur Beseitigung jeder\nForm von Diskriminierung\
+      \ der Frau (CEDAW) sowie die Istanbul-Konvention des Europarates sind hingegen\
+      \ noch allzu oft schlafende Schönheiten, deren\nPotenziale noch auszuschöpfen\
+      \ sind.\n Rassismus und Migration\nSexismus ist nicht die einzige Ungleichheit,\
+      \ die uns weiter beschäftigen sollte.  In den vergangenen Jahren sind zum Beispiel\
+      \ auch die durch Rassismus\nhervorgerufenen Ungleichheiten stärker ins Bewusstsein\
+      \ getreten.  Ausdrücklich untersagt Artikel 3 Absatz 3 Satz 1 des Grundgesetzes\
+      \ seit 1948, eine Person\nwegen ihrer „Rasse“ zu benachteiligen oder zu bevorzugen.\
+      \  Zudem wendet sich die Menschenwürdegarantie nach Artikel 1 Absatz 1 GG als\
+      \ „oberster und\nzentraler Wert der Verfassung“[28] gegen diese Ungleichheit. "
+    uid: a28c375e-0930-435d-aa44-68f46d454be9
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Akteure
+
+        Institutionen sind die Orte, an denen Verfassungspotenziale ausgeschöpft werden
+        können, Verfahren sind die Wege, dies zu erreichen. '
+      page_label: '2'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Jeder Versuch etwa, Artikel 93 Absatz 1 Nr.  4a des Grundgesetzes,\ndie\
+      \ Paragrafen 90ff.  des Bundesverfassungsgerichtsgesetzes (BVerfGG) und die\
+      \ Zuständigkeiten des Bundesverfassungsgerichts zu ändern – und solche Ideen\n\
+      kursieren –, sollte mit größter Aufmerksamkeit begleitet werden.\n Akteure\n\
+      Institutionen sind die Orte, an denen Verfassungspotenziale ausgeschöpft werden\
+      \ können, Verfahren sind die Wege, dies zu erreichen.  Aber sie müssen auch\n\
+      beschritten werden.  Mit der Aufgabe, den Text mit Bedeutung zu füllen und zu\
+      \ schützen, ihn zu aktivieren und zu verteidigen, sind viele betraut.  Zwar\
+      \ gibt es\ntatsächlich keine „offene Gesellschaft der Verfassungsinterpreten“. "
+    uid: 611dc2a5-8b35-44ba-9971-58b65c43ea23
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Keine Frauen in Deutschland arbeiten in Teilzeit.
+  statement_type: &id003 descriptive
+  text: Viele Frauen in Deutschland arbeiten in Teilzeit.
+  uid: a358413a-1c6d-49b9-8b58-5854369665c0
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: -0.9997223065489129
+  confirmation_by_document:
+    2406578d-3051-45ea-a370-64d2d89bacc8: -0.9994446544973027
+    39fd3f95-bba7-4a3e-85fb-d58d15d67709: 4.028374469088677e-15
+    60292cdd-4424-40ba-8638-e71f8684e2c0: -0.9999999586005233
+  confirmation_level: strongly_disconfirmed
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher
+        Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische
+        Option
+
+        zu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung
+        eine solche Maßnahme letztlich überflüssig machen könnte.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Diese\nstand wahrlich vor dem Problem, als Republik ohne Republikaner,\
+      \ als Demokratie ohne Demokraten nicht ausreichend Verfassungspatrioten und\
+      \ damit\nentschlossene Verteidiger der rechtsstaatlichen Ordnung in ihren Reihen\
+      \ zu wissen, nicht einmal innerhalb ihrer Institutionen.  Die Großdemonstrationen\
+      \ Anfang\n2024 sind darum mehr als eine moralisch bequeme Selbstvergewisserung.\
+      \  Sie sind als praktiziertes zivilgesellschaftliches Engagement ein Zeichen\
+      \ für\nbürgerschaftlichen Zusammenhalt und demokratische Wehrhaftigkeit in einem\
+      \ Stadium, in dem die politische Kultur und staatliche Institutionen Stärkung\n\
+      benötigen.  Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher\
+      \ Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische\
+      \ Option\nzu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung\
+      \ eine solche Maßnahme letztlich überflüssig machen könnte.\n Damit ist es aber\
+      \ nicht getan.  Denn die wachsenden Zweifel an der Problemlösungskompetenz des\
+      \ politischen Systems sowie die abnehmende Akzeptanz der\nDemokratie signalisieren\
+      \ ein Kommunikationsdefizit beziehungsweise eine Entfremdung zwischen Bürgerinnen\
+      \ und Bürgern und demokratischem Staat.  Es ist\ndeswegen wenig zielführend,\
+      \ sich allein auf die Bekämpfung der Demokratiegegner zu kaprizieren, sondern\
+      \ wichtiger, Krisenfelder und politische Verwerfungen\nals Ergebnisse von (immerhin\
+      \ korrigierbaren) politischen Versäumnissen zu begreifen. "
+    uid: 60292cdd-4424-40ba-8638-e71f8684e2c0
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die Demokratie ist auch deswegen eine „gefährdete Lebensform“,
+        [21] weil sich ihre Krisensymptome keineswegs immer auf offensichtlich rationale
+        institutionelle
+
+        Gründe oder objektive sozioökonomische Missstände zurückführen lassen. '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Denn die wachsenden Zweifel an der Problemlösungskompetenz des politischen\
+      \ Systems sowie die abnehmende Akzeptanz der\nDemokratie signalisieren ein Kommunikationsdefizit\
+      \ beziehungsweise eine Entfremdung zwischen Bürgerinnen und Bürgern und demokratischem\
+      \ Staat.  Es ist\ndeswegen wenig zielführend, sich allein auf die Bekämpfung\
+      \ der Demokratiegegner zu kaprizieren, sondern wichtiger, Krisenfelder und politische\
+      \ Verwerfungen\nals Ergebnisse von (immerhin korrigierbaren) politischen Versäumnissen\
+      \ zu begreifen.  Zur Stabilisierung der Demokratie gehört eine Aktivierung demokratischer\n\
+      Selbstkritik, die bedrohliche Symptome wie soziale Spaltung, Rechtspopulismus\
+      \ und Nationalismus, Xenophobie, Antisemitismus und Antiliberalismus auf\nUrsachen\
+      \ zurückführt, anstatt wohlfeile Feinderklärungen vorzunehmen.\n Die Demokratie\
+      \ ist auch deswegen eine „gefährdete Lebensform“, [21] weil sich ihre Krisensymptome\
+      \ keineswegs immer auf offensichtlich rationale institutionelle\nGründe oder\
+      \ objektive sozioökonomische Missstände zurückführen lassen.  Diffuse Ängste\
+      \ und Ressentiments treten dann auf, wenn die Demokratie nicht mehr\nhinreichend\
+      \ in der Lage ist, eine Perspektive der Hoffnung und Verbesserung zu bieten,\
+      \ die mit dem Gemeinwohl und dem grundsätzlichen Ziel einer\n„Gesellschaft der\
+      \ Gleichen“ verbunden bleibt.  [22] Die Pflege des öffentlichen Raumes in Kommunen\
+      \ und Städten, der Zugang zur Bildung, die Gewährung von\nLebenschancen, die\
+      \ Bereitstellung einer funktionierenden Infrastruktur, die Sorge um die ökologischen\
+      \ Grundlagen – dies alles bleibt Gegenstand fortwährender\nDemokratisierungsprozesse.\
+      \  Insofern ist eine politische Thematisierung des Gemeinsamen eine weitaus\
+      \ wirksamere präventive Strategie zur demokratischen\nWehrhaftigkeit als die\
+      \ einseitige Fixierung auf den Kampf gegen die Feinde der Demokratie.\n"
+    uid: 39fd3f95-bba7-4a3e-85fb-d58d15d67709
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Dieser Befund trifft mittlerweile
+
+        europaweit zu, und der Verdacht liegt nahe, dass die Beschwörung einer selbstbewussten
+        und verteidigungsbereiten Demokratie proportional zur Notlage an
+
+        Lautstärke zunimmt. '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Politiker fordern sie ein, der öffentlich-rechtliche\nRundfunk ruft sie\
+      \ zum Jahresmotto aus, sie wird zum allgemein geteilten Bekenntnis hunderttausender\
+      \ Demonstranten, die Zeichen gegen einen politischen\nRechtsruck setzen wollen.\
+      \  Demokratische Wehrhaftigkeit scheint zum Heils- und Hoffnungsversprechen\
+      \ in einer Zeit der Krisenstimmung geworden zu sein,\nwelche die westlichen\
+      \ Demokratien spätestens seit dem Jahr 2016 erfasst hat, als das Brexit-Referendum\
+      \ und die Wahl Donald Trumps zum US-Präsidenten eine\nErschütterung des liberalen\
+      \ Selbstverständnisses verursachten, von dem sich Europa bis heute nicht erholt\
+      \ hat.  Im Gegenteil: Der Aufschwung des\nRechtspopulismus hat sich seither\
+      \ fortgesetzt, und die politischen Rezepte zu seiner Bekämpfung bleiben weiterhin\
+      \ Mangelware.  Dieser Befund trifft mittlerweile\neuropaweit zu, und der Verdacht\
+      \ liegt nahe, dass die Beschwörung einer selbstbewussten und verteidigungsbereiten\
+      \ Demokratie proportional zur Notlage an\nLautstärke zunimmt.  War sie früher\
+      \ nur der Gegenstand von Sonntagsreden, ist nun Vorsicht geboten, dass sich\
+      \ die Dauerpräsenz des Appells an alle\nDemokraten, sich ihrer Gegner zu erwehren,\
+      \ nicht abnutzt oder zur Ausstellung der Hilflosigkeit wird.\n Krise allenthalben\n\
+      Unleugbar scheint die Einsicht, dass die demokratische Ordnung fragiler und\
+      \ unsicherer wirkt als lange Zeit gedacht.  [1] Dabei hat sich das Verhältnis\
+      \ umgekehrt:\nWährend früher die Zivilgesellschaft einen Missbrauch des Staats-\
+      \ und Verfassungsschutzes fürchtete, wenn Notstandsgesetze, Parteienverbote\
+      \ oder\nRadikalenerlass den Verdacht auf sich zogen, restriktiv die Freiheiten\
+      \ einer offenen Gesellschaft zu beschränken und Gesinnungsschnüffelei zu etablieren,\
+      \ so\nhäufen sich mittlerweile die Forderungen, von den verfügbaren Rechtsmitteln\
+      \ endlich konsequent Gebrauch zu machen. "
+    uid: 2406578d-3051-45ea-a370-64d2d89bacc8
+  evidential_uncertainty: 7.709066176340243e-08
+  metadata: {}
+  n_evidence: 2
+  negation: Dieses Problem ist nicht der Wirtschaft zuzurechnen.
+  statement_type: &id002 ascriptive
+  text: Dieses Problem ist der Wirtschaft zugetragen.
+  uid: e41d03a2-4255-4136-aa0a-3f6b65065e28
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    5496645c-576e-4883-89ea-681df2dac443: -2.5072239802502805e-08
+    d7263879-c2cb-4475-81b3-abc082fcb071: 1.8718476118490523e-12
+    f38b5c5a-fd74-479f-8c8e-d0f782df2dfb: -1.958827285669341e-12
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher
+        Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische
+        Option
+
+        zu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung
+        eine solche Maßnahme letztlich überflüssig machen könnte.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Diese\nstand wahrlich vor dem Problem, als Republik ohne Republikaner,\
+      \ als Demokratie ohne Demokraten nicht ausreichend Verfassungspatrioten und\
+      \ damit\nentschlossene Verteidiger der rechtsstaatlichen Ordnung in ihren Reihen\
+      \ zu wissen, nicht einmal innerhalb ihrer Institutionen.  Die Großdemonstrationen\
+      \ Anfang\n2024 sind darum mehr als eine moralisch bequeme Selbstvergewisserung.\
+      \  Sie sind als praktiziertes zivilgesellschaftliches Engagement ein Zeichen\
+      \ für\nbürgerschaftlichen Zusammenhalt und demokratische Wehrhaftigkeit in einem\
+      \ Stadium, in dem die politische Kultur und staatliche Institutionen Stärkung\n\
+      benötigen.  Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher\
+      \ Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische\
+      \ Option\nzu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung\
+      \ eine solche Maßnahme letztlich überflüssig machen könnte.\n Damit ist es aber\
+      \ nicht getan.  Denn die wachsenden Zweifel an der Problemlösungskompetenz des\
+      \ politischen Systems sowie die abnehmende Akzeptanz der\nDemokratie signalisieren\
+      \ ein Kommunikationsdefizit beziehungsweise eine Entfremdung zwischen Bürgerinnen\
+      \ und Bürgern und demokratischem Staat.  Es ist\ndeswegen wenig zielführend,\
+      \ sich allein auf die Bekämpfung der Demokratiegegner zu kaprizieren, sondern\
+      \ wichtiger, Krisenfelder und politische Verwerfungen\nals Ergebnisse von (immerhin\
+      \ korrigierbaren) politischen Versäumnissen zu begreifen. "
+    uid: 5496645c-576e-4883-89ea-681df2dac443
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Um es anders zu
+
+        formulieren: Systemgegner treten in dem Moment auf den Plan, in dem bestimmte
+        Probleme nicht behandelt werden, Bevölkerungsgruppen sich nicht
+
+        repräsentiert fühlen, Zukunftschancen schwinden, soziale Ungleichheit, Abstiegsängste
+        und Unzufriedenheit wachsen. '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Denn die Demokratie ist immer Ergebnis –\nund manchmal auch Opfer – der\
+      \ mit ihr verbundenen Erwartungen und Hoffnungen, aber auch der versäumten Chancen,\
+      \ ungelösten Konflikte und entstandenen\ngesellschaftlichen Verwerfungen.  Deshalb\
+      \ hängt die Frage, wie stabil, resilient oder wehrhaft die Demokratie ist, stets\
+      \ damit zusammen, inwiefern sie in der Lage\nist, sich neuen Herausforderungen\
+      \ anzupassen, entwicklungsfähig zu bleiben und vor allem erfolgreich die soziale\
+      \ Kohäsion und Integration ihrer Bürger zu\nbewerkstelligen.\n Eben weil die\
+      \ Demokratie stetem Wandel unterworfen bleibt und im Sinne des frühen bundesrepublikanischen\
+      \ Demokratieerziehers Dolf Sternberger eine\n„lebende Verfassung“ ist, [3] können\
+      \ Selbstbehauptung, Funktionsfähigkeit und Performanz nur schwer voneinander\
+      \ getrennt werden.  Um es anders zu\nformulieren: Systemgegner treten in dem\
+      \ Moment auf den Plan, in dem bestimmte Probleme nicht behandelt werden, Bevölkerungsgruppen\
+      \ sich nicht\nrepräsentiert fühlen, Zukunftschancen schwinden, soziale Ungleichheit,\
+      \ Abstiegsängste und Unzufriedenheit wachsen.  Insofern liegt die Vermutung\
+      \ nahe, dass\nWehrhafte Demokratie\nVom Wesen und Wert eines schillernden Konzepts\n\
+      23.02.2024 / 16 Minuten zu lesen\nJens Hacke\nOb liberale Demokratien durch\
+      \ Maßnahmen der wehrhaften Demokratie erfolgreich gegen ihre Feinde\nverteidigt\
+      \ werden können, ist eine offene Frage.  Wichtiger scheint eine Konzentration\
+      \ auf die politische\nKultur und die Ursachen demokratischer Entfremdung.\n\
+      \ Wehrhafte Demokratie | In guter Verfassung? "
+    uid: d7263879-c2cb-4475-81b3-abc082fcb071
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch selbst wenn man in Betracht zieht, dass die
+
+        Demokratie die einzige Staatsform ist, welche die oppositionelle Infragestellung
+        der Regierung institutionalisiert hat und die Kritik – und damit häufig auch
+        die
+
+        Suggestion einer Krise in Permanenz – zu ihrem Wesensmerkmal zählt, hat die
+        Sorge um die Zukunftsfähigkeit der Demokratie doch eine neue Qualität erreicht.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht nur wird das Parteienverbot mit\nBlick auf die AfD, die in einigen\
+      \ Landesverbänden nach Auskunft des Verfassungsschutzes als „gesichert rechtsextremistisch“\
+      \ gilt, in der Öffentlichkeit\nparteiübergreifend gefordert, auch die Einschränkung\
+      \ der Grundrechte von einigen ihrer führenden Köpfe steht zur Diskussion.  Und\
+      \ mit Blick auf die Maßnahmen,\ndie in Polen und Ungarn einen schleichenden\
+      \ institutionellen Umbau in Richtung „illiberaler Demokratie“ begleiteten, sind\
+      \ jüngsthin Rufe lauter geworden, die\nWahl der Bundesverfassungsrichter an\
+      \ eine im Grundgesetz verankerte Zweidrittelmehrheit zu binden, um sie präventiv\
+      \ vor einem Zugriff der AfD zu schützen.\n Sicherlich lässt sich die Dramatik\
+      \ der Krisendiagnostik im deutschen Fall relativieren, sobald man den Wandel\
+      \ der Parteiensysteme und die Stärke\nrechtspopulistischer Kräfte in Nachbarländern\
+      \ wie Österreich, den Niederlanden oder Frankreich betrachtet.  Doch selbst\
+      \ wenn man in Betracht zieht, dass die\nDemokratie die einzige Staatsform ist,\
+      \ welche die oppositionelle Infragestellung der Regierung institutionalisiert\
+      \ hat und die Kritik – und damit häufig auch die\nSuggestion einer Krise in\
+      \ Permanenz – zu ihrem Wesensmerkmal zählt, hat die Sorge um die Zukunftsfähigkeit\
+      \ der Demokratie doch eine neue Qualität erreicht.\n Die Fortschrittsgewissheit\
+      \ früherer Jahre, als die parlamentarische Demokratie zum Nonplusultra westlicher\
+      \ Regierungskunst erklärt wurde, ist nachhaltig\nerschüttert.  Nicht mehr die\
+      \ Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“, [2] stehen\
+      \ auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre Lage allerdings\
+      \ einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben, griffe\
+      \ zu kurz. "
+    uid: f38b5c5a-fd74-479f-8c8e-d0f782df2dfb
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Dieses Problem ist nicht der Gesellschaft zugetragen.
+  statement_type: *id002
+  text: Dieses Problem ist der Gesellschaft zugetragen.
+  uid: 529c5f83-d848-4a00-b661-ff47fcbaaa1f
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    2cb194e4-2b06-4b09-93fd-ae9743282ee7: -2.2897344207567386e-11
+    8fd334bd-235a-47bb-a9cb-0ecce8b86440: 5.381798246938097e-11
+    a0f7fb40-e74f-403f-99b0-62c2bd8a082b: 1.6903551110869473e-10
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Sexismus
+
+        So gut das Grundgesetz im Meinungskampf aufgestellt ist, so ermüdend wie deutlich
+        sind seine unausgeschöpften Potenziale in Bezug auf die
+
+        Geschlechterverhältnisse, genauer: in Bezug auf Sexismus. '
+      page_label: '3'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "[23] Seitdem wird um die Grenzen dieses Grundrechts gerungen.  Jüngst erklärte\
+      \ das Gericht, dass Politikerinnen in\nsozialen Medien nicht ungebremst beschimpft\
+      \ werden dürfen – auch, weil sich sonst irgendwann niemand mehr engagieren werde.\
+      \  [24] Und schon seit Langem\nist klargestellt, dass Lügen verfassungsrechtlich\
+      \ nicht durch das Recht auf freie Meinungsäußerung geschützt sind; das scheint\
+      \ in „postfaktischen“ Zeiten\nwichtiger denn je.\n Sexismus\nSo gut das Grundgesetz\
+      \ im Meinungskampf aufgestellt ist, so ermüdend wie deutlich sind seine unausgeschöpften\
+      \ Potenziale in Bezug auf die\nGeschlechterverhältnisse, genauer: in Bezug auf\
+      \ Sexismus.  Die Mütter des Grundgesetzes haben darum gekämpft, unterstützt\
+      \ von Postkarten aus dem ganzen\nLand, den Grundsatz der Gleichberechtigung\
+      \ in die Verfassung aufzunehmen.  Sie setzten sich durch: „Frauen und Männer\
+      \ sind gleichberechtigt“, heißt es in\nArtikel 3 Absatz 2 GG.  Dieser Gleichberechtigungsgrundsatz\
+      \ wurde in der Folgezeit engagiert mobilisiert, über die Gerichte und in den\
+      \ Parlamenten. "
+    uid: 2cb194e4-2b06-4b09-93fd-ae9743282ee7
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Rassismus und Migration
+
+        Sexismus ist nicht die einzige Ungleichheit, die uns weiter beschäftigen sollte. '
+      page_label: '4'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Die Verfassung hat ausdrücklich das Potenzial, hier für Verbesserungen\
+      \ zu sorgen.  Artikel 3 Absatz 2 GG verspricht seit 1994 „die\ntatsächliche\
+      \ Durchsetzung der Gleichberechtigung von Männern und Frauen“ und die „Beseitigung\
+      \ aller Nachteile“.  Die UN-Konvention zur Beseitigung jeder\nForm von Diskriminierung\
+      \ der Frau (CEDAW) sowie die Istanbul-Konvention des Europarates sind hingegen\
+      \ noch allzu oft schlafende Schönheiten, deren\nPotenziale noch auszuschöpfen\
+      \ sind.\n Rassismus und Migration\nSexismus ist nicht die einzige Ungleichheit,\
+      \ die uns weiter beschäftigen sollte.  In den vergangenen Jahren sind zum Beispiel\
+      \ auch die durch Rassismus\nhervorgerufenen Ungleichheiten stärker ins Bewusstsein\
+      \ getreten.  Ausdrücklich untersagt Artikel 3 Absatz 3 Satz 1 des Grundgesetzes\
+      \ seit 1948, eine Person\nwegen ihrer „Rasse“ zu benachteiligen oder zu bevorzugen.\
+      \  Zudem wendet sich die Menschenwürdegarantie nach Artikel 1 Absatz 1 GG als\
+      \ „oberster und\nzentraler Wert der Verfassung“[28] gegen diese Ungleichheit. "
+    uid: a0f7fb40-e74f-403f-99b0-62c2bd8a082b
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Wenn also nach der Beendigung oder gar dem Verbot der
+
+        Genderforschung, der Critical Race Theory oder der Holocaust Studies gerufen
+        wird, geht es letztlich um die Demokratie insgesamt. '
+      page_label: '2'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Wir benötigen Plattformen, die nicht Hetze beschleunigen, sondern Debatten\
+      \ ermöglichen.  Hinzu\nkommt eine freie Wissenschaft.  Auch sie wird nicht zufällig\
+      \ von Autokraten attackiert.  Wenn also nach der Beendigung oder gar dem Verbot\
+      \ der\nGenderforschung, der Critical Race Theory oder der Holocaust Studies\
+      \ gerufen wird, geht es letztlich um die Demokratie insgesamt.  Auch während\
+      \ der Corona-\nPandemie und angesichts der Klimakrise wurde beziehungsweise\
+      \ wird Forschung ebenso denunziert wie instrumentalisiert, mit gravierenden,\
+      \ tragischen und\nteilweise tödlichen Folgen.  [7] Eine wirklich freie, kreative,\
+      \ kritische und damit produktive Wissenschaft wird gebraucht.\n Verfahren\n\
+      Neben dem Text einer Verfassung und den Institutionen, die ihn durchsetzen oder\
+      \ verwirklichen sollen, stehen die Verfahren, in denen und durch die eine\n\
+      Verfassung „mobilisiert“ werden kann. "
+    uid: 8fd334bd-235a-47bb-a9cb-0ecce8b86440
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Anzahl der Frauen in Teilzeitbeschäftigung in Deutschland ist niedriger
+    als die Anzahl der Männer in Teilzeitbeschäftigung.
+  statement_type: *id003
+  text: Die Anzahl der Frauen in Teilzeitbeschäftigung in Deutschland ist höher als
+    die Anzahl der Männer in Teilzeitbeschäftigung.
+  uid: c8d446ff-79fa-4c89-8b5c-0af57e614386
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    00510b62-8e0d-4230-9931-f6806598e991: -1.3885118103610032e-11
+    215861dd-2252-4b04-9a59-a310eccdb13e: 1.1191121739207728e-12
+    45514161-02ec-4f0a-b728-bc22137bce0d: -4.139937544255198e-08
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die auch in
+
+        Deutschland mittlerweile häufiger praktizierte strategische Prozessführung
+        gab es zwar immer schon – wenn auch primär partikular seitens der Wirtschaft
+        –, nun
+
+        wird aber auch für Gemeinwohlanliegen prozessiert. '
+      page_label: '2'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: '[8] Doch ist das Grundgesetz darauf angelegt, dass möglichst viele an der
+      Aktivierung der
+
+      verfassungsrechtlichen Potenziale teilhaben.  Dazu gehören neben professionell-sprachmächtigen
+      Juristen und Juristinnen auch die Bürgerinnen und Bürger
+
+      selbst, einzeln oder gemeinsam engagiert, sowie Verantwortliche in Politik,
+      Wirtschaft, Medien und Wissenschaft.  Sie alle können vor Gericht ziehen.  Die
+      auch in
+
+      Deutschland mittlerweile häufiger praktizierte strategische Prozessführung gab
+      es zwar immer schon – wenn auch primär partikular seitens der Wirtschaft –,
+      nun
+
+      wird aber auch für Gemeinwohlanliegen prozessiert.  Das ist gelebte Verfassungskultur!  Da
+      wird nicht etwa „die Justiz funktionalisiert“, sondern vor Gerichten
+
+      lässt sich klären, was für alle akzeptabel und was nicht tolerabel ist.  Auch
+      Einzelne stellen in solchen Verfahren nicht selten übergreifende Fragen, die
+      für alle
+
+      relevant sind und auf die sie Antworten verdienen.
+
+      '
+    uid: 45514161-02ec-4f0a-b728-bc22137bce0d
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch es fällt auf, dass beispielsweise Diskriminierungsverbote
+        lange nicht
+
+        mobilisiert wurden und heute sogar auf neue Widerstände stoßen. '
+      page_label: '4'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Verfassungskultur lebt eben nicht vom Text und auch nicht von\nGerichtsentscheidungen\
+      \ allein, sondern vom Verständnis und Willen aller Akteure, Rechte auch zur\
+      \ Geltung zu bringen.\n Verfassungskultur\nDas Grundgesetz ist ein wunderbarer\
+      \ Text.  Dieser soll und kann gelebt werden.  Doch es fällt auf, dass beispielsweise\
+      \ Diskriminierungsverbote lange nicht\nmobilisiert wurden und heute sogar auf\
+      \ neue Widerstände stoßen.  Auch fällt auf, dass beispielsweise das Engagement\
+      \ zum Schutz unserer Umwelt nicht nur\nbegrüßt, sondern immer wieder infrage\
+      \ gestellt wird.  Zugleich häufen sich alarmierende Berichte über rechtspopulistische\
+      \ Hetze gegen Migrantinnen und\nMigranten und das weltweite Wiederaufflammen\
+      \ eines national-ethnischen Patriotismus.  Zugleich soll eine „Leitkultur“ revitalisiert\
+      \ werden, ohne dass die\nideologisch einseitigen, derzeit insbesondere rassistischen\
+      \ Risiken, die damit einhergehen, bewältigt wären. "
+    uid: 215861dd-2252-4b04-9a59-a310eccdb13e
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die komplizierten Fragen einer
+
+        menschenrechtsbasierten Migrationspolitik, aber auch die schwierigen Konflikte
+        im Gesundheitswesen oder am Wohnungsmarkt, in Verwaltung und Polizei oder
+
+        im Arbeitsleben lassen sich angehen, wenn das Potenzial des Grundgesetzes
+        aktiv genutzt wird.
+
+        '
+      page_label: '4'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Gerichte allein werden diesen Herausforderungen trotz deutlicher Worte\
+      \ nicht begegnen können.  [32] Die großen Versprechen der Verfassung, vor\n\
+      Ungleichbehandlungen aller Art zu schützen, benötigen bessere Institutionen\
+      \ und Verfahren sowie aktive Akteure, idealerweise eingebettet in einen\ninternationalen\
+      \ Konsens.  Insbesondere, aber nicht nur der Gesetzgeber ist hier gefordert\
+      \ – national, europäisch und weltweit.  Die komplizierten Fragen einer\nmenschenrechtsbasierten\
+      \ Migrationspolitik, aber auch die schwierigen Konflikte im Gesundheitswesen\
+      \ oder am Wohnungsmarkt, in Verwaltung und Polizei oder\nim Arbeitsleben lassen\
+      \ sich angehen, wenn das Potenzial des Grundgesetzes aktiv genutzt wird.\n Kinderrechte\n\
+      Wie steht es schließlich um das Potenzial des Grundgesetzes, Kinder und ihre\
+      \ Rechte zu berücksichtigen?  Immer wieder wird diskutiert, ob spezifische\n\
+      Kinderrechte in die Verfassung aufgenommen werden sollten.  Bei genauerer Betrachtung\
+      \ ist dies nicht erforderlich. "
+    uid: 00510b62-8e0d-4230-9931-f6806598e991
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Arbeitszeit in Deutschland ist tendenziell länger als in anderen Ländern.
+  statement_type: *id003
+  text: Die Arbeitszeit in Deutschland ist tendenziell kürzer als in anderen Ländern.
+  uid: 4d4724ef-5b24-40a7-99bc-5f015135ecb7
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    07254850-c422-405b-b82d-41c5bc0924ff: 5.393914833669599e-17
+    4c72c2d1-fb4d-4b46-80e3-2ef9ad8d38bb: 9.075047240099064e-14
+    4f3adb28-b95a-401c-9e1e-deddccdc768f: -3.8147672684317783e-16
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Sexismus
+
+        So gut das Grundgesetz im Meinungskampf aufgestellt ist, so ermüdend wie deutlich
+        sind seine unausgeschöpften Potenziale in Bezug auf die
+
+        Geschlechterverhältnisse, genauer: in Bezug auf Sexismus. '
+      page_label: '3'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "[23] Seitdem wird um die Grenzen dieses Grundrechts gerungen.  Jüngst erklärte\
+      \ das Gericht, dass Politikerinnen in\nsozialen Medien nicht ungebremst beschimpft\
+      \ werden dürfen – auch, weil sich sonst irgendwann niemand mehr engagieren werde.\
+      \  [24] Und schon seit Langem\nist klargestellt, dass Lügen verfassungsrechtlich\
+      \ nicht durch das Recht auf freie Meinungsäußerung geschützt sind; das scheint\
+      \ in „postfaktischen“ Zeiten\nwichtiger denn je.\n Sexismus\nSo gut das Grundgesetz\
+      \ im Meinungskampf aufgestellt ist, so ermüdend wie deutlich sind seine unausgeschöpften\
+      \ Potenziale in Bezug auf die\nGeschlechterverhältnisse, genauer: in Bezug auf\
+      \ Sexismus.  Die Mütter des Grundgesetzes haben darum gekämpft, unterstützt\
+      \ von Postkarten aus dem ganzen\nLand, den Grundsatz der Gleichberechtigung\
+      \ in die Verfassung aufzunehmen.  Sie setzten sich durch: „Frauen und Männer\
+      \ sind gleichberechtigt“, heißt es in\nArtikel 3 Absatz 2 GG.  Dieser Gleichberechtigungsgrundsatz\
+      \ wurde in der Folgezeit engagiert mobilisiert, über die Gerichte und in den\
+      \ Parlamenten. "
+    uid: 07254850-c422-405b-b82d-41c5bc0924ff
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Rassismus und Migration
+
+        Sexismus ist nicht die einzige Ungleichheit, die uns weiter beschäftigen sollte. '
+      page_label: '4'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Die Verfassung hat ausdrücklich das Potenzial, hier für Verbesserungen\
+      \ zu sorgen.  Artikel 3 Absatz 2 GG verspricht seit 1994 „die\ntatsächliche\
+      \ Durchsetzung der Gleichberechtigung von Männern und Frauen“ und die „Beseitigung\
+      \ aller Nachteile“.  Die UN-Konvention zur Beseitigung jeder\nForm von Diskriminierung\
+      \ der Frau (CEDAW) sowie die Istanbul-Konvention des Europarates sind hingegen\
+      \ noch allzu oft schlafende Schönheiten, deren\nPotenziale noch auszuschöpfen\
+      \ sind.\n Rassismus und Migration\nSexismus ist nicht die einzige Ungleichheit,\
+      \ die uns weiter beschäftigen sollte.  In den vergangenen Jahren sind zum Beispiel\
+      \ auch die durch Rassismus\nhervorgerufenen Ungleichheiten stärker ins Bewusstsein\
+      \ getreten.  Ausdrücklich untersagt Artikel 3 Absatz 3 Satz 1 des Grundgesetzes\
+      \ seit 1948, eine Person\nwegen ihrer „Rasse“ zu benachteiligen oder zu bevorzugen.\
+      \  Zudem wendet sich die Menschenwürdegarantie nach Artikel 1 Absatz 1 GG als\
+      \ „oberster und\nzentraler Wert der Verfassung“[28] gegen diese Ungleichheit. "
+    uid: 4c72c2d1-fb4d-4b46-80e3-2ef9ad8d38bb
+  - metadata:
+      author: Baer, Susanne and Marandi, Nina Alizadeh
+      file_name: baer_verfassungskultur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Wenn also nach der Beendigung oder gar dem Verbot der
+
+        Genderforschung, der Critical Race Theory oder der Holocaust Studies gerufen
+        wird, geht es letztlich um die Demokratie insgesamt. '
+      page_label: '2'
+      title: Verfassungskultur statt {Leitkultur}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545646/verfassungskultur-statt-leitkultur/
+      year: '2024'
+    text: "Wir benötigen Plattformen, die nicht Hetze beschleunigen, sondern Debatten\
+      \ ermöglichen.  Hinzu\nkommt eine freie Wissenschaft.  Auch sie wird nicht zufällig\
+      \ von Autokraten attackiert.  Wenn also nach der Beendigung oder gar dem Verbot\
+      \ der\nGenderforschung, der Critical Race Theory oder der Holocaust Studies\
+      \ gerufen wird, geht es letztlich um die Demokratie insgesamt.  Auch während\
+      \ der Corona-\nPandemie und angesichts der Klimakrise wurde beziehungsweise\
+      \ wird Forschung ebenso denunziert wie instrumentalisiert, mit gravierenden,\
+      \ tragischen und\nteilweise tödlichen Folgen.  [7] Eine wirklich freie, kreative,\
+      \ kritische und damit produktive Wissenschaft wird gebraucht.\n Verfahren\n\
+      Neben dem Text einer Verfassung und den Institutionen, die ihn durchsetzen oder\
+      \ verwirklichen sollen, stehen die Verfahren, in denen und durch die eine\n\
+      Verfassung „mobilisiert“ werden kann. "
+    uid: 4f3adb28-b95a-401c-9e1e-deddccdc768f
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Teilzeitbeschäftigung unter Frauen in Deutschland ist niedriger als
+    die Teilzeitbeschäftigung unter Männern in Deutschland.
+  statement_type: *id003
+  text: Die Teilzeitbeschäftigung unter Frauen in Deutschland ist höher als die Teilzeitbeschäftigung
+    unter Männern in Deutschland.
+  uid: fda85319-a165-422f-aa4a-f5043f9f4a4e
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    0a1566b9-d203-4100-81e2-447d5e6f90fc: -4.193753174835089e-13
+    274e5db4-c62d-46af-8cc7-aa55c7ef9d96: -1.026187947397321e-10
+    81f6576f-4ea7-404d-a9d2-bec2fbdafd96: -2.7894617869733415e-10
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch selbst wenn man in Betracht zieht, dass die
+
+        Demokratie die einzige Staatsform ist, welche die oppositionelle Infragestellung
+        der Regierung institutionalisiert hat und die Kritik – und damit häufig auch
+        die
+
+        Suggestion einer Krise in Permanenz – zu ihrem Wesensmerkmal zählt, hat die
+        Sorge um die Zukunftsfähigkeit der Demokratie doch eine neue Qualität erreicht.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht nur wird das Parteienverbot mit\nBlick auf die AfD, die in einigen\
+      \ Landesverbänden nach Auskunft des Verfassungsschutzes als „gesichert rechtsextremistisch“\
+      \ gilt, in der Öffentlichkeit\nparteiübergreifend gefordert, auch die Einschränkung\
+      \ der Grundrechte von einigen ihrer führenden Köpfe steht zur Diskussion.  Und\
+      \ mit Blick auf die Maßnahmen,\ndie in Polen und Ungarn einen schleichenden\
+      \ institutionellen Umbau in Richtung „illiberaler Demokratie“ begleiteten, sind\
+      \ jüngsthin Rufe lauter geworden, die\nWahl der Bundesverfassungsrichter an\
+      \ eine im Grundgesetz verankerte Zweidrittelmehrheit zu binden, um sie präventiv\
+      \ vor einem Zugriff der AfD zu schützen.\n Sicherlich lässt sich die Dramatik\
+      \ der Krisendiagnostik im deutschen Fall relativieren, sobald man den Wandel\
+      \ der Parteiensysteme und die Stärke\nrechtspopulistischer Kräfte in Nachbarländern\
+      \ wie Österreich, den Niederlanden oder Frankreich betrachtet.  Doch selbst\
+      \ wenn man in Betracht zieht, dass die\nDemokratie die einzige Staatsform ist,\
+      \ welche die oppositionelle Infragestellung der Regierung institutionalisiert\
+      \ hat und die Kritik – und damit häufig auch die\nSuggestion einer Krise in\
+      \ Permanenz – zu ihrem Wesensmerkmal zählt, hat die Sorge um die Zukunftsfähigkeit\
+      \ der Demokratie doch eine neue Qualität erreicht.\n Die Fortschrittsgewissheit\
+      \ früherer Jahre, als die parlamentarische Demokratie zum Nonplusultra westlicher\
+      \ Regierungskunst erklärt wurde, ist nachhaltig\nerschüttert.  Nicht mehr die\
+      \ Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“, [2] stehen\
+      \ auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre Lage allerdings\
+      \ einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben, griffe\
+      \ zu kurz. "
+    uid: 0a1566b9-d203-4100-81e2-447d5e6f90fc
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die juridische Fixierung solcher Handlungsoptionen erweist sich
+        in beiden Fällen als nahezu unmöglich,
+
+        denn der demokratische Zweck, welcher der Anwendung zugrunde liegen soll,
+        kann schwerlich allein durch die Buchstaben der Verfassung gesichert werden.
+
+        '
+      page_label: '3'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Ausgerechnet der formalistische und rechtspositivistische Hans Kelsen erinnert\
+      \ die Staatsrechtler und Politikwissenschaftler daran, dass Verfassungen den\n\
+      Gegebenheiten der sozialen und politischen Wirklichkeit in unvorhersehbarer\
+      \ Weise ausgeliefert bleiben müssen.\n In gewisser Weise zeigt die Aufgabe,\
+      \ das Konzept einer „wehrhaften Demokratie“ festzuzurren, eine Strukturanalogie\
+      \ zu anderen Paradoxa der\nDemokratietheorie, wie dem Widerstandsrecht und dem\
+      \ „zivilen Ungehorsam“.  Während das Widerstandsrecht als Notwehr der Bürger\
+      \ gegen den\nMachtmissbrauch der Regierenden gilt, kommt dem „zivilen Ungehorsam“\
+      \ die Rolle zu, legitime normative Gründe gegen eine Legalordnung vorzubringen,\
+      \ die\nsich von den Werten der Verfassung zu entfernen droht.  Die juridische\
+      \ Fixierung solcher Handlungsoptionen erweist sich in beiden Fällen als nahezu\
+      \ unmöglich,\ndenn der demokratische Zweck, welcher der Anwendung zugrunde liegen\
+      \ soll, kann schwerlich allein durch die Buchstaben der Verfassung gesichert\
+      \ werden.\n Man kann zwar Regelungen für den Ausnahmefall vorsehen, aber mit\
+      \ dem Ausnahmezustand, der die Aktion rechtfertigen soll, verliert man den festen\
+      \ Boden\nprozeduralen Handelns unter den Füßen.  Die normative Legitimität steht\
+      \ damit gegen die legislative und exekutive Legalität.  Es bleibt – zumal in\
+      \ der Demokratie –\nWehrhafte Demokratie | In guter Verfassung? "
+    uid: 274e5db4-c62d-46af-8cc7-aa55c7ef9d96
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher
+        Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische
+        Option
+
+        zu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung
+        eine solche Maßnahme letztlich überflüssig machen könnte.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Diese\nstand wahrlich vor dem Problem, als Republik ohne Republikaner,\
+      \ als Demokratie ohne Demokraten nicht ausreichend Verfassungspatrioten und\
+      \ damit\nentschlossene Verteidiger der rechtsstaatlichen Ordnung in ihren Reihen\
+      \ zu wissen, nicht einmal innerhalb ihrer Institutionen.  Die Großdemonstrationen\
+      \ Anfang\n2024 sind darum mehr als eine moralisch bequeme Selbstvergewisserung.\
+      \  Sie sind als praktiziertes zivilgesellschaftliches Engagement ein Zeichen\
+      \ für\nbürgerschaftlichen Zusammenhalt und demokratische Wehrhaftigkeit in einem\
+      \ Stadium, in dem die politische Kultur und staatliche Institutionen Stärkung\n\
+      benötigen.  Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher\
+      \ Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische\
+      \ Option\nzu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung\
+      \ eine solche Maßnahme letztlich überflüssig machen könnte.\n Damit ist es aber\
+      \ nicht getan.  Denn die wachsenden Zweifel an der Problemlösungskompetenz des\
+      \ politischen Systems sowie die abnehmende Akzeptanz der\nDemokratie signalisieren\
+      \ ein Kommunikationsdefizit beziehungsweise eine Entfremdung zwischen Bürgerinnen\
+      \ und Bürgern und demokratischem Staat.  Es ist\ndeswegen wenig zielführend,\
+      \ sich allein auf die Bekämpfung der Demokratiegegner zu kaprizieren, sondern\
+      \ wichtiger, Krisenfelder und politische Verwerfungen\nals Ergebnisse von (immerhin\
+      \ korrigierbaren) politischen Versäumnissen zu begreifen. "
+    uid: 81f6576f-4ea7-404d-a9d2-bec2fbdafd96
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Dieses Problem liegt nicht bei der Regierung.
+  statement_type: *id002
+  text: Dieses Problem ist der Regierung zugetragen.
+  uid: 90650928-a8d6-4a14-ad9b-35c7ab758b70
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es ist für Deutschland nicht wichtig, dass viele Frauen in Teilzeit arbeiten.
+  statement_type: &id004 normative
+  text: Es ist für Deutschland wichtig, dass viele Frauen in Teilzeit arbeiten.
+  uid: a85edfb5-0bbe-462c-8088-8dff896fec91
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es ist wirtschaftlich vorteilhaft für Deutschland, dass viele Frauen in
+    Teilzeit arbeiten.
+  statement_type: *id004
+  text: Es ist wirtschaftlich schädlich für Deutschland, dass viele Frauen in Teilzeit
+    arbeiten.
+  uid: 5acafb8f-d4f0-44bb-b0e8-02892d3d69df
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: ./config/api_keys.txt
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    together.ai:
+      api_key_name: API_TOKEN_LANGUAGE_MODEL
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - A
+        - B
+        - C
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(A|B|C)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 900
+  used_model_key: together.ai
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: ./config/api_keys.txt
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    together.ai:
+      api_key_name: API_TOKEN_LANGUAGE_MODEL
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 900
+  used_model_key: together.ai
+  verbose: false
+request: Es ist für Deutschland wirtschaftlich ein Nachteil, dass viele Frauen in
+  Teilzeit arbeiten.
+retrieval_config:
+  api_key_name: API_TOKEN_EMBEDDING_MODEL
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: ./knowledge_base/data_files
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: ./config/api_keys.txt
+  hub_key_name: null
+  ignore_statement_types:
+  - normative
+  index_hub_path: null
+  index_id: default_index_id
+  index_persist_path: ./embeddings
+  meta_data_file: null
+  top_k: 3
+  window_size: 3
+time: 2025-08-11 15:56:23 UTC
+uid: d6e451ca-4eea-4873-8828-ee88b3a24dd3

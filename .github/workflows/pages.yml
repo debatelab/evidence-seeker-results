@@ -2,37 +2,20 @@ name: Build GitHub Pages
 on:
   schedule:
     - cron: "0 2 * * *"
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build:
-    runs-on: ubuntu_latest
+  build-and-deploy:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
       with:
-        python-version: 3.12.10
+        python-version: 3.12
     - run: pip install -r ./requirements.txt
-    - run: mkdocs gh-deploy --config-file ./mkdocs.yml --site-dir ./site --force --message "Re-deploy site"
-  deploy:
-    needs: build
-    runs-on: ubuntu_latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          ref: gh-pages
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: '.'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-        
-          
-    
+    - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force

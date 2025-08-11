@@ -18,6 +18,10 @@ SHOW_DETAILS = True
 
 
 def on_startup(command, dirty):
+    # Create the results directory if it doesn't exist
+    os.makedirs("./docs/results", exist_ok=True)
+
+
     results = load_results()
     for ev_result in results:
         construct_result_site(ev_result=ev_result)
@@ -45,6 +49,7 @@ def construct_result_site(ev_result: EvidenceSeekerResult):
         md_template,
         group_docs_by_sources=True
     )
+
     with open(
         f"./docs/results/{ev_result.uid}.md",
         "w",

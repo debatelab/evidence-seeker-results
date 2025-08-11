@@ -19,3 +19,11 @@ jobs:
         python-version: 3.12
     - run: pip install -r ./requirements.txt
     - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
+    # just to be sure (should be handled already by mkdocs)
+    - name: Ensure .nojekyll exists
+      run: |
+        git checkout gh-pages
+        touch .nojekyll
+        git add .nojekyll
+        git commit -m "Add .nojekyll" || exit 0
+        git push origin gh-pages

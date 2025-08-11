@@ -46,7 +46,7 @@ def construct_result_site(ev_result: EvidenceSeekerResult):
         group_docs_by_sources=True
     )
     with open(
-        f"./docs/results/result_{ev_result.request_uid}.md",
+        f"./docs/results/result_{ev_result.uid}.md",
         "w",
         encoding="utf-8"
     ) as f:
@@ -59,9 +59,9 @@ def write_index(results: list[EvidenceSeekerResult]):
         {
             "statement": res.request,
             "count_claims": res.count_claims(),
-            "time": res.request_time,
+            "time": res.time,
             "feedback": res.feedback["binary"],
-            "request_uid": res.request_uid,
+            "uid": res.uid,
         }
         for res in results
     ]

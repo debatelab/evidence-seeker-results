@@ -10,7 +10,7 @@ permissions:
   id-token: write
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -18,12 +18,20 @@ jobs:
       with:
         python-version: 3.12
     - run: pip install -r ./requirements.txt
-    - run: mkdocs gh-deploy --config-file ./mkdocs.yml --force
-    # just to be sure (should be handled already by mkdocs)
-    - name: Ensure .nojekyll exists
-      run: |
-        git checkout gh-pages
-        touch .nojekyll
-        git add .nojekyll
-        git commit -m "Add .nojekyll" || exit 0
-        git push origin gh-pages
+    - run: mkdocs build --config-file ./mkdocs.yml
+    # Add .nojekyll file to the built site
+    - name: Add .nojekyll file
+      run: touch ./site/.nojekyll
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - uses: actions/deploy-pages@v4
+      id: deployment

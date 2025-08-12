@@ -1,0 +1,1796 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document:
+    0baa9dab-4782-4559-ab36-1767142090b4: -1.2160992992528256e-37
+    64236e4f-f2d2-44fd-abad-4f0205d5e1ba: -3.263003600940627e-32
+    66a3373e-1b57-441e-b77c-70f015fad61a: -6.518067269655453e-36
+    70ff41dd-8c39-4204-bfeb-d3b87bd48219: -2.9756968735933825e-35
+    86bf1b21-ccd3-4298-ab1d-c1410351c3cb: -4.416324916015282e-33
+    a0df8350-c17c-4ca5-b3b4-7e42ccd784e4: 1.3323987162030085e-34
+    ba99d41f-7d77-495e-9f69-f71dc89e464f: -2.1080241244466438e-38
+    da6b808e-95e8-4ac4-82a4-0e98ae4313e8: -7.085073604678378e-40
+    e162b46e-c6fc-4e5c-a64c-96d22ecd324e: -4.471304928771381e-38
+    e612078b-f48d-4847-a53f-46c9fd17111d: -1.2004808012787893e-32
+    e62ff08b-e250-427d-9738-b69c73dcddbc: -3.268977609941584e-37
+    f39a4cc9-4337-4db7-8980-a56c09512d01: 1.481512214312926e-36
+  confirmation_level: &id002 inconclusive_confirmation
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: '[11] Man mag sich fragen, ob dieser Fall je eingetreten ist
+
+        – immerhin vermochten auch die Nationalsozialisten nie, bei regulären Wahlen
+        eine absolute Mehrheit der Stimmen zu erreichen. '
+      page_label: '2'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: 'Kelsen war ein
+
+      aufrechter liberaler Sozialdemokrat, dessen normative und definitorische Askese
+      die Demokratie jedoch auf die Mehrheitsregel beschränkte.  Die Demokratie sei
+
+      „diejenige Staatsform“, so Kelsen, „die sich am wenigsten gegen ihre Gegner
+      wehrt“.  [10] Die Frage, „[o]b die Demokratie sich nicht selbst verteidigen
+      soll, auch
+
+      gegen das Volk, das sie nicht mehr will“, musste Kelsen aus der Konsequenz seiner
+      theoretischen Position verneinen, denn: „Eine Demokratie, die sich gegen den
+
+      Willen der Mehrheit zu behaupten, gar mit Gewalt sich zu behaupten versucht,
+      hat aufgehört, Demokratie zu sein.“ Kelsen wollte sich „nicht in den
+
+      verhängnisvollen Widerspruch verstricken lassen und zur Diktatur greifen, um
+      die Demokratie zu retten“.  [11] Man mag sich fragen, ob dieser Fall je eingetreten
+      ist
+
+      – immerhin vermochten auch die Nationalsozialisten nie, bei regulären Wahlen
+      eine absolute Mehrheit der Stimmen zu erreichen.  Aber Kelsens Verzicht auf
+
+      Abwehrmaßnahmen des Staates markiert die dilemmatische Frage, ob antidemokratische
+      Haltungen und Affekte durch Verbote überhaupt wirksam bekämpft
+
+      werden können.  Das Kind war aus seiner Sicht bereits vorher in den Brunnen
+      gefallen.  Dass Kelsen den wertegeleiteten Einsatz für die Demokratie unbedingt
+
+      befürwortete, allerdings in einer umfassenderen Form, machte er in seiner klassischen
+      Schrift „Vom Wesen und Wert der Demokratie“ (1920/1929) deutlich. '
+    uid: ba99d41f-7d77-495e-9f69-f71dc89e464f
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Dennoch
+
+        hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+        der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+        noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+        für eine Bedrohung der Demokratie halten.'
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: 'Januar fliehen mussten,
+
+      zusammen, um über ein Impeachment gegen den ehemaligen Präsidenten zu beraten,
+      das dann am Widerstand der Republikaner scheiterte.  Der für den Zweck
+
+      dieses parlamentarischen Strafverfahrens von den Anklägern aus dem Repräsentantenhaus
+      erstellte Zusammenschnitt von Filmaufnahmen zirkuliert noch immer
+
+      im Internet.  Er zeigt erschreckende Szenen der Gewaltbereitschaft gegen die
+      Sicherheitskräfte und des Hasses auf die Parlamentarier und ihre Arbeit.  Dennoch
+
+      hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+      der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+      noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+      für eine Bedrohung der Demokratie halten. [22] In den sozialen Medien
+
+      zirkulieren unter den Trump-Anhängern nicht die Bilder des Zusammenschnitts
+      aus dem parlamentarischem Verfahren, sondern Aufnahmen der Teilnehmenden
+
+      selbst, die den Eindruck bestätigen, den die Umfrage belegt: Immer mehr Menschen
+      sind in den USA in diesen Tagen davon überzeugt, dass der Angriff auf das
+
+      Parlament eine legitime Protestaktion war.  Trump fordert seitdem immer lautstarker
+      Gerechtigkeit für die Verurteilten des 6.  Januar, die er als "politische
+
+      Gefangene" bezeichnet.'
+    uid: a0df8350-c17c-4ca5-b3b4-7e42ccd784e4
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: 64236e4f-f2d2-44fd-abad-4f0205d5e1ba
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Maya Tudor, Why India’s Democracy Is Dying, in: Journal of Democracy
+        3/2023, S. '
+      page_label: '6'
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: "Anuj Bhuwania, Courting the People.  Public Interest Litigation in Post-Emergency\
+      \ India, Cambridge 2017.\n [28] Vgl.  Maya Tudor, Why India’s Democracy Is Dying,\
+      \ in: Journal of Democracy 3/2023, S.  121–132.\n [29] Vgl.  ebd., mit Verweis\
+      \ auf Steven Levitsky/Daniel Ziblatt, How Democracies Die. "
+    uid: e62ff08b-e250-427d-9738-b69c73dcddbc
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch selbst wenn man in Betracht zieht, dass die
+
+        Demokratie die einzige Staatsform ist, welche die oppositionelle Infragestellung
+        der Regierung institutionalisiert hat und die Kritik – und damit häufig auch
+        die
+
+        Suggestion einer Krise in Permanenz – zu ihrem Wesensmerkmal zählt, hat die
+        Sorge um die Zukunftsfähigkeit der Demokratie doch eine neue Qualität erreicht.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht nur wird das Parteienverbot mit\nBlick auf die AfD, die in einigen\
+      \ Landesverbänden nach Auskunft des Verfassungsschutzes als „gesichert rechtsextremistisch“\
+      \ gilt, in der Öffentlichkeit\nparteiübergreifend gefordert, auch die Einschränkung\
+      \ der Grundrechte von einigen ihrer führenden Köpfe steht zur Diskussion.  Und\
+      \ mit Blick auf die Maßnahmen,\ndie in Polen und Ungarn einen schleichenden\
+      \ institutionellen Umbau in Richtung „illiberaler Demokratie“ begleiteten, sind\
+      \ jüngsthin Rufe lauter geworden, die\nWahl der Bundesverfassungsrichter an\
+      \ eine im Grundgesetz verankerte Zweidrittelmehrheit zu binden, um sie präventiv\
+      \ vor einem Zugriff der AfD zu schützen.\n Sicherlich lässt sich die Dramatik\
+      \ der Krisendiagnostik im deutschen Fall relativieren, sobald man den Wandel\
+      \ der Parteiensysteme und die Stärke\nrechtspopulistischer Kräfte in Nachbarländern\
+      \ wie Österreich, den Niederlanden oder Frankreich betrachtet.  Doch selbst\
+      \ wenn man in Betracht zieht, dass die\nDemokratie die einzige Staatsform ist,\
+      \ welche die oppositionelle Infragestellung der Regierung institutionalisiert\
+      \ hat und die Kritik – und damit häufig auch die\nSuggestion einer Krise in\
+      \ Permanenz – zu ihrem Wesensmerkmal zählt, hat die Sorge um die Zukunftsfähigkeit\
+      \ der Demokratie doch eine neue Qualität erreicht.\n Die Fortschrittsgewissheit\
+      \ früherer Jahre, als die parlamentarische Demokratie zum Nonplusultra westlicher\
+      \ Regierungskunst erklärt wurde, ist nachhaltig\nerschüttert.  Nicht mehr die\
+      \ Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“, [2] stehen\
+      \ auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre Lage allerdings\
+      \ einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben, griffe\
+      \ zu kurz. "
+    uid: 0baa9dab-4782-4559-ab36-1767142090b4
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Der wichtigste Unterschied besteht allerdings darin, dass die
+        liberale Demokratie seinerzeit noch eine neue Errungenschaft war. '
+      page_label: '3'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "In den 1930er Jahren\nlag der Begriff der Militanz näher; er hatte innenpolitische\
+      \ und außenpolitische Evidenz.  Innenpolitisch, weil es wirklich darum ging,\
+      \ militarisierten\nKampfverbänden der extremistischen Parteien zu begegnen,\
+      \ außenpolitisch, weil die revisionistische Außenpolitik und der kriegerische\
+      \ Expansionswille des\nNationalsozialismus Gegenwehr verlangten.\n Wenn Zeitdiagnostiker,\
+      \ Historiker und Politikwissenschaftler heute den Vergleich zur Zwischenkriegszeit\
+      \ ziehen, [17] liegen einige oberflächliche Ähnlichkeiten\nauf der Hand: die\
+      \ Akzeptanzkrise des Parlamentarismus, das Aufkommen rechtsextremistischer Massenbewegungen\
+      \ und der allgemeine Konjunkturaufschwung\ndes Nationalismus, das Spannungsverhältnis\
+      \ zwischen demokratischen Teilhabeansprüchen und kapitalistischer Wirklichkeit,\
+      \ nicht zuletzt die Unsicherheiten\neines internationalen Systems, dessen Institutionen\
+      \ den Herausforderungen der Migration, der Ökonomie und Ökologie oder der Sicherheitspolitik\
+      \ immer hilfloser\ngegenüberzustehen scheinen.\n Der wichtigste Unterschied\
+      \ besteht allerdings darin, dass die liberale Demokratie seinerzeit noch eine\
+      \ neue Errungenschaft war.  Demokratie war ein\nZukunftsbegriff, an den sich\
+      \ eine Fülle von Erwartungen und Hoffnungen knüpfte, aber mit ihm waren noch\
+      \ kaum Erfahrungen verbunden.  Eigentlich kann man in\nEuropa erst seit 1918\
+      \ davon sprechen, dass die liberale Demokratie mit freiem und gleichem Wahlrecht,\
+      \ repräsentativer parlamentarischer Regierungsform,\nGewaltenteilung und Garantie\
+      \ von Grundrechten Verfassungsgeltung erlangte und zum führenden Modell wurde.\
+      \  Die Frage, wie die Demokratie dauerhaft zu\nsichern und gegen ihre Feinde\
+      \ zu schützen ist, wurde in dem Moment relevant, als sich in der Massendemokratie\
+      \ neue totalitäre Ideologien anschickten, die\nparlamentarische Demokratie zu\
+      \ beseitigen – unter Berufung auf einen vermeintlichen Volks- beziehungsweise\
+      \ Mehrheitswillen.\n"
+    uid: 70ff41dd-8c39-4204-bfeb-d3b87bd48219
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Liberal
+
+        Europe in Retreat, Oxford 2018; David Runciman, How Democracy Ends, London
+        2018.
+
+        '
+      page_label: '5'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Wie der Populismus den Rechtsstaat bedroht, München 2018; Timothy Snyder,\
+      \ The Road to Unfreedom.  Russia, Europe, America, London\n2018; Steven Levitsky/Daniel\
+      \ Ziblatt, Wie Demokratien sterben.  Und was wir dagegen tun können, München\
+      \ 2018; Jan Zielonka, Counter-Revolution.  Liberal\nEurope in Retreat, Oxford\
+      \ 2018; David Runciman, How Democracy Ends, London 2018.\n [18] Joseph Goebbels,\
+      \ Der Angriff.  Aufsätze aus der Kampfzeit, München 1935, S.  61.\n"
+    uid: e612078b-f48d-4847-a53f-46c9fd17111d
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Denn die Demokratie ist immer Ergebnis –
+
+        und manchmal auch Opfer – der mit ihr verbundenen Erwartungen und Hoffnungen,
+        aber auch der versäumten Chancen, ungelösten Konflikte und entstandenen
+
+        gesellschaftlichen Verwerfungen. '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Die Fortschrittsgewissheit früherer Jahre, als die parlamentarische Demokratie\
+      \ zum Nonplusultra westlicher Regierungskunst erklärt wurde, ist nachhaltig\n\
+      erschüttert.  Nicht mehr die Vertiefung und Erweiterung, die „Demokratisierung\
+      \ der Demokratie“, [2] stehen auf der Agenda, sondern es geht um ihr Überleben.\n\
+      \ Ihre prekäre Lage allerdings einzig böswilligen inneren Feinden und äußeren\
+      \ Mächten zuzuschreiben, griffe zu kurz.  Denn die Demokratie ist immer Ergebnis\
+      \ –\nund manchmal auch Opfer – der mit ihr verbundenen Erwartungen und Hoffnungen,\
+      \ aber auch der versäumten Chancen, ungelösten Konflikte und entstandenen\n\
+      gesellschaftlichen Verwerfungen.  Deshalb hängt die Frage, wie stabil, resilient\
+      \ oder wehrhaft die Demokratie ist, stets damit zusammen, inwiefern sie in der\
+      \ Lage\nist, sich neuen Herausforderungen anzupassen, entwicklungsfähig zu bleiben\
+      \ und vor allem erfolgreich die soziale Kohäsion und Integration ihrer Bürger\
+      \ zu\nbewerkstelligen.\n Eben weil die Demokratie stetem Wandel unterworfen\
+      \ bleibt und im Sinne des frühen bundesrepublikanischen Demokratieerziehers\
+      \ Dolf Sternberger eine\n„lebende Verfassung“ ist, [3] können Selbstbehauptung,\
+      \ Funktionsfähigkeit und Performanz nur schwer voneinander getrennt werden.\
+      \  Um es anders zu\nformulieren: Systemgegner treten in dem Moment auf den Plan,\
+      \ in dem bestimmte Probleme nicht behandelt werden, Bevölkerungsgruppen sich\
+      \ nicht\nrepräsentiert fühlen, Zukunftschancen schwinden, soziale Ungleichheit,\
+      \ Abstiegsängste und Unzufriedenheit wachsen. "
+    uid: e162b46e-c6fc-4e5c-a64c-96d22ecd324e
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Nachwirkung
+
+        Während in den USA die Erinnerung an die lauernde Gefahr für die Demokratie,
+        die in diesen Ereignissen ihr Angesicht zeigte, zunehmend schwindet, hat die
+
+        Aufarbeitung in Deutschland mit den Prozessen um die Reichsbürgerverschwörung
+        2024 an Fahrt aufgenommen. '
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  berief man sich in Brasília eine Woche\
+      \ nach der Amtseinführung des neuen\nPräsidenten Luiz Inácio Lula da Silva,\
+      \ als der alte schon nicht mehr im Land war, auf den urdemokratischen Grundsatz,\
+      \ dass die Macht vom Volk ausgeht und\ngegen seinen Willen nicht regiert werden\
+      \ darf.  In allen drei Fällen war das jedoch eine unerhörte Anmaßung, die nur\
+      \ durch Konspirationstheorien oder\nWahlfälschungsvorwürfe autosuggestiv plausibel\
+      \ erscheinen konnte.\n Nachwirkung\nWährend in den USA die Erinnerung an die\
+      \ lauernde Gefahr für die Demokratie, die in diesen Ereignissen ihr Angesicht\
+      \ zeigte, zunehmend schwindet, hat die\nAufarbeitung in Deutschland mit den\
+      \ Prozessen um die Reichsbürgerverschwörung 2024 an Fahrt aufgenommen.  In Brasilien\
+      \ ist sie weit fortgeschritten.\n Präsident Lula da Silva hat den 8.  Januar\
+      \ zum \"Tag der Demokratie\" erklärt, und der brasilianische Museumsverband\
+      \ hat die Errichtung eines Museums der\nDemokratie angekündigt, denn noch ist\
+      \ in diesem Land, wie die Forderungen beim Angriff auf das Parlament gezeigt\
+      \ haben, die Erinnerung an die Zeit der\nMilitärdiktatur (1964–1985) wach und\
+      \ lebendig und ihre Wiederkehr kein so abwegig erscheinender Gedanke wie die\
+      \ Wiederkehr oder Etablierung einer Tyrannei\nin der Bundesrepublik Deutschland\
+      \ und den USA."
+    uid: da6b808e-95e8-4ac4-82a4-0e98ae4313e8
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: 86bf1b21-ccd3-4298-ab1d-c1410351c3cb
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die globalen
+
+        Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+        symbolisch als auch de facto, größer als bei jeder anderen Demokratie. '
+      page_label: '1'
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Krisensymptome in den Vereinigten Staaten
+
+      Die Vereinigten Staaten von Amerika waren lange Zeit die wichtigste und mächtigste
+      Demokratie der Welt.  Ihre Bilanz der Demokratieförderung im Ausland war
+
+      zwar stets gemischt, zudem dauert die Auseinandersetzung mit ihrer eigenen kolonialen
+      und imperialen Geschichte noch an.  Trotzdem waren die USA militärisch,
+
+      wirtschaftlich und symbolisch lange das globale Gegengewicht zu autoritären
+      Mächten: historisch zur Sowjetunion, heute vor allem zu China.  Die globalen
+
+      Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+      symbolisch als auch de facto, größer als bei jeder anderen Demokratie.  [6]
+
+      Krise des globalen Konstitutionalismus
+
+      23.02.2024 / 18 Minuten zu lesen
+
+      James Fowkes
+
+      Michaela Hailbronner
+
+      Der demokratische Verfassungsstaat, der im 20.  Jahrhundert einen nahezu globalen
+      Siegeszug angetreten
+
+      hat, scheint sich weltweit in der Krise zu befinden.  Erfahrungen aus den USA,
+      Brasilien, Indien und
+
+      Südafrika halten auch Einsichten für Europa bereit.
+
+      '
+    uid: f39a4cc9-4337-4db7-8980-a56c09512d01
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Zum Ausdruck gebracht wurde
+
+        damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+        der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+        politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+        Männern zustanden. '
+      page_label: '3'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[19] Trump reagierte umgehend und setzte eine Kommission ein, die die traditionelle
+
+      Bedeutung von 1776, dem Jahr der Unabhängigkeitserklärung, als Gründungsmoment
+      in der Erinnerungskultur der Nation verteidigen sollte.  Entsprechend wurde
+
+      am 6.  Januar 2021 immer wieder "1776 or never" skandiert und Fahnen mit der
+      Aufschrift "1776 2.0" tauchten in der Menge auf.  Zum Ausdruck gebracht wurde
+
+      damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+      der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+      politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+      Männern zustanden.  Vergessen gemacht werden sollten dadurch auch die
+
+      Niederlage der Südstaaten im Bürgerkrieg von 1861 bis 1865 und die sukzessiven
+      Errungenschaften der gleichen Rechte, die darauf folgten.  Auf häufig
+
+      publizierten Fotos des 6.  Januar sieht man, wie ein Mann die Flagge der Konföderierten
+      Staaten von Amerika durch das Parlamentsgebäude trägt. '
+    uid: 66a3373e-1b57-441e-b77c-70f015fad61a
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die durchschnittliche Lebensdauer von Demokratien ist seit 1900 nicht
+    kürzer als die von Autokratien.
+  statement_type: &id001 descriptive
+  text: Die durchschnittliche Lebensdauer von Demokratien ist kürzer als die von Autokratien
+    seit 1900.
+  uid: c607745a-2aca-407e-b64c-e85e8077a24d
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: 1.0
+  confirmation_by_document:
+    0698b6ab-698b-429d-aaa6-5419ef1ebcb0: 1.1938256636348682e-37
+    1a939841-6b03-4ea9-8f7c-385e51027868: -8.088782738482064e-35
+    21e58583-194d-4601-a40e-2129eff1c7bd: -5.962031820308636e-34
+    2dfbf4fc-652e-4e2b-80fd-8be16f53393f: 0.0
+    4cf03d09-2820-475c-865a-26ad67ed40c6: 7.294074976278969e-38
+    61817cf9-ad40-49fd-bb8f-e25ffab8ae35: -3.5614077799838287e-39
+    9c24381e-5ffc-4db1-bfe9-1a18dff2d75b: 2.1987591132394053e-34
+    a2f3cafa-5571-4a0e-a3ed-d020615e501d: 4.906094730649281e-35
+    aa061515-ba00-4a05-bccf-1e096693f36b: 1.316488147069558e-29
+    bfdffd02-8210-4588-b712-68cb390b8995: -1.4792848733145317e-36
+    c7db088b-431d-425e-834e-1e1807c3a446: 1.0
+    dbb58547-e20b-4a46-acec-d2ab270380cc: 3.625140769064983e-34
+  confirmation_level: strongly_confirmed
+  documents:
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Dabei war das politische System vor
+
+        allem bis zum Korruptionsskandal Anfang der 1990er Jahre und der darauffolgenden
+        Krise der politischen Parteien eigentlich stabil, und die Regierungskrisen
+
+        bedeuteten lediglich leichte Anpassungen der Machtverhältnisse innerhalb der
+        Parteien, wovon die Koalitionen an und für sich nicht beeinflusst wurden.
+
+        '
+      page_label: '3'
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "Vereinfachung der\nEntscheidungsprozesse und starke Persönlichkeiten sind\
+      \ im Moment attraktiver als Gegengewichte und Respekt der Vielfalt. [3] Das\
+      \ Verkaufsargument\nschlechthin für die Reform ist die Herstellung der Regierungsstabilität.\
+      \  Italiens Regierungen gelten als notorisch instabil, in der Geschichte der\
+      \ Republik, also seit\n1948, gab es nicht weniger als 68 Regierungen, mit 30\
+      \ unterschiedlichen Ministerpräsidenten und einer Ministerpräsidentin.  Dabei\
+      \ war das politische System vor\nallem bis zum Korruptionsskandal Anfang der\
+      \ 1990er Jahre und der darauffolgenden Krise der politischen Parteien eigentlich\
+      \ stabil, und die Regierungskrisen\nbedeuteten lediglich leichte Anpassungen\
+      \ der Machtverhältnisse innerhalb der Parteien, wovon die Koalitionen an und\
+      \ für sich nicht beeinflusst wurden.\n Die Verfassungsreform sieht die Einführung\
+      \ der Direktwahl des Ministerpräsidenten oder der Ministerpräsidentin vor, ähnlich\
+      \ der Wahl der Bürgermeister:innen\nund der Regionalpräsident:innen, die deswegen\
+      \ in vielen Medien in Anlehnung an die USA auch Gouverneur:in genannt werden.\
+      \  Die Direktwahl des\nRegierungschefs oder der Regierungschefin auf nationaler\
+      \ Ebene wäre ein Novum, das in keinem anderen demokratischen Land zur Anwendung\
+      \ kommt, was\nbereits gegen die Zuverlässigkeit dieses eigenartigen Modells\
+      \ spricht.  Das Problem liegt allerdings vor allem in folgendem Punkt: Damit\
+      \ der oder die direkt\ngewählte Regierungschef:in auch regieren kann, soll es\
+      \ einen Mehrheitsbonus geben, der die Stellung der Wahlsieger:innen zusätzlich\
+      \ stärken und ihnen „eine\nMehrheit der Sitze in jeder Kammer“ garantieren würde\
+      \ (neuer Art. "
+    uid: dbb58547-e20b-4a46-acec-d2ab270380cc
+  - metadata:
+      author: Andrea, Diefenbach
+      file_name: andrea_realitatea_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Nach der Abwahl der kommunistischen Regierung 2009 und den zunächst
+
+        aufkeimenden Hoffnungen auf Wandel wurde relativ schnell klar, dass das Land
+        politisch instabiler denn je würde. '
+      page_label: '1'
+      title: Realitatea
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550124/realitatea/
+      year: '2024'
+    text: "Dabei erfuhr ich, dass damals etwa ein Viertel – heute ist es mehr als\
+      \ ein Drittel – der erwachsenen Bevölkerung das Land\nverlassen hatte, um im\
+      \ Ausland zu arbeiten.  Von 2008 bis 2010 habe ich daraufhin an meinem Buchprojekt\
+      \ \"Land ohne Eltern\" über die getrennten Familien in\nMoldau gearbeitet und\
+      \ mich mit den zurückgelassenen Kindern und deren Eltern befasst, die in Italien\
+      \ als Arbeitsmigranten lebten.\n Auch im Anschluss an dieses Projekt hat mich\
+      \ das Land nicht losgelassen.  Nach der Abwahl der kommunistischen Regierung\
+      \ 2009 und den zunächst\naufkeimenden Hoffnungen auf Wandel wurde relativ schnell\
+      \ klar, dass das Land politisch instabiler denn je würde.  Premierminister wurden\
+      \ in kurzen Intervallen\nausgetauscht, eine Milliarde Dollar verschwand von\
+      \ den Konten der staatlichen Banken, und Moldau drohte im Würgegriff der Oligarchen\
+      \ zu ersticken.  Der\nStrukturwandel vollzog sich nur schleppend, nicht zuletzt\
+      \ bedingt durch den eingefrorenen Konflikt mit der prorussischen separatistischen\
+      \ Region Transnistrien\nsowie durch staatliche Korruption und organisierte Wirtschaftskriminalität.\
+      \  Die seinerzeit 180 Euro monatlicher Durchschnittslohn schienen kaum glaubhaft,\
+      \ wenn\nman Chişinău besuchte. "
+    uid: c7db088b-431d-425e-834e-1e1807c3a446
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Die Direktwahl des
+
+        Regierungschefs oder der Regierungschefin auf nationaler Ebene wäre ein Novum,
+        das in keinem anderen demokratischen Land zur Anwendung kommt, was
+
+        bereits gegen die Zuverlässigkeit dieses eigenartigen Modells spricht. '
+      page_label: '3'
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "Italiens Regierungen gelten als notorisch instabil, in der Geschichte der\
+      \ Republik, also seit\n1948, gab es nicht weniger als 68 Regierungen, mit 30\
+      \ unterschiedlichen Ministerpräsidenten und einer Ministerpräsidentin.  Dabei\
+      \ war das politische System vor\nallem bis zum Korruptionsskandal Anfang der\
+      \ 1990er Jahre und der darauffolgenden Krise der politischen Parteien eigentlich\
+      \ stabil, und die Regierungskrisen\nbedeuteten lediglich leichte Anpassungen\
+      \ der Machtverhältnisse innerhalb der Parteien, wovon die Koalitionen an und\
+      \ für sich nicht beeinflusst wurden.\n Die Verfassungsreform sieht die Einführung\
+      \ der Direktwahl des Ministerpräsidenten oder der Ministerpräsidentin vor, ähnlich\
+      \ der Wahl der Bürgermeister:innen\nund der Regionalpräsident:innen, die deswegen\
+      \ in vielen Medien in Anlehnung an die USA auch Gouverneur:in genannt werden.\
+      \  Die Direktwahl des\nRegierungschefs oder der Regierungschefin auf nationaler\
+      \ Ebene wäre ein Novum, das in keinem anderen demokratischen Land zur Anwendung\
+      \ kommt, was\nbereits gegen die Zuverlässigkeit dieses eigenartigen Modells\
+      \ spricht.  Das Problem liegt allerdings vor allem in folgendem Punkt: Damit\
+      \ der oder die direkt\ngewählte Regierungschef:in auch regieren kann, soll es\
+      \ einen Mehrheitsbonus geben, der die Stellung der Wahlsieger:innen zusätzlich\
+      \ stärken und ihnen „eine\nMehrheit der Sitze in jeder Kammer“ garantieren würde\
+      \ (neuer Art.  92 Abs.  3 Verf.). "
+    uid: 0698b6ab-698b-429d-aaa6-5419ef1ebcb0
+  - metadata:
+      author: Anastasia, Pociumban
+      file_name: anastasia_fragile_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Angesichts der Tatsache, dass 59 Prozent der Meinung sind, das
+        Land bewege sich in die falsche Richtung, und zwar vor allem aufgrund wirtschaftlicher
+        Sorgen,
+
+        wird es für die PAS schwierig werden, nach den Parlamentswahlen an der Macht
+        zu bleiben.'
+      page_label: '3'
+      title: Fragile {Stabilität}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550126/fragile-stabilitaet/
+      year: '2024'
+    text: "Drei Jahre später ist die moldauische Gesellschaft angesichts der inneren\
+      \ Schwierigkeiten und der Auswirkungen des Ukraine-Krieges nach wie vor anfällig\
+      \ für\nrussische Desinformationskampagnen.  Sie leidet unter der schlechten\
+      \ Wirtschaftslage, und im täglichen Leben scheint es keine sichtbaren Veränderungen\
+      \ zu\ngeben.  Viele Menschen halten die Wahlversprechen der Präsidentin für\
+      \ nicht erfüllt, und die Regierung geht zu wenig auf die Bedenken in der Bevölkerung\
+      \ ein.\n Angesichts der Tatsache, dass 59 Prozent der Meinung sind, das Land\
+      \ bewege sich in die falsche Richtung, und zwar vor allem aufgrund wirtschaftlicher\
+      \ Sorgen,\nwird es für die PAS schwierig werden, nach den Parlamentswahlen an\
+      \ der Macht zu bleiben. [15] Der gesellschaftliche Zusammenhalt bleibt damit\
+      \ eine\nentscheidende Herausforderung für die Republik Moldau.\n Hybride Angriffe\
+      \ gibt es an verschiedenen Fronten und über verschiedene Kanäle.  Während der\
+      \ Krieg im Nachbarland und der Flüchtlingszustrom aus der Ukraine\nzunächst\
+      \ ein Gefühl der Einheit im Land förderten und die Bürgerinnen und Bürger bei\
+      \ der Unterstützung der Geflüchteten tatkräftig mit anpackten (nur 4\nProzent\
+      \ kamen in Flüchtlingslagern unter), war die Situation nicht völlig frei von\
+      \ Desinformation. "
+    uid: 21e58583-194d-4601-a40e-2129eff1c7bd
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die globalen
+
+        Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+        symbolisch als auch de facto, größer als bei jeder anderen Demokratie. '
+      page_label: '1'
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Krisensymptome in den Vereinigten Staaten
+
+      Die Vereinigten Staaten von Amerika waren lange Zeit die wichtigste und mächtigste
+      Demokratie der Welt.  Ihre Bilanz der Demokratieförderung im Ausland war
+
+      zwar stets gemischt, zudem dauert die Auseinandersetzung mit ihrer eigenen kolonialen
+      und imperialen Geschichte noch an.  Trotzdem waren die USA militärisch,
+
+      wirtschaftlich und symbolisch lange das globale Gegengewicht zu autoritären
+      Mächten: historisch zur Sowjetunion, heute vor allem zu China.  Die globalen
+
+      Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+      symbolisch als auch de facto, größer als bei jeder anderen Demokratie.  [6]
+
+      Krise des globalen Konstitutionalismus
+
+      23.02.2024 / 18 Minuten zu lesen
+
+      James Fowkes
+
+      Michaela Hailbronner
+
+      Der demokratische Verfassungsstaat, der im 20.  Jahrhundert einen nahezu globalen
+      Siegeszug angetreten
+
+      hat, scheint sich weltweit in der Krise zu befinden.  Erfahrungen aus den USA,
+      Brasilien, Indien und
+
+      Südafrika halten auch Einsichten für Europa bereit.
+
+      '
+    uid: 61817cf9-ad40-49fd-bb8f-e25ffab8ae35
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: bfdffd02-8210-4588-b712-68cb390b8995
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Deshalb hängt die Frage, wie stabil, resilient oder wehrhaft
+        die Demokratie ist, stets damit zusammen, inwiefern sie in der Lage
+
+        ist, sich neuen Herausforderungen anzupassen, entwicklungsfähig zu bleiben
+        und vor allem erfolgreich die soziale Kohäsion und Integration ihrer Bürger
+        zu
+
+        bewerkstelligen.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht mehr die Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“,\
+      \ [2] stehen auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre\
+      \ Lage allerdings einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben,\
+      \ griffe zu kurz.  Denn die Demokratie ist immer Ergebnis –\nund manchmal auch\
+      \ Opfer – der mit ihr verbundenen Erwartungen und Hoffnungen, aber auch der\
+      \ versäumten Chancen, ungelösten Konflikte und entstandenen\ngesellschaftlichen\
+      \ Verwerfungen.  Deshalb hängt die Frage, wie stabil, resilient oder wehrhaft\
+      \ die Demokratie ist, stets damit zusammen, inwiefern sie in der Lage\nist,\
+      \ sich neuen Herausforderungen anzupassen, entwicklungsfähig zu bleiben und\
+      \ vor allem erfolgreich die soziale Kohäsion und Integration ihrer Bürger zu\n\
+      bewerkstelligen.\n Eben weil die Demokratie stetem Wandel unterworfen bleibt\
+      \ und im Sinne des frühen bundesrepublikanischen Demokratieerziehers Dolf Sternberger\
+      \ eine\n„lebende Verfassung“ ist, [3] können Selbstbehauptung, Funktionsfähigkeit\
+      \ und Performanz nur schwer voneinander getrennt werden.  Um es anders zu\n\
+      formulieren: Systemgegner treten in dem Moment auf den Plan, in dem bestimmte\
+      \ Probleme nicht behandelt werden, Bevölkerungsgruppen sich nicht\nrepräsentiert\
+      \ fühlen, Zukunftschancen schwinden, soziale Ungleichheit, Abstiegsängste und\
+      \ Unzufriedenheit wachsen.  Insofern liegt die Vermutung nahe, dass\nWehrhafte\
+      \ Demokratie\nVom Wesen und Wert eines schillernden Konzepts\n23.02.2024 / 16\
+      \ Minuten zu lesen\nJens Hacke\nOb liberale Demokratien durch Maßnahmen der\
+      \ wehrhaften Demokratie erfolgreich gegen ihre Feinde\nverteidigt werden können,\
+      \ ist eine offene Frage. "
+    uid: aa061515-ba00-4a05-bccf-1e096693f36b
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch selbst wenn man in Betracht zieht, dass die
+
+        Demokratie die einzige Staatsform ist, welche die oppositionelle Infragestellung
+        der Regierung institutionalisiert hat und die Kritik – und damit häufig auch
+        die
+
+        Suggestion einer Krise in Permanenz – zu ihrem Wesensmerkmal zählt, hat die
+        Sorge um die Zukunftsfähigkeit der Demokratie doch eine neue Qualität erreicht.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht nur wird das Parteienverbot mit\nBlick auf die AfD, die in einigen\
+      \ Landesverbänden nach Auskunft des Verfassungsschutzes als „gesichert rechtsextremistisch“\
+      \ gilt, in der Öffentlichkeit\nparteiübergreifend gefordert, auch die Einschränkung\
+      \ der Grundrechte von einigen ihrer führenden Köpfe steht zur Diskussion.  Und\
+      \ mit Blick auf die Maßnahmen,\ndie in Polen und Ungarn einen schleichenden\
+      \ institutionellen Umbau in Richtung „illiberaler Demokratie“ begleiteten, sind\
+      \ jüngsthin Rufe lauter geworden, die\nWahl der Bundesverfassungsrichter an\
+      \ eine im Grundgesetz verankerte Zweidrittelmehrheit zu binden, um sie präventiv\
+      \ vor einem Zugriff der AfD zu schützen.\n Sicherlich lässt sich die Dramatik\
+      \ der Krisendiagnostik im deutschen Fall relativieren, sobald man den Wandel\
+      \ der Parteiensysteme und die Stärke\nrechtspopulistischer Kräfte in Nachbarländern\
+      \ wie Österreich, den Niederlanden oder Frankreich betrachtet.  Doch selbst\
+      \ wenn man in Betracht zieht, dass die\nDemokratie die einzige Staatsform ist,\
+      \ welche die oppositionelle Infragestellung der Regierung institutionalisiert\
+      \ hat und die Kritik – und damit häufig auch die\nSuggestion einer Krise in\
+      \ Permanenz – zu ihrem Wesensmerkmal zählt, hat die Sorge um die Zukunftsfähigkeit\
+      \ der Demokratie doch eine neue Qualität erreicht.\n Die Fortschrittsgewissheit\
+      \ früherer Jahre, als die parlamentarische Demokratie zum Nonplusultra westlicher\
+      \ Regierungskunst erklärt wurde, ist nachhaltig\nerschüttert.  Nicht mehr die\
+      \ Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“, [2] stehen\
+      \ auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre Lage allerdings\
+      \ einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben, griffe\
+      \ zu kurz. "
+    uid: a2f3cafa-5571-4a0e-a3ed-d020615e501d
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: 9c24381e-5ffc-4db1-bfe9-1a18dff2d75b
+  - metadata:
+      author: Ahrens, Ralf
+      file_name: ahrens_pragmatischer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Jahrhundert unterschiedliche Gründe dafür, dass auch der demokratische
+        Staat sich in Entwicklungen einmischte, die nach
+
+        vorherrschendem ordnungspolitischen Verständnis eigentlich dem Markt zu überlassen
+        waren. '
+      page_label: '2'
+      title: Pragmatischer {Interventionismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544578/pragmatischer-interventionismus/
+      year: '2024'
+    text: 'Entlang der Grenzlinie zur DDR, wo viele Betriebe von ihren alten Bezugs-
+      und
+
+      Absatzmärkten abgeschnitten waren, erhielt 1953 eine 40 Kilometer nach Westen
+      reichende Region, das sogenannte Zonenrandgebiet, unabhängig von der sehr
+
+      unterschiedlichen Wirtschaftsstruktur einen speziellen Förderstatus.  Ähnlich
+      wie in diesem Gebiet, aber allein durch den Bund finanziert, sollte ein ganzes
+      Bündel
+
+      an Subventionen und weiteren Unterstützungsmaßnahmen die Exklave West-Berlin
+      vor der weiteren Abwanderung von Industriebetrieben und qualifizierten
+
+      Arbeitskräften bewahren.  [9]
+
+      Aufstieg und Praxis der Strukturpolitik
+
+      Es gab also seit dem frühen 20.  Jahrhundert unterschiedliche Gründe dafür,
+      dass auch der demokratische Staat sich in Entwicklungen einmischte, die nach
+
+      vorherrschendem ordnungspolitischen Verständnis eigentlich dem Markt zu überlassen
+      waren.  In den 1960er Jahren zeigten sich zumindest Ansätze einer
+
+      systematischeren Herangehensweise, die einer eigentümlichen Gemengelage aus
+      Krise und Aufbruch entsprangen.  Einerseits verringerten sich im auslaufenden
+
+      Nachkriegsboom allmählich die gesamtwirtschaftlichen Wachstumsraten; das ließ
+      die schon bestehenden Strukturprobleme im Bergbau und in der
+
+      Textilindustrie umso deutlicher hervortreten und zukünftigen Anpassungsbedarf
+      auch in anderen Branchen erwarten.  Andererseits übernahm 1966 die SPD das
+
+      Wirtschaftsministerium und besetzte es mit dem bekennenden Keynesianer Karl
+      Schiller. '
+    uid: 4cf03d09-2820-475c-865a-26ad67ed40c6
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher
+        Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische
+        Option
+
+        zu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung
+        eine solche Maßnahme letztlich überflüssig machen könnte.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Diese\nstand wahrlich vor dem Problem, als Republik ohne Republikaner,\
+      \ als Demokratie ohne Demokraten nicht ausreichend Verfassungspatrioten und\
+      \ damit\nentschlossene Verteidiger der rechtsstaatlichen Ordnung in ihren Reihen\
+      \ zu wissen, nicht einmal innerhalb ihrer Institutionen.  Die Großdemonstrationen\
+      \ Anfang\n2024 sind darum mehr als eine moralisch bequeme Selbstvergewisserung.\
+      \  Sie sind als praktiziertes zivilgesellschaftliches Engagement ein Zeichen\
+      \ für\nbürgerschaftlichen Zusammenhalt und demokratische Wehrhaftigkeit in einem\
+      \ Stadium, in dem die politische Kultur und staatliche Institutionen Stärkung\n\
+      benötigen.  Vor dem Hintergrund breiter Beteiligung und intensiver öffentlicher\
+      \ Debatte fällt es schließlich auch leichter, ein Parteienverbot als realistische\
+      \ Option\nzu diskutieren – mit dem möglichen Nebeneffekt, dass eine breite Mobilisierung\
+      \ eine solche Maßnahme letztlich überflüssig machen könnte.\n Damit ist es aber\
+      \ nicht getan.  Denn die wachsenden Zweifel an der Problemlösungskompetenz des\
+      \ politischen Systems sowie die abnehmende Akzeptanz der\nDemokratie signalisieren\
+      \ ein Kommunikationsdefizit beziehungsweise eine Entfremdung zwischen Bürgerinnen\
+      \ und Bürgern und demokratischem Staat.  Es ist\ndeswegen wenig zielführend,\
+      \ sich allein auf die Bekämpfung der Demokratiegegner zu kaprizieren, sondern\
+      \ wichtiger, Krisenfelder und politische Verwerfungen\nals Ergebnisse von (immerhin\
+      \ korrigierbaren) politischen Versäumnissen zu begreifen. "
+    uid: 1a939841-6b03-4ea9-8f7c-385e51027868
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Dieser Befund trifft mittlerweile
+
+        europaweit zu, und der Verdacht liegt nahe, dass die Beschwörung einer selbstbewussten
+        und verteidigungsbereiten Demokratie proportional zur Notlage an
+
+        Lautstärke zunimmt. '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Politiker fordern sie ein, der öffentlich-rechtliche\nRundfunk ruft sie\
+      \ zum Jahresmotto aus, sie wird zum allgemein geteilten Bekenntnis hunderttausender\
+      \ Demonstranten, die Zeichen gegen einen politischen\nRechtsruck setzen wollen.\
+      \  Demokratische Wehrhaftigkeit scheint zum Heils- und Hoffnungsversprechen\
+      \ in einer Zeit der Krisenstimmung geworden zu sein,\nwelche die westlichen\
+      \ Demokratien spätestens seit dem Jahr 2016 erfasst hat, als das Brexit-Referendum\
+      \ und die Wahl Donald Trumps zum US-Präsidenten eine\nErschütterung des liberalen\
+      \ Selbstverständnisses verursachten, von dem sich Europa bis heute nicht erholt\
+      \ hat.  Im Gegenteil: Der Aufschwung des\nRechtspopulismus hat sich seither\
+      \ fortgesetzt, und die politischen Rezepte zu seiner Bekämpfung bleiben weiterhin\
+      \ Mangelware.  Dieser Befund trifft mittlerweile\neuropaweit zu, und der Verdacht\
+      \ liegt nahe, dass die Beschwörung einer selbstbewussten und verteidigungsbereiten\
+      \ Demokratie proportional zur Notlage an\nLautstärke zunimmt.  War sie früher\
+      \ nur der Gegenstand von Sonntagsreden, ist nun Vorsicht geboten, dass sich\
+      \ die Dauerpräsenz des Appells an alle\nDemokraten, sich ihrer Gegner zu erwehren,\
+      \ nicht abnutzt oder zur Ausstellung der Hilflosigkeit wird.\n Krise allenthalben\n\
+      Unleugbar scheint die Einsicht, dass die demokratische Ordnung fragiler und\
+      \ unsicherer wirkt als lange Zeit gedacht.  [1] Dabei hat sich das Verhältnis\
+      \ umgekehrt:\nWährend früher die Zivilgesellschaft einen Missbrauch des Staats-\
+      \ und Verfassungsschutzes fürchtete, wenn Notstandsgesetze, Parteienverbote\
+      \ oder\nRadikalenerlass den Verdacht auf sich zogen, restriktiv die Freiheiten\
+      \ einer offenen Gesellschaft zu beschränken und Gesinnungsschnüffelei zu etablieren,\
+      \ so\nhäufen sich mittlerweile die Forderungen, von den verfügbaren Rechtsmitteln\
+      \ endlich konsequent Gebrauch zu machen. "
+    uid: 2dfbf4fc-652e-4e2b-80fd-8be16f53393f
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 1
+  negation: Demokratien sind empirisch nicht anfälliger für autoritäre Rückentwicklungen
+    nach schweren wirtschaftlichen Krisen.
+  statement_type: *id001
+  text: Demokratien sind empirisch anfälliger für autoritäre Rückentwicklungen nach
+    schweren wirtschaftlichen Krisen.
+  uid: d5d76ebd-d76a-488e-9ed3-e6bfda3f4938
+  verbalized_confirmation: The claim is strongly confirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    16c6a300-c2cb-4106-8692-c8df2d49e2b4: -5.379091462318185e-32
+    2cbd8f39-17bf-44db-a09e-ef0640c9c7d5: 9.465464792655089e-36
+    31b0ccff-4307-4c7a-8ea3-b9bf562748ca: -4.0795584982863725e-41
+    368f188a-e229-4fd1-8123-5136b26f0849: -2.130767513944553e-29
+    5261b20a-91a0-4bfe-b855-cb72aa154f3b: -6.726055149644708e-41
+    6ee372a2-2cb1-43ec-9d8c-7d08c0ab61e7: 7.376015102518874e-38
+    8ee16218-00c0-4f72-b8a2-1e6e490da5b7: 1.6458114310822737e-38
+    ab651f73-13ab-4424-86af-a42e150ef9c7: -2.1705220113036395e-29
+    d461c898-3c02-4476-8b22-95237a96c82b: -1.4815122368763274e-36
+    d6badae3-7120-4229-a1fb-a6926a47c6a2: 7.287511634374063e-46
+    f6e09cec-603e-44fe-909d-66b352e14d78: 3.3057006267438454e-37
+    f9f07148-3c36-4f1f-bfa3-d84aeac47da5: -2.9756968735933825e-35
+  confirmation_level: *id002
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: '[11] Man mag sich fragen, ob dieser Fall je eingetreten ist
+
+        – immerhin vermochten auch die Nationalsozialisten nie, bei regulären Wahlen
+        eine absolute Mehrheit der Stimmen zu erreichen. '
+      page_label: '2'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: 'Kelsen war ein
+
+      aufrechter liberaler Sozialdemokrat, dessen normative und definitorische Askese
+      die Demokratie jedoch auf die Mehrheitsregel beschränkte.  Die Demokratie sei
+
+      „diejenige Staatsform“, so Kelsen, „die sich am wenigsten gegen ihre Gegner
+      wehrt“.  [10] Die Frage, „[o]b die Demokratie sich nicht selbst verteidigen
+      soll, auch
+
+      gegen das Volk, das sie nicht mehr will“, musste Kelsen aus der Konsequenz seiner
+      theoretischen Position verneinen, denn: „Eine Demokratie, die sich gegen den
+
+      Willen der Mehrheit zu behaupten, gar mit Gewalt sich zu behaupten versucht,
+      hat aufgehört, Demokratie zu sein.“ Kelsen wollte sich „nicht in den
+
+      verhängnisvollen Widerspruch verstricken lassen und zur Diktatur greifen, um
+      die Demokratie zu retten“.  [11] Man mag sich fragen, ob dieser Fall je eingetreten
+      ist
+
+      – immerhin vermochten auch die Nationalsozialisten nie, bei regulären Wahlen
+      eine absolute Mehrheit der Stimmen zu erreichen.  Aber Kelsens Verzicht auf
+
+      Abwehrmaßnahmen des Staates markiert die dilemmatische Frage, ob antidemokratische
+      Haltungen und Affekte durch Verbote überhaupt wirksam bekämpft
+
+      werden können.  Das Kind war aus seiner Sicht bereits vorher in den Brunnen
+      gefallen.  Dass Kelsen den wertegeleiteten Einsatz für die Demokratie unbedingt
+
+      befürwortete, allerdings in einer umfassenderen Form, machte er in seiner klassischen
+      Schrift „Vom Wesen und Wert der Demokratie“ (1920/1929) deutlich. '
+    uid: 31b0ccff-4307-4c7a-8ea3-b9bf562748ca
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die globalen
+
+        Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+        symbolisch als auch de facto, größer als bei jeder anderen Demokratie. '
+      page_label: '1'
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Krisensymptome in den Vereinigten Staaten
+
+      Die Vereinigten Staaten von Amerika waren lange Zeit die wichtigste und mächtigste
+      Demokratie der Welt.  Ihre Bilanz der Demokratieförderung im Ausland war
+
+      zwar stets gemischt, zudem dauert die Auseinandersetzung mit ihrer eigenen kolonialen
+      und imperialen Geschichte noch an.  Trotzdem waren die USA militärisch,
+
+      wirtschaftlich und symbolisch lange das globale Gegengewicht zu autoritären
+      Mächten: historisch zur Sowjetunion, heute vor allem zu China.  Die globalen
+
+      Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+      symbolisch als auch de facto, größer als bei jeder anderen Demokratie.  [6]
+
+      Krise des globalen Konstitutionalismus
+
+      23.02.2024 / 18 Minuten zu lesen
+
+      James Fowkes
+
+      Michaela Hailbronner
+
+      Der demokratische Verfassungsstaat, der im 20.  Jahrhundert einen nahezu globalen
+      Siegeszug angetreten
+
+      hat, scheint sich weltweit in der Krise zu befinden.  Erfahrungen aus den USA,
+      Brasilien, Indien und
+
+      Südafrika halten auch Einsichten für Europa bereit.
+
+      '
+    uid: d6badae3-7120-4229-a1fb-a6926a47c6a2
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Die Direktwahl des
+
+        Regierungschefs oder der Regierungschefin auf nationaler Ebene wäre ein Novum,
+        das in keinem anderen demokratischen Land zur Anwendung kommt, was
+
+        bereits gegen die Zuverlässigkeit dieses eigenartigen Modells spricht. '
+      page_label: '3'
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "Italiens Regierungen gelten als notorisch instabil, in der Geschichte der\
+      \ Republik, also seit\n1948, gab es nicht weniger als 68 Regierungen, mit 30\
+      \ unterschiedlichen Ministerpräsidenten und einer Ministerpräsidentin.  Dabei\
+      \ war das politische System vor\nallem bis zum Korruptionsskandal Anfang der\
+      \ 1990er Jahre und der darauffolgenden Krise der politischen Parteien eigentlich\
+      \ stabil, und die Regierungskrisen\nbedeuteten lediglich leichte Anpassungen\
+      \ der Machtverhältnisse innerhalb der Parteien, wovon die Koalitionen an und\
+      \ für sich nicht beeinflusst wurden.\n Die Verfassungsreform sieht die Einführung\
+      \ der Direktwahl des Ministerpräsidenten oder der Ministerpräsidentin vor, ähnlich\
+      \ der Wahl der Bürgermeister:innen\nund der Regionalpräsident:innen, die deswegen\
+      \ in vielen Medien in Anlehnung an die USA auch Gouverneur:in genannt werden.\
+      \  Die Direktwahl des\nRegierungschefs oder der Regierungschefin auf nationaler\
+      \ Ebene wäre ein Novum, das in keinem anderen demokratischen Land zur Anwendung\
+      \ kommt, was\nbereits gegen die Zuverlässigkeit dieses eigenartigen Modells\
+      \ spricht.  Das Problem liegt allerdings vor allem in folgendem Punkt: Damit\
+      \ der oder die direkt\ngewählte Regierungschef:in auch regieren kann, soll es\
+      \ einen Mehrheitsbonus geben, der die Stellung der Wahlsieger:innen zusätzlich\
+      \ stärken und ihnen „eine\nMehrheit der Sitze in jeder Kammer“ garantieren würde\
+      \ (neuer Art.  92 Abs.  3 Verf.). "
+    uid: f9f07148-3c36-4f1f-bfa3-d84aeac47da5
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Dabei war das politische System vor
+
+        allem bis zum Korruptionsskandal Anfang der 1990er Jahre und der darauffolgenden
+        Krise der politischen Parteien eigentlich stabil, und die Regierungskrisen
+
+        bedeuteten lediglich leichte Anpassungen der Machtverhältnisse innerhalb der
+        Parteien, wovon die Koalitionen an und für sich nicht beeinflusst wurden.
+
+        '
+      page_label: '3'
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "Vereinfachung der\nEntscheidungsprozesse und starke Persönlichkeiten sind\
+      \ im Moment attraktiver als Gegengewichte und Respekt der Vielfalt. [3] Das\
+      \ Verkaufsargument\nschlechthin für die Reform ist die Herstellung der Regierungsstabilität.\
+      \  Italiens Regierungen gelten als notorisch instabil, in der Geschichte der\
+      \ Republik, also seit\n1948, gab es nicht weniger als 68 Regierungen, mit 30\
+      \ unterschiedlichen Ministerpräsidenten und einer Ministerpräsidentin.  Dabei\
+      \ war das politische System vor\nallem bis zum Korruptionsskandal Anfang der\
+      \ 1990er Jahre und der darauffolgenden Krise der politischen Parteien eigentlich\
+      \ stabil, und die Regierungskrisen\nbedeuteten lediglich leichte Anpassungen\
+      \ der Machtverhältnisse innerhalb der Parteien, wovon die Koalitionen an und\
+      \ für sich nicht beeinflusst wurden.\n Die Verfassungsreform sieht die Einführung\
+      \ der Direktwahl des Ministerpräsidenten oder der Ministerpräsidentin vor, ähnlich\
+      \ der Wahl der Bürgermeister:innen\nund der Regionalpräsident:innen, die deswegen\
+      \ in vielen Medien in Anlehnung an die USA auch Gouverneur:in genannt werden.\
+      \  Die Direktwahl des\nRegierungschefs oder der Regierungschefin auf nationaler\
+      \ Ebene wäre ein Novum, das in keinem anderen demokratischen Land zur Anwendung\
+      \ kommt, was\nbereits gegen die Zuverlässigkeit dieses eigenartigen Modells\
+      \ spricht.  Das Problem liegt allerdings vor allem in folgendem Punkt: Damit\
+      \ der oder die direkt\ngewählte Regierungschef:in auch regieren kann, soll es\
+      \ einen Mehrheitsbonus geben, der die Stellung der Wahlsieger:innen zusätzlich\
+      \ stärken und ihnen „eine\nMehrheit der Sitze in jeder Kammer“ garantieren würde\
+      \ (neuer Art. "
+    uid: 8ee16218-00c0-4f72-b8a2-1e6e490da5b7
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Doch selbst wenn man in Betracht zieht, dass die
+
+        Demokratie die einzige Staatsform ist, welche die oppositionelle Infragestellung
+        der Regierung institutionalisiert hat und die Kritik – und damit häufig auch
+        die
+
+        Suggestion einer Krise in Permanenz – zu ihrem Wesensmerkmal zählt, hat die
+        Sorge um die Zukunftsfähigkeit der Demokratie doch eine neue Qualität erreicht.
+
+        '
+      page_label: '1'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht nur wird das Parteienverbot mit\nBlick auf die AfD, die in einigen\
+      \ Landesverbänden nach Auskunft des Verfassungsschutzes als „gesichert rechtsextremistisch“\
+      \ gilt, in der Öffentlichkeit\nparteiübergreifend gefordert, auch die Einschränkung\
+      \ der Grundrechte von einigen ihrer führenden Köpfe steht zur Diskussion.  Und\
+      \ mit Blick auf die Maßnahmen,\ndie in Polen und Ungarn einen schleichenden\
+      \ institutionellen Umbau in Richtung „illiberaler Demokratie“ begleiteten, sind\
+      \ jüngsthin Rufe lauter geworden, die\nWahl der Bundesverfassungsrichter an\
+      \ eine im Grundgesetz verankerte Zweidrittelmehrheit zu binden, um sie präventiv\
+      \ vor einem Zugriff der AfD zu schützen.\n Sicherlich lässt sich die Dramatik\
+      \ der Krisendiagnostik im deutschen Fall relativieren, sobald man den Wandel\
+      \ der Parteiensysteme und die Stärke\nrechtspopulistischer Kräfte in Nachbarländern\
+      \ wie Österreich, den Niederlanden oder Frankreich betrachtet.  Doch selbst\
+      \ wenn man in Betracht zieht, dass die\nDemokratie die einzige Staatsform ist,\
+      \ welche die oppositionelle Infragestellung der Regierung institutionalisiert\
+      \ hat und die Kritik – und damit häufig auch die\nSuggestion einer Krise in\
+      \ Permanenz – zu ihrem Wesensmerkmal zählt, hat die Sorge um die Zukunftsfähigkeit\
+      \ der Demokratie doch eine neue Qualität erreicht.\n Die Fortschrittsgewissheit\
+      \ früherer Jahre, als die parlamentarische Demokratie zum Nonplusultra westlicher\
+      \ Regierungskunst erklärt wurde, ist nachhaltig\nerschüttert.  Nicht mehr die\
+      \ Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“, [2] stehen\
+      \ auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre Lage allerdings\
+      \ einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben, griffe\
+      \ zu kurz. "
+    uid: f6e09cec-603e-44fe-909d-66b352e14d78
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: 16c6a300-c2cb-4106-8692-c8df2d49e2b4
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: d461c898-3c02-4476-8b22-95237a96c82b
+  - metadata:
+      author: Andrea, Diefenbach
+      file_name: andrea_realitatea_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Nach der Abwahl der kommunistischen Regierung 2009 und den zunächst
+
+        aufkeimenden Hoffnungen auf Wandel wurde relativ schnell klar, dass das Land
+        politisch instabiler denn je würde. '
+      page_label: '1'
+      title: Realitatea
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550124/realitatea/
+      year: '2024'
+    text: "Dabei erfuhr ich, dass damals etwa ein Viertel – heute ist es mehr als\
+      \ ein Drittel – der erwachsenen Bevölkerung das Land\nverlassen hatte, um im\
+      \ Ausland zu arbeiten.  Von 2008 bis 2010 habe ich daraufhin an meinem Buchprojekt\
+      \ \"Land ohne Eltern\" über die getrennten Familien in\nMoldau gearbeitet und\
+      \ mich mit den zurückgelassenen Kindern und deren Eltern befasst, die in Italien\
+      \ als Arbeitsmigranten lebten.\n Auch im Anschluss an dieses Projekt hat mich\
+      \ das Land nicht losgelassen.  Nach der Abwahl der kommunistischen Regierung\
+      \ 2009 und den zunächst\naufkeimenden Hoffnungen auf Wandel wurde relativ schnell\
+      \ klar, dass das Land politisch instabiler denn je würde.  Premierminister wurden\
+      \ in kurzen Intervallen\nausgetauscht, eine Milliarde Dollar verschwand von\
+      \ den Konten der staatlichen Banken, und Moldau drohte im Würgegriff der Oligarchen\
+      \ zu ersticken.  Der\nStrukturwandel vollzog sich nur schleppend, nicht zuletzt\
+      \ bedingt durch den eingefrorenen Konflikt mit der prorussischen separatistischen\
+      \ Region Transnistrien\nsowie durch staatliche Korruption und organisierte Wirtschaftskriminalität.\
+      \  Die seinerzeit 180 Euro monatlicher Durchschnittslohn schienen kaum glaubhaft,\
+      \ wenn\nman Chişinău besuchte. "
+    uid: 2cbd8f39-17bf-44db-a09e-ef0640c9c7d5
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Dennoch
+
+        hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+        der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+        noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+        für eine Bedrohung der Demokratie halten.'
+      page_label: '4'
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: 'Januar fliehen mussten,
+
+      zusammen, um über ein Impeachment gegen den ehemaligen Präsidenten zu beraten,
+      das dann am Widerstand der Republikaner scheiterte.  Der für den Zweck
+
+      dieses parlamentarischen Strafverfahrens von den Anklägern aus dem Repräsentantenhaus
+      erstellte Zusammenschnitt von Filmaufnahmen zirkuliert noch immer
+
+      im Internet.  Er zeigt erschreckende Szenen der Gewaltbereitschaft gegen die
+      Sicherheitskräfte und des Hasses auf die Parlamentarier und ihre Arbeit.  Dennoch
+
+      hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+      der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+      noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+      für eine Bedrohung der Demokratie halten. [22] In den sozialen Medien
+
+      zirkulieren unter den Trump-Anhängern nicht die Bilder des Zusammenschnitts
+      aus dem parlamentarischem Verfahren, sondern Aufnahmen der Teilnehmenden
+
+      selbst, die den Eindruck bestätigen, den die Umfrage belegt: Immer mehr Menschen
+      sind in den USA in diesen Tagen davon überzeugt, dass der Angriff auf das
+
+      Parlament eine legitime Protestaktion war.  Trump fordert seitdem immer lautstarker
+      Gerechtigkeit für die Verurteilten des 6.  Januar, die er als "politische
+
+      Gefangene" bezeichnet.'
+    uid: 5261b20a-91a0-4bfe-b855-cb72aa154f3b
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Italiens Regierungen gelten als notorisch instabil, in der Geschichte
+        der Republik, also seit
+
+        1948, gab es nicht weniger als 68 Regierungen, mit 30 unterschiedlichen Ministerpräsidenten
+        und einer Ministerpräsidentin. '
+      page_label: '3'
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "Das Versprechen, eine starke\nFigur an die Spitze zu stellen, die praktisch\
+      \ allmächtig und alleinverantwortlich sein wird, entspricht dem populistischen\
+      \ Zeitgeist.  Vereinfachung der\nEntscheidungsprozesse und starke Persönlichkeiten\
+      \ sind im Moment attraktiver als Gegengewichte und Respekt der Vielfalt. [3]\
+      \ Das Verkaufsargument\nschlechthin für die Reform ist die Herstellung der Regierungsstabilität.\
+      \  Italiens Regierungen gelten als notorisch instabil, in der Geschichte der\
+      \ Republik, also seit\n1948, gab es nicht weniger als 68 Regierungen, mit 30\
+      \ unterschiedlichen Ministerpräsidenten und einer Ministerpräsidentin.  Dabei\
+      \ war das politische System vor\nallem bis zum Korruptionsskandal Anfang der\
+      \ 1990er Jahre und der darauffolgenden Krise der politischen Parteien eigentlich\
+      \ stabil, und die Regierungskrisen\nbedeuteten lediglich leichte Anpassungen\
+      \ der Machtverhältnisse innerhalb der Parteien, wovon die Koalitionen an und\
+      \ für sich nicht beeinflusst wurden.\n Die Verfassungsreform sieht die Einführung\
+      \ der Direktwahl des Ministerpräsidenten oder der Ministerpräsidentin vor, ähnlich\
+      \ der Wahl der Bürgermeister:innen\nund der Regionalpräsident:innen, die deswegen\
+      \ in vielen Medien in Anlehnung an die USA auch Gouverneur:in genannt werden.\
+      \  Die Direktwahl des\nRegierungschefs oder der Regierungschefin auf nationaler\
+      \ Ebene wäre ein Novum, das in keinem anderen demokratischen Land zur Anwendung\
+      \ kommt, was\nbereits gegen die Zuverlässigkeit dieses eigenartigen Modells\
+      \ spricht. "
+    uid: ab651f73-13ab-4424-86af-a42e150ef9c7
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Maya Tudor, Why India’s Democracy Is Dying, in: Journal of Democracy
+        3/2023, S. '
+      page_label: '6'
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: "Anuj Bhuwania, Courting the People.  Public Interest Litigation in Post-Emergency\
+      \ India, Cambridge 2017.\n [28] Vgl.  Maya Tudor, Why India’s Democracy Is Dying,\
+      \ in: Journal of Democracy 3/2023, S.  121–132.\n [29] Vgl.  ebd., mit Verweis\
+      \ auf Steven Levitsky/Daniel Ziblatt, How Democracies Die. "
+    uid: 368f188a-e229-4fd1-8123-5136b26f0849
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Auffällig war die niedrige Wahlbeteiligung von knapp unter 50
+        Prozent, was auf eine gewachsene Politikverdrossenheit schließen lässt. '
+      page_label: '4'
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "FdI, PD und AVS hingegen konnten ihre Stellung nahezu überall\nverbessern.\
+      \  Im Nordosten, eigentlich das Stammland der Lega, setzte sich FdI mit fast\
+      \ 32 Prozent als dominante Kraft fest.  Die Lega verlor hier nahezu die Hälfte\n\
+      ihrer Wählerschaft, selbst im Süden kam sie auf bessere Werte.\n Auffällig war\
+      \ die niedrige Wahlbeteiligung von knapp unter 50 Prozent, was auf eine gewachsene\
+      \ Politikverdrossenheit schließen lässt.  Der Negativtrend setzt\nsich seit\
+      \ 2004 ungebremst fort: Damals lag die Beteiligung an der Europawahl noch über\
+      \ 72 Prozent. [12] Es offenbarte sich zudem ein deutliches regionales\nGefälle,\
+      \ mit geringerer Beteiligung im Süden.  In einigen Provinzen Süditaliens lag\
+      \ die Beteiligung bei lediglich 29 bis 38 Prozent."
+    uid: 6ee372a2-2cb1-43ec-9d8c-7d08c0ab61e7
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die meisten bestehenden Demokratien haben eine geringere Wahrscheinlichkeit
+    binnen 50 Jahre zu kollabieren als nicht-demokratische Regime.
+  statement_type: *id001
+  text: Die meisten bestehenden Demokratien haben eine höhere Wahrscheinlichkeit binnen
+    50 Jahre zu kollabieren als nicht-demokratische Regime.
+  uid: a6eeb985-9c61-4ddd-a43c-6618d258119b
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - A
+        - B
+        - C
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(A|B|C)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Kimi-K2-Instruct
+  verbose: false
+request: Demokratien sind zerbrechlich.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  window_size: 3
+time: 2025-08-12 20:25:54 UTC
+uid: d56c1b51-402b-497e-b116-db1e1b4f828c

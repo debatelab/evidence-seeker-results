@@ -1,0 +1,1690 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: &id001 inconclusive_confirmation
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Eine Bundeswehr ohne jede Form politischen Extremismus ist nicht wünschenswert.
+  statement_type: &id002 normative
+  text: Eine Bundeswehr ohne jede Form politischen Extremismus ist wünschenswert.
+  uid: 4d9654ff-afa3-42c5-a161-59fef976c9a7
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Weitere Maßnahmen gegen politischen Extremismus in der Bundeswehr sind
+    notwendig.
+  statement_type: *id002
+  text: Weitere Maßnahmen gegen politischen Extremismus in der Bundeswehr sind überflüssig.
+  uid: 57d835d4-6b85-4cb0-a34a-38197c2f2a7a
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Bundeswehr ist moralisch nicht gut, weil sie nicht frei von politischem
+    Extremismus ist.
+  statement_type: *id002
+  text: Die Bundeswehr ist moralisch gut, weil sie frei von politischem Extremismus
+    ist.
+  uid: c471e561-c9d5-482f-8c62-1f54d1ab9221
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    037455ed-e9dc-46ba-86e8-fb2b5b7ae202: 1.4814013429743962e-36
+    234273c8-2852-4f5d-94ca-92685ae09164: -3.982429999078822e-36
+    2a7fe883-419e-4d10-abb5-aa487aad8579: 2.4365461358451265e-36
+    2fb35a8e-f044-4cce-97e3-38e18a23c4ba: -5.516047701669767e-42
+    6f74ec49-7400-4d70-bb66-d24f9ca3d45a: -3.671554484681308e-39
+    71f899ce-c66d-4bcd-9857-e33ae4679893: 3.3057006267569657e-37
+    b378f3c2-302c-4dcb-a9b8-8b8f21a39c87: -4.906092256271871e-35
+    bc425f32-793e-4197-ad88-f21b1bd9dc13: 1.3101687038840777e-39
+    c41c690a-aad4-4a90-b676-25a9fd4b2bd2: -6.639677191280123e-36
+    c4ad01b5-14c8-44e7-9ba4-22f68ab3a1c0: -5.796361803892858e-34
+    e0eb9dbd-330f-4a06-8374-2e7d213d4a80: 8.068732650671668e-35
+    f88ce2cd-c60e-476c-8fd6-2456523c1b68: 6.639677199580735e-36
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Huntington, The Soldier and the State: The Theory and Politics
+        of Civil-Military Relations, Cambridge MA 1957.
+
+        '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "128–132.\n [24] Vgl.  Samuel P .  Huntington, The Soldier and the State:\
+      \ The Theory and Politics of Civil-Military Relations, Cambridge MA 1957.\n\
+      \ [25]\nVgl.  David Cortright, Economic Conscription, in: Society May/June 1975,\
+      \ S.  43–47; Martin Elbe, Bewerberstudie 2022. "
+    uid: b378f3c2-302c-4dcb-a9b8-8b8f21a39c87
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Veterans’
+
+        Political Attitudes and Heinlein’s Conception of Citizenship, in: Armed Forces
+        & Society 4/2014, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Todd C. Helmus/Ryan A. Brown/Rajeev Ramchand, Prevalence of Veteran Support\
+      \ for Extremist Groups and Extremist Beliefs: Results from a Nationally\nRepresentative\
+      \ Survey of the U.S.  Veteran Community, Santa Monica CA 2023; Jonathan D. Klingler/J.\
+      \  Tyson Chatagnier, Are You Doing Your Part?  Veterans’\nPolitical Attitudes\
+      \ and Heinlein’s Conception of Citizenship, in: Armed Forces & Society 4/2014,\
+      \ S.  673–695.\n [28]\nVgl.  Ekkehard Lippert/Paul Schneider/Ralf Zoll, Sozialisation\
+      \ in der Bundeswehr. "
+    uid: c41c690a-aad4-4a90-b676-25a9fd4b2bd2
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Der Einfluss militärischer Sozialisation auf politische Einstellungen
+        und
+
+        politisches Verhalten in Deutschland, in: ders./Evelyn Bytzek/Ulrich Rosar
+        (Hrsg.'
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Der Einfluß des Wehrdienstes auf soziale und politische Einstellungen der\n\
+      Wehrpflichtigen, SOWI-Bericht 2/1976.\n [29]\nVgl.  Markus Steinbrecher, Die\
+      \ Schule der Nation für den Staatsbürger in Uniform?  Der Einfluss militärischer\
+      \ Sozialisation auf politische Einstellungen und\npolitisches Verhalten in Deutschland,\
+      \ in: ders./Evelyn Bytzek/Ulrich Rosar (Hrsg. ), Identität – Identifikation\
+      \ – Ideologie.  Analysen zu politischen Einstellungen\nund politischem Verhalten\
+      \ in Deutschland, Wiesbaden 2019, S.  1–55.\n"
+    uid: 6f74ec49-7400-4d70-bb66-d24f9ca3d45a
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '), Militärsoziologie – eine Einführung, Wiesbaden
+
+        20233, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "742–752.\n [37]\nVgl.  Heiko Biehl/Nina Leonhard, Militär und Tradition,\
+      \ in: Nina Leonhard/Ines-Jacqueline Werkner (Hrsg. ), Militärsoziologie – eine\
+      \ Einführung, Wiesbaden\n20233, S.  421–454; Neitzel (Anm.  30), S.  11ff.,\
+      \ S. "
+    uid: 71f899ce-c66d-4bcd-9857-e33ae4679893
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...
+
+        1 von 5 12.12.2024, 15:46'
+      page_label: '1'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Dennoch kommt es immer\nwieder zu Vorfällen.  Wie verbreitet ist Extremismus\
+      \ in den Streitkräften?  Und wie schützt sich die\nBundeswehr vor diesen Tendenzen?\n\
+      \ Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...\n\
+      1 von 5 12.12.2024, 15:46"
+    uid: c4ad01b5-14c8-44e7-9ba4-22f68ab3a1c0
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Vom Kaiserreich zur Berliner Republik – eine Militärgeschichte,
+        Berlin 2020, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "1), S.  28f. ; Sönke Neitzel, Deutsche Krieger.  Vom Kaiserreich zur Berliner\
+      \ Republik – eine Militärgeschichte, Berlin 2020, S.  596.\n [31]\nVgl.  Bundespräsident\
+      \ Frank-Walter Steinmeier beim Feierlichen Gelöbnis zum 65. "
+    uid: bc425f32-793e-4197-ad88-f21b1bd9dc13
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'November 2020 in Schloss Bellevue,
+
+        http://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2020/11/201112-Geloebnis-Bundeswehr.html.
+
+        '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[31]\nVgl.  Bundespräsident Frank-Walter Steinmeier beim Feierlichen Gelöbnis\
+      \ zum 65.  Gründungstag der Bundeswehr am 12.  November 2020 in Schloss Bellevue,\n\
+      http://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2020/11/201112-Geloebnis-Bundeswehr.html.\n\
+      \ [32]\nVgl.  Timo Graf, Was bleibt von der Zeitenwende in den Köpfen?  Sicherheits-\
+      \ und verteidigungspolitisches Meinungsbild in der Bundesrepublik Deutschland\n\
+      2023, Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr,\
+      \ Forschungsbericht 136/2024.\n"
+    uid: f88ce2cd-c60e-476c-8fd6-2456523c1b68
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Komposition des militärischen Personals geschuldet.
+
+        '
+      page_label: '3'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr. "
+    uid: 2fb35a8e-f044-4cce-97e3-38e18a23c4ba
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Militärische Grundsätze wie Disziplin, Hierarchie,
+
+        Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen. '
+      page_label: '2'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[23] Es ist also ungeklärt, ob radikale oder extremistische Haltungen in\
+      \ den\nStreitkräften verbreiteter sind als in der Gesamtgesellschaft.\n Die\
+      \ genauen Ursachen von Extremismus in Armeen sind daher in der wissenschaftlichen\
+      \ Literatur umstritten.  Die erwähnte Selektionshypothese geht davon aus,\n\
+      dass es Verbindungen zwischen militärischen Prinzipien und rechtsextremistischen\
+      \ Einstellungen gebe.  Militärische Grundsätze wie Disziplin, Hierarchie,\n\
+      Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen.\
+      \  [24] Personen mit rechten – nicht notwendigerweise\nextremistischen – Orientierungen\
+      \ sollten daher eher den Weg in die Streitkräfte suchen.  Andere Autorinnen\
+      \ und Autoren sehen ebenfalls eine Übereinstimmung\nmilitärischer Prinzipien\
+      \ und rechter Überzeugungen.  Die Ähnlichkeiten seien jedoch nicht ursächlich\
+      \ für die Überrepräsentation von rechten Orientierungen unter\nSoldatinnen und\
+      \ Soldaten, sondern das Ergebnis vorgelagerter sozioökonomischer und -kultureller\
+      \ Effekte. "
+    uid: 234273c8-2852-4f5d-94ca-92685ae09164
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Evaluation an den
+
+        Universitäten der Bundeswehr, Baden-Baden 1999; Arwed Bonnemann/Christine
+        Posner, Die politischen Orientierungen der Studenten an den Universitäten
+
+        der Bundeswehr im Vergleich zu den Studenten an öffentlichen Hochschulen,
+        in: Sicherheit und Frieden 1/2002, S. '
+      page_label: '4'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "20).\n [23]\nVgl.  Arwed Bonnemann/Ulrike Hofmann-Broll, Studentische Orientierungen\
+      \ zwischen akademischer und soldatischer Lebenswelt.  Evaluation an den\nUniversitäten\
+      \ der Bundeswehr, Baden-Baden 1999; Arwed Bonnemann/Christine Posner, Die politischen\
+      \ Orientierungen der Studenten an den Universitäten\nder Bundeswehr im Vergleich\
+      \ zu den Studenten an öffentlichen Hochschulen, in: Sicherheit und Frieden 1/2002,\
+      \ S.  42–52; Thomas Bulmahn/Rüdiger Fiebig/\n\n\nExtremismus in der Bundeswehr\
+      \ | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...\n\
+      4 von 5 12.12.2024, 15:46"
+    uid: 2a7fe883-419e-4d10-abb5-aa487aad8579
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Gründungstag der Bundeswehr am 12. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "596.\n [31]\nVgl.  Bundespräsident Frank-Walter Steinmeier beim Feierlichen\
+      \ Gelöbnis zum 65.  Gründungstag der Bundeswehr am 12.  November 2020 in Schloss\
+      \ Bellevue,\nhttp://www.bundespraesident.de/SharedDocs/Reden/DE/Frank-Walter-Steinmeier/Reden/2020/11/201112-Geloebnis-Bundeswehr.html.\n\
+      \ [32]\nVgl.  Timo Graf, Was bleibt von der Zeitenwende in den Köpfen? "
+    uid: e0eb9dbd-330f-4a06-8374-2e7d213d4a80
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Analysen zu politischen Einstellungen
+
+        und politischem Verhalten in Deutschland, Wiesbaden 2019, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Markus Steinbrecher, Die Schule der Nation für den Staatsbürger in Uniform?\
+      \  Der Einfluss militärischer Sozialisation auf politische Einstellungen und\n\
+      politisches Verhalten in Deutschland, in: ders./Evelyn Bytzek/Ulrich Rosar (Hrsg.\
+      \ ), Identität – Identifikation – Ideologie.  Analysen zu politischen Einstellungen\n\
+      und politischem Verhalten in Deutschland, Wiesbaden 2019, S.  1–55.\n [30] Vgl.\
+      \  Naumann (Anm. "
+    uid: 037455ed-e9dc-46ba-86e8-fb2b5b7ae202
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: In der Bundeswehr existieren extremistische Netzwerke, Gruppierungen oder
+    Strukturen.
+  statement_type: &id003 descriptive
+  text: In der Bundeswehr existieren keine extremistischen Netzwerke, Gruppierungen
+    oder Strukturen.
+  uid: bb416c47-e5ba-4044-b2b1-e1f98d143603
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    29673f20-85f4-4879-b852-8b307ac1a2d5: 1.4624862190572183e-31
+    34a9859b-11d5-4878-8cf9-0764239df80f: -1.2319189482891971e-42
+    52ddb51e-fcce-459d-822f-8c1cbe232259: 2.6442371294145444e-28
+    5bf40a89-a87a-4c87-96ee-a377eb2ccd0a: -5.987341343904738e-39
+    69b58c1f-ac9e-4127-bc40-7ce28b613623: -2.7803585472650296e-48
+    6de10043-aba1-4487-80f2-480fae84417f: -8.985825944049381e-37
+    ab984951-1b2d-4053-89e9-0c5eb0f74154: -2.0280390384210863e-42
+    b29bfec8-5f9c-4c45-8a74-9d72d4567298: -4.4163092773022336e-33
+    bb10b00f-07fe-48a1-ad67-6da6571f72b1: -4.906094730649281e-35
+    bd7596d8-b4de-48b8-9591-4b31753c933c: 3.6710697619423764e-39
+    e893a5f6-faaa-4f20-a4e7-ff0e196c8160: -3.826666913944468e-36
+    e9758245-06e1-4584-a20c-bd7bb5d94dbd: -6.639677199580735e-36
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Huntington, The Soldier and the State: The Theory and Politics
+        of Civil-Military Relations, Cambridge MA 1957.
+
+        '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "128–132.\n [24] Vgl.  Samuel P .  Huntington, The Soldier and the State:\
+      \ The Theory and Politics of Civil-Military Relations, Cambridge MA 1957.\n\
+      \ [25]\nVgl.  David Cortright, Economic Conscription, in: Society May/June 1975,\
+      \ S.  43–47; Martin Elbe, Bewerberstudie 2022. "
+    uid: 52ddb51e-fcce-459d-822f-8c1cbe232259
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Veterans’
+
+        Political Attitudes and Heinlein’s Conception of Citizenship, in: Armed Forces
+        & Society 4/2014, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Todd C. Helmus/Ryan A. Brown/Rajeev Ramchand, Prevalence of Veteran Support\
+      \ for Extremist Groups and Extremist Beliefs: Results from a Nationally\nRepresentative\
+      \ Survey of the U.S.  Veteran Community, Santa Monica CA 2023; Jonathan D. Klingler/J.\
+      \  Tyson Chatagnier, Are You Doing Your Part?  Veterans’\nPolitical Attitudes\
+      \ and Heinlein’s Conception of Citizenship, in: Armed Forces & Society 4/2014,\
+      \ S.  673–695.\n [28]\nVgl.  Ekkehard Lippert/Paul Schneider/Ralf Zoll, Sozialisation\
+      \ in der Bundeswehr. "
+    uid: ab984951-1b2d-4053-89e9-0c5eb0f74154
+  - metadata:
+      author: Ruge, Majda
+      file_name: ruge_souveraner_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Sie haben die Unterstützung großer Veteranen- und Militärverbände,
+        die dem militärischen Engagement der USA in Europa und im Nahen Osten sehr
+        skeptisch
+
+        gegenüberstehen. '
+      page_label: '1'
+      title: Souveräner {Sicherheitsakteur}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546714/souveraener-sicherheitsakteur/
+      year: '2024'
+    text: "Die Generäle und Diplomaten, die das alte Weltbild einer strategischen\
+      \ Partnerschaft mit Europa als Sprungbrett für Amerikas Interessen in der Welt\n\
+      verinnerlicht hatten, werden nicht zurückkehren.  An ihre Stelle tritt eine\
+      \ neue Generation von rechtsgerichteten republikanischen Aktivisten und Denkfabriken.\n\
+      \ Dominieren wird eine von zwei Gruppen, die beide die Unterstützung der republikanischen\
+      \ Basis genießen:[1] zum einen die Restrainers, die der Südgrenze der\nUSA politische\
+      \ und finanzielle Priorität einräumen wollen und eine radikale Reduzierung der\
+      \ sicherheitspolitischen Kooperationen der USA im Ausland fordern.\n Sie haben\
+      \ die Unterstützung großer Veteranen- und Militärverbände, die dem militärischen\
+      \ Engagement der USA in Europa und im Nahen Osten sehr skeptisch\ngegenüberstehen.\
+      \  Zum anderen geht es um die Prioritisers, die eine starke Ausrichtung der\
+      \ US-Außenpolitik auf Asien und China fordern.  Sie sind der Ansicht,\ndass\
+      \ die USA ihre gesamte politische und finanzielle Aufmerksamkeit auf die Abschreckung\
+      \ einer chinesischen Invasion Taiwans richten sollten, die sie für das\nJahr\
+      \ 2027 für wahrscheinlich halten.\n Trotz unterschiedlicher Schwerpunkte sind\
+      \ sich beide Lager einig, dass die Sicherheit Europas nicht die oberste Priorität\
+      \ Amerikas sein sollte. "
+    uid: bb10b00f-07fe-48a1-ad67-6da6571f72b1
+  - metadata:
+      author: Philipp, Münch
+      file_name: philipp_zasur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Insgesamt 93.000 deutsche Soldatinnen und Soldaten dienten in
+        den Missionen Operation Enduring Freedom (OEF) und
+
+        International Security Assistance Force (ISAF) beziehungsweise ab 2015 der
+        Resolute Support (RS). '
+      page_label: '1'
+      title: Zäsur {Afghanistan}-{Einsatz}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556397/zaesur-afghanistan-einsatz/
+      year: '2024'
+    text: 'Mit dem Engagement in Afghanistan begab sich die Bundeswehr ab Ende 2001
+      in den teuersten, personalintensivsten, verlustreichsten und zweitlängsten
+
+      Auslandseinsatz ihrer Geschichte.  Insgesamt 93.000 deutsche Soldatinnen und
+      Soldaten dienten in den Missionen Operation Enduring Freedom (OEF) und
+
+      International Security Assistance Force (ISAF) beziehungsweise ab 2015 der Resolute
+      Support (RS).  Der Großteil war in Kontingenten von bis zu 5.000
+
+      Soldatinnen und Soldaten für die ISAF im Einsatz.  Sie sollte Afghanistan bis
+      Ende 2014 „stabilisieren“.  Zwei Monate nach dem Abzug der RS im Juni 2021 mussten
+
+      die letzten westlichen Truppen das Land fluchtartig verlassen, als die Taliban
+      Kabul einnahmen. '
+    uid: e9758245-06e1-4584-a20c-bd7bb5d94dbd
+  - metadata:
+      author: Grzegorz, Rabea {\textbar} Nocko, Haß
+      file_name: grzegorz_gesellschaftsdienst_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Sven Altenburger, Reconsidering Military and Civil Conscription,
+        in: The Journal of Politics, i.E. '
+      page_label: '5'
+      title: Gesellschaftsdienst für alle
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552911/gesellschaftsdienst-fuer-alle/
+      year: '2024'
+    text: "Rabea Haß/Grzegorz Nocko, Ein Gesellschaftsdienst für alle – eine Konkretisierung,\
+      \ 2024, S.  6ff.\n [4]\nVgl.  Sven Altenburger, Reconsidering Military and Civil\
+      \ Conscription, in: The Journal of Politics, i.E.  (eigene Übersetzung); Ingrid\
+      \ Hamm et al., Mehr und besser.\n Vorschläge für eine Demokratiebildung von\
+      \ morgen, August 2023, S.  13, https://www.ghst.de/fileadmin/images/\n01_Bilddatenbank_Website/Demokratie_staerken/Kommission_Demokratie_Bildung/\n\
+      Kommissionsbericht/GHS_kommissionsbericht_digital_1.pdf.\n"
+    uid: 34a9859b-11d5-4878-8cf9-0764239df80f
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '), Militärsoziologie – eine Einführung, Wiesbaden
+
+        20233, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "742–752.\n [37]\nVgl.  Heiko Biehl/Nina Leonhard, Militär und Tradition,\
+      \ in: Nina Leonhard/Ines-Jacqueline Werkner (Hrsg. ), Militärsoziologie – eine\
+      \ Einführung, Wiesbaden\n20233, S.  421–454; Neitzel (Anm.  30), S.  11ff.,\
+      \ S. "
+    uid: 6de10043-aba1-4487-80f2-480fae84417f
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Militärische Grundsätze wie Disziplin, Hierarchie,
+
+        Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen. '
+      page_label: '2'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[23] Es ist also ungeklärt, ob radikale oder extremistische Haltungen in\
+      \ den\nStreitkräften verbreiteter sind als in der Gesamtgesellschaft.\n Die\
+      \ genauen Ursachen von Extremismus in Armeen sind daher in der wissenschaftlichen\
+      \ Literatur umstritten.  Die erwähnte Selektionshypothese geht davon aus,\n\
+      dass es Verbindungen zwischen militärischen Prinzipien und rechtsextremistischen\
+      \ Einstellungen gebe.  Militärische Grundsätze wie Disziplin, Hierarchie,\n\
+      Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen.\
+      \  [24] Personen mit rechten – nicht notwendigerweise\nextremistischen – Orientierungen\
+      \ sollten daher eher den Weg in die Streitkräfte suchen.  Andere Autorinnen\
+      \ und Autoren sehen ebenfalls eine Übereinstimmung\nmilitärischer Prinzipien\
+      \ und rechter Überzeugungen.  Die Ähnlichkeiten seien jedoch nicht ursächlich\
+      \ für die Überrepräsentation von rechten Orientierungen unter\nSoldatinnen und\
+      \ Soldaten, sondern das Ergebnis vorgelagerter sozioökonomischer und -kultureller\
+      \ Effekte. "
+    uid: 69b58c1f-ac9e-4127-bc40-7ce28b613623
+  - metadata:
+      author: Fischer, Niklas
+      file_name: fischer_mythos_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: June
+      original_text: '[11] An dieser Einschätzung hat sich bis heute bei der Neuen
+        Rechten
+
+        nichts geändert: In zahlreichen Publikationen finden sich immer wieder direkte
+        Angriffe auf das gesetzliche Verbot der Holocaustleugnung. '
+      page_label: '2'
+      title: '"{Mythos} {Auschwitz}"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/antisemitismus-2024/549363/mythos-auschwitz/
+      year: '2024'
+    text: "Für die Neue Rechte wird \"Auschwitz\" damit zu einer Waffe der\nGeschichtspolitik,\
+      \ die das Leugnen des neuzeitlichen \"Sündenfalls\" unter Strafe stelle, um\
+      \ die Meinungsfreiheit einzuschränken.\n \"Gesinnungsgesetze\" gegen Holocaustleugnung\n\
+      Als einer der wichtigsten Vordenker für die Neue Rechte hatte der Publizist\
+      \ Armin Mohler bereits 1994 gegen das Verbot der \"Auschwitzlüge\" polemisiert,\
+      \ mit der\ndie Existenz von Gaskammern in den deutschen Vernichtungslagern abgestritten\
+      \ wurde.  Mohler sah in dem drohenden Verbot in erster Linie ein mögliches\n\
+      moralisches Druckmittel, mit der die Forschungs- und Meinungsfreiheit bedroht\
+      \ werde. [11] An dieser Einschätzung hat sich bis heute bei der Neuen Rechten\n\
+      nichts geändert: In zahlreichen Publikationen finden sich immer wieder direkte\
+      \ Angriffe auf das gesetzliche Verbot der Holocaustleugnung.  Sieferle schreibt\
+      \ gar\nvon \"Gotteslästerung\". [12]\nÄhnlich argumentiert Autor Manfred Kleine-Hartlage\
+      \ und meint, durch \"eigens auf ihn zugeschnittene Blasphemiegesetze\" werde\
+      \ der Holocaust \"nicht etwa als\ndas monströse Verbrechen gebrandmarkt, das\
+      \ er tatsächlich war, sondern zum Inbegriff des absolut Bösen und damit aus\
+      \ dem Zuständigkeitsbereich der\nGeschichtsschreibung in den der Theologie überführt\"\
+      . [13] Dagegen lässt sich der Beschluss des Bundesverfassungsgerichts gegen\
+      \ die Holocaustleugnerin\nUrsula Haverbeck von 2018 anführen, die versucht hatte,\
+      \ gegen die Strafbarkeit der Leugnung Verfassungsbeschwerde einzulegen. "
+    uid: e893a5f6-faaa-4f20-a4e7-ff0e196c8160
+  - metadata:
+      author: Philipp, Münch
+      file_name: philipp_zasur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Allein zwischen 2006 und 2014 wurde die Bundeswehr in Afghanistan
+        mindestens 380 Mal angegriffen und war an 150 Schusswechseln
+
+        beteiligt. '
+      page_label: '3'
+      title: Zäsur {Afghanistan}-{Einsatz}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556397/zaesur-afghanistan-einsatz/
+      year: '2024'
+    text: "aufweisen, einen Korpsgeist ausbilden und im Krieg gemeinsam kämpfen.\n\
+      \ Durchhaltefähigkeit\nZwar hatte die Bundeswehr bereits 1997 bei der Evakuierungsoperation\
+      \ in Albanien und 1999 beim Einmarsch in den Kosovo zwei kurze Schusswechsel\
+      \ zu\nüberstehen.  [23] Ihr Einsatz in Afghanistan war jedoch insofern eine\
+      \ Zäsur, als sie zum ersten Mal längere Gefechte führte und eine wesentlich\
+      \ höhere\nKampfintensität erlebte.  Allein zwischen 2006 und 2014 wurde die\
+      \ Bundeswehr in Afghanistan mindestens 380 Mal angegriffen und war an 150 Schusswechseln\n\
+      beteiligt.  Im Juni 2006 gerieten deutsche Soldaten erstmals in einen komplexen\
+      \ Hinterhalt, der auf die Vernichtung einer ganzen Patrouille zielte.  Ab Mitte\
+      \ 2008\nhäuften sich längere Gefechte, die in den Jahren 2009 und 2010 ihren\
+      \ Höhepunkt erreichten.  Insgesamt fielen 35 Soldaten den Angriffen zum Opfer,\
+      \ mehr als 260\nwurden körperlich verwundet. "
+    uid: bd7596d8-b4de-48b8-9591-4b31753c933c
+  - metadata:
+      author: Ehrhardt, Christoph
+      file_name: ehrhardt_vernetzt_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der Hizbullah-Kommandeur zog ausdrücklich einen solchen
+
+        Vergleich und gab zu verstehen, dass sich seine Organisation als "professionelle
+        Militärtruppe" verstehe, nicht als mordenden Terrororganisation. '
+      page_label: '4'
+      title: Vernetzt, fragmentiert
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546378/vernetzt-fragmentiert/
+      year: '2024'
+    text: 'Er
+
+      beschwerte sich außerdem darüber, dass seine Organisation von dem Hamas-Angriff
+      unvorbereitet getroffen worden sei.  Und er drückte ein Unbehagen aus, das
+
+      es unter vielen libanesischen Schiiten gibt: Auch wenn die Hizbullah-Propaganda
+      das Morden der Hamas am 7.  Oktober als militärische Operation feierte,
+
+      weckten die Schreckensbilder bei ihnen Erinnerungen an den sunnitischen IS,
+      einen Todfeind.  Der Hizbullah-Kommandeur zog ausdrücklich einen solchen
+
+      Vergleich und gab zu verstehen, dass sich seine Organisation als "professionelle
+      Militärtruppe" verstehe, nicht als mordenden Terrororganisation.  Mehrere
+
+      Führungskader der Hamas beklagten dagegen im Zuge des israelischen Gegenschlags
+      nach dem 7.  Oktober, sie sähen gerne mehr Unterstützung durch ihre
+
+      Alliierten.  Revolutionsführer Ali Chamenei erteilte solchen Forderungen der
+      im November 2023 eine Absage.'
+    uid: 5bf40a89-a87a-4c87-96ee-a377eb2ccd0a
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Komposition des militärischen Personals geschuldet.
+
+        '
+      page_label: '3'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr. "
+    uid: 29673f20-85f4-4879-b852-8b307ac1a2d5
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Der Einfluss militärischer Sozialisation auf politische Einstellungen
+        und
+
+        politisches Verhalten in Deutschland, in: ders./Evelyn Bytzek/Ulrich Rosar
+        (Hrsg.'
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Der Einfluß des Wehrdienstes auf soziale und politische Einstellungen der\n\
+      Wehrpflichtigen, SOWI-Bericht 2/1976.\n [29]\nVgl.  Markus Steinbrecher, Die\
+      \ Schule der Nation für den Staatsbürger in Uniform?  Der Einfluss militärischer\
+      \ Sozialisation auf politische Einstellungen und\npolitisches Verhalten in Deutschland,\
+      \ in: ders./Evelyn Bytzek/Ulrich Rosar (Hrsg. ), Identität – Identifikation\
+      \ – Ideologie.  Analysen zu politischen Einstellungen\nund politischem Verhalten\
+      \ in Deutschland, Wiesbaden 2019, S.  1–55.\n"
+    uid: b29bfec8-5f9c-4c45-8a74-9d72d4567298
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es gibt mindestens einen Fall von religiösem Extremismus bei Soldat*innen
+    der Bundeswehr.
+  statement_type: *id003
+  text: Es gibt (bisher) keinen einzigen Fall von religiösem Extremismus bei Soldat*innen
+    der Bundeswehr.
+  uid: be58cfc2-9009-4af7-b351-f416ddd5d491
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    1109abee-fc9f-40e8-87f1-64a41544ef50: -2.440373374178732e-36
+    216f023f-2c93-4197-a571-eecc70047e0a: -1.2976764964339136e-41
+    29d8f123-4ef4-44be-be90-bbd67e9b9737: 2.678636961770877e-33
+    40827d64-b4d6-4142-a242-149482b246f5: -1.1089390193121365e-40
+    418b3ef7-b2fd-49ca-8e96-3d84670cdc14: -5.87176876049626e-39
+    451d1eee-2cad-41fb-9937-edb03b5eac02: 1.1407133300871084e-32
+    4dcd29cf-0556-4dea-b69d-bcda2189fb92: -1.0
+    c01a9d58-f52e-493d-a3e6-96698333d912: 8.985823195264374e-37
+    df62b692-33f6-4609-a78d-46467a936ed7: 3.141119483652507e-37
+    ec95cfe3-8c2d-4fd7-9c68-1ea5033235bf: 3.0343521953620583e-37
+    ee9a540e-2aa1-4e21-9348-532091767a8f: 2.1987591132394053e-34
+    ff8574d4-62a4-4c8f-96b1-05310af1f52c: -1.462486224236822e-31
+  confirmation_level: strongly_disconfirmed
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Huntington, The Soldier and the State: The Theory and Politics
+        of Civil-Military Relations, Cambridge MA 1957.
+
+        '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "128–132.\n [24] Vgl.  Samuel P .  Huntington, The Soldier and the State:\
+      \ The Theory and Politics of Civil-Military Relations, Cambridge MA 1957.\n\
+      \ [25]\nVgl.  David Cortright, Economic Conscription, in: Society May/June 1975,\
+      \ S.  43–47; Martin Elbe, Bewerberstudie 2022. "
+    uid: df62b692-33f6-4609-a78d-46467a936ed7
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Veterans’
+
+        Political Attitudes and Heinlein’s Conception of Citizenship, in: Armed Forces
+        & Society 4/2014, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Todd C. Helmus/Ryan A. Brown/Rajeev Ramchand, Prevalence of Veteran Support\
+      \ for Extremist Groups and Extremist Beliefs: Results from a Nationally\nRepresentative\
+      \ Survey of the U.S.  Veteran Community, Santa Monica CA 2023; Jonathan D. Klingler/J.\
+      \  Tyson Chatagnier, Are You Doing Your Part?  Veterans’\nPolitical Attitudes\
+      \ and Heinlein’s Conception of Citizenship, in: Armed Forces & Society 4/2014,\
+      \ S.  673–695.\n [28]\nVgl.  Ekkehard Lippert/Paul Schneider/Ralf Zoll, Sozialisation\
+      \ in der Bundeswehr. "
+    uid: 40827d64-b4d6-4142-a242-149482b246f5
+  - metadata:
+      author: Ruge, Majda
+      file_name: ruge_souveraner_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Sie haben die Unterstützung großer Veteranen- und Militärverbände,
+        die dem militärischen Engagement der USA in Europa und im Nahen Osten sehr
+        skeptisch
+
+        gegenüberstehen. '
+      page_label: '1'
+      title: Souveräner {Sicherheitsakteur}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546714/souveraener-sicherheitsakteur/
+      year: '2024'
+    text: "Die Generäle und Diplomaten, die das alte Weltbild einer strategischen\
+      \ Partnerschaft mit Europa als Sprungbrett für Amerikas Interessen in der Welt\n\
+      verinnerlicht hatten, werden nicht zurückkehren.  An ihre Stelle tritt eine\
+      \ neue Generation von rechtsgerichteten republikanischen Aktivisten und Denkfabriken.\n\
+      \ Dominieren wird eine von zwei Gruppen, die beide die Unterstützung der republikanischen\
+      \ Basis genießen:[1] zum einen die Restrainers, die der Südgrenze der\nUSA politische\
+      \ und finanzielle Priorität einräumen wollen und eine radikale Reduzierung der\
+      \ sicherheitspolitischen Kooperationen der USA im Ausland fordern.\n Sie haben\
+      \ die Unterstützung großer Veteranen- und Militärverbände, die dem militärischen\
+      \ Engagement der USA in Europa und im Nahen Osten sehr skeptisch\ngegenüberstehen.\
+      \  Zum anderen geht es um die Prioritisers, die eine starke Ausrichtung der\
+      \ US-Außenpolitik auf Asien und China fordern.  Sie sind der Ansicht,\ndass\
+      \ die USA ihre gesamte politische und finanzielle Aufmerksamkeit auf die Abschreckung\
+      \ einer chinesischen Invasion Taiwans richten sollten, die sie für das\nJahr\
+      \ 2027 für wahrscheinlich halten.\n Trotz unterschiedlicher Schwerpunkte sind\
+      \ sich beide Lager einig, dass die Sicherheit Europas nicht die oberste Priorität\
+      \ Amerikas sein sollte. "
+    uid: c01a9d58-f52e-493d-a3e6-96698333d912
+  - metadata:
+      author: von Altenbockum, Jasper
+      file_name: von_altenbockum_spuren_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: April
+      original_text: 'Gesichert war außerdem, unterstützt von den drei
+
+        westlichen Militärgouverneuren, die starke Stellung der Länder als Bollwerk
+        gegen einen übergriffigen oder gar unkontrollierbaren Zentralstaat.
+
+        '
+      page_label: '1'
+      title: Spuren rheinischer {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-rheinischer-demokratie/
+      year: '2024'
+    text: "Nur zwanzig der insgesamt 72 ordentlichen Mitglieder, inklusive der Nachrücker,\
+      \ waren nach 1900\ngeboren; der jüngste Abgeordnete, der CSU-Politiker Kaspar\
+      \ Seibold, Jahrgang 1914, war nach dem Krieg noch persönlicher Referent von\
+      \ Hermann Dietrich, dem\nehemaligen Finanzminister und Vizekanzler im Kabinett\
+      \ Brüning.\n Schon auf dem Konvent in Herrenchiemsee waren aus dem Scheitern\
+      \ dieser Generation zahlreiche Konsequenzen gezogen worden. [2] Die Grundrechte\
+      \ sollten\nnicht am Ende, sondern am Anfang der Verfassung stehen; das Wirken\
+      \ des Staatspräsidenten sollte nicht noch einmal im Hindenburg-Fiasko enden\
+      \ können; das\nParlament sollte zu seinem Glück, der Arbeitsfähigkeit und Regierungsstabilisierung,\
+      \ gezwungen werden.  Gesichert war außerdem, unterstützt von den drei\nwestlichen\
+      \ Militärgouverneuren, die starke Stellung der Länder als Bollwerk gegen einen\
+      \ übergriffigen oder gar unkontrollierbaren Zentralstaat.\n Ein Streit konnte\
+      \ auf der Insel im Chiemsee nur notdürftig beigelegt werden, und auch der Parlamentarische\
+      \ Rat stieß in dieser Frage an seine Grenzen: Ob der\nSpuren rheinischer Demokratie\n\
+      Der Parlamentarische Rat und das Grundgesetz\n15.04.2024 / 17 Minuten zu lesen\n\
+      Jasper von Altenbockum\nDie Verhandlungen um das Grundgesetz schienen voller\
+      \ Gegensätze.  In einer Mischung aus\nKompromissfähigkeit und Hartnäckigkeit\
+      \ diskutierte man über unterschiedliche Vorstellungen der\nGrundrechte, des\
+      \ Gemeinwohls und der „sittlichen Ordnung“ des Staates.\n Spuren rheinischer\
+      \ Demokratie | Bonn | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-r...\n\
+      1 von 5 18.12.2024, 14:13"
+    uid: 29d8f123-4ef4-44be-be90-bbd67e9b9737
+  - metadata:
+      author: Stefan, Bayer
+      file_name: stefan_preis_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Derzeit ist beispielsweise von vielen Verteidigungsexperten
+        zu hören, dass wir uns auch in Deutschland auf eine Situation vorbereiten
+        müssen, in der
+
+        Deutschland und die Nato-Partnerstaaten, insbesondere an der Ostflanke der
+        Nato, in spätestens sieben Jahren in der Lage sein müssen, einen möglichen
+        Angriff
+
+        Russlands auf Nato-Territorium auch mit sichtbarem deutschen Einsatz abwehren
+        zu können. '
+      page_label: '2'
+      title: Preis der {Freiheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556394/preis-der-freiheit/
+      year: '2024'
+    text: "Der zweite rechnerische Ansatz fragt deshalb danach, welche finanziellen\
+      \ Mittel heute erforderlich sind, um kriegstüchtige Streitkräfte aufzubauen\
+      \ und dauerhaft\neinsetzen zu können.  Das ist ein fähigkeitsorientierter Ansatz,\
+      \ der sowohl in der Nato als auch in der Bundeswehr für die Streitkräfteplanung\
+      \ angewandt wird.  Ziel\nist es, diejenigen Mittel (auch) in der Bundeswehr\
+      \ verfügbar zu haben, die im Verteidigungsfall zur erfolgreichen Abwehr bestimmter\
+      \ Bedrohungen erforderlich\nsind.  Derzeit ist beispielsweise von vielen Verteidigungsexperten\
+      \ zu hören, dass wir uns auch in Deutschland auf eine Situation vorbereiten\
+      \ müssen, in der\nDeutschland und die Nato-Partnerstaaten, insbesondere an der\
+      \ Ostflanke der Nato, in spätestens sieben Jahren in der Lage sein müssen, einen\
+      \ möglichen Angriff\nRusslands auf Nato-Territorium auch mit sichtbarem deutschen\
+      \ Einsatz abwehren zu können.  Die damit verbundenen finanziellen Mittel werden\
+      \ im\nBundesministerium der Verteidigung von den operativen Militärplanern im\
+      \ Rahmen verschiedener Szenarien quantifiziert, können aber im Rahmen dieses\n\
+      Aufsatzes nicht vertieft werden.\n Inwieweit dieses Ziel in der Bundesrepublik\
+      \ erreicht werden kann, ist fraglich – eine aktuelle Studie des Kieler Instituts\
+      \ für Weltwirtschaft zeigt sich skeptisch.  [13]\nAus finanzwissenschaftlicher\
+      \ Sicht wäre es äußerst wünschenswert, wenn die Ausgaben zur Erfüllung eines\
+      \ politischen Auftrags den zuvor definierten Aufgaben\nfolgen würden. "
+    uid: ee9a540e-2aa1-4e21-9348-532091767a8f
+  - metadata:
+      author: Grzegorz, Rabea {\textbar} Nocko, Haß
+      file_name: grzegorz_gesellschaftsdienst_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Sven Altenburger, Reconsidering Military and Civil Conscription,
+        in: The Journal of Politics, i.E. '
+      page_label: '5'
+      title: Gesellschaftsdienst für alle
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552911/gesellschaftsdienst-fuer-alle/
+      year: '2024'
+    text: "Rabea Haß/Grzegorz Nocko, Ein Gesellschaftsdienst für alle – eine Konkretisierung,\
+      \ 2024, S.  6ff.\n [4]\nVgl.  Sven Altenburger, Reconsidering Military and Civil\
+      \ Conscription, in: The Journal of Politics, i.E.  (eigene Übersetzung); Ingrid\
+      \ Hamm et al., Mehr und besser.\n Vorschläge für eine Demokratiebildung von\
+      \ morgen, August 2023, S.  13, https://www.ghst.de/fileadmin/images/\n01_Bilddatenbank_Website/Demokratie_staerken/Kommission_Demokratie_Bildung/\n\
+      Kommissionsbericht/GHS_kommissionsbericht_digital_1.pdf.\n"
+    uid: ec95cfe3-8c2d-4fd7-9c68-1ea5033235bf
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '), Militärsoziologie – eine Einführung, Wiesbaden
+
+        20233, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "742–752.\n [37]\nVgl.  Heiko Biehl/Nina Leonhard, Militär und Tradition,\
+      \ in: Nina Leonhard/Ines-Jacqueline Werkner (Hrsg. ), Militärsoziologie – eine\
+      \ Einführung, Wiesbaden\n20233, S.  421–454; Neitzel (Anm.  30), S.  11ff.,\
+      \ S. "
+    uid: 451d1eee-2cad-41fb-9937-edb03b5eac02
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Militärische Grundsätze wie Disziplin, Hierarchie,
+
+        Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen. '
+      page_label: '2'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[23] Es ist also ungeklärt, ob radikale oder extremistische Haltungen in\
+      \ den\nStreitkräften verbreiteter sind als in der Gesamtgesellschaft.\n Die\
+      \ genauen Ursachen von Extremismus in Armeen sind daher in der wissenschaftlichen\
+      \ Literatur umstritten.  Die erwähnte Selektionshypothese geht davon aus,\n\
+      dass es Verbindungen zwischen militärischen Prinzipien und rechtsextremistischen\
+      \ Einstellungen gebe.  Militärische Grundsätze wie Disziplin, Hierarchie,\n\
+      Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen.\
+      \  [24] Personen mit rechten – nicht notwendigerweise\nextremistischen – Orientierungen\
+      \ sollten daher eher den Weg in die Streitkräfte suchen.  Andere Autorinnen\
+      \ und Autoren sehen ebenfalls eine Übereinstimmung\nmilitärischer Prinzipien\
+      \ und rechter Überzeugungen.  Die Ähnlichkeiten seien jedoch nicht ursächlich\
+      \ für die Überrepräsentation von rechten Orientierungen unter\nSoldatinnen und\
+      \ Soldaten, sondern das Ergebnis vorgelagerter sozioökonomischer und -kultureller\
+      \ Effekte. "
+    uid: 1109abee-fc9f-40e8-87f1-64a41544ef50
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Der Einfluss militärischer Sozialisation auf politische Einstellungen
+        und
+
+        politisches Verhalten in Deutschland, in: ders./Evelyn Bytzek/Ulrich Rosar
+        (Hrsg.'
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Der Einfluß des Wehrdienstes auf soziale und politische Einstellungen der\n\
+      Wehrpflichtigen, SOWI-Bericht 2/1976.\n [29]\nVgl.  Markus Steinbrecher, Die\
+      \ Schule der Nation für den Staatsbürger in Uniform?  Der Einfluss militärischer\
+      \ Sozialisation auf politische Einstellungen und\npolitisches Verhalten in Deutschland,\
+      \ in: ders./Evelyn Bytzek/Ulrich Rosar (Hrsg. ), Identität – Identifikation\
+      \ – Ideologie.  Analysen zu politischen Einstellungen\nund politischem Verhalten\
+      \ in Deutschland, Wiesbaden 2019, S.  1–55.\n"
+    uid: 216f023f-2c93-4197-a571-eecc70047e0a
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Komposition des militärischen Personals geschuldet.
+
+        '
+      page_label: '3'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr. "
+    uid: ff8574d4-62a4-4c8f-96b1-05310af1f52c
+  - metadata:
+      author: Nadja, Douglas
+      file_name: nadja_machtfragen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Moldova: Total Power for Pro-European Forces, 12.7.2021, http://www.osw.waw.pl/en/publikacje/analyses/2021-07-12/moldova-total-power-pro-
+
+        european-forces.
+
+        '
+      page_label: '4'
+      title: Machtfragen und ihre {Aushandlung}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550127/machtfragen-und-ihre-aushandlung/
+      year: '2024'
+    text: "[3]\nVgl.  Denis Cenusa, Back to Direct Presidential Elections in Moldova:\
+      \ From One Political Crisis to Another?, 21.3.2016, http://www.expert-grup.org/media/k2/\n\
+      attachments/Back_to_ direct_ presidential_elections_in_Moldova.pdf.\n [4]\n\
+      Vgl.  Moldova: Total Power for Pro-European Forces, 12.7.2021, http://www.osw.waw.pl/en/publikacje/analyses/2021-07-12/moldova-total-power-pro-\n\
+      european-forces.\n [5] Vgl.  Fruhstorfer (Anm.  1), S. "
+    uid: 418b3ef7-b2fd-49ca-8e96-3d84670cdc14
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...
+
+        1 von 5 12.12.2024, 15:46'
+      page_label: '1'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Dennoch kommt es immer\nwieder zu Vorfällen.  Wie verbreitet ist Extremismus\
+      \ in den Streitkräften?  Und wie schützt sich die\nBundeswehr vor diesen Tendenzen?\n\
+      \ Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...\n\
+      1 von 5 12.12.2024, 15:46"
+    uid: 4dcd29cf-0556-4dea-b69d-bcda2189fb92
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 1
+  negation: Es gibt bereits Fälle von rechtsextremer Gesinnung oder Aktivität bei
+    Soldat*innen der Bundeswehr.
+  statement_type: *id003
+  text: Es gibt (bisher) keinen einzigen Fall von rechtsextremer Gesinnung oder Aktivität
+    bei Soldat*innen der Bundeswehr.
+  uid: f699b68e-a694-45c4-8910-0739f7607007
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    08d7190b-3f6b-43c7-994d-30d4cafe1ef7: 2.4112321287014503e-31
+    10c90911-1d55-46c0-bf28-ff3c0cd58548: 8.963552308431424e-37
+    117c8b9a-b839-4f34-83f4-44ac7d7c3267: -1.5437876161911847e-33
+    1bc9aff8-8bd6-4239-874e-301e71624aa7: -2.4743774090493775e-41
+    46213a34-4f92-47c4-877e-35252bb49c4e: 7.00878493432737e-38
+    74d38859-5d60-4ef9-b20a-31f24b99477d: -6.051253189725371e-39
+    848bbadf-d628-4c78-98f9-2683fcfe8636: 2.4425952166582508e-36
+    87c4a17a-c79e-416b-83e3-fe86dc4ff8fe: 1.0936994678600847e-35
+    9e3f907f-7597-430f-8561-4784fa4284be: 4.025816827850077e-36
+    a7f5ab88-819a-4816-acdb-e818850f58bc: -2.2273617096789742e-39
+    ba85841f-56a3-4721-8eaf-7eea496dcb69: -1.520310024771829e-46
+    bf8a7a89-69e9-42a3-8cc2-bf3ac7526c96: 5.350355428601475e-37
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Huntington, The Soldier and the State: The Theory and Politics
+        of Civil-Military Relations, Cambridge MA 1957.
+
+        '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "128–132.\n [24] Vgl.  Samuel P .  Huntington, The Soldier and the State:\
+      \ The Theory and Politics of Civil-Military Relations, Cambridge MA 1957.\n\
+      \ [25]\nVgl.  David Cortright, Economic Conscription, in: Society May/June 1975,\
+      \ S.  43–47; Martin Elbe, Bewerberstudie 2022. "
+    uid: 10c90911-1d55-46c0-bf28-ff3c0cd58548
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Veterans’
+
+        Political Attitudes and Heinlein’s Conception of Citizenship, in: Armed Forces
+        & Society 4/2014, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Todd C. Helmus/Ryan A. Brown/Rajeev Ramchand, Prevalence of Veteran Support\
+      \ for Extremist Groups and Extremist Beliefs: Results from a Nationally\nRepresentative\
+      \ Survey of the U.S.  Veteran Community, Santa Monica CA 2023; Jonathan D. Klingler/J.\
+      \  Tyson Chatagnier, Are You Doing Your Part?  Veterans’\nPolitical Attitudes\
+      \ and Heinlein’s Conception of Citizenship, in: Armed Forces & Society 4/2014,\
+      \ S.  673–695.\n [28]\nVgl.  Ekkehard Lippert/Paul Schneider/Ralf Zoll, Sozialisation\
+      \ in der Bundeswehr. "
+    uid: 87c4a17a-c79e-416b-83e3-fe86dc4ff8fe
+  - metadata:
+      author: von Altenbockum, Jasper
+      file_name: von_altenbockum_spuren_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: April
+      original_text: 'Gesichert war außerdem, unterstützt von den drei
+
+        westlichen Militärgouverneuren, die starke Stellung der Länder als Bollwerk
+        gegen einen übergriffigen oder gar unkontrollierbaren Zentralstaat.
+
+        '
+      page_label: '1'
+      title: Spuren rheinischer {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-rheinischer-demokratie/
+      year: '2024'
+    text: "Nur zwanzig der insgesamt 72 ordentlichen Mitglieder, inklusive der Nachrücker,\
+      \ waren nach 1900\ngeboren; der jüngste Abgeordnete, der CSU-Politiker Kaspar\
+      \ Seibold, Jahrgang 1914, war nach dem Krieg noch persönlicher Referent von\
+      \ Hermann Dietrich, dem\nehemaligen Finanzminister und Vizekanzler im Kabinett\
+      \ Brüning.\n Schon auf dem Konvent in Herrenchiemsee waren aus dem Scheitern\
+      \ dieser Generation zahlreiche Konsequenzen gezogen worden. [2] Die Grundrechte\
+      \ sollten\nnicht am Ende, sondern am Anfang der Verfassung stehen; das Wirken\
+      \ des Staatspräsidenten sollte nicht noch einmal im Hindenburg-Fiasko enden\
+      \ können; das\nParlament sollte zu seinem Glück, der Arbeitsfähigkeit und Regierungsstabilisierung,\
+      \ gezwungen werden.  Gesichert war außerdem, unterstützt von den drei\nwestlichen\
+      \ Militärgouverneuren, die starke Stellung der Länder als Bollwerk gegen einen\
+      \ übergriffigen oder gar unkontrollierbaren Zentralstaat.\n Ein Streit konnte\
+      \ auf der Insel im Chiemsee nur notdürftig beigelegt werden, und auch der Parlamentarische\
+      \ Rat stieß in dieser Frage an seine Grenzen: Ob der\nSpuren rheinischer Demokratie\n\
+      Der Parlamentarische Rat und das Grundgesetz\n15.04.2024 / 17 Minuten zu lesen\n\
+      Jasper von Altenbockum\nDie Verhandlungen um das Grundgesetz schienen voller\
+      \ Gegensätze.  In einer Mischung aus\nKompromissfähigkeit und Hartnäckigkeit\
+      \ diskutierte man über unterschiedliche Vorstellungen der\nGrundrechte, des\
+      \ Gemeinwohls und der „sittlichen Ordnung“ des Staates.\n Spuren rheinischer\
+      \ Demokratie | Bonn | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-r...\n\
+      1 von 5 18.12.2024, 14:13"
+    uid: 08d7190b-3f6b-43c7-994d-30d4cafe1ef7
+  - metadata:
+      author: Ruge, Majda
+      file_name: ruge_souveraner_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Sie haben die Unterstützung großer Veteranen- und Militärverbände,
+        die dem militärischen Engagement der USA in Europa und im Nahen Osten sehr
+        skeptisch
+
+        gegenüberstehen. '
+      page_label: '1'
+      title: Souveräner {Sicherheitsakteur}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546714/souveraener-sicherheitsakteur/
+      year: '2024'
+    text: "Die Generäle und Diplomaten, die das alte Weltbild einer strategischen\
+      \ Partnerschaft mit Europa als Sprungbrett für Amerikas Interessen in der Welt\n\
+      verinnerlicht hatten, werden nicht zurückkehren.  An ihre Stelle tritt eine\
+      \ neue Generation von rechtsgerichteten republikanischen Aktivisten und Denkfabriken.\n\
+      \ Dominieren wird eine von zwei Gruppen, die beide die Unterstützung der republikanischen\
+      \ Basis genießen:[1] zum einen die Restrainers, die der Südgrenze der\nUSA politische\
+      \ und finanzielle Priorität einräumen wollen und eine radikale Reduzierung der\
+      \ sicherheitspolitischen Kooperationen der USA im Ausland fordern.\n Sie haben\
+      \ die Unterstützung großer Veteranen- und Militärverbände, die dem militärischen\
+      \ Engagement der USA in Europa und im Nahen Osten sehr skeptisch\ngegenüberstehen.\
+      \  Zum anderen geht es um die Prioritisers, die eine starke Ausrichtung der\
+      \ US-Außenpolitik auf Asien und China fordern.  Sie sind der Ansicht,\ndass\
+      \ die USA ihre gesamte politische und finanzielle Aufmerksamkeit auf die Abschreckung\
+      \ einer chinesischen Invasion Taiwans richten sollten, die sie für das\nJahr\
+      \ 2027 für wahrscheinlich halten.\n Trotz unterschiedlicher Schwerpunkte sind\
+      \ sich beide Lager einig, dass die Sicherheit Europas nicht die oberste Priorität\
+      \ Amerikas sein sollte. "
+    uid: 46213a34-4f92-47c4-877e-35252bb49c4e
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Der Einfluss militärischer Sozialisation auf politische Einstellungen
+        und
+
+        politisches Verhalten in Deutschland, in: ders./Evelyn Bytzek/Ulrich Rosar
+        (Hrsg.'
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Der Einfluß des Wehrdienstes auf soziale und politische Einstellungen der\n\
+      Wehrpflichtigen, SOWI-Bericht 2/1976.\n [29]\nVgl.  Markus Steinbrecher, Die\
+      \ Schule der Nation für den Staatsbürger in Uniform?  Der Einfluss militärischer\
+      \ Sozialisation auf politische Einstellungen und\npolitisches Verhalten in Deutschland,\
+      \ in: ders./Evelyn Bytzek/Ulrich Rosar (Hrsg. ), Identität – Identifikation\
+      \ – Ideologie.  Analysen zu politischen Einstellungen\nund politischem Verhalten\
+      \ in Deutschland, Wiesbaden 2019, S.  1–55.\n"
+    uid: a7f5ab88-819a-4816-acdb-e818850f58bc
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Militärische Grundsätze wie Disziplin, Hierarchie,
+
+        Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen. '
+      page_label: '2'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[23] Es ist also ungeklärt, ob radikale oder extremistische Haltungen in\
+      \ den\nStreitkräften verbreiteter sind als in der Gesamtgesellschaft.\n Die\
+      \ genauen Ursachen von Extremismus in Armeen sind daher in der wissenschaftlichen\
+      \ Literatur umstritten.  Die erwähnte Selektionshypothese geht davon aus,\n\
+      dass es Verbindungen zwischen militärischen Prinzipien und rechtsextremistischen\
+      \ Einstellungen gebe.  Militärische Grundsätze wie Disziplin, Hierarchie,\n\
+      Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen.\
+      \  [24] Personen mit rechten – nicht notwendigerweise\nextremistischen – Orientierungen\
+      \ sollten daher eher den Weg in die Streitkräfte suchen.  Andere Autorinnen\
+      \ und Autoren sehen ebenfalls eine Übereinstimmung\nmilitärischer Prinzipien\
+      \ und rechter Überzeugungen.  Die Ähnlichkeiten seien jedoch nicht ursächlich\
+      \ für die Überrepräsentation von rechten Orientierungen unter\nSoldatinnen und\
+      \ Soldaten, sondern das Ergebnis vorgelagerter sozioökonomischer und -kultureller\
+      \ Effekte. "
+    uid: ba85841f-56a3-4721-8eaf-7eea496dcb69
+  - metadata:
+      author: Grzegorz, Rabea {\textbar} Nocko, Haß
+      file_name: grzegorz_gesellschaftsdienst_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Sven Altenburger, Reconsidering Military and Civil Conscription,
+        in: The Journal of Politics, i.E. '
+      page_label: '5'
+      title: Gesellschaftsdienst für alle
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552911/gesellschaftsdienst-fuer-alle/
+      year: '2024'
+    text: "Rabea Haß/Grzegorz Nocko, Ein Gesellschaftsdienst für alle – eine Konkretisierung,\
+      \ 2024, S.  6ff.\n [4]\nVgl.  Sven Altenburger, Reconsidering Military and Civil\
+      \ Conscription, in: The Journal of Politics, i.E.  (eigene Übersetzung); Ingrid\
+      \ Hamm et al., Mehr und besser.\n Vorschläge für eine Demokratiebildung von\
+      \ morgen, August 2023, S.  13, https://www.ghst.de/fileadmin/images/\n01_Bilddatenbank_Website/Demokratie_staerken/Kommission_Demokratie_Bildung/\n\
+      Kommissionsbericht/GHS_kommissionsbericht_digital_1.pdf.\n"
+    uid: bf8a7a89-69e9-42a3-8cc2-bf3ac7526c96
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Komposition des militärischen Personals geschuldet.
+
+        '
+      page_label: '3'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr. "
+    uid: 9e3f907f-7597-430f-8561-4784fa4284be
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '), Militärsoziologie – eine Einführung, Wiesbaden
+
+        20233, S. '
+      page_label: '5'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "742–752.\n [37]\nVgl.  Heiko Biehl/Nina Leonhard, Militär und Tradition,\
+      \ in: Nina Leonhard/Ines-Jacqueline Werkner (Hrsg. ), Militärsoziologie – eine\
+      \ Einführung, Wiesbaden\n20233, S.  421–454; Neitzel (Anm.  30), S.  11ff.,\
+      \ S. "
+    uid: 74d38859-5d60-4ef9-b20a-31f24b99477d
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...
+
+        1 von 5 12.12.2024, 15:46'
+      page_label: '1'
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Dennoch kommt es immer\nwieder zu Vorfällen.  Wie verbreitet ist Extremismus\
+      \ in den Streitkräften?  Und wie schützt sich die\nBundeswehr vor diesen Tendenzen?\n\
+      \ Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...\n\
+      1 von 5 12.12.2024, 15:46"
+    uid: 117c8b9a-b839-4f34-83f4-44ac7d7c3267
+  - metadata:
+      author: Stefan, Bayer
+      file_name: stefan_preis_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Derzeit ist beispielsweise von vielen Verteidigungsexperten
+        zu hören, dass wir uns auch in Deutschland auf eine Situation vorbereiten
+        müssen, in der
+
+        Deutschland und die Nato-Partnerstaaten, insbesondere an der Ostflanke der
+        Nato, in spätestens sieben Jahren in der Lage sein müssen, einen möglichen
+        Angriff
+
+        Russlands auf Nato-Territorium auch mit sichtbarem deutschen Einsatz abwehren
+        zu können. '
+      page_label: '2'
+      title: Preis der {Freiheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556394/preis-der-freiheit/
+      year: '2024'
+    text: "Der zweite rechnerische Ansatz fragt deshalb danach, welche finanziellen\
+      \ Mittel heute erforderlich sind, um kriegstüchtige Streitkräfte aufzubauen\
+      \ und dauerhaft\neinsetzen zu können.  Das ist ein fähigkeitsorientierter Ansatz,\
+      \ der sowohl in der Nato als auch in der Bundeswehr für die Streitkräfteplanung\
+      \ angewandt wird.  Ziel\nist es, diejenigen Mittel (auch) in der Bundeswehr\
+      \ verfügbar zu haben, die im Verteidigungsfall zur erfolgreichen Abwehr bestimmter\
+      \ Bedrohungen erforderlich\nsind.  Derzeit ist beispielsweise von vielen Verteidigungsexperten\
+      \ zu hören, dass wir uns auch in Deutschland auf eine Situation vorbereiten\
+      \ müssen, in der\nDeutschland und die Nato-Partnerstaaten, insbesondere an der\
+      \ Ostflanke der Nato, in spätestens sieben Jahren in der Lage sein müssen, einen\
+      \ möglichen Angriff\nRusslands auf Nato-Territorium auch mit sichtbarem deutschen\
+      \ Einsatz abwehren zu können.  Die damit verbundenen finanziellen Mittel werden\
+      \ im\nBundesministerium der Verteidigung von den operativen Militärplanern im\
+      \ Rahmen verschiedener Szenarien quantifiziert, können aber im Rahmen dieses\n\
+      Aufsatzes nicht vertieft werden.\n Inwieweit dieses Ziel in der Bundesrepublik\
+      \ erreicht werden kann, ist fraglich – eine aktuelle Studie des Kieler Instituts\
+      \ für Weltwirtschaft zeigt sich skeptisch.  [13]\nAus finanzwissenschaftlicher\
+      \ Sicht wäre es äußerst wünschenswert, wenn die Ausgaben zur Erfüllung eines\
+      \ politischen Auftrags den zuvor definierten Aufgaben\nfolgen würden. "
+    uid: 1bc9aff8-8bd6-4239-874e-301e71624aa7
+  - metadata:
+      author: Nadja, Douglas
+      file_name: nadja_machtfragen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Moldova: Total Power for Pro-European Forces, 12.7.2021, http://www.osw.waw.pl/en/publikacje/analyses/2021-07-12/moldova-total-power-pro-
+
+        european-forces.
+
+        '
+      page_label: '4'
+      title: Machtfragen und ihre {Aushandlung}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550127/machtfragen-und-ihre-aushandlung/
+      year: '2024'
+    text: "[3]\nVgl.  Denis Cenusa, Back to Direct Presidential Elections in Moldova:\
+      \ From One Political Crisis to Another?, 21.3.2016, http://www.expert-grup.org/media/k2/\n\
+      attachments/Back_to_ direct_ presidential_elections_in_Moldova.pdf.\n [4]\n\
+      Vgl.  Moldova: Total Power for Pro-European Forces, 12.7.2021, http://www.osw.waw.pl/en/publikacje/analyses/2021-07-12/moldova-total-power-pro-\n\
+      european-forces.\n [5] Vgl.  Fruhstorfer (Anm.  1), S. "
+    uid: 848bbadf-d628-4c78-98f9-2683fcfe8636
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es gibt mindestens einen Fall von linksextremer Gesinnung oder Aktivität
+    bei Soldat*innen der Bundeswehr.
+  statement_type: *id003
+  text: Es gibt (bisher) keinen einzigen Fall von linksextremer Gesinnung oder Aktivität
+    bei Soldat*innen der Bundeswehr.
+  uid: c6c9443c-5b14-465b-ad06-dca14f0cb16f
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - A
+        - B
+        - C
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(A|B|C)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Kimi-K2-Instruct
+  verbose: false
+request: In der Bundeswehr gibt es keinen politischen Extremismus.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  window_size: 3
+time: 2025-08-12 20:11:15 UTC
+uid: 97cde0a9-11bd-440a-aa60-93d8ceb2535d

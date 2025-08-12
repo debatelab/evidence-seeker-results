@@ -1,4 +1,4 @@
-name: Build GitHub Pages
+name: Build GitHub Pages with Mkdocs
 on:
   schedule:
     - cron: "0 2 * * *"

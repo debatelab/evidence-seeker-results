@@ -6,12 +6,12 @@ Die EvidenceSeeker Demoapp illustriert, wie man mit Hilfe der [*EvidenceSeeker B
 
 Die **EvidenceSeeker Pipeline** verwendet generative Sprachmodelle und geht bei der Prüfung einer Aussage in folgenden Schritten vor: 
 
-1. Die Pipeline findet in einem ersten Schritt
+1. **Voranalyse:** Die Pipeline findet in einem ersten Schritt
 unterschiedliche Interpretationen der Eingabe und unterscheidet 
 dabei *deskriptive, zuschreibende und normative Aussagen*. 
-2. Für die gefundenen deskriptiven und zuschreibenden Interpretationen wird dann in einer *Wissensbasis* nach relevanten Textstellen gesucht und analysiert, inwiefern 
+2. **Extraktion:** Für die gefundenen deskriptiven und zuschreibenden Interpretationen wird dann in einer *Wissensbasis* nach relevanten Textstellen gesucht und analysiert, inwiefern 
 die Textstellen die gefundene Interpretation bestätigen oder widerlegen.
-3. Diese Einzelanalysen werden für jede Interpretation in Form eines
+3. **Evidenzanalyse:** Diese Einzelanalysen werden für jede Interpretation in Form eines
 *Bestätigungslevels* von insgesamt 7 aggregiert:
     + 'im hohen Maße bestätigt', 
     + 'bestätigt',
@@ -27,8 +27,10 @@ zur Pipeline findest Du [hier](https://debatelab.github.io/evidence-seeker/workf
 
 **Verwendete Modelle und Wissensbasis:** 
 
-+ In dieser Demo App verwenden wir [XX](#) als Embedding Modell und
-[XX](#) als generatives Sprachmodell.
++ In dieser Demo App verwenden wir:
+    + [Kimi-K2-Instruct](https://huggingface.co/moonshotai/Kimi-K2-Instruct) als generatives Sprachmodell für die Voranalyse,
+    + [paraphrase-multilingual-mpnet-base-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2) als Embedding Modell für die Extraktion und
+    + [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) als generatives Sprachmodell für die Evidenzanalyse.
 + Als Wissensbasis dienen
 alle Ausgaben von *"Aus Politik und Zeitgeschichte" (APuZ)* aus dem Jahr 2024
 ([Link](https://www.bpb.de/shop/zeitschriften/apuz/?field_filter_thema=all&field_date_content=2024&d=1)). *APuZ* wird von der Bundeszentrale für politische Bildung herausgegeben.

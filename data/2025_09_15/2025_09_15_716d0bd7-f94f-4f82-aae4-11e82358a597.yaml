@@ -2527,7 +2527,7 @@ preprocessing_config:
   timeout: 1800
   used_model_key: Llama-3.3-70B-Instruct
   verbose: false
-request: Die BRICS-Staaten sorgen für eine Veränderung der westlich geprägten Weltordnung.
+request: Die Anzahl hybrider Kriege hat zugenommen.
 retrieval_config:
   api_key_name: hf_debatelab_inference_provider
   bill_to: DebateLabKIT
@@ -2549,5 +2549,5 @@ retrieval_config:
   meta_data_file: null
   top_k: 12
   window_size: 3
-time: 2025-09-15 13:10:06 UTC
+time: 2025-09-15 13:19:57 UTC
 uid: 716d0bd7-f94f-4f82-aae4-11e82358a597

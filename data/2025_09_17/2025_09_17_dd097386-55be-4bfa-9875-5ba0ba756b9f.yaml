@@ -1,0 +1,2204 @@
+claims:
+- average_confirmation: 1.0
+  confirmation_by_document:
+    44b85f38-154f-4fc8-ae0d-4d5f94c16c13: 1.0
+    5d62e892-8858-4a1c-b312-e92956c2827c: 4.303622624624454e-23
+    7aea0670-d3d0-4052-859d-a1609b12d81a: 1.0
+    9374e12e-2f1f-4863-8cb0-9fbce11069e3: -2.198311735308787e-34
+    9e63434f-d6e3-497c-8d2c-ab5057231f39: 1.0
+    a93f50ee-4349-4fe5-a0cd-25a8ecb40c2b: 5.976846942677399e-34
+    aaccbd85-cd00-4b6c-a029-e8b65b57db0d: 1.0
+    be0f44ec-cc73-4ec5-ac49-3bcef50ec017: -9.102573756419963e-42
+    c4bbab99-f91b-4252-8a3a-3cfa62eb0fda: -9.854154652624201e-34
+    c7a60f33-bc43-4248-a075-8b57444014f7: 7.984904245685747e-30
+    d5b3094e-717e-4c32-b8c8-13ad12e255ac: 1.0
+    e5ad0f58-9530-43ca-8ae0-c2ecb38e05ba: -1.462486166705212e-31
+  confirmation_level: strongly_confirmed
+  documents:
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'In den 1990er Jahren schien die liberale Demokratie als Regierungsform
+        für einen kurzen Moment
+
+        alternativlos zu sein. '
+      page_label: '1'
+      relevance_score: 0.5887352200694755
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Der Konstitutionalismus der Nachkriegszeit ist in der Krise.  In den 1990er
+      Jahren schien die liberale Demokratie als Regierungsform für einen kurzen Moment
+
+      alternativlos zu sein.  Dies gilt heute nicht mehr – jedenfalls nicht mehr uneingeschränkt.  Globale
+      Indizes stellen seit mehreren Jahren eine Abnahme von
+
+      Rechtsstaatlichkeit und Demokratie fest.  Länder wie die USA, die einst als
+      Vorbild des demokratischen Konstitutionalismus galten oder wie Südafrika als
+      neue
+
+      Hoffnungsträger für eine demokratischere und gerechtere Gesellschaft gefeiert
+      wurden, sind dies heute vielfach nicht mehr. '
+    uid: 5d62e892-8858-4a1c-b312-e92956c2827c
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Mittlerweile aber sind in der ganzen Welt autokratische
+
+        Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+        auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+        tief verwurzelt schien.'
+      page_label: '3'
+      relevance_score: 0.570312155394293
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[15] Es darf dort protestiert werden, wenn die Arbeit des Parlaments nicht
+      gestört wird, und so
+
+      werden vor dem Bundestag in der Regel Demonstrationen an Wochenenden erlaubt.  Um
+      die Wende zum 21.  Jahrhundert war man sich noch sicher, dass die
+
+      liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+      gewonnen hatte.  Mittlerweile aber sind in der ganzen Welt autokratische
+
+      Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+      auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+      tief verwurzelt schien. [16]
+
+      Mit den Bildern vom schwarz-weiß-roten Flaggenmeer auf den Stufen des Reichstagsgebäudes
+      am 29.  August 2020 gelangten sie erstmals ins breite
+
+      Bewusstsein der Bevölkerung in Deutschland.  Doch die Aufnahmen multiplizierten
+      sich nicht nur über die herkömmlichen Medien und Bildagenturen, sondern
+
+      auch über Facebook, Instagram, Telegram und andere Plattformen im Internet. '
+    uid: 7aea0670-d3d0-4052-859d-a1609b12d81a
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Liberal
+
+        Europe in Retreat, Oxford 2018; David Runciman, How Democracy Ends, London
+        2018.
+
+        '
+      page_label: '5'
+      relevance_score: 0.5609961188813019
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Wie der Populismus den Rechtsstaat bedroht, München 2018; Timothy Snyder,\
+      \ The Road to Unfreedom.  Russia, Europe, America, London\n2018; Steven Levitsky/Daniel\
+      \ Ziblatt, Wie Demokratien sterben.  Und was wir dagegen tun können, München\
+      \ 2018; Jan Zielonka, Counter-Revolution.  Liberal\nEurope in Retreat, Oxford\
+      \ 2018; David Runciman, How Democracy Ends, London 2018.\n [18] Joseph Goebbels,\
+      \ Der Angriff.  Aufsätze aus der Kampfzeit, München 1935, S.  61.\n"
+    uid: a93f50ee-4349-4fe5-a0cd-25a8ecb40c2b
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Jahrhundert war man sich noch sicher, dass die
+
+        liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+        gewonnen hatte. '
+      page_label: '3'
+      relevance_score: 0.5593430142221313
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: 'Heute gibt es nur noch
+
+      einen sogenannten befriedeten Bezirk im Regierungsviertel. [15] Es darf dort
+      protestiert werden, wenn die Arbeit des Parlaments nicht gestört wird, und so
+
+      werden vor dem Bundestag in der Regel Demonstrationen an Wochenenden erlaubt.  Um
+      die Wende zum 21.  Jahrhundert war man sich noch sicher, dass die
+
+      liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+      gewonnen hatte.  Mittlerweile aber sind in der ganzen Welt autokratische
+
+      Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+      auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+      tief verwurzelt schien. [16]
+
+      Mit den Bildern vom schwarz-weiß-roten Flaggenmeer auf den Stufen des Reichstagsgebäudes
+      am 29.  August 2020 gelangten sie erstmals ins breite
+
+      Bewusstsein der Bevölkerung in Deutschland. '
+    uid: d5b3094e-717e-4c32-b8c8-13ad12e255ac
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: '[24] Wir sollten
+
+        ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+        dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+        für
+
+        einen funktionierenden Rechtsstaat einsetzen müssen. '
+      page_label: '3'
+      relevance_score: 0.5581077138631723
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: 'Schließlich werden einige Mitgliedstaaten die Diskussion über die Rechtsstaatlichkeit
+      mit Nachdruck vorantreiben und sich entschieden gegen jeden
+
+      demokratischen Rückschritt innerhalb der Union wehren.  Manche Länder haben
+      bereits deutlich gemacht, dass neue EU-Mitglieder vor ihrem Beitritt alle Regeln
+
+      der Union einhalten müssen.  Hier muss allerdings selbstkritisch angemerkt werden,
+      dass die EU zunächst selbst ihre Hausaufgaben machen muss. [24] Wir sollten
+
+      ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+      dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+      für
+
+      einen funktionierenden Rechtsstaat einsetzen müssen.  Nur so können wir einen
+      ehrlichen Dialog führen und langfristig überzeugen: Wie kann man liberale
+
+      Demokratie lernen?  Handelt es sich dabei um einen linearen Prozess?  Wie kann
+      der Fortschritt aufrechterhalten werden? '
+    uid: 9e63434f-d6e3-497c-8d2c-ab5057231f39
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      relevance_score: 0.5504257297117128
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: be0f44ec-cc73-4ec5-ac49-3bcef50ec017
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      relevance_score: 0.5487963688041171
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: c7a60f33-bc43-4248-a075-8b57444014f7
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Kelsen war ein
+
+        aufrechter liberaler Sozialdemokrat, dessen normative und definitorische Askese
+        die Demokratie jedoch auf die Mehrheitsregel beschränkte. '
+      page_label: '2'
+      relevance_score: 0.5456557938291824
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: 'Jedes noch so revolutionäre oder reaktionäre, umstürzlerische, staatsfeindliche,
+      deutschfeindliche oder gottlose Ziel ist
+
+      zugelassen und darf der Chance, auf legalem Wege erreicht zu werden, nicht beraubt
+      werden.“ [9]
+
+      Ex negativo hatte Schmitt damit das Problem beschrieben, auf das eine Demokratie
+      stößt, die sich ihrer Existenz nicht sicher sein kann.  Er ignorierte freilich
+      die
+
+      Möglichkeiten der Republikschutzgesetzgebung, welche auch die damalige Verfassung
+      bot, um ihre Feinde zu bekämpfen.  Am Ende fehlte vor allem der politische
+
+      Wille, sie anzuwenden – auch beim antiliberalen Schmitt, der seinen Hauptgegner
+      im österreichischen Staatsrechtslehrer Hans Kelsen fand.  Kelsen war ein
+
+      aufrechter liberaler Sozialdemokrat, dessen normative und definitorische Askese
+      die Demokratie jedoch auf die Mehrheitsregel beschränkte.  Die Demokratie sei
+
+      „diejenige Staatsform“, so Kelsen, „die sich am wenigsten gegen ihre Gegner
+      wehrt“.  [10] Die Frage, „[o]b die Demokratie sich nicht selbst verteidigen
+      soll, auch
+
+      gegen das Volk, das sie nicht mehr will“, musste Kelsen aus der Konsequenz seiner
+      theoretischen Position verneinen, denn: „Eine Demokratie, die sich gegen den
+
+      Willen der Mehrheit zu behaupten, gar mit Gewalt sich zu behaupten versucht,
+      hat aufgehört, Demokratie zu sein.“ Kelsen wollte sich „nicht in den
+
+      verhängnisvollen Widerspruch verstricken lassen und zur Diktatur greifen, um
+      die Demokratie zu retten“.  [11] Man mag sich fragen, ob dieser Fall je eingetreten
+      ist
+
+      – immerhin vermochten auch die Nationalsozialisten nie, bei regulären Wahlen
+      eine absolute Mehrheit der Stimmen zu erreichen. '
+    uid: 9374e12e-2f1f-4863-8cb0-9fbce11069e3
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Der wichtigste Unterschied besteht allerdings darin, dass die
+        liberale Demokratie seinerzeit noch eine neue Errungenschaft war. '
+      page_label: '3'
+      relevance_score: 0.5437204613830321
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "In den 1930er Jahren\nlag der Begriff der Militanz näher; er hatte innenpolitische\
+      \ und außenpolitische Evidenz.  Innenpolitisch, weil es wirklich darum ging,\
+      \ militarisierten\nKampfverbänden der extremistischen Parteien zu begegnen,\
+      \ außenpolitisch, weil die revisionistische Außenpolitik und der kriegerische\
+      \ Expansionswille des\nNationalsozialismus Gegenwehr verlangten.\n Wenn Zeitdiagnostiker,\
+      \ Historiker und Politikwissenschaftler heute den Vergleich zur Zwischenkriegszeit\
+      \ ziehen, [17] liegen einige oberflächliche Ähnlichkeiten\nauf der Hand: die\
+      \ Akzeptanzkrise des Parlamentarismus, das Aufkommen rechtsextremistischer Massenbewegungen\
+      \ und der allgemeine Konjunkturaufschwung\ndes Nationalismus, das Spannungsverhältnis\
+      \ zwischen demokratischen Teilhabeansprüchen und kapitalistischer Wirklichkeit,\
+      \ nicht zuletzt die Unsicherheiten\neines internationalen Systems, dessen Institutionen\
+      \ den Herausforderungen der Migration, der Ökonomie und Ökologie oder der Sicherheitspolitik\
+      \ immer hilfloser\ngegenüberzustehen scheinen.\n Der wichtigste Unterschied\
+      \ besteht allerdings darin, dass die liberale Demokratie seinerzeit noch eine\
+      \ neue Errungenschaft war.  Demokratie war ein\nZukunftsbegriff, an den sich\
+      \ eine Fülle von Erwartungen und Hoffnungen knüpfte, aber mit ihm waren noch\
+      \ kaum Erfahrungen verbunden.  Eigentlich kann man in\nEuropa erst seit 1918\
+      \ davon sprechen, dass die liberale Demokratie mit freiem und gleichem Wahlrecht,\
+      \ repräsentativer parlamentarischer Regierungsform,\nGewaltenteilung und Garantie\
+      \ von Grundrechten Verfassungsgeltung erlangte und zum führenden Modell wurde.\
+      \  Die Frage, wie die Demokratie dauerhaft zu\nsichern und gegen ihre Feinde\
+      \ zu schützen ist, wurde in dem Moment relevant, als sich in der Massendemokratie\
+      \ neue totalitäre Ideologien anschickten, die\nparlamentarische Demokratie zu\
+      \ beseitigen – unter Berufung auf einen vermeintlichen Volks- beziehungsweise\
+      \ Mehrheitswillen.\n"
+    uid: aaccbd85-cd00-4b6c-a029-e8b65b57db0d
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die Frage, wie die Demokratie dauerhaft zu
+
+        sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,
+        als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die
+
+        parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen
+        Volks- beziehungsweise Mehrheitswillen.
+
+        '
+      page_label: '3'
+      relevance_score: 0.5430373982378944
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Der wichtigste Unterschied besteht allerdings darin, dass die liberale\
+      \ Demokratie seinerzeit noch eine neue Errungenschaft war.  Demokratie war ein\n\
+      Zukunftsbegriff, an den sich eine Fülle von Erwartungen und Hoffnungen knüpfte,\
+      \ aber mit ihm waren noch kaum Erfahrungen verbunden.  Eigentlich kann man in\n\
+      Europa erst seit 1918 davon sprechen, dass die liberale Demokratie mit freiem\
+      \ und gleichem Wahlrecht, repräsentativer parlamentarischer Regierungsform,\n\
+      Gewaltenteilung und Garantie von Grundrechten Verfassungsgeltung erlangte und\
+      \ zum führenden Modell wurde.  Die Frage, wie die Demokratie dauerhaft zu\n\
+      sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,\
+      \ als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die\n\
+      parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen\
+      \ Volks- beziehungsweise Mehrheitswillen.\n Für die Zeitgenossen schienen Joseph\
+      \ Goebbels’ Worte von der liberalen Demokratie, die „ihren Todfeinden die Mittel\
+      \ selbst stellte“, durch die sie vernichtet\nwerden konnte, unmittelbar evident.\
+      \  [18] Nimmt man Goebbels’ Ausspruch ernst, ist aber nicht das Volk der entscheidende\
+      \ Akteur, sondern es sind die\nantidemokratischen Eliten, die die Chancen des\
+      \ politischen Systems für ihre Zwecke instrumentalisieren.  Insofern konzentriert\
+      \ sich bis heute jede Krisendiagnose\nauf die Kritik an den Eliten und Funktionsträgern\
+      \ in Politik und Wirtschaft, die sich vom normativen Anspruch der Demokratie\
+      \ entkoppelt haben und ihrer\ndemokratischen Verantwortung nicht mehr gerecht\
+      \ werden. "
+    uid: 44b85f38-154f-4fc8-ae0d-4d5f94c16c13
+  - metadata:
+      author: von Altenbockum, Jasper
+      file_name: von_altenbockum_spuren_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: April
+      original_text: 'Verfechter dieser Lösung wollten wie
+
+        Süsterhenn ganz offenbar, „daß anstelle einer Regierung durch politische Parteien
+        eine Regierung durch die Bürokratie treten soll.“ Brill kann es sich nicht
+
+        verkneifen, darin „den ganzen 75 Jahre alten Angstkomplex der deutschen Katholiken“
+        wirksam werden zu sehen, „durch konservative, liberale oder sozialistische
+
+        Kräfte unterdrückt zu werden“.
+
+        '
+      page_label: '4'
+      relevance_score: 0.5417271348861549
+      title: Spuren rheinischer {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-rheinischer-demokratie/
+      year: '2024'
+    text: "Süsterhenn setzte sich im Laufe der Beratungen in der für ihn „wichtigsten\
+      \ Frage des deutschen Staatslebens“ schließlich an die Spitze einer Kompromisslösung:\n\
+      Zur einen Hälfte sollte die Länderkammer aus den Landesregierungen, zur anderen\
+      \ Hälfte aus den Landtagen bestückt werden.  Es blieb beim Bundesrat, und Brill\n\
+      hatte einen durchaus realistischen Blick dafür, was das bedeuten würde.  Süsterhenn\
+      \ habe es „mit der ihm eigentümlichen Schläue“ vermieden auszusprechen,\ndass\
+      \ der Bundesrat „praktisch nichts anderes sein kann als eine Versammlung instruierter\
+      \ Gesandter der Länder“.  Verfechter dieser Lösung wollten wie\nSüsterhenn ganz\
+      \ offenbar, „daß anstelle einer Regierung durch politische Parteien eine Regierung\
+      \ durch die Bürokratie treten soll.“ Brill kann es sich nicht\nverkneifen, darin\
+      \ „den ganzen 75 Jahre alten Angstkomplex der deutschen Katholiken“ wirksam\
+      \ werden zu sehen, „durch konservative, liberale oder sozialistische\nKräfte\
+      \ unterdrückt zu werden“.\n Not Charity but Solidarity\nUnd erst die Gesellschaft!\
+      \  Was Süsterhenn da wolle, so Brill, sei eine Auffassung von Menschenrechten,\
+      \ die „thomistisch-antik“ sei.  „Er erwähnte nicht die\npersönlichen und politischen\
+      \ Rechte des Einzelnen, sondern, wie er sich ausdrückt, die ‚innerstaatlichen\
+      \ Gemeinschaften‘ wie Ehe, Familie und Schule.“\nÜbernatürliches, göttliches\
+      \ Recht solle in Ehe, Familie und Schule eine vorstaatliche Rechtssphäre schaffen\
+      \ – für Brill und die SPD eine grauenhafte Vorstellung,\nein Missbrauch von\
+      \ Pluralismus, eine Spaltung des Staates und der Gesellschaft. "
+    uid: e5ad0f58-9530-43ca-8ae0-c2ecb38e05ba
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Zum Ausdruck gebracht wurde
+
+        damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+        der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+        politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+        Männern zustanden. '
+      page_label: '3'
+      relevance_score: 0.5410797262194453
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[19] Trump reagierte umgehend und setzte eine Kommission ein, die die traditionelle
+
+      Bedeutung von 1776, dem Jahr der Unabhängigkeitserklärung, als Gründungsmoment
+      in der Erinnerungskultur der Nation verteidigen sollte.  Entsprechend wurde
+
+      am 6.  Januar 2021 immer wieder "1776 or never" skandiert und Fahnen mit der
+      Aufschrift "1776 2.0" tauchten in der Menge auf.  Zum Ausdruck gebracht wurde
+
+      damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+      der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+      politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+      Männern zustanden.  Vergessen gemacht werden sollten dadurch auch die
+
+      Niederlage der Südstaaten im Bürgerkrieg von 1861 bis 1865 und die sukzessiven
+      Errungenschaften der gleichen Rechte, die darauf folgten.  Auf häufig
+
+      publizierten Fotos des 6.  Januar sieht man, wie ein Mann die Flagge der Konföderierten
+      Staaten von Amerika durch das Parlamentsgebäude trägt. '
+    uid: c4bbab99-f91b-4252-8a3a-3cfa62eb0fda
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 5
+  negation: Libertäre Demokratien existieren nicht.
+  statement_type: &id001 descriptive
+  text: Liberale Demokratien existieren
+  uid: df7efd74-5759-4c8d-8769-7bc3c9654089
+  verbalized_confirmation: The claim is strongly confirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    008e672c-7de2-46d1-a78c-24e009d436db: -1.9792597428504754e-32
+    06a2dc65-824b-4bfc-a6a1-c94cb928e323: 1.804851384125339e-35
+    5a725c20-e86f-4ea1-a075-4ed8709d055e: 3.672301681915042e-39
+    74c76305-7bd2-44da-a602-b8d8b0165075: 0.0
+    7c6fcb7f-c936-4489-a31e-945639c6bdad: 0.0
+    92694228-5218-43d8-ab17-b463d5258565: -3.778087829437994e-34
+    a77466d8-a0e1-46ea-9c19-4f78e496b16c: -5.741094605175797e-36
+    bc054906-f336-4dc8-9b44-f65163e2abb7: 9.852938586812005e-34
+    c95fc8b6-762b-406f-af3a-878c3f1438c2: 2.22736050817143e-39
+    e9ffcc1b-91b8-44c8-b2f0-8b8dcd40cfed: -1.0
+    f6ca85ff-819b-497e-8df1-2817502f18dc: -5.483881517268324e-42
+    fdf7afbb-33c5-4354-9603-bc62934e08d8: 0.0
+  confirmation_level: strongly_disconfirmed
+  documents:
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: '[24] Wir sollten
+
+        ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+        dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+        für
+
+        einen funktionierenden Rechtsstaat einsetzen müssen. '
+      page_label: '3'
+      relevance_score: 0.49866426717334034
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: 'Schließlich werden einige Mitgliedstaaten die Diskussion über die Rechtsstaatlichkeit
+      mit Nachdruck vorantreiben und sich entschieden gegen jeden
+
+      demokratischen Rückschritt innerhalb der Union wehren.  Manche Länder haben
+      bereits deutlich gemacht, dass neue EU-Mitglieder vor ihrem Beitritt alle Regeln
+
+      der Union einhalten müssen.  Hier muss allerdings selbstkritisch angemerkt werden,
+      dass die EU zunächst selbst ihre Hausaufgaben machen muss. [24] Wir sollten
+
+      ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+      dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+      für
+
+      einen funktionierenden Rechtsstaat einsetzen müssen.  Nur so können wir einen
+      ehrlichen Dialog führen und langfristig überzeugen: Wie kann man liberale
+
+      Demokratie lernen?  Handelt es sich dabei um einen linearen Prozess?  Wie kann
+      der Fortschritt aufrechterhalten werden? '
+    uid: e9ffcc1b-91b8-44c8-b2f0-8b8dcd40cfed
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'In den 1990er Jahren schien die liberale Demokratie als Regierungsform
+        für einen kurzen Moment
+
+        alternativlos zu sein. '
+      page_label: '1'
+      relevance_score: 0.4944348838359417
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Der Konstitutionalismus der Nachkriegszeit ist in der Krise.  In den 1990er
+      Jahren schien die liberale Demokratie als Regierungsform für einen kurzen Moment
+
+      alternativlos zu sein.  Dies gilt heute nicht mehr – jedenfalls nicht mehr uneingeschränkt.  Globale
+      Indizes stellen seit mehreren Jahren eine Abnahme von
+
+      Rechtsstaatlichkeit und Demokratie fest.  Länder wie die USA, die einst als
+      Vorbild des demokratischen Konstitutionalismus galten oder wie Südafrika als
+      neue
+
+      Hoffnungsträger für eine demokratischere und gerechtere Gesellschaft gefeiert
+      wurden, sind dies heute vielfach nicht mehr. '
+    uid: f6ca85ff-819b-497e-8df1-2817502f18dc
+  - metadata:
+      author: von Altenbockum, Jasper
+      file_name: von_altenbockum_spuren_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: April
+      original_text: 'Der Parlamentarische Rat war insofern Ausdruck mehrfacher Provisorien,
+        die den Deutschen zwar die Demokratie zurückbringen,
+
+        diese Demokratie aber auch vor den Deutschen schützen sollte.
+
+        '
+      page_label: '1'
+      relevance_score: 0.48426688838263043
+      title: Spuren rheinischer {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-rheinischer-demokratie/
+      year: '2024'
+    text: "Misstrauisch waren die Ministerpräsidenten auch aus einem zweiten Grund:\
+      \ Alle Staatsgewalt gehe vom Volk aus, hieß es später im Grundgesetz.  Aber\
+      \ eine\nVolksabstimmung über dieses Grundgesetz trauten sie dem deutschen Volk,\
+      \ anders als die Militärgouverneure, nicht zu.  Sie fürchteten kommunistische\n\
+      Stimmungsmache, den Hass der Nazi-Anhänger, das Desinteresse einer Bevölkerung,\
+      \ die andere Sorgen hatte, und mangelnde Reife der in der NS-Zeit\nherangewachsenen\
+      \ Generation.  Der Parlamentarische Rat war insofern Ausdruck mehrfacher Provisorien,\
+      \ die den Deutschen zwar die Demokratie zurückbringen,\ndiese Demokratie aber\
+      \ auch vor den Deutschen schützen sollte.\n Die Erinnerung an den Sitzungsmarathon,\
+      \ der in der Nacht vom 8. auf den 9.  Mai 1949 mit der Verabschiedung des Grundgesetzes\
+      \ endete, verklärt insofern die\nZeit der Beratungen auf eine Weise, die so\
+      \ gar nicht zur zeitgenössischen Disharmonie passen will.  Zum Vergleich: Der\
+      \ Verfassungskonvent von Herrenchiemsee,\nder einen Entwurf des Grundgesetzes\
+      \ aushandelte, tagte wenige Wochen zuvor im August 1948 gerade einmal 13 Tage\
+      \ lang. "
+    uid: bc054906-f336-4dc8-9b44-f65163e2abb7
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Oder kann die EU realistischerweise erwarten, dass sich die
+        Ukraine, Moldau, Georgien und die sechs Balkanstaaten in den kommenden
+
+        Jahren zu vollwertigen liberalen Demokratien entwickeln, wenn der Kreml jeden
+        Tag unerbittlich gegen sie und ihre Bevölkerungen vorgeht?'
+      page_label: '3'
+      relevance_score: 0.47619395095605105
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n Die Beitrittskandidaten gehen\
+      \ existenzielle Sicherheitsrisiken ein, wenn sie sich für uns, für die Demokratie,\
+      \ für die EU entscheiden. "
+    uid: a77466d8-a0e1-46ea-9c19-4f78e496b16c
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Deshalb hängt die Frage, wie stabil, resilient oder wehrhaft
+        die Demokratie ist, stets damit zusammen, inwiefern sie in der Lage
+
+        ist, sich neuen Herausforderungen anzupassen, entwicklungsfähig zu bleiben
+        und vor allem erfolgreich die soziale Kohäsion und Integration ihrer Bürger
+        zu
+
+        bewerkstelligen.
+
+        '
+      page_label: '1'
+      relevance_score: 0.47593908076127844
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Nicht mehr die Vertiefung und Erweiterung, die „Demokratisierung der Demokratie“,\
+      \ [2] stehen auf der Agenda, sondern es geht um ihr Überleben.\n Ihre prekäre\
+      \ Lage allerdings einzig böswilligen inneren Feinden und äußeren Mächten zuzuschreiben,\
+      \ griffe zu kurz.  Denn die Demokratie ist immer Ergebnis –\nund manchmal auch\
+      \ Opfer – der mit ihr verbundenen Erwartungen und Hoffnungen, aber auch der\
+      \ versäumten Chancen, ungelösten Konflikte und entstandenen\ngesellschaftlichen\
+      \ Verwerfungen.  Deshalb hängt die Frage, wie stabil, resilient oder wehrhaft\
+      \ die Demokratie ist, stets damit zusammen, inwiefern sie in der Lage\nist,\
+      \ sich neuen Herausforderungen anzupassen, entwicklungsfähig zu bleiben und\
+      \ vor allem erfolgreich die soziale Kohäsion und Integration ihrer Bürger zu\n\
+      bewerkstelligen.\n Eben weil die Demokratie stetem Wandel unterworfen bleibt\
+      \ und im Sinne des frühen bundesrepublikanischen Demokratieerziehers Dolf Sternberger\
+      \ eine\n„lebende Verfassung“ ist, [3] können Selbstbehauptung, Funktionsfähigkeit\
+      \ und Performanz nur schwer voneinander getrennt werden.  Um es anders zu\n\
+      formulieren: Systemgegner treten in dem Moment auf den Plan, in dem bestimmte\
+      \ Probleme nicht behandelt werden, Bevölkerungsgruppen sich nicht\nrepräsentiert\
+      \ fühlen, Zukunftschancen schwinden, soziale Ungleichheit, Abstiegsängste und\
+      \ Unzufriedenheit wachsen.  Insofern liegt die Vermutung nahe, dass\nWehrhafte\
+      \ Demokratie\nVom Wesen und Wert eines schillernden Konzepts\n23.02.2024 / 16\
+      \ Minuten zu lesen\nJens Hacke\nOb liberale Demokratien durch Maßnahmen der\
+      \ wehrhaften Demokratie erfolgreich gegen ihre Feinde\nverteidigt werden können,\
+      \ ist eine offene Frage. "
+    uid: 92694228-5218-43d8-ab17-b463d5258565
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Mittlerweile aber sind in der ganzen Welt autokratische
+
+        Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+        auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+        tief verwurzelt schien.'
+      page_label: '3'
+      relevance_score: 0.47453535431047655
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[15] Es darf dort protestiert werden, wenn die Arbeit des Parlaments nicht
+      gestört wird, und so
+
+      werden vor dem Bundestag in der Regel Demonstrationen an Wochenenden erlaubt.  Um
+      die Wende zum 21.  Jahrhundert war man sich noch sicher, dass die
+
+      liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+      gewonnen hatte.  Mittlerweile aber sind in der ganzen Welt autokratische
+
+      Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+      auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+      tief verwurzelt schien. [16]
+
+      Mit den Bildern vom schwarz-weiß-roten Flaggenmeer auf den Stufen des Reichstagsgebäudes
+      am 29.  August 2020 gelangten sie erstmals ins breite
+
+      Bewusstsein der Bevölkerung in Deutschland.  Doch die Aufnahmen multiplizierten
+      sich nicht nur über die herkömmlichen Medien und Bildagenturen, sondern
+
+      auch über Facebook, Instagram, Telegram und andere Plattformen im Internet. '
+    uid: c95fc8b6-762b-406f-af3a-878c3f1438c2
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Jahrhundert war man sich noch sicher, dass die
+
+        liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+        gewonnen hatte. '
+      page_label: '3'
+      relevance_score: 0.4731828839274001
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: 'Heute gibt es nur noch
+
+      einen sogenannten befriedeten Bezirk im Regierungsviertel. [15] Es darf dort
+      protestiert werden, wenn die Arbeit des Parlaments nicht gestört wird, und so
+
+      werden vor dem Bundestag in der Regel Demonstrationen an Wochenenden erlaubt.  Um
+      die Wende zum 21.  Jahrhundert war man sich noch sicher, dass die
+
+      liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+      gewonnen hatte.  Mittlerweile aber sind in der ganzen Welt autokratische
+
+      Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+      auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+      tief verwurzelt schien. [16]
+
+      Mit den Bildern vom schwarz-weiß-roten Flaggenmeer auf den Stufen des Reichstagsgebäudes
+      am 29.  August 2020 gelangten sie erstmals ins breite
+
+      Bewusstsein der Bevölkerung in Deutschland. '
+    uid: 5a725c20-e86f-4ea1-a075-4ed8709d055e
+  - metadata:
+      author: Grimm, Dieter
+      file_name: grimm_alt_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Verteidigung des demokratischen Verfassungsstaates
+
+        Es fragt sich daher, ob Verfassungen, die dem pluralistischen Demokratieverständnis
+        verpflichtet sind, sich gegen eine Systemtransformation verteidigen können.
+
+        '
+      page_label: '4'
+      relevance_score: 0.4728108488439789
+      title: Alt aber nicht veraltet
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545645/alt-aber-nicht-veraltet/
+      year: '2024'
+    text: "Das betrifft das\nParlament, die Justiz, die Kommunikationsmedien, die\
+      \ Wissenschaft und weitere Bereiche der Gesellschaft.  Sie genießen Vertrauen,\
+      \ soweit sie in den Händen der\nrecht Gesonnenen sind; ansonsten sehen sie sich\
+      \ dem Vorwurf der Manipulation ausgesetzt.  Ziel der politischen Auseinandersetzung\
+      \ ist dann nicht mehr eine\nMehrheit, die die Durchsetzung der eigenen Präferenzen\
+      \ auf Zeit ermöglicht, die Alternative des Gegners aber präsent hält, sondern\
+      \ seine Ausschaltung.\n Verteidigung des demokratischen Verfassungsstaates\n\
+      Es fragt sich daher, ob Verfassungen, die dem pluralistischen Demokratieverständnis\
+      \ verpflichtet sind, sich gegen eine Systemtransformation verteidigen können.\n\
+      \ Das Grundgesetz ist freilich gerade in Reaktion auf eine solche Erfahrung\
+      \ entstanden.  Ihr verdankt sich die sogenannte wehrhafte Demokratie mit ihren\
+      \ drei\nInstrumenten, der Grundrechtsverwirkung nach Artikel 18, dem Parteiverbot\
+      \ nach Artikel 21 und dem Vereinigungsverbot nach Artikel 9 GG.  Vereinigungsverbote\n\
+      sind häufig ausgesprochen worden, Grundrechtsverwirkungen nie. "
+    uid: 7c6fcb7f-c936-4489-a31e-945639c6bdad
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      relevance_score: 0.46624943684762593
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: fdf7afbb-33c5-4354-9603-bc62934e08d8
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Wenn die liberalen Demokratien weiterhin fortschrittlich, freiheitlich
+        und demokratisch sein wollen, müssen sie einen Weg finden, ihre
+
+        Grenzen zu sichern, ohne dass ihre Identität, ihre Werte und der liberale
+        Staat selbst auf der Strecke bleiben.
+
+        '
+      page_label: '4'
+      relevance_score: 0.4660733927906387
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Wenn innenpolitische Akteure weiterhin ihre eigenen Interessen über die\
+      \ Sicherheit und Stabilität ihres eigenen Landes\nund ihrer Verbündeten stellen,\
+      \ was bleibt dann noch?\n Wenn hier keine Abhilfe geschaffen wird, verheißt\
+      \ dies nichts Gutes für die Zukunft der liberalen Demokratien oder für den Schutz\
+      \ der Schwächsten in der Welt.\n Hält die derzeitige Dynamik an, wird Migration\
+      \ weiter instrumentalisiert und können westliche Regierungen die Rechte und\
+      \ Freiheiten untergraben, die sie\nangeblich hochhalten.  Wenn die liberalen\
+      \ Demokratien weiterhin fortschrittlich, freiheitlich und demokratisch sein\
+      \ wollen, müssen sie einen Weg finden, ihre\nGrenzen zu sichern, ohne dass ihre\
+      \ Identität, ihre Werte und der liberale Staat selbst auf der Strecke bleiben.\n\
+      \ Übersetzung aus dem Englischen: Heike Schlatterer, Pforzheim.\n Fußnoten \n\
+      [1] Zit.  nach Kelly M. Greenhill, When Migrants Become Weapons, in: Foreign\
+      \ Affairs 101/2022, S. "
+    uid: 74c76305-7bd2-44da-a602-b8d8b0165075
+  - metadata:
+      author: von Altenbockum, Jasper
+      file_name: von_altenbockum_spuren_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: April
+      original_text: 'Brill sah die SPD in der Defensive, was sich erst in den 1960er
+        Jahren ändern sollte. '
+      page_label: '4'
+      relevance_score: 0.4655470818810301
+      title: Spuren rheinischer {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bonn-2024/547261/spuren-rheinischer-demokratie/
+      year: '2024'
+    text: "„Er erwähnte nicht die\npersönlichen und politischen Rechte des Einzelnen,\
+      \ sondern, wie er sich ausdrückt, die ‚innerstaatlichen Gemeinschaften‘ wie\
+      \ Ehe, Familie und Schule.“\nÜbernatürliches, göttliches Recht solle in Ehe,\
+      \ Familie und Schule eine vorstaatliche Rechtssphäre schaffen – für Brill und\
+      \ die SPD eine grauenhafte Vorstellung,\nein Missbrauch von Pluralismus, eine\
+      \ Spaltung des Staates und der Gesellschaft.  Oder, wie es später ganz im Sinne\
+      \ Brills über die Adenauer-Jahre heißen würde:\neine Restauration vormodernen\
+      \ Denkens.\n Die ideologischen Kämpfe, die den Bildungsdiskurs und die Familienpolitik\
+      \ der Bundesrepublik bis heute begleiten, erfuhren in Bonn allenfalls notdürftige\n\
+      Verkleisterungen.  Brill sah die SPD in der Defensive, was sich erst in den\
+      \ 1960er Jahren ändern sollte.  „Aber die Stellung von Süsterhenn ist sehr stark“,\
+      \ schrieb er\nin seinem Bonner Tagebuch.  „Denn es gibt gegenüber dieser katholischen\
+      \ Herrschaftsideologie, die auf dem einfachen natürlichen Besitzgefühl der Eltern\n\
+      gegenüber ihren Kindern und der natürlichen Abwehr der Entartung einer rein\
+      \ staatlichen Kindererziehung, wie sie der Nazismus bis zum Verbrechen betrieben\n\
+      hat, beruht, keine demokratischen oder sozialistischen Gegenkräfte.“ Das sei\
+      \ eine „furchtbare Situation“, die im Grundgesetz nur dadurch überwunden werden\n\
+      könne, dass „man das Problem von Grundrechten für Lebensordnungen übergeht und\
+      \ sich auf die individuellen Menschenrechte beschränkt“.\n Das sollte zwar nicht\
+      \ ganz gelingen. "
+    uid: 06a2dc65-824b-4bfc-a6a1-c94cb928e323
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die Frage, wie die Demokratie dauerhaft zu
+
+        sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,
+        als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die
+
+        parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen
+        Volks- beziehungsweise Mehrheitswillen.
+
+        '
+      page_label: '3'
+      relevance_score: 0.46230958807520034
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Der wichtigste Unterschied besteht allerdings darin, dass die liberale\
+      \ Demokratie seinerzeit noch eine neue Errungenschaft war.  Demokratie war ein\n\
+      Zukunftsbegriff, an den sich eine Fülle von Erwartungen und Hoffnungen knüpfte,\
+      \ aber mit ihm waren noch kaum Erfahrungen verbunden.  Eigentlich kann man in\n\
+      Europa erst seit 1918 davon sprechen, dass die liberale Demokratie mit freiem\
+      \ und gleichem Wahlrecht, repräsentativer parlamentarischer Regierungsform,\n\
+      Gewaltenteilung und Garantie von Grundrechten Verfassungsgeltung erlangte und\
+      \ zum führenden Modell wurde.  Die Frage, wie die Demokratie dauerhaft zu\n\
+      sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,\
+      \ als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die\n\
+      parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen\
+      \ Volks- beziehungsweise Mehrheitswillen.\n Für die Zeitgenossen schienen Joseph\
+      \ Goebbels’ Worte von der liberalen Demokratie, die „ihren Todfeinden die Mittel\
+      \ selbst stellte“, durch die sie vernichtet\nwerden konnte, unmittelbar evident.\
+      \  [18] Nimmt man Goebbels’ Ausspruch ernst, ist aber nicht das Volk der entscheidende\
+      \ Akteur, sondern es sind die\nantidemokratischen Eliten, die die Chancen des\
+      \ politischen Systems für ihre Zwecke instrumentalisieren.  Insofern konzentriert\
+      \ sich bis heute jede Krisendiagnose\nauf die Kritik an den Eliten und Funktionsträgern\
+      \ in Politik und Wirtschaft, die sich vom normativen Anspruch der Demokratie\
+      \ entkoppelt haben und ihrer\ndemokratischen Verantwortung nicht mehr gerecht\
+      \ werden. "
+    uid: 008e672c-7de2-46d1-a78c-24e009d436db
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 1
+  negation: Liberaldemokratische Regierungen sind in der Lage, sich zu verteidigen.
+  statement_type: *id001
+  text: Liberale Demokratien sind in der Lage, sich zu verteidigen
+  uid: 4f96c554-54e2-4005-a6af-8ab73d63c128
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: -0.3333333333333333
+  confirmation_by_document:
+    03a78233-1ba5-4235-adfd-e3349ed26302: -2.474192198062645e-41
+    0457399a-c646-495a-9c1c-5dc54c61b484: -8.985153338534416e-37
+    07b37b2d-6f9e-4871-92e6-e7482b63e7fc: 7.983918830218368e-30
+    42717196-c08a-4a19-a7c9-b15068d8e07c: -1.0
+    676121f7-38da-457a-a03c-72fa5e90b039: 3.302686217975669e-37
+    6b72ab94-4657-44f6-8680-669e48bc198a: 1.6458114310822737e-38
+    721beb8a-e2f8-42d2-b4ee-5460128c802a: 1.0
+    8f487c3d-3fe3-417b-a2e1-765bdca539b9: -1.4813294037414224e-36
+    a253c439-0169-403f-9a3a-5a297fbda4ac: -1.0
+    b02f4630-124f-4d88-891f-8d3ef12c87fd: -8.985825944049313e-37
+    b9b3dfed-3354-49d2-89c8-8509fdcd8cfd: 1.8160121493225991e-40
+    d25462f5-8004-42ae-9d01-fc15733cf19c: 2.5351188431822365e-32
+  confirmation_level: weakly_disconfirmed
+  documents:
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Der Staatsrechtler Carl Schmitt etwa meinte die Schwachstelle
+        des Liberalismus darin zu erkennen, dass dieser unfähig sei, sich seiner
+
+        Feinde zu erwehren. '
+      page_label: '2'
+      relevance_score: 0.421780555495321
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: '[4] Gleichzeitig wirken wenige Begriffe so unbestimmt und schillernd wie
+
+      jener der „wehrhaften Demokratie“, und dies hängt vor allem mit seiner Geschichte
+      zusammen, deren Ursprünge in der Zwischenkriegszeit liegen, als die liberale
+
+      Demokratie in den 1930er Jahren ihre wahre Existenzkrise erlebte.  [5]
+
+      Weimars Scheitern
+
+      Zwar ist die Selbstgefährdung der Demokratie, ihr potenzielles Abgleiten in
+      Anarchie, Demagogie oder Autokratie, ein von alters her bekannter Topos politischer
+
+      Reflexion.  Doch die Zeitgenossenschaft der Oktoberrevolution und des Bolschewismus
+      sowie des „Marsches auf Rom“ und des Faschismus führte seinerzeit
+
+      unter politischen Beobachtern und Theoretikern zu einer intensiven Reflexion
+      über Szenarien der Machtübernahme respektive über Präventionsmaßnahmen, um
+
+      eine solche zu verhindern.  Der Staatsrechtler Carl Schmitt etwa meinte die
+      Schwachstelle des Liberalismus darin zu erkennen, dass dieser unfähig sei, sich
+      seiner
+
+      Feinde zu erwehren.  Dabei drohte der demokratischen Ordnung, so Schmitt, nicht
+      in erster Linie Gefahr vonseiten einer „antidemokratischen Mehrheit“.  Sondern
+
+      bereits der legale Zugriff auf staatliche Macht böte die Möglichkeit, die Legitimität
+      eines demokratischen Willens auszuhebeln.  Schmitt betonte zu Recht einen
+
+      zentralen Aspekt der parlamentarischen Demokratie: das „Offenhalten der gleichen
+      Chance, die Mehrheit, das heißt die politische Macht zu gewinnen“. '
+    uid: 721beb8a-e2f8-42d2-b4ee-5460128c802a
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Im Gegensatz zu liberalen Ansätzen, die Konflikte als zu vermeidende
+        Störungen betrachten, sieht die
+
+        Radikaldemokratie in ihnen eine notwendige Voraussetzung für demokratische
+        Prozesse. '
+      page_label: '3'
+      relevance_score: 0.409872521903535
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: "Ziviler Ungehorsam wird daher von radikaldemokratischen Ansätzen zum Teil\
+      \ als zu systemkonform angesehen, da er in einem liberalen und deliberativen\n\
+      Verständnis ein Stabilisierungs- und Integrationsmoment des demokratischen Rechtsstaats\
+      \ sein kann.  Politische Entscheidungsprozesse sollten danach nicht nur\nauf\
+      \ institutionelle Wahlen und Repräsentation beschränkt sein, sondern bedürften\
+      \ direktdemokratischer Teilnahme, nicht zuletzt durch Proteste.  So betonen\n\
+      diese Theorien die Bedeutung von politischen Konflikten.  Im Gegensatz zu liberalen\
+      \ Ansätzen, die Konflikte als zu vermeidende Störungen betrachten, sieht die\n\
+      Radikaldemokratie in ihnen eine notwendige Voraussetzung für demokratische Prozesse.\
+      \  Pluralität wird als eine Stärke verstanden, die ermöglicht, dass\nunterschiedliche\
+      \ Stimmen Gehör finden.  Radikale Demokratietheorien stehen in der Regel Verfassungen\
+      \ und Verfassungsgerichten kritisch gegenüber, da diese\nKonflikte dem öffentlichen\
+      \ und politischen Zugriff entziehen können, indem sie sie zu Verfassungsfragen\
+      \ objektivieren.\n Dem tritt die These des zivilen Ungehorsams als Verfassungsinterpretation\
+      \ entgegen. "
+    uid: 676121f7-38da-457a-a03c-72fa5e90b039
+  - metadata:
+      author: Paweł, Claus {\textbar} Karolewski, Ireneusz, Leggewie
+      file_name: pawel_guerilla-demokratie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Jason Brennan, When All Else Fails. '
+      page_label: '5'
+      relevance_score: 0.3998274899487338
+      title: Guerilla-{Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552912/guerilla-demokratie/
+      year: '2024'
+    text: "Fußnoten \n[1] Vgl.  Democracy Forward, The People’s Guide to Project\
+      \ 2025, Juni 2024, https://democracyforward.org/the-peoples-guide-to-project-2025.\n\
+      \ [2] Vgl.  Jason Brennan, When All Else Fails.  The Ethics of Resistance to\
+      \ State Injustice, Princeton 2019; ders., Against Democracy, Princeton 2016.\n\
+      \ [3] Vgl.  Peter Bloom/Owain Smolović Jones/Jamie Woodcock, Guerrilla Democracy. "
+    uid: b02f4630-124f-4d88-891f-8d3ef12c87fd
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      relevance_score: 0.3953462830739504
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: 0457399a-c646-495a-9c1c-5dc54c61b484
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'In den 1990er Jahren schien die liberale Demokratie als Regierungsform
+        für einen kurzen Moment
+
+        alternativlos zu sein. '
+      page_label: '1'
+      relevance_score: 0.3947597411193772
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Der Konstitutionalismus der Nachkriegszeit ist in der Krise.  In den 1990er
+      Jahren schien die liberale Demokratie als Regierungsform für einen kurzen Moment
+
+      alternativlos zu sein.  Dies gilt heute nicht mehr – jedenfalls nicht mehr uneingeschränkt.  Globale
+      Indizes stellen seit mehreren Jahren eine Abnahme von
+
+      Rechtsstaatlichkeit und Demokratie fest.  Länder wie die USA, die einst als
+      Vorbild des demokratischen Konstitutionalismus galten oder wie Südafrika als
+      neue
+
+      Hoffnungsträger für eine demokratischere und gerechtere Gesellschaft gefeiert
+      wurden, sind dies heute vielfach nicht mehr. '
+    uid: 8f487c3d-3fe3-417b-a2e1-765bdca539b9
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Und wie unterscheiden wir Bezugnahmen auf Demokratie und
+
+        Verfassung, die diesen widersprechen, von denen, die zu ihrer Erneuerung und
+        Weiterentwicklung beitragen?
+
+        '
+      page_label: '1'
+      relevance_score: 0.39136430755919865
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: "In der politischen Theorie und Geschichte, aber\nmittlerweile auch in der\
+      \ aktuellen Diskussion wird ein solcher Rechtsbruch, der von einer Richtigkeitsüberzeugung\
+      \ getragen wird, als „ziviler Ungehorsam“\nbezeichnet.  Der Rechtsbruch drückt\
+      \ den Dissens mit der Regierung, der Politik und zum Teil auch der Wirtschaft\
+      \ aus.  Doch wie entscheiden wir, welche\nRichtigkeitsüberzeugung wahrhaftig\
+      \ „richtig“ und welcher Ungehorsam legitim, also „zivil“ ist?  Und wie unterscheiden\
+      \ wir Bezugnahmen auf Demokratie und\nVerfassung, die diesen widersprechen,\
+      \ von denen, die zu ihrer Erneuerung und Weiterentwicklung beitragen?\n Ziviler\
+      \ Ungehorsam als Verfassungsinterpretation\nUm diese Fragen zu beantworten,\
+      \ schlage ich vor, den zivilen Ungehorsam als eine Form der Verfassungsinterpretation\
+      \ zu verstehen.  Diese These lässt sich aus\nzwei Perspektiven – nämlich aus\
+      \ der Perspektive der Interpretation und derjenigen der Verfassung – näher beleuchten.\n\
+      \ Die erste Perspektive fokussiert das Interpretationsverständnis. "
+    uid: b9b3dfed-3354-49d2-89c8-8509fdcd8cfd
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: '[2]
+
+        Dieses weite Interpretationsverständnis und die damit zusammenhängende Fundamentlosigkeit
+        der Demokratie weisen allerdings auch eine Gefahr auf, der sich
+
+        eine Theorie zivilen Ungehorsams als Verfassungsinterpretation stellen muss. '
+      page_label: '2'
+      relevance_score: 0.39036672591192223
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: 'Interpretationen – nicht zuletzt des Begriffs „zivil“ selbst – zu hinterfragen
+      und damit verkrustete Diskursstrukturen aufzubrechen.  Dabei wird deutlich,
+      dass die
+
+      Demokratie eine grundlose Ordnung ist: Sie kann nicht auf Gott, die absolute
+      Wahrheit oder auf die objektive Vernunft gebaut werden.  In einer Abwandlung
+      der
+
+      vielzitierten Erkenntnis des Verfassungsrechtlers und -richters Ernst-Wolfgang
+      Böckenförde könnte man auch formulieren: Die Demokratie „lebt von
+
+      Voraussetzungen, die sie selbst nicht gewährleisten kann“. [2]
+
+      Dieses weite Interpretationsverständnis und die damit zusammenhängende Fundamentlosigkeit
+      der Demokratie weisen allerdings auch eine Gefahr auf, der sich
+
+      eine Theorie zivilen Ungehorsams als Verfassungsinterpretation stellen muss.  Die
+      zweite Perspektive nimmt daher die Verfassung in den Blick.  Denn es bedarf
+
+      eines Kriteriums, mit dem entschieden werden kann, welche Interpretationen mit
+      dem demokratischen Rechtsstaat vereinbar sind, ohne dabei selbst Gefahr zu
+
+      laufen, letzte Wahrheiten zu verabsolutieren.  Dieses Kriterium stellt meines
+      Erachtens die Verfassung bereit, nicht nur im Rahmen der 146 Artikel des
+
+      Grundgesetzes, sondern auch als eine Ordnung von Freien und Gleichen, die ebendiese
+      Freiheit und Gleichheit schützt und damit den Interpretationen Grenzen
+
+      setzt. '
+    uid: 07b37b2d-6f9e-4871-92e6-e7482b63e7fc
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die globalen
+
+        Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+        symbolisch als auch de facto, größer als bei jeder anderen Demokratie. '
+      page_label: '1'
+      relevance_score: 0.38810813690576196
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Krisensymptome in den Vereinigten Staaten
+
+      Die Vereinigten Staaten von Amerika waren lange Zeit die wichtigste und mächtigste
+      Demokratie der Welt.  Ihre Bilanz der Demokratieförderung im Ausland war
+
+      zwar stets gemischt, zudem dauert die Auseinandersetzung mit ihrer eigenen kolonialen
+      und imperialen Geschichte noch an.  Trotzdem waren die USA militärisch,
+
+      wirtschaftlich und symbolisch lange das globale Gegengewicht zu autoritären
+      Mächten: historisch zur Sowjetunion, heute vor allem zu China.  Die globalen
+
+      Auswirkungen einer Erosion der amerikanischen Demokratie sind deshalb, sowohl
+      symbolisch als auch de facto, größer als bei jeder anderen Demokratie.  [6]
+
+      Krise des globalen Konstitutionalismus
+
+      23.02.2024 / 18 Minuten zu lesen
+
+      James Fowkes
+
+      Michaela Hailbronner
+
+      Der demokratische Verfassungsstaat, der im 20.  Jahrhundert einen nahezu globalen
+      Siegeszug angetreten
+
+      hat, scheint sich weltweit in der Krise zu befinden.  Erfahrungen aus den USA,
+      Brasilien, Indien und
+
+      Südafrika halten auch Einsichten für Europa bereit.
+
+      '
+    uid: 03a78233-1ba5-4235-adfd-e3349ed26302
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Nachwirkung
+
+        Während in den USA die Erinnerung an die lauernde Gefahr für die Demokratie,
+        die in diesen Ereignissen ihr Angesicht zeigte, zunehmend schwindet, hat die
+
+        Aufarbeitung in Deutschland mit den Prozessen um die Reichsbürgerverschwörung
+        2024 an Fahrt aufgenommen. '
+      page_label: '4'
+      relevance_score: 0.38657749721832757
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  berief man sich in Brasília eine Woche\
+      \ nach der Amtseinführung des neuen\nPräsidenten Luiz Inácio Lula da Silva,\
+      \ als der alte schon nicht mehr im Land war, auf den urdemokratischen Grundsatz,\
+      \ dass die Macht vom Volk ausgeht und\ngegen seinen Willen nicht regiert werden\
+      \ darf.  In allen drei Fällen war das jedoch eine unerhörte Anmaßung, die nur\
+      \ durch Konspirationstheorien oder\nWahlfälschungsvorwürfe autosuggestiv plausibel\
+      \ erscheinen konnte.\n Nachwirkung\nWährend in den USA die Erinnerung an die\
+      \ lauernde Gefahr für die Demokratie, die in diesen Ereignissen ihr Angesicht\
+      \ zeigte, zunehmend schwindet, hat die\nAufarbeitung in Deutschland mit den\
+      \ Prozessen um die Reichsbürgerverschwörung 2024 an Fahrt aufgenommen.  In Brasilien\
+      \ ist sie weit fortgeschritten.\n Präsident Lula da Silva hat den 8.  Januar\
+      \ zum \"Tag der Demokratie\" erklärt, und der brasilianische Museumsverband\
+      \ hat die Errichtung eines Museums der\nDemokratie angekündigt, denn noch ist\
+      \ in diesem Land, wie die Forderungen beim Angriff auf das Parlament gezeigt\
+      \ haben, die Erinnerung an die Zeit der\nMilitärdiktatur (1964–1985) wach und\
+      \ lebendig und ihre Wiederkehr kein so abwegig erscheinender Gedanke wie die\
+      \ Wiederkehr oder Etablierung einer Tyrannei\nin der Bundesrepublik Deutschland\
+      \ und den USA."
+    uid: a253c439-0169-403f-9a3a-5a297fbda4ac
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Dennoch
+
+        hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+        der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+        noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+        für eine Bedrohung der Demokratie halten.'
+      page_label: '4'
+      relevance_score: 0.38621619761049497
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: 'Januar fliehen mussten,
+
+      zusammen, um über ein Impeachment gegen den ehemaligen Präsidenten zu beraten,
+      das dann am Widerstand der Republikaner scheiterte.  Der für den Zweck
+
+      dieses parlamentarischen Strafverfahrens von den Anklägern aus dem Repräsentantenhaus
+      erstellte Zusammenschnitt von Filmaufnahmen zirkuliert noch immer
+
+      im Internet.  Er zeigt erschreckende Szenen der Gewaltbereitschaft gegen die
+      Sicherheitskräfte und des Hasses auf die Parlamentarier und ihre Arbeit.  Dennoch
+
+      hat eine repräsentative Umfrage der "Washington Post" in Zusammenarbeit mit
+      der University of Maryland drei Jahre nach den Ereignissen ergeben, dass nur
+
+      noch knapp über die Hälfte der US-Amerikaner die gewaltsame Parlamentserstürmung
+      für eine Bedrohung der Demokratie halten. [22] In den sozialen Medien
+
+      zirkulieren unter den Trump-Anhängern nicht die Bilder des Zusammenschnitts
+      aus dem parlamentarischem Verfahren, sondern Aufnahmen der Teilnehmenden
+
+      selbst, die den Eindruck bestätigen, den die Umfrage belegt: Immer mehr Menschen
+      sind in den USA in diesen Tagen davon überzeugt, dass der Angriff auf das
+
+      Parlament eine legitime Protestaktion war.  Trump fordert seitdem immer lautstarker
+      Gerechtigkeit für die Verurteilten des 6.  Januar, die er als "politische
+
+      Gefangene" bezeichnet.'
+    uid: 6b72ab94-4657-44f6-8680-669e48bc198a
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      relevance_score: 0.38567792120401506
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: 42717196-c08a-4a19-a7c9-b15068d8e07c
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Maya Tudor, Why India’s Democracy Is Dying, in: Journal of Democracy
+        3/2023, S. '
+      page_label: '6'
+      relevance_score: 0.3856516501162758
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: "Anuj Bhuwania, Courting the People.  Public Interest Litigation in Post-Emergency\
+      \ India, Cambridge 2017.\n [28] Vgl.  Maya Tudor, Why India’s Democracy Is Dying,\
+      \ in: Journal of Democracy 3/2023, S.  121–132.\n [29] Vgl.  ebd., mit Verweis\
+      \ auf Steven Levitsky/Daniel Ziblatt, How Democracies Die. "
+    uid: d25462f5-8004-42ae-9d01-fc15733cf19c
+  evidential_uncertainty: 0.888888888888889
+  metadata: {}
+  n_evidence: 3
+  negation: Die liberalen Demokratien besitzen die Fähigkeit, sich gegen ihre Feinde
+    zu verteidigen.
+  statement_type: ascriptive
+  text: Die liberalen Demokratien besitzen nicht die Fähigkeit, sich gegen ihre Feinde
+    zu verteidigen.
+  uid: aa592a51-c70f-48f1-b4bb-66b6be492540
+  verbalized_confirmation: The claim is weakly disconfirmed.
+- average_confirmation: 0.0
+  confirmation_by_document:
+    11459401-a7df-4db3-8420-7b532efb4129: -1.0
+    1c29684b-af6f-4f3b-b3bd-140037523cc9: -7.270343201292112e-33
+    669da12d-b6aa-40eb-a9cb-b7ed2228c45a: -1.0
+    83250bc3-3fd2-4837-b87c-c587308b89c0: 1.0
+    86a9fc3d-9128-42b4-9bfb-c132cb1f1d13: 8.088764455177795e-35
+    8b6f5e20-27e3-4419-a9a1-db0c46bbc63d: 4.906094730645889e-35
+    ac71b3eb-d631-436a-8622-fa1825022c78: 4.409686058216964e-33
+    ac90bd48-8f43-482a-bdec-839b6de70bba: 1.0
+    b62fbdeb-060a-4bd8-99ba-b8eb7c43c622: -8.985825913513138e-37
+    d9df546e-bbeb-45c3-a69a-eb376611fc18: -3.5356470061422133e-37
+    f51d026b-2fc4-415a-bf2e-e1ac346b5220: 3.672301681915042e-39
+    f73493d2-95b0-49e9-add5-6cebd17cf81e: 1.2160918272804883e-37
+  confirmation_level: &id002 inconclusive_confirmation
+  documents:
+  - metadata:
+      author: Paweł, Claus {\textbar} Karolewski, Ireneusz, Leggewie
+      file_name: pawel_guerilla-demokratie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Jason Brennan, When All Else Fails. '
+      page_label: '5'
+      relevance_score: 0.49211888521427716
+      title: Guerilla-{Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552912/guerilla-demokratie/
+      year: '2024'
+    text: "Fußnoten \n[1] Vgl.  Democracy Forward, The People’s Guide to Project\
+      \ 2025, Juni 2024, https://democracyforward.org/the-peoples-guide-to-project-2025.\n\
+      \ [2] Vgl.  Jason Brennan, When All Else Fails.  The Ethics of Resistance to\
+      \ State Injustice, Princeton 2019; ders., Against Democracy, Princeton 2016.\n\
+      \ [3] Vgl.  Peter Bloom/Owain Smolović Jones/Jamie Woodcock, Guerrilla Democracy. "
+    uid: 83250bc3-3fd2-4837-b87c-c587308b89c0
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Der Staatsrechtler Carl Schmitt etwa meinte die Schwachstelle
+        des Liberalismus darin zu erkennen, dass dieser unfähig sei, sich seiner
+
+        Feinde zu erwehren. '
+      page_label: '2'
+      relevance_score: 0.49177347654059506
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: '[4] Gleichzeitig wirken wenige Begriffe so unbestimmt und schillernd wie
+
+      jener der „wehrhaften Demokratie“, und dies hängt vor allem mit seiner Geschichte
+      zusammen, deren Ursprünge in der Zwischenkriegszeit liegen, als die liberale
+
+      Demokratie in den 1930er Jahren ihre wahre Existenzkrise erlebte.  [5]
+
+      Weimars Scheitern
+
+      Zwar ist die Selbstgefährdung der Demokratie, ihr potenzielles Abgleiten in
+      Anarchie, Demagogie oder Autokratie, ein von alters her bekannter Topos politischer
+
+      Reflexion.  Doch die Zeitgenossenschaft der Oktoberrevolution und des Bolschewismus
+      sowie des „Marsches auf Rom“ und des Faschismus führte seinerzeit
+
+      unter politischen Beobachtern und Theoretikern zu einer intensiven Reflexion
+      über Szenarien der Machtübernahme respektive über Präventionsmaßnahmen, um
+
+      eine solche zu verhindern.  Der Staatsrechtler Carl Schmitt etwa meinte die
+      Schwachstelle des Liberalismus darin zu erkennen, dass dieser unfähig sei, sich
+      seiner
+
+      Feinde zu erwehren.  Dabei drohte der demokratischen Ordnung, so Schmitt, nicht
+      in erster Linie Gefahr vonseiten einer „antidemokratischen Mehrheit“.  Sondern
+
+      bereits der legale Zugriff auf staatliche Macht böte die Möglichkeit, die Legitimität
+      eines demokratischen Willens auszuhebeln.  Schmitt betonte zu Recht einen
+
+      zentralen Aspekt der parlamentarischen Demokratie: das „Offenhalten der gleichen
+      Chance, die Mehrheit, das heißt die politische Macht zu gewinnen“. '
+    uid: ac90bd48-8f43-482a-bdec-839b6de70bba
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'In den 1990er Jahren schien die liberale Demokratie als Regierungsform
+        für einen kurzen Moment
+
+        alternativlos zu sein. '
+      page_label: '1'
+      relevance_score: 0.4866801875640622
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: 'Der Konstitutionalismus der Nachkriegszeit ist in der Krise.  In den 1990er
+      Jahren schien die liberale Demokratie als Regierungsform für einen kurzen Moment
+
+      alternativlos zu sein.  Dies gilt heute nicht mehr – jedenfalls nicht mehr uneingeschränkt.  Globale
+      Indizes stellen seit mehreren Jahren eine Abnahme von
+
+      Rechtsstaatlichkeit und Demokratie fest.  Länder wie die USA, die einst als
+      Vorbild des demokratischen Konstitutionalismus galten oder wie Südafrika als
+      neue
+
+      Hoffnungsträger für eine demokratischere und gerechtere Gesellschaft gefeiert
+      wurden, sind dies heute vielfach nicht mehr. '
+    uid: f73493d2-95b0-49e9-add5-6cebd17cf81e
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Während sie für die einen von der realen Gefahr für die Demokratie
+        zeugen, verstärken sie für die anderen den Wunsch nach einem Systemwechsel. '
+      page_label: '4'
+      relevance_score: 0.4769605737272425
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  und am 8.  Januar 2023 in Brasília entstanden\
+      \ sind, bleiben ambivalent.\n Während sie für die einen von der realen Gefahr\
+      \ für die Demokratie zeugen, verstärken sie für die anderen den Wunsch nach\
+      \ einem Systemwechsel.  Je nachdem\nin welchen virtuellen Foren man unterwegs\
+      \ ist, bekommt man eine andere Auswahl präsentiert.  Das alle Ereignisse verbindende\
+      \ Element aber ist Donald Trump.\n Welche Deutung der Bilder sich letztlich\
+      \ durchsetzen kann, wird nicht unerheblich davon abhängen, ob er erneut zum\
+      \ US-Präsidenten im November 2024 gewählt\nwird.\n"
+    uid: d9df546e-bbeb-45c3-a69a-eb376611fc18
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Im Gegensatz zu liberalen Ansätzen, die Konflikte als zu vermeidende
+        Störungen betrachten, sieht die
+
+        Radikaldemokratie in ihnen eine notwendige Voraussetzung für demokratische
+        Prozesse. '
+      page_label: '3'
+      relevance_score: 0.47550241753375905
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: "Ziviler Ungehorsam wird daher von radikaldemokratischen Ansätzen zum Teil\
+      \ als zu systemkonform angesehen, da er in einem liberalen und deliberativen\n\
+      Verständnis ein Stabilisierungs- und Integrationsmoment des demokratischen Rechtsstaats\
+      \ sein kann.  Politische Entscheidungsprozesse sollten danach nicht nur\nauf\
+      \ institutionelle Wahlen und Repräsentation beschränkt sein, sondern bedürften\
+      \ direktdemokratischer Teilnahme, nicht zuletzt durch Proteste.  So betonen\n\
+      diese Theorien die Bedeutung von politischen Konflikten.  Im Gegensatz zu liberalen\
+      \ Ansätzen, die Konflikte als zu vermeidende Störungen betrachten, sieht die\n\
+      Radikaldemokratie in ihnen eine notwendige Voraussetzung für demokratische Prozesse.\
+      \  Pluralität wird als eine Stärke verstanden, die ermöglicht, dass\nunterschiedliche\
+      \ Stimmen Gehör finden.  Radikale Demokratietheorien stehen in der Regel Verfassungen\
+      \ und Verfassungsgerichten kritisch gegenüber, da diese\nKonflikte dem öffentlichen\
+      \ und politischen Zugriff entziehen können, indem sie sie zu Verfassungsfragen\
+      \ objektivieren.\n Dem tritt die These des zivilen Ungehorsams als Verfassungsinterpretation\
+      \ entgegen. "
+    uid: b62fbdeb-060a-4bd8-99ba-b8eb7c43c622
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Mittlerweile aber sind in der ganzen Welt autokratische
+
+        Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+        auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+        tief verwurzelt schien.'
+      page_label: '3'
+      relevance_score: 0.47272924574084096
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[15] Es darf dort protestiert werden, wenn die Arbeit des Parlaments nicht
+      gestört wird, und so
+
+      werden vor dem Bundestag in der Regel Demonstrationen an Wochenenden erlaubt.  Um
+      die Wende zum 21.  Jahrhundert war man sich noch sicher, dass die
+
+      liberale Demokratie im Streit der Systeme und nach dem Untergang der Sowjetunion
+      gewonnen hatte.  Mittlerweile aber sind in der ganzen Welt autokratische
+
+      Demokratien und Regime wieder auf dem Vormarsch und entsprechende Bestrebungen
+      auch in jenen Ländern zu beobachten, in denen die liberale Demokratie
+
+      tief verwurzelt schien. [16]
+
+      Mit den Bildern vom schwarz-weiß-roten Flaggenmeer auf den Stufen des Reichstagsgebäudes
+      am 29.  August 2020 gelangten sie erstmals ins breite
+
+      Bewusstsein der Bevölkerung in Deutschland.  Doch die Aufnahmen multiplizierten
+      sich nicht nur über die herkömmlichen Medien und Bildagenturen, sondern
+
+      auch über Facebook, Instagram, Telegram und andere Plattformen im Internet. '
+    uid: 86a9fc3d-9128-42b4-9bfb-c132cb1f1d13
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Liberal
+
+        Europe in Retreat, Oxford 2018; David Runciman, How Democracy Ends, London
+        2018.
+
+        '
+      page_label: '5'
+      relevance_score: 0.47217141932420786
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Wie der Populismus den Rechtsstaat bedroht, München 2018; Timothy Snyder,\
+      \ The Road to Unfreedom.  Russia, Europe, America, London\n2018; Steven Levitsky/Daniel\
+      \ Ziblatt, Wie Demokratien sterben.  Und was wir dagegen tun können, München\
+      \ 2018; Jan Zielonka, Counter-Revolution.  Liberal\nEurope in Retreat, Oxford\
+      \ 2018; David Runciman, How Democracy Ends, London 2018.\n [18] Joseph Goebbels,\
+      \ Der Angriff.  Aufsätze aus der Kampfzeit, München 1935, S.  61.\n"
+    uid: 1c29684b-af6f-4f3b-b3bd-140037523cc9
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Nachwirkung
+
+        Während in den USA die Erinnerung an die lauernde Gefahr für die Demokratie,
+        die in diesen Ereignissen ihr Angesicht zeigte, zunehmend schwindet, hat die
+
+        Aufarbeitung in Deutschland mit den Prozessen um die Reichsbürgerverschwörung
+        2024 an Fahrt aufgenommen. '
+      page_label: '4'
+      relevance_score: 0.4694498261030213
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: "Januar 2021 in Washington, D.C.  berief man sich in Brasília eine Woche\
+      \ nach der Amtseinführung des neuen\nPräsidenten Luiz Inácio Lula da Silva,\
+      \ als der alte schon nicht mehr im Land war, auf den urdemokratischen Grundsatz,\
+      \ dass die Macht vom Volk ausgeht und\ngegen seinen Willen nicht regiert werden\
+      \ darf.  In allen drei Fällen war das jedoch eine unerhörte Anmaßung, die nur\
+      \ durch Konspirationstheorien oder\nWahlfälschungsvorwürfe autosuggestiv plausibel\
+      \ erscheinen konnte.\n Nachwirkung\nWährend in den USA die Erinnerung an die\
+      \ lauernde Gefahr für die Demokratie, die in diesen Ereignissen ihr Angesicht\
+      \ zeigte, zunehmend schwindet, hat die\nAufarbeitung in Deutschland mit den\
+      \ Prozessen um die Reichsbürgerverschwörung 2024 an Fahrt aufgenommen.  In Brasilien\
+      \ ist sie weit fortgeschritten.\n Präsident Lula da Silva hat den 8.  Januar\
+      \ zum \"Tag der Demokratie\" erklärt, und der brasilianische Museumsverband\
+      \ hat die Errichtung eines Museums der\nDemokratie angekündigt, denn noch ist\
+      \ in diesem Land, wie die Forderungen beim Angriff auf das Parlament gezeigt\
+      \ haben, die Erinnerung an die Zeit der\nMilitärdiktatur (1964–1985) wach und\
+      \ lebendig und ihre Wiederkehr kein so abwegig erscheinender Gedanke wie die\
+      \ Wiederkehr oder Etablierung einer Tyrannei\nin der Bundesrepublik Deutschland\
+      \ und den USA."
+    uid: 669da12d-b6aa-40eb-a9cb-b7ed2228c45a
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft
+        aus einem der Diktatur nachempfundenen Mittel für den
+
+        Ausnahmezustand nicht verleugnen, aber es könnte helfen, in ihr eine Charakterisierung
+        der generellen Konstitution liberaler Demokratien zu sehen, um
+
+        Krisenfestigkeit und Stabilität zu betonen.
+
+        '
+      page_label: '4'
+      relevance_score: 0.4641774489460795
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Allerdings zeigen die neuerlichen Debatten um die Krise\nder Demokratie,\
+      \ dass die Konzentration auf den klar zu markierenden Verfassungsfeind zu kurz\
+      \ greift.  Der Schematismus einer Extremismusauffassung, welche\ndie Bedrohung\
+      \ symmetrisch im organisierten Rechts- und Linksradikalismus sieht, erschöpft\
+      \ sich in einer Gegnerbekämpfung, deren polizeiliche Maßnahmen\nzwar nötig sind,\
+      \ die Demokratie jedoch nicht nachhaltig zu stabilisieren vermögen.  Darüber\
+      \ hinaus ist die Gefahr eines offenen Kampfes der Verfassungsgegner,\nder die\
+      \ Demokratie mit einem Putsch oder Ähnlichem beseitigt, von geringer Wahrscheinlichkeit,\
+      \ zumal funktionierende europäische Demokratien bislang nie von\nlinks beseitigt\
+      \ worden sind.  Die wehrhafte Demokratie kann zwar ihre konzeptuelle Herkunft\
+      \ aus einem der Diktatur nachempfundenen Mittel für den\nAusnahmezustand nicht\
+      \ verleugnen, aber es könnte helfen, in ihr eine Charakterisierung der generellen\
+      \ Konstitution liberaler Demokratien zu sehen, um\nKrisenfestigkeit und Stabilität\
+      \ zu betonen.\n Schon Kelsen und Loewenstein haben mit unterschiedlichen Akzentsetzungen\
+      \ gezeigt, dass der Erfolg demokratischer Verteidigungsmaßnahmen (ob „militant“\n\
+      oder legislativ) von einer gefestigten politischen Kultur abhängt.  Wenn heute\
+      \ vom Zerfall und vom Sterben der westlichen Demokratie die Rede ist, kann die\n\
+      politische Theorie aus den Argumentationsfiguren der damaligen Diskussion immer\
+      \ noch lernen, ohne die gegenwärtige Debatte künstlich zu dramatisieren.  Denn\n\
+      der Vergleich mit den Weimarer Verhältnissen zeigt vor allem Unterschiede: Eine\
+      \ seit 75 Jahren gewachsene Kultur der Demokratie bietet in ihrer\nzivilgesellschaftlichen\
+      \ Verankerung fraglos bessere Voraussetzungen zur Krisenbewältigung, als dies\
+      \ in der ersten deutschen Demokratie der Fall war. "
+    uid: 11459401-a7df-4db3-8420-7b532efb4129
+  - metadata:
+      author: Fowkes, James and Hailbronner, Michaela
+      file_name: fowkes_krise_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Maya Tudor, Why India’s Democracy Is Dying, in: Journal of Democracy
+        3/2023, S. '
+      page_label: '6'
+      relevance_score: 0.46325817433682936
+      title: Krise des globalen {Konstitutionalismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545650/krise-des-globalen-konstitutionalismus/
+      year: '2024'
+    text: "Anuj Bhuwania, Courting the People.  Public Interest Litigation in Post-Emergency\
+      \ India, Cambridge 2017.\n [28] Vgl.  Maya Tudor, Why India’s Democracy Is Dying,\
+      \ in: Journal of Democracy 3/2023, S.  121–132.\n [29] Vgl.  ebd., mit Verweis\
+      \ auf Steven Levitsky/Daniel Ziblatt, How Democracies Die. "
+    uid: f51d026b-2fc4-415a-bf2e-e1ac346b5220
+  - metadata:
+      author: Hacke, Jens
+      file_name: hacke_wehrhafte_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: February
+      original_text: 'Die Frage, wie die Demokratie dauerhaft zu
+
+        sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,
+        als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die
+
+        parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen
+        Volks- beziehungsweise Mehrheitswillen.
+
+        '
+      page_label: '3'
+      relevance_score: 0.4618312719034743
+      title: Wehrhafte {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/inguterverfassung-2024/545648/wehrhafte-demokratie/
+      year: '2024'
+    text: "Der wichtigste Unterschied besteht allerdings darin, dass die liberale\
+      \ Demokratie seinerzeit noch eine neue Errungenschaft war.  Demokratie war ein\n\
+      Zukunftsbegriff, an den sich eine Fülle von Erwartungen und Hoffnungen knüpfte,\
+      \ aber mit ihm waren noch kaum Erfahrungen verbunden.  Eigentlich kann man in\n\
+      Europa erst seit 1918 davon sprechen, dass die liberale Demokratie mit freiem\
+      \ und gleichem Wahlrecht, repräsentativer parlamentarischer Regierungsform,\n\
+      Gewaltenteilung und Garantie von Grundrechten Verfassungsgeltung erlangte und\
+      \ zum führenden Modell wurde.  Die Frage, wie die Demokratie dauerhaft zu\n\
+      sichern und gegen ihre Feinde zu schützen ist, wurde in dem Moment relevant,\
+      \ als sich in der Massendemokratie neue totalitäre Ideologien anschickten, die\n\
+      parlamentarische Demokratie zu beseitigen – unter Berufung auf einen vermeintlichen\
+      \ Volks- beziehungsweise Mehrheitswillen.\n Für die Zeitgenossen schienen Joseph\
+      \ Goebbels’ Worte von der liberalen Demokratie, die „ihren Todfeinden die Mittel\
+      \ selbst stellte“, durch die sie vernichtet\nwerden konnte, unmittelbar evident.\
+      \  [18] Nimmt man Goebbels’ Ausspruch ernst, ist aber nicht das Volk der entscheidende\
+      \ Akteur, sondern es sind die\nantidemokratischen Eliten, die die Chancen des\
+      \ politischen Systems für ihre Zwecke instrumentalisieren.  Insofern konzentriert\
+      \ sich bis heute jede Krisendiagnose\nauf die Kritik an den Eliten und Funktionsträgern\
+      \ in Politik und Wirtschaft, die sich vom normativen Anspruch der Demokratie\
+      \ entkoppelt haben und ihrer\ndemokratischen Verantwortung nicht mehr gerecht\
+      \ werden. "
+    uid: ac71b3eb-d631-436a-8622-fa1825022c78
+  - metadata:
+      author: Charlotte, Klonk
+      file_name: charlotte_antidemokratische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Zum Ausdruck gebracht wurde
+
+        damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+        der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+        politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+        Männern zustanden. '
+      page_label: '3'
+      relevance_score: 0.4599579634886448
+      title: Antidemokratische {Bilder} der {Demokratie}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/parlamentarismus-2024/551997/antidemokratische-bilder-der-demokratie/
+      year: '2024'
+    text: '[19] Trump reagierte umgehend und setzte eine Kommission ein, die die traditionelle
+
+      Bedeutung von 1776, dem Jahr der Unabhängigkeitserklärung, als Gründungsmoment
+      in der Erinnerungskultur der Nation verteidigen sollte.  Entsprechend wurde
+
+      am 6.  Januar 2021 immer wieder "1776 or never" skandiert und Fahnen mit der
+      Aufschrift "1776 2.0" tauchten in der Menge auf.  Zum Ausdruck gebracht wurde
+
+      damit nicht mehr und nicht weniger als die Forderung nach einem Zurückdrehen
+      der Geschichte in die Zeit vor der Demokratisierung der Demokratie,[20] als
+
+      politische Mitbestimmung und vollumfängliche Rechte nur frei geborenen weißen
+      Männern zustanden.  Vergessen gemacht werden sollten dadurch auch die
+
+      Niederlage der Südstaaten im Bürgerkrieg von 1861 bis 1865 und die sukzessiven
+      Errungenschaften der gleichen Rechte, die darauf folgten.  Auf häufig
+
+      publizierten Fotos des 6.  Januar sieht man, wie ein Mann die Flagge der Konföderierten
+      Staaten von Amerika durch das Parlamentsgebäude trägt. '
+    uid: 8b6f5e20-27e3-4419-a9a1-db0c46bbc63d
+  evidential_uncertainty: 1.0
+  metadata: {}
+  n_evidence: 4
+  negation: Liberaldemokratische Systeme sind in der Lage, sich zu verteidigen.
+  statement_type: *id001
+  text: Liberale Demokratien sind nicht in der Lage, sich zu verteidigen
+  uid: cdb83c80-b590-4e51-b88f-94fc0daa0144
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id002
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Liberal-demokratische Staaten sollten ihre offensive Fähigkeiten priorisieren.
+  statement_type: &id003 normative
+  text: Liberal-demokratische Staaten sollten ihre defensive Fähigkeiten priorisieren.
+  uid: e1e1f4a2-8017-4f54-9c3b-86e026cbe928
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id002
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Liberal-demokratische Staaten sollten nicht in der Lage sein, sich gegen
+    ihre Feinde zu verteidigen.
+  statement_type: *id003
+  text: Liberal-demokratische Staaten sollten in der Lage sein, sich gegen ihre Feinde
+    zu verteidigen.
+  uid: ed086291-5785-4f14-a101-4fc547d7c806
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id002
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es ist unerwünschenswert, dass liberal-demokratische Staaten sich gegen
+    ihre Feinde verteidigen können.
+  statement_type: *id003
+  text: Es ist wünschenswert, dass liberal-demokratische Staaten sich gegen ihre Feinde
+    verteidigen können.
+  uid: 94608dca-2cbe-4e46-a65e-16c9654e0984
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - A
+        - C
+        - B
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(A|C|B)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          If you did not identify any ascriptions, make sure to return an empty list
+          containing no strings, not even empty ones..
+
+          Format your (possibly empty) list of ascriptions as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          If you did not identify any descriptive statements, make sure to return
+          an empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          If you did not identify any normative statements, make sure to return an
+          empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Llama-3.2-3B-Instruct-Turbo
+  verbose: false
+request: Liberale Demokratien sind nicht in der Lage, sich gegen ihre Feinde zu verteidigen.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  trust_remote_code: null
+  window_size: 3
+time: 2025-09-17 10:49:23 UTC
+uid: dd097386-55be-4bfa-9875-5ba0ba756b9f

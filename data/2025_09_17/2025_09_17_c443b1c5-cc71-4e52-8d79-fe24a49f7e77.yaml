@@ -1,0 +1,1728 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document:
+    02cb3fc4-0c70-47e4-a990-2a22d2f06b76: -9.854154686111257e-34
+    3e1add1e-04f7-494d-8c2a-cc390a52a125: 4.41632555258341e-33
+    403aab3a-c393-4828-a5a7-fe15ea22d0ed: 1.781670520509275e-30
+    71d3866a-5591-471a-9762-2f42c4c94646: 1.6932214931969522e-33
+    73d956d2-baf1-4d32-a1b5-b21e070e6d7a: 1.4815121357541781e-36
+    7cc27806-db9f-496d-96e0-4f39cf854f66: 7.004352026168645e-18
+    83a725a1-2506-457b-ae83-8aadb816e7b6: 3.826666913944468e-36
+    84139c04-760e-4710-ac09-0577ce27ffbd: 2.0049177547037797e-37
+    883e4a2c-4115-42c4-92a0-fa1c33755151: 2.766971044091415e-40
+    b32528e8-4ba1-4310-b96b-1566e89c5954: 7.281273720207333e-33
+    b44fb55d-e241-4ed8-bafc-7181b7194042: 1.75879220238404e-25
+    d7a6116c-cac9-4528-b65c-b7b03ba43a20: 1.6246752607429626e-33
+  confirmation_level: &id001 inconclusive_confirmation
+  documents:
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Da ein konventioneller Krieg heutzutage zu kostspielig und zu
+        riskant sei, müsse man damit rechnen, dass diese hybride Waffe
+
+        zunehmend eingesetzt werde und immer mehr Regierungen versuchen werden, Migranten
+        und Asylsuchende als „Kugeln und Bomben“ zu nutzen – vor allem
+
+        gegen die EU.'
+      page_label: '1'
+      relevance_score: 0.49571210801715215
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: 'Als der belarussische Staatschef Alexander Lukaschenko im Herbst 2021 Migrantinnen
+      und Asylbewerber aus dem Irak, Afghanistan und anderen Ländern nach
+
+      Belarus lockte und an die EU-Grenze bringen ließ, erklärten viele die Aktion
+      zum Beginn einer gefährlichen neuen Ära in der internationalen Machtpolitik:
+      Das
+
+      Vorgehen sei eine neue Form der Bedrohung, bei der „Menschen in einem Akt der
+      Aggression“ eingesetzt würden, und bewege sich in einer Grauzone unterhalb
+
+      der Schwelle zum Krieg.  Da ein konventioneller Krieg heutzutage zu kostspielig
+      und zu riskant sei, müsse man damit rechnen, dass diese hybride Waffe
+
+      zunehmend eingesetzt werde und immer mehr Regierungen versuchen werden, Migranten
+      und Asylsuchende als „Kugeln und Bomben“ zu nutzen – vor allem
+
+      gegen die EU. [1]
+
+      Doch anders als diese Äußerungen vermuten lassen, war diese Art der Instrumentalisierung
+      von Migration durch Belarus weder neu noch einzigartig, sondern
+
+      lediglich ein sehr offensichtliches Beispiel für ein uraltes, wenn auch unorthodoxes
+      politisches Mittel.  Der Einsatz von Migration als Waffe ist nicht neu.  Allerdings
+
+      hat er sich in den vergangenen Jahren von einer relativ häufigen, jedoch viel
+      zu wenig beachteten Praxis zu einer sehr sichtbaren, aber immer noch weithin
+
+      missverstandenen Maßnahme entwickelt. '
+    uid: 83a725a1-2506-457b-ae83-8aadb816e7b6
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'In den vergangenen zwei Jahren haben der Krieg in der Ukraine
+        und das Wiederaufflammen des israelisch-palästinensischen Konflikts diesen
+        grundlegenden
+
+        Trend weiter verstärkt. '
+      page_label: '3'
+      relevance_score: 0.4760801366991802
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Im Februar 2019, nur wenige Monate nach dem Mordanschlag auf den saudi-arabischen\
+      \ Journalisten Jamal Khashoggi in Istanbul, der mutmaßlich aus\nKreisen des\
+      \ Königshauses veranlasst worden war, reiste der saudische Kronprinz Mohammed\
+      \ bin Salman öffentlichkeitswirksam nach China.  2018 trugen\nchinesische Investitionen\
+      \ auf dem türkischen Markt dazu bei, die Abwertung der türkischen Lira während\
+      \ der diplomatischen Krise Ankaras mit Washington\nabzufedern.  Länder, die\
+      \ mit internationalen Sanktionen belegt sind, wie Syrien und Iran, versuchten,\
+      \ ihre Beziehungen zu China zu nutzen, um ihre diplomatische\nIsolation zu durchbrechen.\n\
+      \ In den vergangenen zwei Jahren haben der Krieg in der Ukraine und das Wiederaufflammen\
+      \ des israelisch-palästinensischen Konflikts diesen grundlegenden\nTrend weiter\
+      \ verstärkt.  Beide Konflikte offenbaren tiefe Gräben innerhalb der internationalen\
+      \ Gemeinschaft und unterschiedliche Stimmen innerhalb des Globalen\nSüdens werden\
+      \ laut, die die vom Westen geführte internationale Ordnung zunehmend hinterfragen\
+      \ und \"westliche Heuchelei und Doppelmoral\" anprangern.\n Aus Beijings Sicht\
+      \ steht das Interesse am Nahen Osten in Einklang mit dem eigenen wachsenden\
+      \ Selbstbewusstsein auf der internationalen Bühne.  Die Region\nerscheint Beijing\
+      \ nicht mehr bloß als wichtige Öl- und Gasquelle, sondern auch als potenzieller\
+      \ Vermittler seiner eigenen Interessen. "
+    uid: 02cb3fc4-0c70-47e4-a990-2a22d2f06b76
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Oft wird sie auch parallel zu konventionellen Konflikten
+
+        eingesetzt, wie das Beispiel Russland zeigt, das neben dem Angriffskrieg gegen
+        die Ukraine auch Migration als Waffe gegen EU- und NATO-Länder wie Italien
+
+        und Finnland anwendet.
+
+        '
+      page_label: '2'
+      relevance_score: 0.47400579499860684
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "durchaus schon Kriege nach sich gezogen, wie das Beispiel des Indisch-Pakistanischen\
+      \ Krieges von 1971 zeigt.  Und auch während eines Krieges wurde Migration\n\
+      schon als diplomatisches Druckmittel benutzt, etwa 1999 im Kosovo, als der serbische\
+      \ Präsident Slobodan Milošević die NATO durch die Vertreibung von 800000\nKosovo-Albanern\
+      \ zur Einstellung ihrer Luftschläge zwingen wollte. [5] Die Instrumentalisierung\
+      \ von Migration ist ein wesentlicher Bestandteil konventioneller und\nirregulärer\
+      \ Kriege, einschließlich unzähliger Kampagnen zur Aufstandsbekämpfung im Kalten\
+      \ Krieg.  Oft wird sie auch parallel zu konventionellen Konflikten\neingesetzt,\
+      \ wie das Beispiel Russland zeigt, das neben dem Angriffskrieg gegen die Ukraine\
+      \ auch Migration als Waffe gegen EU- und NATO-Länder wie Italien\nund Finnland\
+      \ anwendet.\n Migration wird also schon lange als politisches Druckmittel genutzt\
+      \ – fragt sich nur: Wie und warum?\n Warum funktioniert Migration als Waffe?\n\
+      \ Eine Waffe ist ein Instrument, das von staatlichen und nichtstaatlichen Akteuren\
+      \ zum Angriff, zur Verteidigung oder zur Abschreckung eingesetzt wird, um\n\
+      politische, wirtschaftliche oder militärische Ziele zu erreichen. "
+    uid: 71d3866a-5591-471a-9762-2f42c4c94646
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Die USA befürchten zudem, dass die zunehmende Zusammenarbeit
+        zwischen den Ländern des Nahen Ostens und
+
+        China, die sich auch auf die Bereiche neue Technologien und Verteidigung ausdehnt,
+        die Wahrscheinlichkeit für chinesische Überwachungsaktivitäten oder den
+
+        Diebstahl strategisch wichtiger amerikanischer Technologien durch China erhöhen
+        wird.'
+      page_label: '3'
+      relevance_score: 0.46309714291951365
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: 'Die Annäherung des Nahen Ostens an China hat man in Washington durchaus
+      registriert.  Die USA beobachten mit Sorge, dass einige ihrer wichtigsten Partner
+      in
+
+      der Region und bedeutsame Rüstungsimporteure näher an ihren strategischen Rivalen
+      herangerückt sind.  Der Krieg in der Ukraine hat bereits gezeigt, wie sich
+
+      die Weigerung der Ölexporteure des Nahen Ostens, sich den westlichen Sanktionen
+      gegen Russland anzuschließen, auf den Verlauf eines Konflikts auswirken
+
+      kann, mitunter zulasten westlicher Interessen.  Die USA befürchten zudem, dass
+      die zunehmende Zusammenarbeit zwischen den Ländern des Nahen Ostens und
+
+      China, die sich auch auf die Bereiche neue Technologien und Verteidigung ausdehnt,
+      die Wahrscheinlichkeit für chinesische Überwachungsaktivitäten oder den
+
+      Diebstahl strategisch wichtiger amerikanischer Technologien durch China erhöhen
+      wird. [10]
+
+      Als Reaktion auf diese neue Herausforderung versuchen die Vereinigten Staaten,
+      den Druck auf manche ihrer engen Partner im Nahen Osten zu erhöhen, um die
+
+      Entwicklung der Beziehungen zu Beijing zu bremsen.  Der Hafen von Haifa in Israel
+      beispielsweise, der regelmäßig die sechste US-Flotte beherbergt, wurde
+
+      unlängst zu einem Konfliktpunkt zwischen den USA und Israel, nachdem Chinas
+      staatseigene Shanghai International Port Group (SIPG) 2015 den Zuschlag für
+
+      den Betrieb eines Terminals erhalten hatte.  Anfang 2020 intervenierten die
+      USA, um Israel dazu zu drängen, ein chinesisches Angebot für eine hochstrategische
+
+      Entsalzungsanlage abzulehnen, die in der Nähe eines Militärstützpunkts gebaut
+      werden sollte. '
+    uid: 403aab3a-c393-4828-a5a7-fe15ea22d0ed
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die instrumentalisierte Migration ist dadurch viel
+
+        leichter zu erkennen, und das erklärt vielleicht, warum einige Beobachter
+        fälschlicherweise glauben, sie sei neu oder trete plötzlich viel häufiger
+        auf.
+
+        '
+      page_label: '3'
+      relevance_score: 0.4446179964646431
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Was sich in den vergangenen Jahren verändert hat, ist die Zahl der Regierungen,\
+      \ die bereit sind, Migration ganz offen als Waffe einzusetzen, statt nur hinter\n\
+      verschlossenen Türen damit zu drohen.  Auch die Zahl der Zielländer ist gestiegen,\
+      \ die öffentlich zugeben, dass sie ins Visier genommen werden, und zwar sowohl\n\
+      von befreundeten als auch von gegnerischen Staaten.  Das ist eine wesentliche\
+      \ und wichtige Veränderung.  Die instrumentalisierte Migration ist dadurch viel\n\
+      leichter zu erkennen, und das erklärt vielleicht, warum einige Beobachter fälschlicherweise\
+      \ glauben, sie sei neu oder trete plötzlich viel häufiger auf.\n Diese zunehmende\
+      \ Transparenz ist ein zweischneidiges Schwert: Einerseits erscheinen die Forderungen\
+      \ derjenigen, die Druck ausüben, nun glaubhafter.  Dadurch\nkönnten sich Staaten\
+      \ veranlasst fühlen, bereits im Vorfeld einer herbeigeführten Migrationskrise\
+      \ zu verhandeln und tragfähige Vereinbarungen zu treffen.\n Andererseits kann\
+      \ die Behauptung, dass Gegner oder Rivalen Migration als Waffe verwenden, politisch\
+      \ genutzt werden – als eine Art Instrumentalisierung der\nInstrumentalisierung. "
+    uid: 73d956d2-baf1-4d32-a1b5-b21e070e6d7a
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Es ist zwar richtig, dass Migration oft auf diese Weise instrumentalisiert
+        wird, wenn militärische Gewalt nicht möglich oder zu kostspielig ist oder
+        man eine
+
+        Eskalation auf jeden Fall vermeiden will. '
+      page_label: '1'
+      relevance_score: 0.44171257512555595
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: 'Die Reiseagenturen, die Migranten nach Minsk lockten, folgten dem
+
+      Vorbild der DDR, die Mitte der 1980er Jahre im gesamten Nahen Osten und in Südasien
+      Anzeigen schaltete, in denen „komfortable Flüge“ nach Ost-Berlin und ein
+
+      „schneller und reibungsloser Transit“ in den Westen versprochen wurden, um von
+      der Bundesrepublik wirtschaftliche und politische Zugeständnisse sowie
+
+      technische Unterstützung zu erpressen. [3]
+
+      Diese Art der Instrumentalisierung von Migration ist ein globales Phänomen.  Tragischerweise
+      kann man davon ausgehen, dass immer irgendwo auf der Welt eine
+
+      oder mehrere Gruppen von Migranten oder Flüchtlingen zur Durchsetzung strategischer
+      Ziele als Druckmittel eingesetzt werden – und das schon seit
+
+      Jahrhunderten. [4]
+
+      Es ist zwar richtig, dass Migration oft auf diese Weise instrumentalisiert wird,
+      wenn militärische Gewalt nicht möglich oder zu kostspielig ist oder man eine
+
+      Eskalation auf jeden Fall vermeiden will.  Dennoch war sie nie nur ein Instrument
+      der Grauzone zwischen zulässigen Mitteln und offenem Konflikt.  Ihr Einsatz
+      hat
+
+      Krieg mit anderen Mitteln
+
+      Migration als Instrument der Politik
+
+      01.11.2024 / 15 Minuten zu lesen
+
+      Kelly M. Greenhill
+
+      Der Einsatz von Migration als politisches Druckmittel ist nicht neu.  In den
+      vergangenen Jahren hat
+
+      allerdings die Offenheit zugenommen, mit der Migration instrumentalisiert wird. '
+    uid: 883e4a2c-4115-42c4-92a0-fa1c33755151
+  - metadata:
+      author: Brahma, Chellaney
+      file_name: brahma_ende_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Wenn überhaupt ein Effekt zu beobachten ist, dann der, dass
+        Russland auf Kriegswirtschaft umgestellt und zum
+
+        Beispiel seine Raketen- und Munitionsproduktion über das Vorkriegsniveau hinaus
+        ausgeweitet hat.
+
+        '
+      page_label: '2'
+      relevance_score: 0.4356291997720939
+      title: Ende der westlichen {Vorherrschaft}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557223/ende-der-westlichen-vorherrschaft/
+      year: '2024'
+    text: "China treibt heute\nmehr Handel mit dem Globalen Süden als mit der entwickelten\
+      \ Welt.\n Was Russland betrifft, hat der Westen nach dem russischen Einmarsch\
+      \ in die Ukraine darum gerungen, Wege zu finden, Moskau spürbar zu bestrafen,\
+      \ ohne sich dabei selbst\nzu schaden.  Diese Aufgabe gestaltet sich immer schwieriger,\
+      \ weil die beispiellosen Sanktionen der USA gegen Moskau weder die russische\
+      \ Wirtschaft zum Erliegen gebracht\nnoch irgendetwas am Verhalten des Kremls\
+      \ geändert haben.  Wenn überhaupt ein Effekt zu beobachten ist, dann der, dass\
+      \ Russland auf Kriegswirtschaft umgestellt und zum\nBeispiel seine Raketen-\
+      \ und Munitionsproduktion über das Vorkriegsniveau hinaus ausgeweitet hat.\n\
+      \ Hinzu kommt, dass Europa von billiger russischer Energie auf teurere Lieferungen\
+      \ aus anderen Ländern umgestellt hat, was zur Stagnation oder zumindest Verlangsamung\n\
+      des Wirtschaftswachstums in Europa beiträgt.  Die erhöhten Brennstoffpreise,\
+      \ die direkt auf die Erschütterungen der Coronapandemie folgten, sind ein wichtiger\
+      \ Faktor für die\nderzeitige wirtschaftliche Misere Europas.  Das beste Beispiel\
+      \ dafür ist der ehemalige Wirtschaftsmotor Deutschland, dessen Boomjahre voller\
+      \ Wachstum und\nHaushaltsüberschüsse nun in die Agonie einer schrumpfenden Wirtschaft\
+      \ übergehen. "
+    uid: b32528e8-4ba1-4310-b96b-1566e89c5954
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[6]
+
+        In Fällen, in denen solche Aktionen gegen Staaten gerichtet sind, hängt ihre
+        Wirksamkeit weniger von der Größe der Bevölkerungsbewegungen ab als von der
+
+        Politik im Zielland und der Haltung der dortigen Bevölkerung, wobei ein wesentliches
+        Kriterium die Herkunft der Gruppe(n) sowie deren kulturelle/religiöse
+
+        Identität ist. '
+      page_label: '2'
+      relevance_score: 0.4265249898643493
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Ein viertes Ziel gesteuerter Migration kann Erpressung sein, wenn Bevölkerungsbewegungen\
+      \ ausgelöst, behindert oder manipuliert werden, um Zielstaaten zu\npolitischen,\
+      \ militärischen und/oder wirtschaftlichen Zugeständnisse zu nötigen.  Ein Beispiel\
+      \ wäre der frühere libysche Staatschef Muammar al-Gaddafi, der\ndrohte, Europa\
+      \ mit Migranten zu überschwemmen, wenn ihm nicht Sanktionserleichterungen, Milliarden\
+      \ an Hilfsgeldern und andere Zugeständnisse gewährt\nwürden.  Ähnlich drohte\
+      \ der türkische Präsident Recep Tayyip Erdoğan wiederholt, meist syrische Flüchtlinge\
+      \ und andere Migranten nach Europa zu schicken –\nmit Erfolg: 2016 wurde die\
+      \ umstrittene Flüchtlingsvereinbarung zwischen der EU und der Türkei ausgehandelt.\
+      \ [6]\nIn Fällen, in denen solche Aktionen gegen Staaten gerichtet sind, hängt\
+      \ ihre Wirksamkeit weniger von der Größe der Bevölkerungsbewegungen ab als von\
+      \ der\nPolitik im Zielland und der Haltung der dortigen Bevölkerung, wobei ein\
+      \ wesentliches Kriterium die Herkunft der Gruppe(n) sowie deren kulturelle/religiöse\n\
+      Identität ist.  Entscheidend ist, ob die Menschen, die wie Schachfiguren hin-\
+      \ und hergeschoben werden, in den Zielstaaten als „Leute von uns“ betrachtet\
+      \ werden,\ndie Akzeptanz und Schutz verdienen, oder als „die anderen“ und damit\
+      \ als Bedrohung, die abgewehrt und zurückgewiesen werden muss.\n Da die Zielländer\
+      \ fürchten, mit der Bewältigung der Zuwanderung überfordert zu sein und/oder\
+      \ dass es zu politischen Spaltungen innerhalb der Bevölkerung\nkommt, entfaltet\
+      \ der angedrohte oder tatsächliche Einsatz von Migration als Waffe eine große\
+      \ Wirkung.  Deshalb gilt Migration schon lange als nützliches\npolitisches Instrument. "
+    uid: d7a6116c-cac9-4528-b65c-b7b03ba43a20
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Die
+
+        wachsende Rivalität zwischen China und den Vereinigten Staaten könnte die
+        Nahoststaaten letzten Endes vor schwierige Entscheidungen stellen.
+
+        '
+      page_label: '1'
+      relevance_score: 0.4251638979709332
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Hatte Beijing die Region lange Zeit als\nrandständig gegenüber seinen Kerninteressen\
+      \ betrachtet, waren nun der boomende Energiebedarf und die wachsenden internationalen\
+      \ Ambitionen Argument\ngenug, um die eigene Präsenz zu verstärken, durch die\
+      \ immerhin einige der strategisch wichtigsten Handelsrouten der Welt verlaufen.\
+      \  Auch die Länder in der\nRegion nehmen den Wandel in den globalen Machtverhältnissen\
+      \ wahr und sind bestrebt, ihre Beziehungen zu externen Großmächten zu diversifizieren\
+      \ und\ndringend benötigte Investitionen aus China anzuwerben.  In den USA löst\
+      \ der steigende chinesische Einfluss im Nahen Osten dagegen Besorgnis aus. \
+      \ Die\nwachsende Rivalität zwischen China und den Vereinigten Staaten könnte\
+      \ die Nahoststaaten letzten Endes vor schwierige Entscheidungen stellen.\n Wachsende\
+      \ Präsenz Chinas\nChinas Präsenz im Nahen Osten hat sich in den vergangenen\
+      \ Jahrzehnten merklich ausgeweitet, zunächst angetrieben durch den massiven\
+      \ Energiebedarf der\nVolksrepublik.  So entfallen etwa die Hälfte der chinesischen\
+      \ fossilen Brennstoffimporte auf die Region.  Generell haben sich die chinesischen\
+      \ Energieimporte in\nden zurückliegenden 20 Jahren um das 15-Fache erhöht, was\
+      \ das Land 2016 zum größten Erdölimporteur der Welt aufsteigen ließ."
+    uid: 3e1add1e-04f7-494d-8c2a-cc390a52a125
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die Reaktionen in der EU auf die Ankunft
+
+        ukrainischer Flüchtlinge nach Beginn des russischen Angriffskriegs 2022 sind
+        ein solches Beispiel, allerdings sind solche Fälle eher die Ausnahme.
+
+        '
+      page_label: '3'
+      relevance_score: 0.4232111541587525
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Aufgrund dieser Dynamik treten im Zielland Spannungen und Widersprüche\
+      \ zutage, was wiederum denjenigen in die Hände spielt, die Unruhe stiften und\
+      \ das\nZielland in Schwierigkeiten bringen wollen.  Natürlich sind die Spannungen\
+      \ geringer, wenn die Gruppe der Vertriebenen Sympathie bei der Bevölkerung genießt\n\
+      und es wenige bis keine internen Spaltungen gibt.  In solchen Fällen ist es\
+      \ schwierig, Migration als Waffe einzusetzen.  Die Reaktionen in der EU auf\
+      \ die Ankunft\nukrainischer Flüchtlinge nach Beginn des russischen Angriffskriegs\
+      \ 2022 sind ein solches Beispiel, allerdings sind solche Fälle eher die Ausnahme.\n\
+      \ Was sich in den vergangenen Jahren verändert hat, ist die Zahl der Regierungen,\
+      \ die bereit sind, Migration ganz offen als Waffe einzusetzen, statt nur hinter\n\
+      verschlossenen Türen damit zu drohen.  Auch die Zahl der Zielländer ist gestiegen,\
+      \ die öffentlich zugeben, dass sie ins Visier genommen werden, und zwar sowohl\n\
+      von befreundeten als auch von gegnerischen Staaten.  Das ist eine wesentliche\
+      \ und wichtige Veränderung. "
+    uid: b44fb55d-e241-4ed8-bafc-7181b7194042
+  - metadata:
+      author: Anastasia, Pociumban
+      file_name: anastasia_fragile_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: '[2] Auch wenn eine direkte militärische Invasion ausblieb, hat
+        der bereits vorhandene russische
+
+        Einfluss im Land drastisch zugenommen und hält auf einem neuen Niveau an. '
+      page_label: '1'
+      relevance_score: 0.4184105189567814
+      title: Fragile {Stabilität}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550126/fragile-stabilitaet/
+      year: '2024'
+    text: 'Der russische Einmarsch in die Ukraine 2022 hat die Republik Moldau mit
+      ihren rund 2,6 Millionen Bürgerinnen und Bürgern in eine prekäre Lage gebracht.
+      [1]
+
+      Nach der Corona-Pandemie und der 2021 einsetzenden Energiekrise bestand für
+      das Land die reale Gefahr, dass Russland bis an seine Grenzen vordringen und
+
+      sich die abtrünnige Region Transnistrien einverleiben würde. [2] Auch wenn eine
+      direkte militärische Invasion ausblieb, hat der bereits vorhandene russische
+
+      Einfluss im Land drastisch zugenommen und hält auf einem neuen Niveau an.  Darüber
+      hinaus erlebte Moldau in der ersten Woche der russischen Aggression
+
+      gegen die Ukraine einen noch nie dagewesenen Zustrom von Geflüchteten aus dem
+      Nachbarland.  Seit Beginn der Invasion überquerten mehr als eine Million
+
+      Menschen die Grenze.  In Moldau halten sich nach wie vor rund 118000 Geflüchtete
+      auf, was etwa 3 Prozent der Landesbevölkerung entspricht.'
+    uid: 7cc27806-db9f-496d-96e0-4f39cf854f66
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Die Länder des Nahen Ostens – hauptsächlich die Golfstaaten,
+        Ägypten, Israel und Jordanien – importieren mehr als zwei Drittel ihrer
+
+        Verteidigungstechnologien aus den Vereinigten Staaten. '
+      page_label: '2'
+      relevance_score: 0.41579566433646076
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "1974 wurde diese gegenseitige Abhängigkeit durch ein ähnliches Abkommen\
+      \ zwischen Präsident Richard Nixon und\nKönig Faisal bin Abdulaziz Al Saud bekräftigt.\
+      \  Diese Partnerschaft beförderte nicht nur das amerikanische Wirtschaftswachstum,\
+      \ sondern auch die internationale\nFührungsrolle des US-Dollar.  Im Gegenzug\
+      \ wurden die USA zum wichtigsten Sicherheitspartner der Golfstaaten und zu einem\
+      \ Grundpfeiler der regionalen\nSicherheitsarchitektur.  Die Länder des Nahen\
+      \ Ostens – hauptsächlich die Golfstaaten, Ägypten, Israel und Jordanien – importieren\
+      \ mehr als zwei Drittel ihrer\nVerteidigungstechnologien aus den Vereinigten\
+      \ Staaten.  Die US-Stützpunkte in der Region, unter anderem in Bahrain, Katar\
+      \ und Kuwait, spielen eine wichtige\nRolle bei der Abschreckung regionaler Rivalen,\
+      \ insbesondere Irans.\n Die tiefgreifenden Veränderungen auf den Energiemärkten\
+      \ in den vergangenen zehn Jahren haben dieses Gleichgewicht ins Wanken gebracht.\
+      \  Die\n\"Schiefergasrevolution\" Ende der 2000er Jahre in den USA rückte die\
+      \ Energieunabhängigkeit des Landes in greifbare Nähe. "
+    uid: 84139c04-760e-4710-ac09-0577ce27ffbd
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Anzahl hybrider Kriege hat abgenommen.
+  statement_type: ascriptive
+  text: Die Anzahl hybrider Kriege hat zugenommen.
+  uid: 6e95e65b-6ce0-48b6-ad5e-9b4e6e43234f
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Hybridkriege sind nicht schädlich
+  statement_type: normative
+  text: Hybrid wars sind schädlich
+  uid: 5c1df0b6-0cb9-444a-8c28-ad7361f47ce2
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: 0.42857142857142855
+  confirmation_by_document:
+    037c0a31-ab5c-48f0-b4c0-f49b9f07d776: 2.6786368945475264e-33
+    1d9f13a1-55e6-4937-a86d-2cc9e4f51af1: 1.0
+    37e8c896-6697-4ac4-9f2f-09d1da581174: 1.0
+    52007317-163b-4485-84f6-eb53902c90fb: -1.0
+    6d608816-4f8a-4ea1-bfc2-e1c3717ced13: 1.0
+    81f2cefa-ead5-4bbf-86ec-16d64dc57224: -3.3056671397039763e-37
+    8b1ee7e6-5465-4e29-8c39-e1a279697cd7: -1.0
+    8b4531f8-deb0-4f8d-b097-9862ef2edbd5: 1.0
+    917751cd-b489-453c-bd80-b5be73bb1cfe: -1.8283288424817835e-40
+    a04322c1-4cec-4dc6-91e7-9e57352d1602: -8.870427362307975e-32
+    bae0c1d5-769f-4bb3-a82b-3a09055651ec: 1.0
+    f3eefc50-ce32-4fe3-ab98-3bf0b73dc481: 4.9699198825226136e-40
+  confirmation_level: confirmed
+  documents:
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.37678313614761777
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: a04322c1-4cec-4dc6-91e7-9e57352d1602
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Es ist davon auszugehen, dass sich diese Zahl aufgrund der Reaktionen
+        auf die genannten
+
+        Krisen seither erhöht hat.
+
+        '
+      page_label: '3'
+      relevance_score: 0.3760733495878765
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "In dieser Gruppe gab China mit 1,5 Prozent des Bruttoinlandsprodukts mit\
+      \ Abstand\nam meisten für Industriepolitik aus.  Die anderen Länder lagen zwischen\
+      \ 0,7 (Taiwan) und 0,3 (Brasilien) Prozent,\nDeutschland lag mit Ausgaben von\
+      \ rund 0,4 Prozent des Bruttoinlandsprodukts im Mittelfeld.  [9] Die Null vor\n\
+      dem Komma darf nicht darüber hinwegtäuschen, dass es sich dabei um beträchtliche\
+      \ Summen handelt – für\nDeutschland entspricht der prozentuale Wert beispielsweise\
+      \ absoluten Ausgaben in Höhe von 16 Milliarden US-\nDollar im Jahr 2019.  Es\
+      \ ist davon auszugehen, dass sich diese Zahl aufgrund der Reaktionen auf die\
+      \ genannten\nKrisen seither erhöht hat.\n Ein anderer Ansatz zur Messung der\
+      \ Bedeutung industriepolitischer Maßnahmen wird in der bereits erwähnten\nStudie\
+      \ von Juhász, Lane und Rodrik verfolgt.  Für die Analyse wird eine Datenbank\
+      \ verwendet, die industriepolitische Maßnahmen auflistet, die von Ländern\n\
+      weltweit seit 2010 umgesetzt wurden.  Diese Daten werden textanalytisch ausgewertet,\
+      \ um Maßnahmen mit industriepolitischem Charakter zu identifizieren. "
+    uid: 37e8c896-6697-4ac4-9f2f-09d1da581174
+  - metadata:
+      author: Ehrhardt, Christoph
+      file_name: ehrhardt_vernetzt_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Die Organisation verfügt laut Schätzungen über ein
+
+        Arsenal von mehr als 130.000 Raketen, einige davon sind präzise lenkbar und
+        können jeden Winkel Israels erreichen. '
+      page_label: '2'
+      relevance_score: 0.3683707118178759
+      title: Vernetzt, fragmentiert
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546378/vernetzt-fragmentiert/
+      year: '2024'
+    text: "Gleiches gilt für die Organisation, die er anführt.  Die Hizbullah ist\
+      \ für Iran so etwas wie die erste Verteidigungslinie in einem möglichen\nWaffengang\
+      \ mit Israel.  Sie ist zugleich Abschreckungsinstrument, Expeditionskorps und\
+      \ Beratungsmission.  Die Organisation verfügt laut Schätzungen über ein\nArsenal\
+      \ von mehr als 130.000 Raketen, einige davon sind präzise lenkbar und können\
+      \ jeden Winkel Israels erreichen.  Laut Einschätzung westlicher Geheimdienste\n\
+      wäre der \"Iron Dome\", die israelische Raketenabwehr, nicht in der Lage, alle\
+      \ abzufangen, sollte es zu einem umfassenden Krieg kommen.  In Propagandavideos\n\
+      droht die Schiitenorganisation immer wieder damit, die Städte Israels mit Raketenterror\
+      \ zu überziehen.\n Die Raketen sind ein wichtiger Faktor im Abschreckungswettbewerb\
+      \ mit den – vor allem in der Luft – überlegenen israelischen Streitkräften. "
+    uid: 917751cd-b489-453c-bd80-b5be73bb1cfe
+  - metadata:
+      author: Romaniec, Rosalia
+      file_name: romaniec_vom_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'In den vergangenen zwei Jahren wurden die Ausgaben für die Verteidigungsfähigkeit
+        verdoppelt, 2024 werden es noch einmal 20 Prozent mehr sein
+
+        als im Vorjahr – rund vier Prozent des Bruttoinlandsprodukts gibt Polen derzeit
+        für Verteidigung aus. '
+      page_label: '2'
+      relevance_score: 0.36234779801936584
+      title: Vom {Bremser} zum {Antreiber}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546715/vom-bremser-zum-antreiber/
+      year: '2024'
+    text: "Eine Erfahrung, die manchem in Europa noch\nbevorstehen mag.\n Polen ist\
+      \ zudem auf dem Weg zu einer der modernsten Armeen Europas.  Das Land rüstet\
+      \ kontinuierlich auf – und das nicht erst seit dem russischen Angriff auf\n\
+      die Ukraine.  In den vergangenen zwei Jahren wurden die Ausgaben für die Verteidigungsfähigkeit\
+      \ verdoppelt, 2024 werden es noch einmal 20 Prozent mehr sein\nals im Vorjahr\
+      \ – rund vier Prozent des Bruttoinlandsprodukts gibt Polen derzeit für Verteidigung\
+      \ aus.  Bis 2035 will Polen eine Armee mit rund 300.000 Soldaten\nhaben – sie\
+      \ wäre die stärkste in Europa.  Angesichts der Signale aus den Vereinigten Staaten\
+      \ fühlt sich Warschau in seinem Kurs bestätigt.  Denn obwohl das Land\nbei den\
+      \ Verteidigungsausgaben zu den führenden gehört, sitzt der Schock über die jüngsten\
+      \ Drohungen Donald Trumps an die Adresse der Nato-Partner, die\nihren finanziellen\
+      \ Verpflichtungen nicht nachkommen, tief."
+    uid: 8b4531f8-deb0-4f8d-b097-9862ef2edbd5
+  - metadata:
+      author: Catherina, Hinz
+      file_name: catherina_30_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Bis 2050 wird
+
+        sich die Zahl der Menschen auf dem afrikanischen Kontinent voraussichtlich
+        von heute 1,5 auf 2,5 Milliarden nahezu verdoppeln. '
+      page_label: '3'
+      relevance_score: 0.36118517232503006
+      title: 30 {Jahre} {Kairo}-{Konferenz}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553553/30-jahre-kairo-konferenz/
+      year: '2024'
+    text: 'Im Schnitt bekommt eine Frau in Subsahara-Afrika mehr als vier Kinder.  Das
+      sind etwa doppelt so viele wie im globalen
+
+      Durchschnitt.  Während in anderen Weltregionen die Bevölkerungen aufgrund niedriger
+      Kinderzahlen – in mehr als der Hälfte aller Länder weltweit liegt die
+
+      durchschnittliche Kinderzahl pro Frau bei unter zwei – zunehmend altern und
+      teilweise zu schrumpfen beginnen, wachsen sie dort weiterhin stark.  Bis 2050
+      wird
+
+      sich die Zahl der Menschen auf dem afrikanischen Kontinent voraussichtlich von
+      heute 1,5 auf 2,5 Milliarden nahezu verdoppeln.  Dabei zeigen sich jedoch große
+
+      regionale Unterschiede: In Südafrika und Botsuana bringen Frauen im Laufe ihres
+      Lebens zwei bis drei Kinder zur Welt, deutlich weniger als noch vor einigen
+
+      Jahrzehnten.  Auch in Äthiopien, Ruanda und Malawi gehen die Geburtenraten zurück,
+      während beispielsweise in Niger Frauen im Schnitt noch fast sechs Kinder
+
+      zur Welt bringen.  [14]
+
+      Viele Kinder und eine große junge Bevölkerung werden häufig als großes Potenzial
+      gesehen, denn die heranwachsende Generation kann sich künftig für ihre
+
+      Gesellschaft und ihre Volkswirtschaft verdient machen. '
+    uid: 1d9f13a1-55e6-4937-a86d-2cc9e4f51af1
+  - metadata:
+      author: Catherina, Hinz
+      file_name: catherina_30_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'UNFPA, State of World Population Report 2024, New York 2024,
+        http://www.unfpa.org/sites/default/files/pub-pdf/swp2024-english-240327-web.pdf.
+
+        '
+      page_label: '5'
+      relevance_score: 0.35686273325297246
+      title: 30 {Jahre} {Kairo}-{Konferenz}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553553/30-jahre-kairo-konferenz/
+      year: '2024'
+    text: "[7]\nVgl.  Alanna J. Galati, Onward to 2030: Sexual and Reproductive Health\
+      \ and Rights in the Context of the Sustainable Development Goals, in: Guttmacher\
+      \ Policy\nReview 4/2015.\n [8] Vgl.  UNFPA, State of World Population Report\
+      \ 2024, New York 2024, http://www.unfpa.org/sites/default/files/pub-pdf/swp2024-english-240327-web.pdf.\n\
+      \ [9]\nVgl.  UN Department of Economic and Social Affairs (UN DESA), United\
+      \ Nations Population Division, World Population Prospects: 2024 Revision, https://\n\
+      population.un.org/wpp.\n [10] Vgl. "
+    uid: 037c0a31-ab5c-48f0-b4c0-f49b9f07d776
+  - metadata:
+      author: Brahma, Chellaney
+      file_name: brahma_ende_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Chinas Bevölkerung übertrifft die russische um ein Zehnfaches,
+        seine Wirtschaft ist ebenfalls beinahe zehnmal so groß, seine Militärausgaben
+        sind etwa
+
+        viermal so hoch. '
+      page_label: '2'
+      relevance_score: 0.34992261278327963
+      title: Ende der westlichen {Vorherrschaft}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557223/ende-der-westlichen-vorherrschaft/
+      year: '2024'
+    text: "In einem kürzlich erschienenen Buch beklagen die beiden ehemaligen Politikberater\
+      \ Robert Blackwill und Richard Fontaine, dass Amerikas „Pivot to Asia“-Strategie,\
+      \ die\nerstmals 2011 vorgestellt wurde, bisher gescheitert sei, weil ein kohärenter\
+      \ Ansatz für den indopazifischen Raum weitgehend fehle.  [6] Folglich seien\
+      \ die USA nicht in der Lage,\nangemessen auf den aggressiven Aufstieg Chinas\
+      \ zu reagieren, was die Autoren als einen der größten Fehler der amerikanischen\
+      \ Außenpolitik seit dem Zweiten Weltkrieg\nbezeichnen.\n Auf globaler Ebene\
+      \ haben die USA nur einen wirklichen Herausforderer: China, das Russland in\
+      \ Bezug auf Wirtschaftsleistung, Militärausgaben und andere materielle Größen\n\
+      in den Schatten stellt.  Chinas Bevölkerung übertrifft die russische um ein\
+      \ Zehnfaches, seine Wirtschaft ist ebenfalls beinahe zehnmal so groß, seine\
+      \ Militärausgaben sind etwa\nviermal so hoch.  Während Russlands strategische\
+      \ Pläne im Wesentlichen regional begrenzt sind, strebt China danach, die USA\
+      \ als führende Weltmacht abzulösen und eine\nchinesisch geprägte Ordnung zu\
+      \ etablieren.  China ist mächtig genug, um eine weitreichende Vision zu verfolgen\
+      \ und den Versuch zu wagen, die Welt neu zu gestalten.\n Solange Konflikte in\
+      \ anderen Regionen die USA ablenken, ist es unwahrscheinlich, dass der indopazifische\
+      \ Raum tatsächlich ins Zentrum ihrer strategischen Überlegungen\nrückt.\n"
+    uid: 81f2cefa-ead5-4bbf-86ec-16d64dc57224
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die instrumentalisierte Migration ist dadurch viel
+
+        leichter zu erkennen, und das erklärt vielleicht, warum einige Beobachter
+        fälschlicherweise glauben, sie sei neu oder trete plötzlich viel häufiger
+        auf.
+
+        '
+      page_label: '3'
+      relevance_score: 0.3494151246802505
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Was sich in den vergangenen Jahren verändert hat, ist die Zahl der Regierungen,\
+      \ die bereit sind, Migration ganz offen als Waffe einzusetzen, statt nur hinter\n\
+      verschlossenen Türen damit zu drohen.  Auch die Zahl der Zielländer ist gestiegen,\
+      \ die öffentlich zugeben, dass sie ins Visier genommen werden, und zwar sowohl\n\
+      von befreundeten als auch von gegnerischen Staaten.  Das ist eine wesentliche\
+      \ und wichtige Veränderung.  Die instrumentalisierte Migration ist dadurch viel\n\
+      leichter zu erkennen, und das erklärt vielleicht, warum einige Beobachter fälschlicherweise\
+      \ glauben, sie sei neu oder trete plötzlich viel häufiger auf.\n Diese zunehmende\
+      \ Transparenz ist ein zweischneidiges Schwert: Einerseits erscheinen die Forderungen\
+      \ derjenigen, die Druck ausüben, nun glaubhafter.  Dadurch\nkönnten sich Staaten\
+      \ veranlasst fühlen, bereits im Vorfeld einer herbeigeführten Migrationskrise\
+      \ zu verhandeln und tragfähige Vereinbarungen zu treffen.\n Andererseits kann\
+      \ die Behauptung, dass Gegner oder Rivalen Migration als Waffe verwenden, politisch\
+      \ genutzt werden – als eine Art Instrumentalisierung der\nInstrumentalisierung. "
+    uid: bae0c1d5-769f-4bb3-a82b-3a09055651ec
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Diese Aufgabe bedeutet konkret, dass
+
+        zum Beispiel festgelegt werden muss, wie viele Schüler:innen pro Lehrkraft
+        in den Schulen unterrichtet werden dürfen, wie viele Intensivbetten auf tausend
+
+        Einwohner:innen kommen sollen, wie hoch die Emissionsgrenzwerte sein dürfen
+        und so weiter.
+
+        '
+      page_label: '2'
+      relevance_score: 0.34656515807802196
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "72 Abs.  2 GG).  Während es sich in Deutschland jedoch\num eine Klausel\
+      \ für die Ausübung der Gesetzgebungsfunktion des Bundes in Angelegenheiten der\
+      \ konkurrierenden Gesetzgebung handelt, muss in Italien die\nFestlegung dieser\
+      \ Kriterien im Voraus erfolgen, das heißt, ehe Befugnisse auf die Regionen übertragen\
+      \ werden können.  Diese Aufgabe bedeutet konkret, dass\nzum Beispiel festgelegt\
+      \ werden muss, wie viele Schüler:innen pro Lehrkraft in den Schulen unterrichtet\
+      \ werden dürfen, wie viele Intensivbetten auf tausend\nEinwohner:innen kommen\
+      \ sollen, wie hoch die Emissionsgrenzwerte sein dürfen und so weiter.\n Gemäß\
+      \ Gesetz 86/2024 über die differenzierte Autonomie und dem Haushaltsgesetz für\
+      \ 2024 hat der Staat beziehungsweise eine speziell eingerichtete\nKommission\
+      \ zwei Jahre lang Zeit für die Festlegung dieser Werte.  Nach der Festlegung\
+      \ muss überprüft werden, ob diese Standards in allen Regionen eingehalten\n\
+      werden.  Erst dann können die Kompetenzen an jene Regionen übertragen werden,\
+      \ die sie beantragt haben. "
+    uid: f3eefc50-ce32-4fe3-ab98-3bf0b73dc481
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der Anteil Chinas an den
+
+        Energieexporten der Region kletterte von weniger als 5 Prozent in den frühen
+        2000er Jahren auf über 20 Prozent im Jahr 2021.'
+      page_label: '2'
+      relevance_score: 0.34422576165653135
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Die Aussicht auf eine globale\nEnergiewende verstärkte in US-Politikerkreisen\
+      \ das Gefühl, dass die Golfregion sehr bald an strategischer Bedeutung verlieren\
+      \ würde.  Angesichts dieser neuen\nSituation weigerte sich Präsident Donald\
+      \ Trump 2019 beispielsweise, beim iranischen Angriff auf die saudischen Ölverarbeitungsanlagen\
+      \ in Abqaiq und Churais\nzu intervenieren, was in politischen Kreisen am Golf\
+      \ als Verrat gewertet wurde.\n Gleichzeitig ist China in den letzten zehn Jahren\
+      \ zum größten Ölimporteur der Welt und größten Abnehmer im Nahen Osten geworden.\
+      \  Der Anteil Chinas an den\nEnergieexporten der Region kletterte von weniger\
+      \ als 5 Prozent in den frühen 2000er Jahren auf über 20 Prozent im Jahr 2021.\
+      \ [7] Laut Prognosen der\nInternationalen Energieagentur dürfte sich dieser\
+      \ Trend in den kommenden Jahrzehnten fortsetzen.  Entsprechend erklärte Amin\
+      \ H. Nasser, der\nVorstandsvorsitzende des staatseigenen saudischen Ölkonzerns\
+      \ Aramco 2021, dass China für die nächsten 50 Jahre die oberste Priorität des\
+      \ Unternehmens\nbleiben werde. [8]\nDiese Verlagerung des Schwerpunkts globaler\
+      \ Energiemärkte nach China stellt eine Herausforderung für den Kern der Beziehungen\
+      \ zwischen der Region und\nden USA dar und schafft neue strategisch wichtige\
+      \ Abhängigkeitsverhältnisse mit China.\n"
+    uid: 6d608816-4f8a-4ea1-bfc2-e1c3717ced13
+  - metadata:
+      author: Luca, Barana
+      file_name: luca_italien_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Nachdem damals die Zahl der Ankommenden aus Libyen zunächst
+        stark
+
+        abgenommen hatte, nahm sie ab 2020 wieder an Fahrt auf, denn die Ursachen
+        für die Migrationsbewegungen in der Region sind vielfältig und durch restriktive
+
+        Maßnahmen allein kaum in den Griff zu bekommen.'
+      page_label: '2'
+      relevance_score: 0.33914338090482415
+      title: Italien und die {Migration}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552524/italien-und-die-migration/
+      year: '2024'
+    text: "Dennoch steht die Vereinbarung stark in der Kritik: Auf der einen Seite\
+      \ legitimiert sie die Regierung Saied, die sowohl gegen Flüchtlinge als auch\
+      \ gegen die\neigene Bevölkerung immer autokratischer vorgeht und Menschen- und\
+      \ Freiheitsrechte missachtet.  Auf der anderen Seite wird durch das Abkommen\
+      \ ein nicht\nunbedingt vertrauenswürdiger Drittstaat in die Lage versetzt, den\
+      \ Migrationsdruck – der im Gegenzug lediglich kurzzeitig verringert wird – gegen\
+      \ die EU\ninstrumentalisieren zu können.  Wie ähnliche Abmachungen zwischen\
+      \ Italien und Libyen von 2017 gezeigt haben, ist nämlich kaum anzunehmen, dass\
+      \ sich der\nRückgang der Flüchtlingszahlen in den kommenden Jahren fortsetzen\
+      \ wird.  Nachdem damals die Zahl der Ankommenden aus Libyen zunächst stark\n\
+      abgenommen hatte, nahm sie ab 2020 wieder an Fahrt auf, denn die Ursachen für\
+      \ die Migrationsbewegungen in der Region sind vielfältig und durch restriktive\n\
+      Maßnahmen allein kaum in den Griff zu bekommen. [9]\nDer zweite Weg, auf dem\
+      \ die italienische Regierung die irreguläre Einwanderung eindämmen möchte, zielt\
+      \ auf die Einschränkung der Leistungen, auf die\nMigranten in Italien hoffen\
+      \ können.  Unter diese Kategorie fallen etwa Maßnahmen wie die weitgehende Abschaffung\
+      \ des humanitären Schutzes und die\nVerlängerung des Ausreisegewahrsams in Rückführungszentren.\n\
+      \ Ein weiteres Beispiel für die Versuche der Regierung, Migranten abzuschrecken,\
+      \ indem sie – zumindest auf dem Papier – die Asylmöglichkeiten in Italien\n\
+      einschränkt, ist eine mit Albanien im November 2023 getroffene Vereinbarung. "
+    uid: 52007317-163b-4485-84f6-eb53902c90fb
+  - metadata:
+      author: Luca, Barana
+      file_name: luca_italien_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Die Zahl der Anlandungen hatte schon ab 2020 zugenommen, ging
+        aber um die Zeit des
+
+        Amtsantritts von Meloni im Herbst 2022 nochmals steil nach oben.
+
+        '
+      page_label: '1'
+      relevance_score: 0.3382550509243875
+      title: Italien und die {Migration}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552524/italien-und-die-migration/
+      year: '2024'
+    text: "Im Laufe des Jahres 2024 hat sich das Migrationsgeschehen auf der zentralen\
+      \ Mittelmeerroute stark verändert.  Nachdem die Zahl der Bootsflüchtlinge, die\
+      \ an\nden Küsten Italiens anlanden, über Jahre konstant gestiegen war, hat sich\
+      \ die Tendenz jüngst umgekehrt: In den ersten sieben Monaten 2024 kamen rund\
+      \ 33000\nMenschen übers Meer nach Italien, deutlich weniger als die 88000 im\
+      \ selben Zeitraum 2023 (Abbildung). [1] Generell war 2023 mit 157000 irregulären\
+      \ Einreisen –\ndem höchsten Stand seit 2016 – ein besonders intensives Jahr.\
+      \  Die Zahl der Anlandungen hatte schon ab 2020 zugenommen, ging aber um die\
+      \ Zeit des\nAmtsantritts von Meloni im Herbst 2022 nochmals steil nach oben.\n\
+      \ In den ersten Monaten der Regierung Meloni zeigten sich weitere Veränderungen.\
+      \  Zum einen trat Tunesien\nzeitweilig an die Stelle Libyens als Hauptabfahrtsland\
+      \ für die Seereise nach Italien.  Während die Menschen\nbisher überwiegend von\
+      \ Libyen aus aufgebrochen waren, kamen 2023 mehr als 60 Prozent von Tunesien\
+      \ aus."
+    uid: 8b1ee7e6-5465-4e29-8c39-e1a279697cd7
+  evidential_uncertainty: 0.8163265306122448
+  metadata: {}
+  n_evidence: 7
+  negation: Die Anzahl hat abgenommen.
+  statement_type: &id002 descriptive
+  text: Die Anzahl hat zugenommen.
+  uid: 4742b2ce-932c-4396-9389-f50194c00f6a
+  verbalized_confirmation: The claim is confirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    114572c6-1ebe-42e5-bf8b-d85ea2759acb: 6.05460189477987e-39
+    13f6b039-0fc6-4cb8-90fc-11ae22fa77e7: 8.870426756893105e-32
+    1b02f6c3-05d5-4dae-b77e-8fe9003dcb65: -8.985825944049381e-37
+    4361570f-927a-49bc-a8f4-c04159f13e9c: 1.613728466546566e-33
+    517e429e-cdb3-4f32-a217-58e08b2adc7b: -1.4624862271011523e-31
+    658469df-284a-40b0-b077-4076a23b8ef3: 3.9754494645602155e-31
+    99736c3b-3cc8-4f1e-a752-e3ea1318e6e1: 9.854054862601951e-34
+    a153cfa9-b7b3-4561-ba0e-2b3f6f1b42a1: -1.9968147693376637e-37
+    a88302fa-1428-4e42-a538-e185863af76d: 1.0946977029531417e-35
+    c0ea09e8-68ed-4f1a-b8cf-6f9fef804641: -1.0946976928409267e-35
+    d594cc41-2811-498d-9a55-52f363944400: 1.0616406966855343e-35
+    e4a51724-4f49-4242-91ad-c20043f6ea65: -4.784977890009381e-38
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Oft wird sie auch parallel zu konventionellen Konflikten
+
+        eingesetzt, wie das Beispiel Russland zeigt, das neben dem Angriffskrieg gegen
+        die Ukraine auch Migration als Waffe gegen EU- und NATO-Länder wie Italien
+
+        und Finnland anwendet.
+
+        '
+      page_label: '2'
+      relevance_score: 0.43302005548788947
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "durchaus schon Kriege nach sich gezogen, wie das Beispiel des Indisch-Pakistanischen\
+      \ Krieges von 1971 zeigt.  Und auch während eines Krieges wurde Migration\n\
+      schon als diplomatisches Druckmittel benutzt, etwa 1999 im Kosovo, als der serbische\
+      \ Präsident Slobodan Milošević die NATO durch die Vertreibung von 800000\nKosovo-Albanern\
+      \ zur Einstellung ihrer Luftschläge zwingen wollte. [5] Die Instrumentalisierung\
+      \ von Migration ist ein wesentlicher Bestandteil konventioneller und\nirregulärer\
+      \ Kriege, einschließlich unzähliger Kampagnen zur Aufstandsbekämpfung im Kalten\
+      \ Krieg.  Oft wird sie auch parallel zu konventionellen Konflikten\neingesetzt,\
+      \ wie das Beispiel Russland zeigt, das neben dem Angriffskrieg gegen die Ukraine\
+      \ auch Migration als Waffe gegen EU- und NATO-Länder wie Italien\nund Finnland\
+      \ anwendet.\n Migration wird also schon lange als politisches Druckmittel genutzt\
+      \ – fragt sich nur: Wie und warum?\n Warum funktioniert Migration als Waffe?\n\
+      \ Eine Waffe ist ein Instrument, das von staatlichen und nichtstaatlichen Akteuren\
+      \ zum Angriff, zur Verteidigung oder zur Abschreckung eingesetzt wird, um\n\
+      politische, wirtschaftliche oder militärische Ziele zu erreichen. "
+    uid: 13f6b039-0fc6-4cb8-90fc-11ae22fa77e7
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Da ein konventioneller Krieg heutzutage zu kostspielig und zu
+        riskant sei, müsse man damit rechnen, dass diese hybride Waffe
+
+        zunehmend eingesetzt werde und immer mehr Regierungen versuchen werden, Migranten
+        und Asylsuchende als „Kugeln und Bomben“ zu nutzen – vor allem
+
+        gegen die EU.'
+      page_label: '1'
+      relevance_score: 0.42261668120522694
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: 'Als der belarussische Staatschef Alexander Lukaschenko im Herbst 2021 Migrantinnen
+      und Asylbewerber aus dem Irak, Afghanistan und anderen Ländern nach
+
+      Belarus lockte und an die EU-Grenze bringen ließ, erklärten viele die Aktion
+      zum Beginn einer gefährlichen neuen Ära in der internationalen Machtpolitik:
+      Das
+
+      Vorgehen sei eine neue Form der Bedrohung, bei der „Menschen in einem Akt der
+      Aggression“ eingesetzt würden, und bewege sich in einer Grauzone unterhalb
+
+      der Schwelle zum Krieg.  Da ein konventioneller Krieg heutzutage zu kostspielig
+      und zu riskant sei, müsse man damit rechnen, dass diese hybride Waffe
+
+      zunehmend eingesetzt werde und immer mehr Regierungen versuchen werden, Migranten
+      und Asylsuchende als „Kugeln und Bomben“ zu nutzen – vor allem
+
+      gegen die EU. [1]
+
+      Doch anders als diese Äußerungen vermuten lassen, war diese Art der Instrumentalisierung
+      von Migration durch Belarus weder neu noch einzigartig, sondern
+
+      lediglich ein sehr offensichtliches Beispiel für ein uraltes, wenn auch unorthodoxes
+      politisches Mittel.  Der Einsatz von Migration als Waffe ist nicht neu.  Allerdings
+
+      hat er sich in den vergangenen Jahren von einer relativ häufigen, jedoch viel
+      zu wenig beachteten Praxis zu einer sehr sichtbaren, aber immer noch weithin
+
+      missverstandenen Maßnahme entwickelt. '
+    uid: 4361570f-927a-49bc-a8f4-c04159f13e9c
+  - metadata:
+      author: Brumann, Christoph
+      file_name: brumann_konfliktraum_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: June
+      original_text: 'Dies stärkt einen
+
+        Gegenpol zur oftmals von den Interessen der malaiischen Mehrheit bestimmten
+        malaysischen Regierungspolitik und fügt sich in einen allgemeineren Trend
+        ein,
+
+        kolonial verursachte Hybridität zu wertschätzen. '
+      page_label: '4'
+      relevance_score: 0.4122389702361685
+      title: Konfliktraum {UNESCO}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/ruinen-2024/549185/konfliktraum-unesco/
+      year: '2024'
+    text: "In einer Art Franchise vergibt das Komitee zwar den Titel, hat aber kaum\
+      \ unter Kontrolle, was mit ihm tatsächlich gemacht wird, wem er zu\nEhren und\
+      \ Wohlstand verhilft und wer stattdessen ausgegrenzt wird.\n Nur um ein Beispiel\
+      \ zu nennen: Seit 2008 steht das malaysische Malakka an der Küste der gleichnamigen\
+      \ Meeresstraße auf der Welterbeliste.  Dies hat das\nmultiethnische Erbe der\
+      \ Stadt gestärkt, in dem sich portugiesische, niederländische, britische, malaiische,\
+      \ chinesische und indische Einflüsse mit denen der\nchinesisch-malaiischen Baba\
+      \ Nyonya, der indisch-malaiischen Chetti und der \"Eurasians\" mit portugiesisch-asiatischer\
+      \ Abstammung verbinden.  Dies stärkt einen\nGegenpol zur oftmals von den Interessen\
+      \ der malaiischen Mehrheit bestimmten malaysischen Regierungspolitik und fügt\
+      \ sich in einen allgemeineren Trend ein,\nkolonial verursachte Hybridität zu\
+      \ wertschätzen.  Dem Tourismus hauptsächlich aus anderen asiatischen Ländern\
+      \ hat der Welterbetitel einen enormen Schub\nverschafft, sodass sich nun ein\
+      \ endloser Strom von Autos, Autorikschas und Motorbooten durch die schmalen\
+      \ Straßen und Kanäle zwängt.  Sino-niederländische\nshop houses erhalten ein\
+      \ zweites Leben als Café, Boutiquehotel, Laden oder Galerie, doch gleichzeitig\
+      \ schießen um die historische Altstadt herum Wohntürme für\ndie vom nostalgischen\
+      \ Vibe angezogenen Zuwanderer:innen in die Höhe, zum Teil auf gewonnenem Land,\
+      \ das den alten Kolonialhafen immer weiter von der Küste\nentfernt.  Die meisten\
+      \ Bewohner:innen begrüßen die wirtschaftlichen Effekte oder profitieren selbst\
+      \ von ihnen, aber die Alteinwohner:innen der Altstadtviertel\nbeklagen den Verlust\
+      \ ihrer Gemeinschaften, selbst wenn die alten Bauten nun strenger geschützt\
+      \ sind. "
+    uid: a153cfa9-b7b3-4561-ba0e-2b3f6f1b42a1
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Diese Form der
+
+        instrumentalisierten Migration ist ein gängiges Mittel bei Aufständen oder
+        ihrer Bekämpfung und wurde etwa im syrischen Bürgerkrieg von allen Beteiligten
+
+        angewandt.
+
+        '
+      page_label: '2'
+      relevance_score: 0.3879255971696671
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Ein zweites Ziel des Einsatzes gesteuerter Migration kann sein, während\
+      \ eines aktiven Konflikts einen militärischen Vorteil zu erlangen.  Dabei werden\n\
+      Bevölkerungsbewegungen genutzt, um die Kommando- und Kontrollstrukturen des\
+      \ Gegners zu stören, die Nachschubwege zu unterbrechen und den\nBewegungsradius\
+      \ der Truppen einzuschränken.  Oder aber die Vertriebenen werden zur Verstärkung\
+      \ der eigenen Truppen rekrutiert.  Diese Form der\ninstrumentalisierten Migration\
+      \ ist ein gängiges Mittel bei Aufständen oder ihrer Bekämpfung und wurde etwa\
+      \ im syrischen Bürgerkrieg von allen Beteiligten\nangewandt.\n Drittens kann\
+      \ es ein Ziel sein, sich das Siedlungsgebiet oder den Besitz der Vertriebenen\
+      \ anzueignen oder sie auszuschalten, weil sie als Bedrohung für die\nVorherrschaft\
+      \ der Gruppe gesehen werden, die die Vertreibung vornimmt.  Diese Form der instrumentalisierten\
+      \ Migration war nach dem Zusammenbruch\nJugoslawiens ein typisches Merkmal der\
+      \ Balkankriege in den 1990er Jahren und wird derzeit im Sudan angewandt.\n Ein\
+      \ viertes Ziel gesteuerter Migration kann Erpressung sein, wenn Bevölkerungsbewegungen\
+      \ ausgelöst, behindert oder manipuliert werden, um Zielstaaten zu\npolitischen,\
+      \ militärischen und/oder wirtschaftlichen Zugeständnisse zu nötigen. "
+    uid: a88302fa-1428-4e42-a538-e185863af76d
+  - metadata:
+      author: Philipp, Münch
+      file_name: philipp_zasur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[3] Dabei ist zu berücksichtigen, dass die Gesamtstrategie des
+        von den USA dominierten
+
+        internationalen Militäreinsatzes ebenso defizitär war. '
+      page_label: '1'
+      relevance_score: 0.3807882549518586
+      title: Zäsur {Afghanistan}-{Einsatz}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556397/zaesur-afghanistan-einsatz/
+      year: '2024'
+    text: "Vielmehr brachten erst die russischen Invasionen in der Ukraine 2014 und\
+      \ 2022 die\nErkenntnis, dass sich die Bundeswehr auf die Landes- und Bündnisverteidigung\
+      \ konzentrieren muss – ohne jedoch das Ziel der „Stabilisierung“ fragiler Staaten\n\
+      gänzlich aufzugeben.\n Strategiefähigkeit\nSeit Längerem wird in Studien die\
+      \ allgemeine Strategiefähigkeit der handelnden Akteure des deutschen Staates\
+      \ infrage gestellt.  [2] Diese Kritik äußerte sich auch\nfrüh beim strategischen\
+      \ Vorgehen Deutschlands in Afghanistan.  [3] Dabei ist zu berücksichtigen, dass\
+      \ die Gesamtstrategie des von den USA dominierten\ninternationalen Militäreinsatzes\
+      \ ebenso defizitär war.  Die US-geführten OEF-Truppen hatten bis Anfang 2002\
+      \ die Taliban gestürzt und al-Qaida weitgehend\nzerschlagen.  Danach versuchten\
+      \ sie, den bald einsetzenden Aufstand der neu formierten Taliban zu bekämpfen\
+      \ und die afghanische Regierung aufzubauen.  Das\nBonner Afghanistan-Abkommen\
+      \ von Dezember 2001 enthielt zwar einen konkreten „Fahrplan“ zur Bildung einer\
+      \ neuen afghanischen Regierung. "
+    uid: d594cc41-2811-498d-9a55-52f363944400
+  - metadata:
+      author: M, Kelly, Greenhill
+      file_name: m_krieg_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die Reaktionen in der EU auf die Ankunft
+
+        ukrainischer Flüchtlinge nach Beginn des russischen Angriffskriegs 2022 sind
+        ein solches Beispiel, allerdings sind solche Fälle eher die Ausnahme.
+
+        '
+      page_label: '3'
+      relevance_score: 0.3788502141327457
+      title: Krieg mit anderen {Mitteln}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/flucht-und-migration-2024/555939/krieg-mit-anderen-mitteln/
+      year: '2024'
+    text: "Aufgrund dieser Dynamik treten im Zielland Spannungen und Widersprüche\
+      \ zutage, was wiederum denjenigen in die Hände spielt, die Unruhe stiften und\
+      \ das\nZielland in Schwierigkeiten bringen wollen.  Natürlich sind die Spannungen\
+      \ geringer, wenn die Gruppe der Vertriebenen Sympathie bei der Bevölkerung genießt\n\
+      und es wenige bis keine internen Spaltungen gibt.  In solchen Fällen ist es\
+      \ schwierig, Migration als Waffe einzusetzen.  Die Reaktionen in der EU auf\
+      \ die Ankunft\nukrainischer Flüchtlinge nach Beginn des russischen Angriffskriegs\
+      \ 2022 sind ein solches Beispiel, allerdings sind solche Fälle eher die Ausnahme.\n\
+      \ Was sich in den vergangenen Jahren verändert hat, ist die Zahl der Regierungen,\
+      \ die bereit sind, Migration ganz offen als Waffe einzusetzen, statt nur hinter\n\
+      verschlossenen Türen damit zu drohen.  Auch die Zahl der Zielländer ist gestiegen,\
+      \ die öffentlich zugeben, dass sie ins Visier genommen werden, und zwar sowohl\n\
+      von befreundeten als auch von gegnerischen Staaten.  Das ist eine wesentliche\
+      \ und wichtige Veränderung. "
+    uid: 517e429e-cdb3-4f32-a217-58e08b2adc7b
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: '[9] Diese Definition orientiert sich an den Grundsätzen des
+        demokratischen Rechtsstaats, wie etwa dem Prinzip der
+
+        Verhältnismäßigkeit. '
+      page_label: '2'
+      relevance_score: 0.378607210622369
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: "Ähnliches gilt für\nGehsteigbelästigungen vor Beratungsstellen für Schwangerschaftsabbrüche,\
+      \ die ebenfalls nicht die eigene Vulnerabilität als Mittel einsetzen, sondern\
+      \ vielmehr\ndie vulnerable Position der ungewollt Schwangeren ausnutzen, um\
+      \ sie von einem Abbruch abzuhalten.\n Integration: Ziviler Ungehorsam rechtsstaatlich\n\
+      Ausgehend von dieser Konkretisierung des Freiheits- und Gleichheitsverständnisses\
+      \ können wir das Verständnis des zivilen Ungehorsams als\nVerfassungsinterpretation\
+      \ weiter ausdifferenzieren.  Auf der ersten, rechtsstaatlichen Ebene definiert\
+      \ Philosoph John Rawls mittels eines liberalen Verständnisses\nzivilen Ungehorsam\
+      \ als eine „öffentliche, gewaltlose, gewissensgeleitete, aber politische gesetzwidrige\
+      \ Handlung, die in der Regel eine Änderung der Gesetze\noder der Regierungspolitik\
+      \ anstrebt“. [9] Diese Definition orientiert sich an den Grundsätzen des demokratischen\
+      \ Rechtsstaats, wie etwa dem Prinzip der\nVerhältnismäßigkeit.  Indem sich die\
+      \ Akteure des zivilen Ungehorsams öffentlich und symbolisch ausdrücken und bereit\
+      \ sind, die strafrechtlichen Konsequenzen\nihrer Handlungen zu tragen, unterstreichen\
+      \ sie ihre Loyalität gegenüber dem Rechtsstaat und fordern die staatlichen Institutionen\
+      \ und die Gesellschaft auf, ihre\npolitischen Entscheidungen kritisch zu überprüfen.\n\
+      \ Ziviler Ungehorsam | Demokratie jenseits von Wahlen | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wa...\n\
+      2 von 5 12.12.2024, 16:01"
+    uid: 114572c6-1ebe-42e5-bf8b-d85ea2759acb
+  - metadata:
+      author: Samira, Akbarian
+      file_name: samira_ziviler_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'So betonen
+
+        diese Theorien die Bedeutung von politischen Konflikten. '
+      page_label: '3'
+      relevance_score: 0.37413814865445366
+      title: Ziviler {Ungehorsam}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/demokratie-jenseits-von-wahlen-2024/552909/ziviler-ungehorsam/
+      year: '2024'
+    text: "Protestformen des zivilen Ungehorsams können helfen, diese Repräsentationsdefizite\
+      \ aufzuzeigen, zu\nverändern und die diskursiven Verhältnisse durch Störung\
+      \ des öffentlichen Raums zu irritieren.\n Ziviler Ungehorsam wird daher von\
+      \ radikaldemokratischen Ansätzen zum Teil als zu systemkonform angesehen, da\
+      \ er in einem liberalen und deliberativen\nVerständnis ein Stabilisierungs-\
+      \ und Integrationsmoment des demokratischen Rechtsstaats sein kann.  Politische\
+      \ Entscheidungsprozesse sollten danach nicht nur\nauf institutionelle Wahlen\
+      \ und Repräsentation beschränkt sein, sondern bedürften direktdemokratischer\
+      \ Teilnahme, nicht zuletzt durch Proteste.  So betonen\ndiese Theorien die Bedeutung\
+      \ von politischen Konflikten.  Im Gegensatz zu liberalen Ansätzen, die Konflikte\
+      \ als zu vermeidende Störungen betrachten, sieht die\nRadikaldemokratie in ihnen\
+      \ eine notwendige Voraussetzung für demokratische Prozesse.  Pluralität wird\
+      \ als eine Stärke verstanden, die ermöglicht, dass\nunterschiedliche Stimmen\
+      \ Gehör finden.  Radikale Demokratietheorien stehen in der Regel Verfassungen\
+      \ und Verfassungsgerichten kritisch gegenüber, da diese\nKonflikte dem öffentlichen\
+      \ und politischen Zugriff entziehen können, indem sie sie zu Verfassungsfragen\
+      \ objektivieren.\n"
+    uid: 1b02f6c3-05d5-4dae-b77e-8fe9003dcb65
+  - metadata:
+      author: Ehrhardt, Christoph
+      file_name: ehrhardt_vernetzt_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Teheran hat sich auf eine hybride Kriegsführung verlegt, schickt
+        lieber nichtstaatliche bewaffnete Gruppen in den Kampf als die eigenen Streitkräfte. '
+      page_label: '2'
+      relevance_score: 0.3684131290523632
+      title: Vernetzt, fragmentiert
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546378/vernetzt-fragmentiert/
+      year: '2024'
+    text: "Für Iran sind die Milizen und Terrorgruppen der \"Achse des Widerstands\"\
+      \ wertvolle Werkzeuge.  Nach den Erfahrungen des verheerenden irakisch-iranischen\n\
+      Kriegs von 1981 bis 1988 schreckt die Islamische Republik davor zurück, einen\
+      \ direkten konventionellen Waffengang mit einem überlegenen Gegner zu wagen.\n\
+      \ Teheran hat sich auf eine hybride Kriegsführung verlegt, schickt lieber nichtstaatliche\
+      \ bewaffnete Gruppen in den Kampf als die eigenen Streitkräfte.  Das Regime\n\
+      will sich immer die Möglichkeit offenhalten, Täter- oder Drahtzieherschaft plausibel\
+      \ abstreiten zu können.  Die \"Achse des Widerstands\" ist eine destruktive\n\
+      Allianz, die auf Destabilisierung angelegt ist.  Schwache Staaten und Krisenregionen\
+      \ sind genau die Umgebungen, die Teheran sucht und braucht, wenn es\nbewaffnete\
+      \ Gruppen für seine Zwecke fördern will.\n"
+    uid: 99736c3b-3cc8-4f1e-a752-e3ea1318e6e1
+  - metadata:
+      author: Philipp, Münch
+      file_name: philipp_zasur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Dennoch orientierte sich die Nato-geführte ISAF ab 2003 an diesen
+
+        Zielen, die nicht priorisiert wurden und teilweise miteinander konkurrierten. '
+      page_label: '1'
+      relevance_score: 0.3649725210033752
+      title: Zäsur {Afghanistan}-{Einsatz}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556397/zaesur-afghanistan-einsatz/
+      year: '2024'
+    text: "Danach versuchten sie, den bald einsetzenden Aufstand der neu formierten\
+      \ Taliban zu bekämpfen und die afghanische Regierung aufzubauen.  Das\nBonner\
+      \ Afghanistan-Abkommen von Dezember 2001 enthielt zwar einen konkreten „Fahrplan“\
+      \ zur Bildung einer neuen afghanischen Regierung.  Es bot jedoch\ndarüber hinaus\
+      \ wenig Konkretes zu den abstrakt umschriebenen übergeordneten Zielen.  Dennoch\
+      \ orientierte sich die Nato-geführte ISAF ab 2003 an diesen\nZielen, die nicht\
+      \ priorisiert wurden und teilweise miteinander konkurrierten.  [4] Eine Strategie\
+      \ ließ sich daraus nicht ableiten.\n Auch die Bundesregierungen entwickelten\
+      \ für ihr Engagement in Afghanistan keine klare nationale Strategie.  Nach den\
+      \ Anschlägen vom 11. "
+    uid: e4a51724-4f49-4242-91ad-c20043f6ea65
+  - metadata:
+      author: Yelizaveta, Landenberger
+      file_name: yelizaveta_teile_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Der US-amerikanische Thinktank Institute for
+
+        the Study of War hatte zuvor gewarnt, dass Transnistrien möglicherweise ein
+        Referendum über den Anschluss an Russland abhalten könnte, um den russischen
+
+        hybriden Krieg gegen Moldau zu unterstützen. '
+      page_label: '4'
+      relevance_score: 0.3575431891580997
+      title: Teile und herrsche
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550128/teile-und-herrsche/
+      year: '2024'
+    text: "Am 28.  Februar 2024 fand in Tiraspol ein \"Kongress für Abgeordnete aller\
+      \ Ebenen\" statt.  Trotz vorheriger Befürchtungen kam es dabei nicht zu einer\
+      \ Bitte um\nAnnexion durch Russland nach dem Muster der sogenannten Volksrepubliken\
+      \ Donezk und Luhansk in der Ukraine.  Der US-amerikanische Thinktank Institute\
+      \ for\nthe Study of War hatte zuvor gewarnt, dass Transnistrien möglicherweise\
+      \ ein Referendum über den Anschluss an Russland abhalten könnte, um den russischen\n\
+      hybriden Krieg gegen Moldau zu unterstützen.  In der Warnung wird beschrieben,\
+      \ dass die angebliche Notwendigkeit, russische Bürger und Landsleute in\nTransnistrien\
+      \ vor Bedrohungen durch Moldau oder die NATO zu schützen, den Vorwand für einen\
+      \ solchen Aufruf liefern könnte. [13] Letztendlich verabschiedete\nder Kongress\
+      \ in Tiraspol lediglich eine Resolution, in der das russische Parlament darum\
+      \ gebeten wurde, angesichts des zunehmenden Drucks seitens der\nRepublik Moldau\
+      \ Maßnahmen zum Schutz zu ergreifen, und wies darauf hin, dass 220000 Bürger\
+      \ in Transnistrien russische Pässe besitzen.\n Seit Jahresbeginn 2024 ist die\
+      \ Beziehung zwischen der Republik Moldau und dem separatistischen Transnistrien\
+      \ zusätzlich spannungsgeladen. "
+    uid: 658469df-284a-40b0-b077-4076a23b8ef3
+  - metadata:
+      author: Philipp, Münch
+      file_name: philipp_zasur_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'J.“ Degen/Mark J. Reardon, Modern War in an Ancient Land. '
+      page_label: '4'
+      relevance_score: 0.35674902559939964
+      title: Zäsur {Afghanistan}-{Einsatz}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556397/zaesur-afghanistan-einsatz/
+      year: '2024'
+    text: "[11]\nVgl.  Edmund J.  „E.  J.“ Degen/Mark J. Reardon, Modern War in an\
+      \ Ancient Land.  The United States Army in Afghanistan 2001–2014, Vol.  2, Washington,\
+      \ D.C.\n 2021, S. "
+    uid: c0ea09e8-68ed-4f1a-b8cf-6f9fef804641
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Anzahl hybrider Kriege ist keine descriptive Term, der eine Definition
+    von was ein 'hybrider Krieg' ist.
+  statement_type: *id002
+  text: Die Anzahl hybrider Kriege ist eine descriptive Term, der eine Definition
+    von was ein 'hybrider Krieg' ist.
+  uid: 34153fbd-8be6-4b57-8342-bb23ca9ec46e
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - C
+        - B
+        - A
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(C|B|A)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          If you did not identify any ascriptions, make sure to return an empty list
+          containing no strings, not even empty ones..
+
+          Format your (possibly empty) list of ascriptions as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          If you did not identify any descriptive statements, make sure to return
+          an empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          If you did not identify any normative statements, make sure to return an
+          empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Llama-3.2-3B-Instruct-Turbo
+  verbose: false
+request: Die Anzahl hybrider Kriege hat zugenommen.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  trust_remote_code: null
+  window_size: 3
+time: 2025-09-17 10:45:47 UTC
+uid: c443b1c5-cc71-4e52-8d79-fe24a49f7e77

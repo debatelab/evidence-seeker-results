@@ -1,0 +1,2614 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: &id001 inconclusive_confirmation
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Wachstum sollte die Existenz nicht sichern oder erträglicher machen.
+  statement_type: &id003 normative
+  text: Wachstum sollte die Existenz sichern oder erträglicher machen.
+  uid: 42cefe63-4d3a-471a-a052-9ad8d42b212c
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    03e963c2-7c7b-45ba-a69c-5b0eb81bde2f: 1.211129379370303e-37
+    2fb3b37a-1103-447b-99d5-7081c8d9a439: 7.28129017629055e-33
+    34962c0b-4461-4ba7-8a1f-7c4e7988282e: 1.664715816780079e-43
+    62e5261f-406c-4e84-a133-292f410c44e8: 2.4426007373272645e-36
+    656f2ce6-3a18-4588-bec0-49c86c1a6810: -2.321337391359189e-39
+    9886dc0a-2a7a-44e9-9e4a-20e2ab3362d1: -3.5785857187008746e-29
+    9b73d358-e0b0-4ef5-9b39-4fca3b9a7520: 6.639671678498458e-36
+    a698a906-52a4-465f-8455-c26414d0ae31: 8.244682402706515e-45
+    a88edeaa-a517-40b9-acd1-19deb47def15: -4.0271677838400215e-36
+    e357ea72-9e5a-4895-b7f0-c799b81b6370: 4.843089239878709e-30
+    efeb2f78-dd0b-4339-9129-a1b5f610a0e2: -3.0098768047542515e-40
+    f4340ae1-5bba-4a56-adc1-ee66c5fc9b43: 1.2004817995138824e-32
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'So spricht die EU traditionell von
+
+        Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+        zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt.'
+      page_label: '1'
+      relevance_score: 0.4251300395620259
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: '[1] Die EU reagiert,
+
+      wenn Regierungen einen Antrag auf Aufnahme ihres Landes stellen oder dies ankündigen.  An
+      Aspiranten gab und gibt es dabei keinen Mangel.  In allen
+
+      Erweiterungsrunden seit 1973 machten sich zwar einzelne Mitgliedstaaten für
+      den Beitritt des einen oder anderen Landes stark, aber von einer
+
+      gemeinschaftlichen, proaktiven Strategie gegenüber ausgesuchten europäischen
+      Drittstaaten konnte nicht die Rede sein.  So spricht die EU traditionell von
+
+      Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+      zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt. [2] Auch
+      die
+
+      Praxis, mehrere Länder zum selben Zeitpunkt aufzunehmen, entsprang nicht einem
+      geopolitischen Ansatz, wie es die Bezeichnungen "Nord-" oder
+
+      "Süderweiterung" nahelegen könnten.  Ohnehin befasste sich die EU im Zeichen
+      von Grenzabbau und Transnationalität kaum mit der territorial-physischen
+
+      Dimension des Binnenmarkts oder des Raums der Freiheit, der Sicherheit und des
+      Rechts. [3]
+
+      Erst mit Blick auf die nach 1989 möglich gewordene Osterweiterung entwickelte
+      die EU eine umfassende Strategie, die die Europäische Kommission in der
+
+      "Agenda 2000"[4] skizzierte. '
+    uid: efeb2f78-dd0b-4339-9129-a1b5f610a0e2
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Oder kann die EU realistischerweise erwarten, dass sich die
+        Ukraine, Moldau, Georgien und die sechs Balkanstaaten in den kommenden
+
+        Jahren zu vollwertigen liberalen Demokratien entwickeln, wenn der Kreml jeden
+        Tag unerbittlich gegen sie und ihre Bevölkerungen vorgeht?'
+      page_label: '3'
+      relevance_score: 0.41514647300383845
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n Die Beitrittskandidaten gehen\
+      \ existenzielle Sicherheitsrisiken ein, wenn sie sich für uns, für die Demokratie,\
+      \ für die EU entscheiden. "
+    uid: 656f2ce6-3a18-4588-bec0-49c86c1a6810
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der große Unterschied zu 1999 besteht heute darin, dass eine
+        Reform des EU-Erweiterungsprozesses mit einer Neutralisierung der Bedrohung
+        durch den Kreml
+
+        einhergehen muss. '
+      page_label: '3'
+      relevance_score: 0.3984914496339763
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Mit verschiedenen\nMitteln versetzt die neoimperiale Kontrolle Russlands\
+      \ über die Staaten der ehemaligen Sowjetunion alle Länder in höchste Alarmbereitschaft\
+      \ und in eine Position\ngrößter Verwundbarkeit, von der insbesondere die Länder\
+      \ in der östlichen Nachbarschaft der EU und auf dem westlichen Balkan betroffen\
+      \ sind.  Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n"
+    uid: 2fb3b37a-1103-447b-99d5-7081c8d9a439
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: '[24] Wir sollten
+
+        ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+        dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+        für
+
+        einen funktionierenden Rechtsstaat einsetzen müssen. '
+      page_label: '3'
+      relevance_score: 0.39448834174551933
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: 'Schließlich werden einige Mitgliedstaaten die Diskussion über die Rechtsstaatlichkeit
+      mit Nachdruck vorantreiben und sich entschieden gegen jeden
+
+      demokratischen Rückschritt innerhalb der Union wehren.  Manche Länder haben
+      bereits deutlich gemacht, dass neue EU-Mitglieder vor ihrem Beitritt alle Regeln
+
+      der Union einhalten müssen.  Hier muss allerdings selbstkritisch angemerkt werden,
+      dass die EU zunächst selbst ihre Hausaufgaben machen muss. [24] Wir sollten
+
+      ehrlich mit unseren eigenen Problemen in der EU umgehen und offen ansprechen,
+      dass auch wir uns tagtäglich für die Prinzipien einer liberalen Demokratie,
+      für
+
+      einen funktionierenden Rechtsstaat einsetzen müssen.  Nur so können wir einen
+      ehrlichen Dialog führen und langfristig überzeugen: Wie kann man liberale
+
+      Demokratie lernen?  Handelt es sich dabei um einen linearen Prozess?  Wie kann
+      der Fortschritt aufrechterhalten werden? '
+    uid: 9886dc0a-2a7a-44e9-9e4a-20e2ab3362d1
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'War die Unterstützung der Erweiterung früher vor allem durch
+
+        wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in
+        Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.38875885888675027
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Polen und Schweden stehen dagegen exemplarisch für jene Gruppe von EU-Staaten,\
+      \ die nicht spezifisch an den Westbalkan denken, sondern traditionell zu den\n\
+      Befürwortern der EU-Osterweiterung gehören und sich daher federführend an der\
+      \ EU-Initiative Östliche Partnerschaft von 2009 beteiligt haben, um die\nIntegration\
+      \ der Länder in der östlichen Nachbarschaft der Union stärker zu unterstützen,\
+      \ vor allem, um die Stabilität in der Region zu sichern.  Der Krieg Russlands\n\
+      in der Ukraine hat bei ihnen zu einer spürbaren sicherheitspolitischen Präferenzverschiebung\
+      \ in Richtung Erweiterung geführt.  Mit dem Krieg sind aber auch die\nWerte,\
+      \ die mit der Zugehörigkeit zum „Westen“ verbunden werden, wichtiger denn je\
+      \ geworden.  War die Unterstützung der Erweiterung früher vor allem durch\n\
+      wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in\
+      \ Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.\n Darüber\
+      \ hinaus gibt es Länder wie Portugal, die trotz ihrer geografischen Entfernung\
+      \ am westlichen Rand der Union die Erweiterungsrunden als eine Form der\nSolidarität\
+      \ und der Begleichung einer „Schuld der Dankbarkeit“ unterstützt haben.  Hier\
+      \ wird die Erweiterung der EU um den Westbalkan, die Ukraine, die Republik\n\
+      Moldau und Georgien im Kontext eines Prozesses der europäischen integrativen\
+      \ Solidarität verstanden.\n Die portugiesische Haltung steht zugleich aber auch\
+      \ exemplarisch für gesellschaftliche und politische Veränderungen innerhalb\
+      \ eines Landes – und dafür, dass\nsich nationale Diskurse verändern können. "
+    uid: 9b73d358-e0b0-4ef5-9b39-4fca3b9a7520
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Klar ist, dass die Erweiterung die Disparitäten zwischen den
+        Staaten und
+
+        Regionen der EU erheblich vergrößern wird. '
+      page_label: '1'
+      relevance_score: 0.3884236850811594
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "[5] Wer wann beitreten wird, darüber kann derzeit nur spekuliert werden.\
+      \  Können die EU-\nInstitutionen eine höhere Mitgliederzahl überhaupt verkraften?\
+      \  Kann sich die EU die Kosten für die Aufnahme von Ländern leisten, die viel\
+      \ ärmer als der EU-\nDurchschnitt sind und deren Wirtschaft weitgehend von der\
+      \ Landwirtschaft abhängt?  Klar ist, dass die Erweiterung die Disparitäten zwischen\
+      \ den Staaten und\nRegionen der EU erheblich vergrößern wird.  Folglich wird\
+      \ sie unweigerlich Anpassungen des auf dem Bruttoinlandsprodukt basierenden\
+      \ EU-Haushalts erfordern.\n Entweder wird der Kuchen größer und das Gesamtbudget\
+      \ steigt – oder jeder bekommt ein kleineres Stück.  Folglich wird es zu einer\
+      \ tiefgreifenden Umverteilung\nvon EU-Mitteln zwischen den Mitgliedstaaten kommen. "
+    uid: a88edeaa-a517-40b9-acd1-19deb47def15
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.38489655974372394
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: f4340ae1-5bba-4a56-adc1-ee66c5fc9b43
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.38244247089350736
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: a698a906-52a4-465f-8455-c26414d0ae31
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.3801815631188715
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: 34962c0b-4461-4ba7-8a1f-7c4e7988282e
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Sie stellte im Juni 2022 etwa die Weichen für eine gradualistische
+
+        Erweiterungspolitik, um "die schrittweise Integration zwischen der Europäischen
+        Union und der Region [dem Westbalkan] bereits während des
+
+        Erweiterungsprozesses auf umkehrbare und leistungsorientierte Weise weiter
+        voranzubringen".'
+      page_label: '4'
+      relevance_score: 0.3731275042540879
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "Dies ist ein Beispiel für die schrittweise Integration, die sich nun auch\
+      \ auf die Gemeinsamen Sicherheits- und Verteidigungspolitik und ihren\nUnterbau\
+      \ bezieht.\n Schrittweise Integration\nIn den meisten Ländern des Westbalkans\
+      \ ist – anders als in Moldau und selbst unter Kriegsbedingungen in der Ukraine\
+      \ – wenig Momentum für Reformen zu\nerkennen.  Auch deswegen entwickelt die\
+      \ EU ihre Erweiterungsmethode inkrementell weiter.  Sie stellte im Juni 2022\
+      \ etwa die Weichen für eine gradualistische\nErweiterungspolitik, um \"die schrittweise\
+      \ Integration zwischen der Europäischen Union und der Region [dem Westbalkan]\
+      \ bereits während des\nErweiterungsprozesses auf umkehrbare und leistungsorientierte\
+      \ Weise weiter voranzubringen\". [26] Durch solche Zwischenschritte sollen Fortschritte\
+      \ in\neinzelnen Sektoren unmittelbar, also vor dem förmlichen Beitritt eines\
+      \ Landes, durch Finanzhilfen, Zugang zu Teilen des Binnenmarkts sowie die Teilhabe\
+      \ an\nProgrammen und Agenturen der EU belohnt werden.  Schon die AA/DCFTA haben\
+      \ diese Möglichkeiten eröffnet, aber die EU will dies nun für alle Kandidaten\n\
+      systematischer betreiben.  Der neue Wachstumsplan für den Westbalkan mit seinen\
+      \ vier Pfeilern geht in diese Richtung."
+    uid: 62e5261f-406c-4e84-a133-292f410c44e8
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Verlangsamung des EU-Erweiterungsprozesses den Einfluss anderer
+        Akteure – insbesondere Russlands und Chinas, aber auch der Türkei – zu stärken
+        droht.
+
+        '
+      page_label: '3'
+      relevance_score: 0.3720394444270267
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Verlangsamung des EU-Erweiterungsprozesses den Einfluss anderer Akteure\
+      \ – insbesondere Russlands und Chinas, aber auch der Türkei – zu stärken droht.\n\
+      \ Dänemark befürchtet wie viele andere Mitgliedstaaten, dass sich die Westbalkanländer\
+      \ China, der Türkei und Russland zuwenden könnten, wenn die EU sie zu\nlange\
+      \ außen vor lässt.  Auch der damalige schwedische Minister für EU-Angelegenheiten,\
+      \ Hans Dahlgren, vertrat die Ansicht, dass die EU-Erweiterung eines der\nbesten\
+      \ geopolitischen Instrumente der Union und ein Weg zur Schaffung von Sicherheit\
+      \ und Stabilität in Europa ist.  Der Westbalkan ist daher für viele auch eine\n\
+      Schlüsselregion in Bezug auf Energie, Migration und Sicherheit. "
+    uid: 03e963c2-7c7b-45ba-a69c-5b0eb81bde2f
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: '2020
+
+        einigte sich die Gemeinschaft auf eine "neue Methodologie",[17] um den Erweiterungsprozess
+        dynamischer, glaubwürdiger und berechenbarer zu machen und im
+
+        Fall von Reformrückschritten der Kandidaten die Unterstützung wieder zu reduzieren. '
+      page_label: '2'
+      relevance_score: 0.3648196780292893
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "Einzelne Mitgliedstaaten wollten daraufhin die\nBeziehungen dynamisieren:\
+      \ 2014 startete etwa der Berliner Prozess mit dem Schwerpunkt auf regionaler\
+      \ Wirtschaftskooperation und 2018 ergriffen die deutsche\nund britische Regierung\
+      \ eine Initiative zur Wiederbelebung des Reformprozesses in Bosnien-Herzegowina.\
+      \  Außerdem legte die Kommission 2018 sechs\nLeitinitiativen vor, die ausdrücklich\
+      \ \"eine glaubwürde Erweiterungsperspektive für und ein verstärktes Engagement\
+      \ der EU gegenüber dem westlichen Balkan\"\nanvisierten. [16] Im selben Jahr\
+      \ wurde zudem der Westbalkan-Gipfel lanciert, bei dem sich Staats- und Regierungschefs\
+      \ der EU und der sechs Länder treffen.  2020\neinigte sich die Gemeinschaft\
+      \ auf eine \"neue Methodologie\",[17] um den Erweiterungsprozess dynamischer,\
+      \ glaubwürdiger und berechenbarer zu machen und im\nFall von Reformrückschritten\
+      \ der Kandidaten die Unterstützung wieder zu reduzieren.  Alle diese Bemühungen\
+      \ signalisierten, dass vor allem die Wirtschaft in den\nWestbalkanländern nicht\
+      \ schnell und stark genug wuchs.  Für ausländische Investoren waren die Rahmenbedingungen\
+      \ angesichts von Korruption,\nRechtsunsicherheit, Abwanderung von jungen Menschen,\
+      \ relativ kleinen und fragmentierten Märkten, geringer Kaufkraft der Bevölkerung\
+      \ und unsicheren\nEntwicklungsperspektiven wenig attraktiv.\n Vom möglichen\
+      \ EU-Beitritt der Ukraine und dem derzeitigen neuen Momentum für die Erweiterungspolitik\
+      \ profitieren auch die Staaten des Westbalkans.\n"
+    uid: e357ea72-9e5a-4895-b7f0-c799b81b6370
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Wachstum geht oft nicht mit zunehmender Demokratisierung einher.
+  statement_type: &id002 descriptive
+  text: Wachstum geht oft mit zunehmender Demokratisierung einher.
+  uid: 088c9218-4c0a-46ae-9ac9-4ea532ad48e1
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    12e8e764-3988-4a9e-84c5-f5e53b24efb0: -4.906094720537066e-35
+    2d9e4202-1709-425e-909a-bd898801a381: 2.4290576066283654e-41
+    3ed60ab7-2835-4b7e-9f3a-aca28c08a60e: -3.224092741467901e-40
+    46ad37b8-2134-43ec-b6fd-832ce0525c14: 1.8208593767119165e-40
+    5ca92dbe-de66-4263-916f-95ed0b1728bd: 1.48150313415054e-36
+    628de27d-b580-48d2-8f78-e660c8f46d5b: -5.97684694267684e-34
+    652e734c-8ce0-4afb-9ecf-124344a6f70f: -1.2154266937378611e-37
+    8765acbb-ff94-4adb-9e43-d081b8078940: -8.192345401606258e-40
+    987252d3-9a45-41ae-8664-4c5c2a97abb4: -2.0896013275079088e-37
+    a59614be-491a-490a-80b9-603a16087717: -8.862338579614804e-32
+    c37ebf48-f5b1-4467-a5dc-f7599a760abc: -2.7133611219894957e-38
+    d69609df-0794-4c15-9aba-10e529ea66df: -4.962447910185271e-40
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.3749217423911111
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: 987252d3-9a45-41ae-8664-4c5c2a97abb4
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.3266139762006507
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: 628de27d-b580-48d2-8f78-e660c8f46d5b
+  - metadata:
+      author: Franceso, Palermo
+      file_name: franceso_autoritar_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Diese Aufgabe bedeutet konkret, dass
+
+        zum Beispiel festgelegt werden muss, wie viele Schüler:innen pro Lehrkraft
+        in den Schulen unterrichtet werden dürfen, wie viele Intensivbetten auf tausend
+
+        Einwohner:innen kommen sollen, wie hoch die Emissionsgrenzwerte sein dürfen
+        und so weiter.
+
+        '
+      page_label: '2'
+      relevance_score: 0.31246902156065054
+      title: Autoritär reformiert?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552523/autoritaer-reformiert/
+      year: '2024'
+    text: "72 Abs.  2 GG).  Während es sich in Deutschland jedoch\num eine Klausel\
+      \ für die Ausübung der Gesetzgebungsfunktion des Bundes in Angelegenheiten der\
+      \ konkurrierenden Gesetzgebung handelt, muss in Italien die\nFestlegung dieser\
+      \ Kriterien im Voraus erfolgen, das heißt, ehe Befugnisse auf die Regionen übertragen\
+      \ werden können.  Diese Aufgabe bedeutet konkret, dass\nzum Beispiel festgelegt\
+      \ werden muss, wie viele Schüler:innen pro Lehrkraft in den Schulen unterrichtet\
+      \ werden dürfen, wie viele Intensivbetten auf tausend\nEinwohner:innen kommen\
+      \ sollen, wie hoch die Emissionsgrenzwerte sein dürfen und so weiter.\n Gemäß\
+      \ Gesetz 86/2024 über die differenzierte Autonomie und dem Haushaltsgesetz für\
+      \ 2024 hat der Staat beziehungsweise eine speziell eingerichtete\nKommission\
+      \ zwei Jahre lang Zeit für die Festlegung dieser Werte.  Nach der Festlegung\
+      \ muss überprüft werden, ob diese Standards in allen Regionen eingehalten\n\
+      werden.  Erst dann können die Kompetenzen an jene Regionen übertragen werden,\
+      \ die sie beantragt haben. "
+    uid: a59614be-491a-490a-80b9-603a16087717
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'So spricht die EU traditionell von
+
+        Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+        zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt.'
+      page_label: '1'
+      relevance_score: 0.3120392658913916
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: '[1] Die EU reagiert,
+
+      wenn Regierungen einen Antrag auf Aufnahme ihres Landes stellen oder dies ankündigen.  An
+      Aspiranten gab und gibt es dabei keinen Mangel.  In allen
+
+      Erweiterungsrunden seit 1973 machten sich zwar einzelne Mitgliedstaaten für
+      den Beitritt des einen oder anderen Landes stark, aber von einer
+
+      gemeinschaftlichen, proaktiven Strategie gegenüber ausgesuchten europäischen
+      Drittstaaten konnte nicht die Rede sein.  So spricht die EU traditionell von
+
+      Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+      zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt. [2] Auch
+      die
+
+      Praxis, mehrere Länder zum selben Zeitpunkt aufzunehmen, entsprang nicht einem
+      geopolitischen Ansatz, wie es die Bezeichnungen "Nord-" oder
+
+      "Süderweiterung" nahelegen könnten.  Ohnehin befasste sich die EU im Zeichen
+      von Grenzabbau und Transnationalität kaum mit der territorial-physischen
+
+      Dimension des Binnenmarkts oder des Raums der Freiheit, der Sicherheit und des
+      Rechts. [3]
+
+      Erst mit Blick auf die nach 1989 möglich gewordene Osterweiterung entwickelte
+      die EU eine umfassende Strategie, die die Europäische Kommission in der
+
+      "Agenda 2000"[4] skizzierte. '
+    uid: c37ebf48-f5b1-4467-a5dc-f7599a760abc
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.28948329664608824
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: 8765acbb-ff94-4adb-9e43-d081b8078940
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Insgesamt wird die Erweiterungspolitik
+
+        also stärker in die Entwicklungsziele der Gemeinsamen Außen- und Sicherheitspolitik
+        einschließlich der Verteidigung eingebettet, für deren Umsetzung die
+
+        Kommission in den vergangenen zwei Jahren eine Serie von konkreten Vorschlägen
+        auf den Weg gebracht hat.'
+      page_label: '4'
+      relevance_score: 0.28887157906544475
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "unter anderem um die Abwehr hybrider Bedrohungen geht.  Die Union unterstützt\
+      \ zudem über die Europäische Friedensfazilität und andere Programme\nWaffenlieferungen\
+      \ von EU-Staaten an die Ukraine und die Produktion beziehungsweise die Beschaffung\
+      \ von Munition.  Insgesamt wird die Erweiterungspolitik\nalso stärker in die\
+      \ Entwicklungsziele der Gemeinsamen Außen- und Sicherheitspolitik einschließlich\
+      \ der Verteidigung eingebettet, für deren Umsetzung die\nKommission in den vergangenen\
+      \ zwei Jahren eine Serie von konkreten Vorschlägen auf den Weg gebracht hat.\
+      \ [25] Sie bezieht etwa die Ukraine ein in aktuelle\nPläne für die Stärkung\
+      \ der verteidigungstechnologischen-industriellen Basis, um den Aufbau von militärischen\
+      \ Fähigkeiten der Mitgliedstaaten zu beschleunigen\nund abzustimmen.  Dies ist\
+      \ ein Beispiel für die schrittweise Integration, die sich nun auch auf die Gemeinsamen\
+      \ Sicherheits- und Verteidigungspolitik und ihren\nUnterbau bezieht.\n Schrittweise\
+      \ Integration\nIn den meisten Ländern des Westbalkans ist – anders als in Moldau\
+      \ und selbst unter Kriegsbedingungen in der Ukraine – wenig Momentum für Reformen\
+      \ zu\nerkennen. "
+    uid: 46ad37b8-2134-43ec-b6fd-832ce0525c14
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Rat und Kommission argumentierten deshalb, dass die Erweiterungspolitik
+        die
+
+        "(geo-)strategische Investition in Frieden, Stabilität, Sicherheit und wirtschaftliches
+        Wachstum"[15] sei. '
+      page_label: '2'
+      relevance_score: 0.28704837442519265
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "[14] Gespeist wurden diese Überlegungen durch die von Anbeginn kontroverse\
+      \ Aufnahme von\nBeitrittsverhandlungen mit der Türkei 2005, aber auch durch\
+      \ die 2003 offiziell als Alternative zur Erweiterung lancierte Europäische Nachbarschaftspolitik\
+      \ (ENP).\n Das Interesse der EU an enger Kooperation mit Südosteuropa einschließlich\
+      \ der Türkei belebte sich angesichts des massiven Zustroms von Geflüchteten\
+      \ über die\nBalkanroute im Krisenjahr 2015.  Zugleich nahm die EU eine wachsende\
+      \ geopolitische Konkurrenz mit Russland, China und auch der Türkei wahr, deren\
+      \ Präsenz\nund wirtschaftlich-politischer Einfluss in der Region stärker wurden.\
+      \  Rat und Kommission argumentierten deshalb, dass die Erweiterungspolitik die\n\
+      \"(geo-)strategische Investition in Frieden, Stabilität, Sicherheit und wirtschaftliches\
+      \ Wachstum\"[15] sei.  Einzelne Mitgliedstaaten wollten daraufhin die\nBeziehungen\
+      \ dynamisieren: 2014 startete etwa der Berliner Prozess mit dem Schwerpunkt\
+      \ auf regionaler Wirtschaftskooperation und 2018 ergriffen die deutsche\nund\
+      \ britische Regierung eine Initiative zur Wiederbelebung des Reformprozesses\
+      \ in Bosnien-Herzegowina.  Außerdem legte die Kommission 2018 sechs\nLeitinitiativen\
+      \ vor, die ausdrücklich \"eine glaubwürde Erweiterungsperspektive für und ein\
+      \ verstärktes Engagement der EU gegenüber dem westlichen Balkan\"\nanvisierten.\
+      \ [16] Im selben Jahr wurde zudem der Westbalkan-Gipfel lanciert, bei dem sich\
+      \ Staats- und Regierungschefs der EU und der sechs Länder treffen. "
+    uid: 3ed60ab7-2835-4b7e-9f3a-aca28c08a60e
+  - metadata:
+      author: Ahrens, Ralf
+      file_name: ahrens_pragmatischer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Die von Bund und Ländern gemeinsam verantwortete regionale Strukturpolitik
+
+        umfasste zwar ein breiteres Spektrum, zielte aber ebenfalls wesentlich auf
+        die nachholende Industrialisierung eher ländlicher Gebiete sowie zunehmend
+        auf die
+
+        Stabilisierung traditioneller, vom Strukturwandel gebeutelter Industrielandschaften. '
+      page_label: '1'
+      relevance_score: 0.2776177125083396
+      title: Pragmatischer {Interventionismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544578/pragmatischer-interventionismus/
+      year: '2024'
+    text: 'Längst ist der Begriff wieder salonfähig, nachdem er seit den 1960er Jahren
+      für einige Zeit von
+
+      einer umfassenderen „Strukturpolitik“ verdrängt worden war.  Doch hatte insbesondere
+      die sektorale, also auf einzelne Branchen bezogene und federführend vom
+
+      Bundeswirtschaftsministerium betriebene Strukturpolitik stets den Fokus auf
+      die Industrie gerichtet.  Dienstleistungsbranchen spielten bestenfalls eine
+
+      Nebenrolle, und für Landwirtschaft oder Verkehr waren eigene Ressorts zuständig.  Die
+      von Bund und Ländern gemeinsam verantwortete regionale Strukturpolitik
+
+      umfasste zwar ein breiteres Spektrum, zielte aber ebenfalls wesentlich auf die
+      nachholende Industrialisierung eher ländlicher Gebiete sowie zunehmend auf die
+
+      Stabilisierung traditioneller, vom Strukturwandel gebeutelter Industrielandschaften.  [1]
+
+      Heute ist in der Selbstdarstellung des Bundeswirtschaftsministeriums hingegen
+      ausdrücklich von „moderner Industriepolitik“ die Rede.  [2] Daraus lässt sich
+
+      zunächst einmal lernen, dass Industriepolitik auch dann stattfinden kann, wenn
+      sie nicht als solche bezeichnet wird.  Sie muss auch nicht systematisch als
+
+      eigenständige Politik organisiert sein, um Auswirkungen auf die industrielle
+      Struktur einer Volkswirtschaft auszuüben, welche wiederum von vielen anderen
+
+      Politikfeldern wie Forschung und Technologie, Außenwirtschaft oder Arbeitsmärkten
+      beeinflusst wird. '
+    uid: 5ca92dbe-de66-4263-916f-95ed0b1728bd
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Sie stellte im Juni 2022 etwa die Weichen für eine gradualistische
+
+        Erweiterungspolitik, um "die schrittweise Integration zwischen der Europäischen
+        Union und der Region [dem Westbalkan] bereits während des
+
+        Erweiterungsprozesses auf umkehrbare und leistungsorientierte Weise weiter
+        voranzubringen".'
+      page_label: '4'
+      relevance_score: 0.2754185000848029
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "Dies ist ein Beispiel für die schrittweise Integration, die sich nun auch\
+      \ auf die Gemeinsamen Sicherheits- und Verteidigungspolitik und ihren\nUnterbau\
+      \ bezieht.\n Schrittweise Integration\nIn den meisten Ländern des Westbalkans\
+      \ ist – anders als in Moldau und selbst unter Kriegsbedingungen in der Ukraine\
+      \ – wenig Momentum für Reformen zu\nerkennen.  Auch deswegen entwickelt die\
+      \ EU ihre Erweiterungsmethode inkrementell weiter.  Sie stellte im Juni 2022\
+      \ etwa die Weichen für eine gradualistische\nErweiterungspolitik, um \"die schrittweise\
+      \ Integration zwischen der Europäischen Union und der Region [dem Westbalkan]\
+      \ bereits während des\nErweiterungsprozesses auf umkehrbare und leistungsorientierte\
+      \ Weise weiter voranzubringen\". [26] Durch solche Zwischenschritte sollen Fortschritte\
+      \ in\neinzelnen Sektoren unmittelbar, also vor dem förmlichen Beitritt eines\
+      \ Landes, durch Finanzhilfen, Zugang zu Teilen des Binnenmarkts sowie die Teilhabe\
+      \ an\nProgrammen und Agenturen der EU belohnt werden.  Schon die AA/DCFTA haben\
+      \ diese Möglichkeiten eröffnet, aber die EU will dies nun für alle Kandidaten\n\
+      systematischer betreiben.  Der neue Wachstumsplan für den Westbalkan mit seinen\
+      \ vier Pfeilern geht in diese Richtung."
+    uid: 652e734c-8ce0-4afb-9ecf-124344a6f70f
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Der Investitionszuwachs 2023 um 4,7 Prozent gegenüber dem
+
+        Vorjahr kann sich zwar sehen lassen, er soll sich jedoch in den kommenden
+        Jahren deutlich abschwächen. '
+      page_label: '2'
+      relevance_score: 0.2745072346321212
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Insgesamt ist in der aktuellen Wirtschaftspolitik Italiens, obwohl Meloni\
+      \ auch in diesem Politikfeld wichtige Entscheidungen in den Palazzo Chigi zieht,\
+      \ indes\nkeine klare Linie zu erkennen.  Es finden sich sowohl neoliberale als\
+      \ auch staatsinterventionistische Ansätze, angebots- und nachfragepolitische\
+      \ Maßnahmen gibt\nes gleichermaßen.  Die derzeitige wirtschaftliche Entwicklung\
+      \ Italiens gibt der Regierung freilich etwas Rückenwind, allerdings ist die\
+      \ Situation risikobehaftet und\nmithin fragil, zumal sich zahlreiche Faktoren\
+      \ der nationalen politischen Steuerung entziehen.  Der Investitionszuwachs 2023\
+      \ um 4,7 Prozent gegenüber dem\nVorjahr kann sich zwar sehen lassen, er soll\
+      \ sich jedoch in den kommenden Jahren deutlich abschwächen.  Insofern wären\
+      \ fallende Leitzinsen der Europäischen\nZentralbank in Italien sehr willkommen,\
+      \ um die privaten Investitionen anzukurbeln und zugleich die staatliche Refinanzierung\
+      \ zu erleichtern, zumal die\nhaushaltspolitischen Spielräume mit dem Ende der\
+      \ Aussetzung des europäischen Stabilitäts- und Wachstumspaktes (SWP) nicht größer\
+      \ werden.\n Reform des Stabilitäts- und Wachstumspaktes\nItalien sieht sich,\
+      \ wie unter anderem auch Frankreich, seit Juni 2024 wieder mit einem Defizitverfahren\
+      \ der EU konfrontiert, dasselbe ist für 2025 zu erwarten.\n Voraussichtlich\
+      \ frühestens 2026 wird das Land ein Haushaltsdefizit von weniger als drei Prozent\
+      \ des BIP vorweisen können. "
+    uid: 12e8e764-3988-4a9e-84c5-f5e53b24efb0
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Auf mittlere und längere Sicht allerdings wird auch ihre Regierung
+        mehr Wachstum generieren und Arbeitsplätze schaffen,
+
+        kurzum: wirtschaftliche Erfolge vorweisen müssen, um nicht wie so viele vor
+        ihr zu scheitern.
+
+        '
+      page_label: '5'
+      relevance_score: 0.2710522505802173
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Gleichwohl dürften sich die sozioökonomischen Konfliktlinien beziehungsweise\
+      \ deren Niederschlag in den Wahlpräferenzen zugunsten der beiden großen\npolitischen\
+      \ Lager kurzfristig als relativ stabil erweisen.  Es ist derzeit nicht davon\
+      \ auszugehen, exogene Schocks einmal ausgenommen, dass die Politikfelder\nWirtschaft\
+      \ und Soziales rasch zu einer deutlichen Verschiebung der Mehrheitsverhältnisse\
+      \ beitragen werden, zumal andere Fragen, wie die von Migration und\nIdentität,\
+      \ weiter virulent und dominant sind.  Anders formuliert: Kurzfristig hat Meloni\
+      \ aus dieser Richtung wohl wenig zu befürchten, zumal sie koalitionsintern die\n\
+      unangefochtene Führungsfigur ist.  Auf mittlere und längere Sicht allerdings\
+      \ wird auch ihre Regierung mehr Wachstum generieren und Arbeitsplätze schaffen,\n\
+      kurzum: wirtschaftliche Erfolge vorweisen müssen, um nicht wie so viele vor\
+      \ ihr zu scheitern.\n Fußnoten \n[1]\nSofern nicht anders ausgewiesen, beruhen\
+      \ alle Angaben zu Wirtschaft und Staatsfinanzen auf Daten des Istituto Nazionale\
+      \ di Statistica (Istat).  Siehe unter\nanderem Rapporto annuale 2024, Rom 2024;\
+      \ Le prospettive per l’economia italiana nel 2024–2025, 6.6.2024, http://www.istat.it/wp-content/\n\
+      uploads/2024/06/previsioni-2024-2025.pdf; sowie weitere Statistiken unter http://dati.istat.it.\n\
+      \ [2] Zum PNRR siehe auch den Beitrag von Karoline Rörig in dieser Ausgabe (Anm. "
+    uid: 2d9e4202-1709-425e-909a-bd898801a381
+  - metadata:
+      author: Juhász, Réka and Steinwender, Claudia
+      file_name: juhasz_mehr_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'In der wissenschaftlichen Forschung konnte an vielen Beispielen
+        gezeigt werden, dass gerade Eisenbahnnetze viele positive Auswirkungen auf
+
+        Wirtschaftswachstum und Industrialisierung hatten. '
+      page_label: '3'
+      relevance_score: 0.2701751239014206
+      title: Mehr als {Protektionismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544581/mehr-als-protektionismus/
+      year: '2024'
+    text: "[24] Einige\nStaaten wie Großbritannien oder Preußen überließen den Eisenbahnbau\
+      \ eher der Privatwirtschaft.  Andere wiederum nahmen erheblichen Einfluss auf\
+      \ den\nAusbau, auch wenn sie ihn nicht direkt finanzierten.  Dies geschah beispielsweise\
+      \ durch die Vergabe von Landrechten und Konzessionen, durch Subventionen\noder\
+      \ Gewinngarantien oder durch die Regulierung des Eisenbahnbetriebs.\n In der\
+      \ wissenschaftlichen Forschung konnte an vielen Beispielen gezeigt werden, dass\
+      \ gerade Eisenbahnnetze viele positive Auswirkungen auf\nWirtschaftswachstum\
+      \ und Industrialisierung hatten.  Sie erschlossen weite landwirtschaftliche\
+      \ Gebiete innerhalb eines Landes für den Exportmarkt und\nermöglichten Produktivitätssteigerungen\
+      \ durch eine stärkere Spezialisierung der Regionen innerhalb eines Landes. \
+      \ Diese Vorteile zeigen sich in den früh\nindustrialisierten Ländern wie Großbritannien,\
+      \ in den später industrialisierten wie Schweden und Japan und sogar in den Kolonien\
+      \ wie Ghana und Britisch-Indien,\nwo die Entwicklung der Eisenbahn in erster\
+      \ Linie den Interessen der Kolonialherren und nicht der einheimischen Bevölkerung\
+      \ diente.  Eisenbahnen führten auch\nzu mehr Innovation und Technologieübernahme,\
+      \ da Erfinder durch die verbesserten Transportmöglichkeiten mehr über technologische\
+      \ Bedürfnisse wussten und\nihre Patente leichter verkaufen konnten. "
+    uid: d69609df-0794-4c15-9aba-10e529ea66df
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Wachstum geht oft nicht mit besserer Alphabetisierung einher.
+  statement_type: *id002
+  text: Wachstum geht oft mit besserer Alphabetisierung einher.
+  uid: 238c75b5-4569-454d-9539-19b4b1ef5824
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: 1.0
+  confirmation_by_document:
+    01d96e7f-1ea9-4573-a2cd-2abb3e02b8db: 6.054601895370252e-39
+    1ec20268-de43-4b96-8171-0105c6a1ed50: 1.198676948126037e-32
+    21d1342f-08dd-476a-b80b-333c1fd0741a: 1.0
+    2dd8318e-4dfc-4075-bb2f-070c20a262cb: -7.441436094205744e-43
+    3c745772-e788-44e3-9e74-9cdc1af92cc2: -9.854154536032681e-34
+    406c8409-cca7-4618-a3c0-3852f15ec96e: -1.5007444363962553e-41
+    45cbd4cb-6b2d-4a46-b6b3-ba9857ada64f: 4.661834656875228e-35
+    488f98ef-5581-4302-9b73-a6425eecb26e: 5.486237469612471e-34
+    4ddc06b1-0493-453c-bcfb-5daf1cf3daf6: -8.193929617875686e-40
+    d90903cb-b911-46b7-9574-89a62da3c4f5: 1.0
+    eccdd404-fa3f-40c8-a1ce-e4f223bee97a: -3.778087829437994e-34
+    f8bb3df5-a8cc-4866-a0fe-b0d462a79baf: 1.0946967926805629e-35
+  confirmation_level: strongly_confirmed
+  documents:
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.445446788644947
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: f8bb3df5-a8cc-4866-a0fe-b0d462a79baf
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.36770269597457206
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: 488f98ef-5581-4302-9b73-a6425eecb26e
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.33221152713767166
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: eccdd404-fa3f-40c8-a1ce-e4f223bee97a
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Die Industrialisierung der Technologiemacht China [5] löste
+        zudem einen Exportboom in den Rohstoffländern des
+
+        BRICS aus, etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden
+        Ländern ein höheres Wachstum als den Industrieländern.
+
+        '
+      page_label: '2'
+      relevance_score: 0.3173265609449153
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Jahrzehnten zudem erhebliche technologische Fortschritte und Innovationen,\
+      \ die zu einem wachsenden Anteil ihrer Hightech-Exporte führten und zugleich\
+      \ zu\nAbhängigkeiten der Länder des Globalen Südens und des Westens beitrugen\
+      \ (etwa in den Lieferketten).  [4] Diese Veränderungen markieren einen deutlichen\n\
+      wirtschaftlichen Dominanzverlust des Westens.  Die Industrialisierung der Technologiemacht\
+      \ China [5] löste zudem einen Exportboom in den Rohstoffländern des\nBRICS aus,\
+      \ etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden\
+      \ Ländern ein höheres Wachstum als den Industrieländern.\n Die wirtschaftlichen\
+      \ Machtverschiebungen manifestieren sich vor allem darin, dass der BRICS-Verbund\
+      \ wichtige strategische Güter und Dienstleistungen\nanbietet – und relativ viele\
+      \ mächtige Großunternehmen global agieren, die von den unterschiedlichen Mitgliedstaaten\
+      \ unterstützt werden.  [6] Dies lässt sich zum\nBeispiel an den jeweiligen Marktanteilen\
+      \ in wichtigen Produktgruppen und Dienstleistungen erkennen, etwa an der Dominanz\
+      \ in Kommunikationsnetzwerken und\nim Finanzsektor oder bei der Kreditvergabe\
+      \ an andere Länder, die mitunter zur Entstehung von Schuldnersituationen führt.\
+      \  [7]\nBesonders sichtbar wird die globale Neuvermessung der Wirtschaft an\
+      \ den globalen Wertschöpfungsketten (WSK), die zur vorherrschenden Organisationsform\n\
+      der Weltwirtschaft geworden sind. "
+    uid: 1ec20268-de43-4b96-8171-0105c6a1ed50
+  - metadata:
+      author: Woodworth, Max D.
+      file_name: woodworth_wachstum_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: June
+      original_text: 'Zugleich bleibt das grundlegende Wachstumsmodell Chinas trotz
+        aufsehenerregender Krisen unangetastet. '
+      page_label: '4'
+      relevance_score: 0.3140347824399913
+      title: Wachstum und {Niedergang} in {Chinas} "{Geisterstädten}"
+      url: https://www.bpb.de/shop/zeitschriften/apuz/ruinen-2024/549182/wachstum-und-niedergang-in-chinas-geisterstaedten/
+      year: '2024'
+    text: "Ihrer Ansicht nach sind die neuen Siedlungen am Stadtrand mit den geradlinigen,\
+      \ im Rastersystem\nangelegten Straßen, den zahlreichen Plätzen und Parks, der\
+      \ modernen Infrastruktur, attraktiven Architektur, den neuen Schulen und öffentlichen\
+      \ Einrichtungen\nein Erfolg, wie die hohe Nachfrage nach den angebotenen Wohn-\
+      \ und Gewerbeimmobilien zeige.  Das Motto \"Wir müssen nur bauen, dann werden\
+      \ sie schon\nkommen\" hält sich nach wie vor und rechtfertigt, was man kritisch\
+      \ als \"überschüssigen Raum\" bezeichnen könnte.  Zugleich zeigen die jüngsten\
+      \ Einbrüche der\nlokalen Immobilienmärkte und die Pleite des Immobilienriesen\
+      \ Evergrande 2023 mit Schulden in Höhe von mehr als 200 Milliarden US-Dollar\
+      \ die extreme\nAnfälligkeit dieses ökonomischen Ansatzes, der zwar enorme räumliche\
+      \ und soziale Veränderungen bewirken kann, dessen Erfolg jedoch nach wie vor\
+      \ fraglich ist.\n Zugleich bleibt das grundlegende Wachstumsmodell Chinas trotz\
+      \ aufsehenerregender Krisen unangetastet.  Die Städte, die an erster Stelle\
+      \ zur Erzielung von\nProfit und erst an zweiter Stelle als tatsächlicher Wohnraum\
+      \ gebaut werden, stehen als unheimliches, leeres Versprechen in der Landschaft.\n\
+      \ Aus dem Englischen von Heike Schlatterer, Pforzheim\nFußnoten \n[1] Vgl.\
+      \  Behemoth – Der schwarze Drache, Regie: Zhao Liang, China–Frankreich 2015.\n"
+    uid: 21d1342f-08dd-476a-b80b-333c1fd0741a
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Der Investitionszuwachs 2023 um 4,7 Prozent gegenüber dem
+
+        Vorjahr kann sich zwar sehen lassen, er soll sich jedoch in den kommenden
+        Jahren deutlich abschwächen. '
+      page_label: '2'
+      relevance_score: 0.3133226685113125
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Insgesamt ist in der aktuellen Wirtschaftspolitik Italiens, obwohl Meloni\
+      \ auch in diesem Politikfeld wichtige Entscheidungen in den Palazzo Chigi zieht,\
+      \ indes\nkeine klare Linie zu erkennen.  Es finden sich sowohl neoliberale als\
+      \ auch staatsinterventionistische Ansätze, angebots- und nachfragepolitische\
+      \ Maßnahmen gibt\nes gleichermaßen.  Die derzeitige wirtschaftliche Entwicklung\
+      \ Italiens gibt der Regierung freilich etwas Rückenwind, allerdings ist die\
+      \ Situation risikobehaftet und\nmithin fragil, zumal sich zahlreiche Faktoren\
+      \ der nationalen politischen Steuerung entziehen.  Der Investitionszuwachs 2023\
+      \ um 4,7 Prozent gegenüber dem\nVorjahr kann sich zwar sehen lassen, er soll\
+      \ sich jedoch in den kommenden Jahren deutlich abschwächen.  Insofern wären\
+      \ fallende Leitzinsen der Europäischen\nZentralbank in Italien sehr willkommen,\
+      \ um die privaten Investitionen anzukurbeln und zugleich die staatliche Refinanzierung\
+      \ zu erleichtern, zumal die\nhaushaltspolitischen Spielräume mit dem Ende der\
+      \ Aussetzung des europäischen Stabilitäts- und Wachstumspaktes (SWP) nicht größer\
+      \ werden.\n Reform des Stabilitäts- und Wachstumspaktes\nItalien sieht sich,\
+      \ wie unter anderem auch Frankreich, seit Juni 2024 wieder mit einem Defizitverfahren\
+      \ der EU konfrontiert, dasselbe ist für 2025 zu erwarten.\n Voraussichtlich\
+      \ frühestens 2026 wird das Land ein Haushaltsdefizit von weniger als drei Prozent\
+      \ des BIP vorweisen können. "
+    uid: 406c8409-cca7-4618-a3c0-3852f15ec96e
+  - metadata:
+      author: Woodworth, Max D.
+      file_name: woodworth_wachstum_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: June
+      original_text: 'M. Zhu, City Without City: Urbanisation Development Model Is
+        Urgently in Need of Change (chinesisch), in: China Housing Magazine 2011,
+        S. '
+      page_label: '5'
+      relevance_score: 0.28966500824696617
+      title: Wachstum und {Niedergang} in {Chinas} "{Geisterstädten}"
+      url: https://www.bpb.de/shop/zeitschriften/apuz/ruinen-2024/549182/wachstum-und-niedergang-in-chinas-geisterstaedten/
+      year: '2024'
+    text: "Sarah Williams et al., Ghost Cities of China: Identifying Urban Vacancy\
+      \ Through Social Media Data, in: Cities 94/2019, S.  275–285.\n [8]\nVgl.  M.\
+      \ Zhu, City Without City: Urbanisation Development Model Is Urgently in Need\
+      \ of Change (chinesisch), in: China Housing Magazine 2011, S.  42–45, zit.\n\
+      \ nach Christian Sorace/William Hurst, China’s Phantom Urbanisation and the\
+      \ Pathology of Ghost Cities, in: Journal of Contemporary Asia 2/2016, S.  304–322.\n"
+    uid: 4ddc06b1-0493-453c-bcfb-5daf1cf3daf6
+  - metadata:
+      author: Woodworth, Max D.
+      file_name: woodworth_wachstum_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: June
+      original_text: 'Doch wie die Weltbank festgestellt hat, ist Chinas urbaner Wandel
+        mehr als ein wirtschaftliches Programm zur Unterstützung der
+
+        Industrialisierung und technologischen Erneuerung. '
+      page_label: '4'
+      relevance_score: 0.28404544467905235
+      title: Wachstum und {Niedergang} in {Chinas} "{Geisterstädten}"
+      url: https://www.bpb.de/shop/zeitschriften/apuz/ruinen-2024/549182/wachstum-und-niedergang-in-chinas-geisterstaedten/
+      year: '2024'
+    text: "Gleichzeitig verweist\nihr Leerstand auf die Möglichkeit einer Urbanisierung\
+      \ ohne konkrete Nutzung.  Auf diese Weise wird der Städtebau zu einem rein spekulativen\
+      \ Prozess, der auf\nden Punkt bringt, was die Soziologen Neil Brenner, Peter\
+      \ Marcuse und Margit Mayer als Dilemma der heutigen Zeit bezeichnet haben: Städte\
+      \ werden für den\nProfit gebaut, nicht für die Menschen. [10]\nDer chinesische\
+      \ Traum ist urban\nEine Urbanisierung in dem Ausmaß und der Intensität, wie\
+      \ sie in China in den vergangenen Jahrzehnten zu beobachten war, hängt in der\
+      \ Tat von starkem\nWirtschaftswachstum ab.  Doch wie die Weltbank festgestellt\
+      \ hat, ist Chinas urbaner Wandel mehr als ein wirtschaftliches Programm zur\
+      \ Unterstützung der\nIndustrialisierung und technologischen Erneuerung.  Die\
+      \ Urbanisierung ist ein politisches Projekt mit dem Ziel einer völligen Umgestaltung\
+      \ der Gesellschaft.  Das\nStreben nach Urbanisierung ist demnach ideologisch\
+      \ begründet.\n Der ideologische Charakter zeigt sich etwa in Staatspräsident\
+      \ Xi Jinpings Formulierung des \"chinesischen Traums\". "
+    uid: d90903cb-b911-46b7-9574-89a62da3c4f5
+  - metadata:
+      author: Hank, Rainer
+      file_name: hank_sackgasse_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Länder wie Australien, die USA oder die Niederlande
+
+        meldeten dagegen in den vergangenen 20 Jahren einen deutlich schrumpfenden
+        Industriesektor, aber gleichzeitig ein überdurchschnittliches Wachstum. '
+      page_label: '3'
+      relevance_score: 0.2835826580060126
+      title: In der {Sackgasse}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544576/in-der-sackgasse/
+      year: '2024'
+    text: 'Industriepolitik ist strukturkonservativ, willkürlich und teuer.  Sie geht
+      zudem von der falschen Voraussetzung aus, es gebe eine Korrelation oder gar
+      Kausalität
+
+      zwischen der Größe des Industriesektors und dem Wachstum der Wirtschaft.  Dieses
+      Missverständnis ist vor allem hierzulande verbreitet, weil Deutschland
+
+      traditionell eine starke Industrie hat – einschließlich einer starken Industrielobby
+      mit hohem Drohpotenzial.  Länder wie Australien, die USA oder die Niederlande
+
+      meldeten dagegen in den vergangenen 20 Jahren einen deutlich schrumpfenden Industriesektor,
+      aber gleichzeitig ein überdurchschnittliches Wachstum.  Daraus
+
+      folgt: Ein großer Industriesektor ist für eine positive Wirtschaftsentwicklung
+      weder notwendig noch hinreichend.  Ihn mit Staatsgeld zu päppeln, verhindert
+      im
+
+      schlimmsten Fall, dass neue Wirtschaftszweige und Unternehmen entstehen, die
+      ein besseres Wachstum generieren.  [4]
+
+      Dass der Preis für fossil erzeugten Strom steigt, ist im Übrigen aus Klimagründen
+      ausdrücklich gewollt, und dieser Preis wurde, um indirekte CO2-Kosten
+
+      abzufedern, allein im Jahr 2023 von der EU mit drei Milliarden Euro subventioniert. '
+    uid: 01d96e7f-1ea9-4573-a2cd-2abb3e02b8db
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der Anteil Chinas an den
+
+        Energieexporten der Region kletterte von weniger als 5 Prozent in den frühen
+        2000er Jahren auf über 20 Prozent im Jahr 2021.'
+      page_label: '2'
+      relevance_score: 0.2828760681669655
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Die Aussicht auf eine globale\nEnergiewende verstärkte in US-Politikerkreisen\
+      \ das Gefühl, dass die Golfregion sehr bald an strategischer Bedeutung verlieren\
+      \ würde.  Angesichts dieser neuen\nSituation weigerte sich Präsident Donald\
+      \ Trump 2019 beispielsweise, beim iranischen Angriff auf die saudischen Ölverarbeitungsanlagen\
+      \ in Abqaiq und Churais\nzu intervenieren, was in politischen Kreisen am Golf\
+      \ als Verrat gewertet wurde.\n Gleichzeitig ist China in den letzten zehn Jahren\
+      \ zum größten Ölimporteur der Welt und größten Abnehmer im Nahen Osten geworden.\
+      \  Der Anteil Chinas an den\nEnergieexporten der Region kletterte von weniger\
+      \ als 5 Prozent in den frühen 2000er Jahren auf über 20 Prozent im Jahr 2021.\
+      \ [7] Laut Prognosen der\nInternationalen Energieagentur dürfte sich dieser\
+      \ Trend in den kommenden Jahrzehnten fortsetzen.  Entsprechend erklärte Amin\
+      \ H. Nasser, der\nVorstandsvorsitzende des staatseigenen saudischen Ölkonzerns\
+      \ Aramco 2021, dass China für die nächsten 50 Jahre die oberste Priorität des\
+      \ Unternehmens\nbleiben werde. [8]\nDiese Verlagerung des Schwerpunkts globaler\
+      \ Energiemärkte nach China stellt eine Herausforderung für den Kern der Beziehungen\
+      \ zwischen der Region und\nden USA dar und schafft neue strategisch wichtige\
+      \ Abhängigkeitsverhältnisse mit China.\n"
+    uid: 2dd8318e-4dfc-4075-bb2f-070c20a262cb
+  - metadata:
+      author: Juhász, Réka and Steinwender, Claudia
+      file_name: juhasz_mehr_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: '[1] Kritiker hingegen argumentieren, dass in diesen Phasen die
+        Wirtschaft trotz und nicht wegen der Industriepolitik gewachsen ist und führen
+
+        Beispiele an, in denen spezifische Wirtschaftsförderung nicht mit Wachstum
+        verbunden war. '
+      page_label: '1'
+      relevance_score: 0.2826514014178866
+      title: Mehr als {Protektionismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544581/mehr-als-protektionismus/
+      year: '2024'
+    text: 'Industriepolitik steht derzeit ganz oben auf der politischen Agenda der
+      EU und der Vereinigten Staaten.  Mit dem Inflation Reduction Act, dem CHIPS
+      and Science
+
+      Act, dem European Green Deal oder dem European Chips Act versuchen Regierungen,
+      grüne Industrien zu fördern oder die geopolitische Abhängigkeit ihrer
+
+      Wirtschaft zu reduzieren.  Über die Sinnhaftigkeit und Effizienz von industriepolitischen
+      Maßnahmen wird heftig gestritten: Befürworter verweisen auf Beispiele
+
+      erfolgreicher Industrialisierungsepisoden, die von teilweise tiefgreifenden
+      staatlichen Interventionen geprägt waren – zum Beispiel in den asiatischen
+
+      Tigerstaaten.  [1] Kritiker hingegen argumentieren, dass in diesen Phasen die
+      Wirtschaft trotz und nicht wegen der Industriepolitik gewachsen ist und führen
+
+      Beispiele an, in denen spezifische Wirtschaftsförderung nicht mit Wachstum verbunden
+      war.  [2] In den vergangenen Jahren wurde eine Reihe von qualitativ
+
+      hochwertigen Forschungsarbeiten zu diesem Thema veröffentlicht, die ein neues
+      Licht auf die Debatte werfen.  [3]
+
+      Klar ist: Industriepolitik ist kein neues Phänomen.  Beispiele aktiver staatlicher
+      Einflussnahme lassen sich mindestens bis zu den Anfängen der Industriellen
+
+      Revolution am Ende des 18. '
+    uid: 45cbd4cb-6b2d-4a46-b6b3-ba9857ada64f
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: '2021 entfielen nur zwei Prozent der gesamten FDI, die in die
+        Volkswirtschaften der MENA-Region flossen, auf China – zehnmal
+
+        weniger als Investitionen etwa aus Europa.'
+      page_label: '4'
+      relevance_score: 0.27541437315185946
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "wirtschaftlichen, politischen und militärischen Bindungen aufnehmen, die\
+      \ die dortigen Länder seit Jahrzehnten mit dem Westen, insbesondere mit den\
+      \ USA,\nunterhalten.  Europa und Nordamerika sind nach wie vor die bei Weitem\
+      \ wichtigste Quelle für ausländische Direktinvestitionen (FDI), Kredite und\
+      \ humanitäre Hilfe.\n Chinesische FDI und Darlehen in der MENA-Region blieben\
+      \ bislang eher die Ausnahme, meist ausgebremst durch wirtschaftliche Schwierigkeiten\
+      \ und die\npolitische Instabilität der Region.  2021 entfielen nur zwei Prozent\
+      \ der gesamten FDI, die in die Volkswirtschaften der MENA-Region flossen, auf\
+      \ China – zehnmal\nweniger als Investitionen etwa aus Europa. [13] Die Verschuldung\
+      \ gegenüber China wird in neun MENA-Ländern, für die Daten vorliegen, für 2021\
+      \ auf 6,5 Milliarden\nUS-Dollar geschätzt und macht damit weniger als ein Prozent\
+      \ der gesamten Auslandsschulden dieser Länder aus. [14]\nIn äußerst instabilen\
+      \ Ländern wie Libyen, dem Libanon und Syrien haben sich die Hoffnungen, dass\
+      \ China in lokale Industrien und Infrastrukturen wie den Hafen\nvon Tripoli\
+      \ im Libanon und die Eisenbahnlinie Beirut–Tripoli investieren würde, nicht\
+      \ erfüllt.  Manche Projekte wie die \"Silk City\" in Kuwait oder der Industriepark\
+      \ in\nDuqm, Oman, wurden ebenfalls aufgegeben oder kamen nur sehr langsam in\
+      \ Gang. "
+    uid: 3c745772-e788-44e3-9e74-9cdc1af92cc2
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 2
+  negation: Wachstum besteht ausschließlich im Mehren materieller Bequemlichkeiten.
+  statement_type: *id002
+  text: Wachstum besteht nicht nur im Mehren materieller Bequemlichkeiten.
+  uid: 744b7b85-1ca6-4be8-965d-74f967cb0f83
+  verbalized_confirmation: The claim is strongly confirmed.
+- average_confirmation: 0.0
+  confirmation_by_document:
+    17068125-965f-4dd3-9dd7-181c66ace726: 1.0
+    4a76bcfc-49e1-4d68-8e12-7d32c14dcd42: 8.985825944049381e-37
+    6eb43da9-2823-46f8-a6c8-9e34a9c4dad4: -3.578572472410979e-29
+    7b5cb658-415d-4f26-a445-0c89a047c066: 2.6786369618080778e-33
+    7f0fb70c-0e68-48e3-a5a8-7b44266643d5: -6.724686610173534e-41
+    8a226f41-372d-4f2b-9883-2c79e645455a: -1.6206482757839568e-33
+    aed2e035-c214-430d-8457-2bcbb9a9ced0: -4.473656114183854e-38
+    c92ff7f5-98e2-4995-b65f-b2b47a1218de: -2.411217335852717e-31
+    ceb7870f-b680-4f43-9ed2-5e807f7b2383: -1.2154266937378611e-37
+    d00ebf24-3b3c-4fa6-9552-a707b9421ee3: -9.744684915815943e-34
+    d14bc311-ada7-4fd5-9508-bacb372b627f: 4.017185441210064e-36
+    f43b7f01-5e6e-43c7-be3f-c8183603b48d: -1.0
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.4077668899295979
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: d00ebf24-3b3c-4fa6-9552-a707b9421ee3
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.40215322490131017
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: 7b5cb658-415d-4f26-a445-0c89a047c066
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.38069977122756815
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: d14bc311-ada7-4fd5-9508-bacb372b627f
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Der Investitionszuwachs 2023 um 4,7 Prozent gegenüber dem
+
+        Vorjahr kann sich zwar sehen lassen, er soll sich jedoch in den kommenden
+        Jahren deutlich abschwächen. '
+      page_label: '2'
+      relevance_score: 0.3739251635820099
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Insgesamt ist in der aktuellen Wirtschaftspolitik Italiens, obwohl Meloni\
+      \ auch in diesem Politikfeld wichtige Entscheidungen in den Palazzo Chigi zieht,\
+      \ indes\nkeine klare Linie zu erkennen.  Es finden sich sowohl neoliberale als\
+      \ auch staatsinterventionistische Ansätze, angebots- und nachfragepolitische\
+      \ Maßnahmen gibt\nes gleichermaßen.  Die derzeitige wirtschaftliche Entwicklung\
+      \ Italiens gibt der Regierung freilich etwas Rückenwind, allerdings ist die\
+      \ Situation risikobehaftet und\nmithin fragil, zumal sich zahlreiche Faktoren\
+      \ der nationalen politischen Steuerung entziehen.  Der Investitionszuwachs 2023\
+      \ um 4,7 Prozent gegenüber dem\nVorjahr kann sich zwar sehen lassen, er soll\
+      \ sich jedoch in den kommenden Jahren deutlich abschwächen.  Insofern wären\
+      \ fallende Leitzinsen der Europäischen\nZentralbank in Italien sehr willkommen,\
+      \ um die privaten Investitionen anzukurbeln und zugleich die staatliche Refinanzierung\
+      \ zu erleichtern, zumal die\nhaushaltspolitischen Spielräume mit dem Ende der\
+      \ Aussetzung des europäischen Stabilitäts- und Wachstumspaktes (SWP) nicht größer\
+      \ werden.\n Reform des Stabilitäts- und Wachstumspaktes\nItalien sieht sich,\
+      \ wie unter anderem auch Frankreich, seit Juni 2024 wieder mit einem Defizitverfahren\
+      \ der EU konfrontiert, dasselbe ist für 2025 zu erwarten.\n Voraussichtlich\
+      \ frühestens 2026 wird das Land ein Haushaltsdefizit von weniger als drei Prozent\
+      \ des BIP vorweisen können. "
+    uid: 7f0fb70c-0e68-48e3-a5a8-7b44266643d5
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Auf mittlere und längere Sicht allerdings wird auch ihre Regierung
+        mehr Wachstum generieren und Arbeitsplätze schaffen,
+
+        kurzum: wirtschaftliche Erfolge vorweisen müssen, um nicht wie so viele vor
+        ihr zu scheitern.
+
+        '
+      page_label: '5'
+      relevance_score: 0.3669595732825546
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Gleichwohl dürften sich die sozioökonomischen Konfliktlinien beziehungsweise\
+      \ deren Niederschlag in den Wahlpräferenzen zugunsten der beiden großen\npolitischen\
+      \ Lager kurzfristig als relativ stabil erweisen.  Es ist derzeit nicht davon\
+      \ auszugehen, exogene Schocks einmal ausgenommen, dass die Politikfelder\nWirtschaft\
+      \ und Soziales rasch zu einer deutlichen Verschiebung der Mehrheitsverhältnisse\
+      \ beitragen werden, zumal andere Fragen, wie die von Migration und\nIdentität,\
+      \ weiter virulent und dominant sind.  Anders formuliert: Kurzfristig hat Meloni\
+      \ aus dieser Richtung wohl wenig zu befürchten, zumal sie koalitionsintern die\n\
+      unangefochtene Führungsfigur ist.  Auf mittlere und längere Sicht allerdings\
+      \ wird auch ihre Regierung mehr Wachstum generieren und Arbeitsplätze schaffen,\n\
+      kurzum: wirtschaftliche Erfolge vorweisen müssen, um nicht wie so viele vor\
+      \ ihr zu scheitern.\n Fußnoten \n[1]\nSofern nicht anders ausgewiesen, beruhen\
+      \ alle Angaben zu Wirtschaft und Staatsfinanzen auf Daten des Istituto Nazionale\
+      \ di Statistica (Istat).  Siehe unter\nanderem Rapporto annuale 2024, Rom 2024;\
+      \ Le prospettive per l’economia italiana nel 2024–2025, 6.6.2024, http://www.istat.it/wp-content/\n\
+      uploads/2024/06/previsioni-2024-2025.pdf; sowie weitere Statistiken unter http://dati.istat.it.\n\
+      \ [2] Zum PNRR siehe auch den Beitrag von Karoline Rörig in dieser Ausgabe (Anm. "
+    uid: 17068125-965f-4dd3-9dd7-181c66ace726
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Zu der vorsichtig positiven Entwicklung trägt insbesondere der
+        nationale Aufbau- und Resilienzplan (PNRR) bei, der 2021 im Rahmen des EU-Programms
+
+        „NextGenerationEU“ aufgelegt wurde und Italien weiterhin umfängliche öffentliche
+        Investitionen ermöglicht.'
+      page_label: '2'
+      relevance_score: 0.343437395247438
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Das Haushaltsdefizit beziehungsweise die\nNettoneuverschuldung ist auch\
+      \ unter der rechten Regierung rückläufig, wiewohl immer noch sehr hoch.  Nach\
+      \ der Rekordneuverschuldung von 9,4 Prozent des\nBIP im Corona-Jahr 2020 sank\
+      \ dieser Wert bis 2023 schrittweise auf 7,4 Prozent.  Im gleichen Zeitraum fiel\
+      \ die Staatsverschuldung insgesamt von 155 auf 137,3\nProzent des BIP , was\
+      \ aber immer noch eine immense Bruttoschuld in Höhe von 2,86 Billionen Euro\
+      \ bedeutet.\n Zu der vorsichtig positiven Entwicklung trägt insbesondere der\
+      \ nationale Aufbau- und Resilienzplan (PNRR) bei, der 2021 im Rahmen des EU-Programms\n\
+      „NextGenerationEU“ aufgelegt wurde und Italien weiterhin umfängliche öffentliche\
+      \ Investitionen ermöglicht. [2] Obgleich zahlreiche Maßnahmen hinter den\nzeitlich\
+      \ gesteckten Zielen zurückbleiben und die Preise für Energie, Rohstoffe und\
+      \ Baumaterialien stark gestiegen sind, hat der PNRR laut Istat nicht nur bereits\n\
+      zu Aufholeffekten gegenüber anderen europäischen Volkswirtschaften geführt,\
+      \ sondern auch zu einer leichten Verringerung der strukturellen Unterschiede\n\
+      zwischen Nord- und Süditalien beigetragen.\n Durch neue Akzente bei der Umsetzung\
+      \ des Plans versucht Meloni, sich von der Vorgängerregierung unter Mario Draghi\
+      \ abzusetzen.  So sollen großzügige\nAnreize beziehungsweise Steuererleichterungen\
+      \ für das produzierende Gewerbe und den Dienstleistungssektor die Finanzierung\
+      \ größerer staatlicher Projekte in\nden Bereichen Energieeffizienz und erneuerbare\
+      \ Energien sichern. "
+    uid: aed2e035-c214-430d-8457-2bcbb9a9ced0
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Das Bruttoinlandsprodukt (BIP) legte
+
+        2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des
+        Euroraums von 0,4 Prozent deutlich übertraf. '
+      page_label: '1'
+      relevance_score: 0.3321673613892691
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Ökonomischer Aufwärtstrend
+
+      Wirtschaftlich befindet Italien sich seit Überwindung der Corona-Pandemie auf
+      einem moderat positiven Entwicklungspfad, trotz aller Schwierigkeiten, die sich
+
+      infolge des Angriffskriegs Russlands auf die Ukraine auch in Italien zeigen.  Die
+      Inflation ist deutlich rückläufig, nach 5,2 Prozent 2023 werden für 2024 sehr
+      gute
+
+      1,6 Prozent erwartet.  Allerdings ist die Sparneigung der privaten Haushalte
+      weiterhin relativ hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP)
+      legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent. '
+    uid: 4a76bcfc-49e1-4d68-8e12-7d32c14dcd42
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Hierbei spielt nicht nur der reformierte
+
+        europäische Stabilitäts- und Wachstumspakt eine Rolle, sondern auch das Auslaufen
+        des Aufbau- und Resilienzplans PNRR im Jahr 2026. '
+      page_label: '5'
+      relevance_score: 0.3307418028647494
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Derzeit ist sie die beliebteste Spitzenpolitikerin des Landes. [22] Die\
+      \ „Marke Meloni“ erklärt somit zum\ngroßen Teil den Erfolg ihrer Partei.\n Aufgrund\
+      \ der fragilen Gesamtentwicklung und der mittelfristig schrumpfenden haushaltspolitischen\
+      \ Möglichkeiten für öffentliche Investitionen werden\nsozioökonomische Faktoren\
+      \ jedoch relevant bleiben und voraussichtlich alsbald wieder an Bedeutung gewinnen.\
+      \  Hierbei spielt nicht nur der reformierte\neuropäische Stabilitäts- und Wachstumspakt\
+      \ eine Rolle, sondern auch das Auslaufen des Aufbau- und Resilienzplans PNRR\
+      \ im Jahr 2026.  Die sehr optimistischen\nAnkündigungen Melonis zum SWP könnten\
+      \ ihr politisch auf die Füße fallen, wenn letztlich doch noch Sparmaßnahmen\
+      \ notwendig werden.  Es bleibt abzuwarten,\nob die „Marke Meloni“ auch dann\
+      \ noch zieht.\n Gleichwohl dürften sich die sozioökonomischen Konfliktlinien\
+      \ beziehungsweise deren Niederschlag in den Wahlpräferenzen zugunsten der beiden\
+      \ großen\npolitischen Lager kurzfristig als relativ stabil erweisen. "
+    uid: ceb7870f-b680-4f43-9ed2-5e807f7b2383
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Auch die Quote derjenigen, die trotz eines Beschäftigungsverhältnisses
+        von Armut bedroht sind, war 2022 mit 11,5 Prozent um zwei
+
+        Prozentpunkte höher als nach der Finanz- und Wirtschaftskrise 2008/09.
+
+        '
+      page_label: '1'
+      relevance_score: 0.3294173125722458
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Besorgniserregend sind zudem die noch immer hohe Langzeitarbeitslosigkeit\
+      \ und der Anstieg der Armut.\n 2023 betrug die Quote der in absoluter Armut\
+      \ lebenden Personen in Italien 9,8 Prozent, das sind 5,7 Millionen Menschen.\
+      \  2014 hatte die Armutsquote noch bei 6,9\nProzent gelegen.  Auch die Quote\
+      \ derjenigen, die trotz eines Beschäftigungsverhältnisses von Armut bedroht\
+      \ sind, war 2022 mit 11,5 Prozent um zwei\nProzentpunkte höher als nach der\
+      \ Finanz- und Wirtschaftskrise 2008/09.\n Staatsfinanzen und öffentliche Investitionen\n\
+      Stabil fragil?\n Zur politökonomischen Situation Italiens nach der Europawahl\n\
+      27.09.2024 / 19 Minuten zu lesen\nAlexander Grasse\nItaliens rechtsnationale\
+      \ Regierung ist gestärkt aus der Europawahl 2024 hervorgegangen.  Die\nsozioökonomische\
+      \ Situation ist jedoch weiterhin fragil. "
+    uid: f43b7f01-5e6e-43c7-be3f-c8183603b48d
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Auch die Aussichten für 2024/25 sind positiv: Es wird erwartet,
+        dass die Beschäftigungsquote weiter
+
+        steigt und die Arbeitslosenquote auf etwa 7 Prozent sinkt.
+
+        '
+      page_label: '1'
+      relevance_score: 0.31999450653275674
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: "Die Beschäftigungsquote unter den 20- bis 64-Jährigen lag mit 66,3 Prozent\
+      \ knapp drei Prozentpunkte über dem Vorpandemieniveau\nvon 2019.  Dabei nahm\
+      \ die Zahl unbefristeter Arbeitsverträge zuletzt zu, was die Trendwende auf\
+      \ dem Arbeitsmarkt unterstreicht.  Der Beschäftigungsaufwuchs\nwar im Süden\
+      \ prozentual sogar leicht höher als im Norden.  Auch die Aussichten für 2024/25\
+      \ sind positiv: Es wird erwartet, dass die Beschäftigungsquote weiter\nsteigt\
+      \ und die Arbeitslosenquote auf etwa 7 Prozent sinkt.\n Zugleich ist die illegale\
+      \ Beschäftigung, die während der Pandemie drastisch gestiegen war, deutlich\
+      \ rückläufig.  Die Jugendarbeitslosigkeit, also unter den 15- bis\n24-Jährigen,\
+      \ ist ebenfalls gesunken.  Mit 36,7 Prozent war sie 2023 im Süden Italiens,\
+      \ dem Mezzogiorno, allerdings nach wie vor erheblich höher als im nationalen\n\
+      Durchschnitt (22,7 Prozent), womit dieser Landesteil zu den Schlusslichtern\
+      \ in der EU zählt. "
+    uid: 8a226f41-372d-4f2b-9883-2c79e645455a
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'War die Unterstützung der Erweiterung früher vor allem durch
+
+        wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in
+        Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.31502869801288974
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Polen und Schweden stehen dagegen exemplarisch für jene Gruppe von EU-Staaten,\
+      \ die nicht spezifisch an den Westbalkan denken, sondern traditionell zu den\n\
+      Befürwortern der EU-Osterweiterung gehören und sich daher federführend an der\
+      \ EU-Initiative Östliche Partnerschaft von 2009 beteiligt haben, um die\nIntegration\
+      \ der Länder in der östlichen Nachbarschaft der Union stärker zu unterstützen,\
+      \ vor allem, um die Stabilität in der Region zu sichern.  Der Krieg Russlands\n\
+      in der Ukraine hat bei ihnen zu einer spürbaren sicherheitspolitischen Präferenzverschiebung\
+      \ in Richtung Erweiterung geführt.  Mit dem Krieg sind aber auch die\nWerte,\
+      \ die mit der Zugehörigkeit zum „Westen“ verbunden werden, wichtiger denn je\
+      \ geworden.  War die Unterstützung der Erweiterung früher vor allem durch\n\
+      wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in\
+      \ Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.\n Darüber\
+      \ hinaus gibt es Länder wie Portugal, die trotz ihrer geografischen Entfernung\
+      \ am westlichen Rand der Union die Erweiterungsrunden als eine Form der\nSolidarität\
+      \ und der Begleichung einer „Schuld der Dankbarkeit“ unterstützt haben.  Hier\
+      \ wird die Erweiterung der EU um den Westbalkan, die Ukraine, die Republik\n\
+      Moldau und Georgien im Kontext eines Prozesses der europäischen integrativen\
+      \ Solidarität verstanden.\n Die portugiesische Haltung steht zugleich aber auch\
+      \ exemplarisch für gesellschaftliche und politische Veränderungen innerhalb\
+      \ eines Landes – und dafür, dass\nsich nationale Diskurse verändern können. "
+    uid: 6eb43da9-2823-46f8-a6c8-9e34a9c4dad4
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Kann sich die EU die Kosten für die Aufnahme von Ländern leisten,
+        die viel ärmer als der EU-
+
+        Durchschnitt sind und deren Wirtschaft weitgehend von der Landwirtschaft abhängt? '
+      page_label: '1'
+      relevance_score: 0.3109607194916973
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "[4]\nDer Erweiterungsprozess der EU darf jedoch nicht wieder ins Stocken\
+      \ geraten, indem wir die alten Debatten, die frühere Erweiterungsrunden begleitet\
+      \ haben,\nwieder aufleben lassen: Wer soll wann und wie der EU beitreten? [5]\
+      \ Wer wann beitreten wird, darüber kann derzeit nur spekuliert werden.  Können\
+      \ die EU-\nInstitutionen eine höhere Mitgliederzahl überhaupt verkraften?  Kann\
+      \ sich die EU die Kosten für die Aufnahme von Ländern leisten, die viel ärmer\
+      \ als der EU-\nDurchschnitt sind und deren Wirtschaft weitgehend von der Landwirtschaft\
+      \ abhängt?  Klar ist, dass die Erweiterung die Disparitäten zwischen den Staaten\
+      \ und\nRegionen der EU erheblich vergrößern wird.  Folglich wird sie unweigerlich\
+      \ Anpassungen des auf dem Bruttoinlandsprodukt basierenden EU-Haushalts erfordern.\n\
+      \ Entweder wird der Kuchen größer und das Gesamtbudget steigt – oder jeder bekommt\
+      \ ein kleineres Stück. "
+    uid: c92ff7f5-98e2-4995-b65f-b2b47a1218de
+  evidential_uncertainty: 1.0
+  metadata: {}
+  n_evidence: 2
+  negation: Wachstum sichert die Existenz nicht oder macht sie nicht erträglicher.
+  statement_type: *id002
+  text: Wachstum sichert die Existenz oder macht sie erträglicher.
+  uid: 18de4d45-eb4a-4a23-903b-f8a0f42e78e6
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Demokratisierung, Geschlechtergerechtigkeit und Alphabetisierung sind
+    nicht wünschenswerte Entwicklungen.
+  statement_type: *id003
+  text: Demokratisierung, Geschlechtergerechtigkeit und Alphabetisierung sind wünschenswerte
+    Entwicklungen.
+  uid: f4025841-83c9-486d-ac9d-a5b7d0ecd8cc
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Materielles Wachstum allein ist ausreichend für eine gute Existenz.
+  statement_type: *id003
+  text: Materielles Wachstum allein ist nicht ausreichend für eine gute Existenz.
+  uid: e0462efb-23fb-4645-8b0d-30b051d46776
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: 0.0
+  confirmation_by_document:
+    11df8f30-11ea-4820-8028-d1d9378a0796: 5.42790530228921e-37
+    309098fe-a108-4fe5-8371-17847940bfaf: 0.0
+    5cc2dce8-c625-4b1f-98c6-40304da074f2: 5.380185161786046e-32
+    5f72a89e-b732-4b0b-8a65-00f5df46fe3b: 3.263247830870313e-32
+    6199ded9-6f42-488d-8f7e-36fe2195ebe0: 1.0
+    70d632d5-709d-4d56-95b9-949f57740b09: 1.3509642859649148e-39
+    7a7db546-daf6-4b51-9ce6-b615b26c9f77: 6.47576338025349e-39
+    7ce8a388-4f8b-4c0d-b3ad-eeac0b460195: -1.094474966596962e-35
+    9ed6eb96-2373-40aa-984c-fb82ff082e21: -1.0
+    a3b41666-4eb5-4503-b583-055acf6bf252: -2.0563778982260633e-47
+    d63a8ccf-ea5f-4d3f-86df-710918dd75c9: 1.979226820940637e-32
+    d67219af-7be5-4a85-9a9c-ca12529f8b00: 8.631386640013394e-39
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Bayramoğlu, Yener
+      file_name: bayramoglu_white_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Außerdem behaupteten sie, keine
+
+        Diskriminierung auf Basis des Geschlechts auszuüben, denn es gebe ja schließlich
+        auch Frauen in ihren Unternehmen. '
+      page_label: '2'
+      relevance_score: 0.44374807195541816
+      title: White {Privilege}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/privilegien-2024/548591/white-privilege/
+      year: '2024'
+    text: "[7] Zwar gab es damals schon Antidiskriminierungsgesetze, Identität wurde\
+      \ aber als ein single issue verstanden – ganz so, als ob\nSchwarze nur Rassismus\
+      \ und Frauen nur Sexismus erleben würden.\n Die Erfahrungen Schwarzer Frauen\
+      \ auf dem Arbeitsmarkt konnten aber weder ausschließlich als Rassismus noch\
+      \ ausschließlich als Sexismus eingeordnet\nwerden.  Viele amerikanische Unternehmen\
+      \ behaupteten in Prozessen, die Schwarze Frauen gegen sie führten, sie hätten\
+      \ bei Einstellungsverfahren nicht\nrassistisch entschieden und verwiesen darauf,\
+      \ dass ja auch Schwarze Männer an ihren Produktionsbändern arbeiteten.  Außerdem\
+      \ behaupteten sie, keine\nDiskriminierung auf Basis des Geschlechts auszuüben,\
+      \ denn es gebe ja schließlich auch Frauen in ihren Unternehmen.  Allerdings\
+      \ waren dies ausschließlich weiße\nSekretärinnen.  Da es keinen diskursiven\
+      \ Rahmen für die spezifischen Ausschlussmechanismen gegen Schwarze Frauen gab,\
+      \ erkannten die Gerichte die\nDiskriminierung nicht an.  Crenshaw schlug daraufhin\
+      \ das Konzept der Intersektionalität vor – nicht nur als ein wichtiges feministisches\
+      \ Werkzeug, sondern auch\nals ein juristisches, um die Überlagerung unterschiedlicher\
+      \ Diskriminierungen vor Gericht erkennbar zu machen.\n"
+    uid: d67219af-7be5-4a85-9a9c-ca12529f8b00
+  - metadata:
+      author: Bayramoğlu, Yener
+      file_name: bayramoglu_white_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Crenshaw schlug daraufhin das Konzept der Intersektionalität
+        vor – nicht nur als ein wichtiges feministisches Werkzeug, sondern auch
+
+        als ein juristisches, um die Überlagerung unterschiedlicher Diskriminierungen
+        vor Gericht erkennbar zu machen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.43622419315539995
+      title: White {Privilege}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/privilegien-2024/548591/white-privilege/
+      year: '2024'
+    text: "Außerdem behaupteten sie, keine\nDiskriminierung auf Basis des Geschlechts\
+      \ auszuüben, denn es gebe ja schließlich auch Frauen in ihren Unternehmen. \
+      \ Allerdings waren dies ausschließlich weiße\nSekretärinnen.  Da es keinen diskursiven\
+      \ Rahmen für die spezifischen Ausschlussmechanismen gegen Schwarze Frauen gab,\
+      \ erkannten die Gerichte die\nDiskriminierung nicht an.  Crenshaw schlug daraufhin\
+      \ das Konzept der Intersektionalität vor – nicht nur als ein wichtiges feministisches\
+      \ Werkzeug, sondern auch\nals ein juristisches, um die Überlagerung unterschiedlicher\
+      \ Diskriminierungen vor Gericht erkennbar zu machen.\n Ähnlich wie andere Konzepte\
+      \ von Diskriminierung beschäftigt sich auch Intersektionalität mit Identität\
+      \ – häufig geht es dabei um die Identität als Schwarze Frau,\ndie Diskriminierung\
+      \ erlebt, einen Job nicht bekommt oder anderweitig ausgeschlossen wird.  Das\
+      \ Konzept kann uns aber auch dabei helfen, den Blick auf die\nPosition weißer\
+      \ Männer zu verschieben.  Genauso wie sich unterschiedliche Diskriminierungserfahrungen\
+      \ gegenseitig überlagern und zu einer neuen Form von\nDiskriminierung führen\
+      \ können, entstehen durch die Überlappung unterschiedlicher Privilegien neue\
+      \ Formen der Vorherrschaft. "
+    uid: 5cc2dce8-c625-4b1f-98c6-40304da074f2
+  - metadata:
+      author: Wrohlich, Katharina
+      file_name: wrohlich_erwerbsbeteiligung_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Eine solche Reform wäre daher mit einer (moderaten) Erhöhung
+        sowohl der Erwerbsquote als auch der
+
+        Wochenarbeitszeit von Frauen verbunden.'
+      page_label: '4'
+      relevance_score: 0.4344869637579933
+      title: Erwerbsbeteiligung von {Frauen}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548772/erwerbsbeteiligung-von-frauen/
+      year: '2024'
+    text: "Es ist plausibel anzunehmen, dass für manche Frauen nicht nur das\ngemeinsame\
+      \ Nettojahreseinkommen, sondern auch das individuelle monatliche Nettoeinkommen\
+      \ eine Rolle spielt und sie daher bei einer Abschaffung der\nLohnsteuerklassenkombination\
+      \ III/V ihr Arbeitsangebot etwas ausweiten würden.\n Noch besser wäre es allerdings,\
+      \ das Ehegattensplitting als solches zu reformieren, etwa in Form eines Realsplittings\
+      \ mit einem Transferbetrag in Höhe des\nGrundfreibetrags.  In einem solchen\
+      \ System ist die steuerliche Freistellung des Existenzminimums beider Ehepartner\
+      \ gewährleistet, aber die Arbeitsanreize für\nZweitverdienende werden spürbar\
+      \ erhöht.  Eine solche Reform wäre daher mit einer (moderaten) Erhöhung sowohl\
+      \ der Erwerbsquote als auch der\nWochenarbeitszeit von Frauen verbunden. [29]\n\
+      Die positiven Arbeitsangebotseffekte einer Reform des Ehegattensplittings könnten\
+      \ durch eine zusätzliche Abschaffung der Minijobs noch deutlich verstärkt\n\
+      werden.  Für Schülerinnen und Schüler, Studierende sowie Rentner und Rentnerinnen\
+      \ könnten die Minijobs dagegen beibehalten werden.  Gerade vor dem\nHintergrund\
+      \ des zunehmenden Arbeitskräftemangels ist es jedoch nicht nachvollziehbar,\
+      \ dass für Personen im Haupterwerbsalter eine niedrige wöchentliche\nArbeitszeit\
+      \ in Form der geringfügigen Beschäftigung staatlich gefördert werden soll."
+    uid: 6199ded9-6f42-488d-8f7e-36fe2195ebe0
+  - metadata:
+      author: Daphne, Hahn
+      file_name: daphne_reproduktive_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: '2642–2692; Ann Starrs, A Lancet Commission on Sexual and Reproductive
+        Health and Rights: Going Beyond the
+
+        Sustainable Development Goals, in: The Lancet 9999/2015, S. '
+      page_label: '4'
+      relevance_score: 0.43357845240775944
+      title: Reproduktive {Gesundheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553552/reproduktive-gesundheit/
+      year: '2024'
+    text: 'Fußnoten 
+
+      [1]
+
+      Vgl.  Doris Chou et al., Sexual Health in the International Classification of
+      Diseases (ICD): Implications for Measurement and Beyond, in: Reproductive Health
+
+      Matters 46/2015, S.  185–192; Ann M. Starrs et al., Accelerate Progress – Sexual
+      and Reproductive Health and Rights for All: Report of the Guttmacher-Lancet
+
+      Commission, in: The Lancet 10140/2018, S.  2642–2692; Ann Starrs, A Lancet Commission
+      on Sexual and Reproductive Health and Rights: Going Beyond the
+
+      Sustainable Development Goals, in: The Lancet 9999/2015, S.  1111f. ; WHO (Hrsg.
+      ), Sexual Health, Human Rights, and the Law, Genf 2015.
+
+      '
+    uid: 11df8f30-11ea-4820-8028-d1d9378a0796
+  - metadata:
+      author: Wrohlich, Katharina
+      file_name: wrohlich_erwerbsbeteiligung_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: '[28] Reformen
+
+        in diesen Bereichen hätten das Potenzial, sowohl die Erwerbsbeteiligung als
+        auch die durchschnittliche Arbeitszeit verheirateter Frauen zu erhöhen.
+
+        '
+      page_label: '4'
+      relevance_score: 0.42519705287064635
+      title: Erwerbsbeteiligung von {Frauen}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548772/erwerbsbeteiligung-von-frauen/
+      year: '2024'
+    text: "Erst bei einer Wochenarbeitszeit, die deutlich über der Minijobgrenze liegt,\
+      \ können sie das gleiche Nettoeinkommen wie mit einem Minijob erzielen.\n Diese\
+      \ negativen Arbeitsanreize werden durch die beitragsfreie Mitversicherung von\
+      \ Ehepartnern in der gesetzlichen Krankenversicherung noch verstärkt.  Die\n\
+      negativen Anreizwirkungen dieses Zusammenspiels sind seit Langem bekannt und\
+      \ empirisch in zahlreichen Studien untersucht und belegt worden. [28] Reformen\n\
+      in diesen Bereichen hätten das Potenzial, sowohl die Erwerbsbeteiligung als\
+      \ auch die durchschnittliche Arbeitszeit verheirateter Frauen zu erhöhen.\n\
+      \ Ein Reformvorschlag aus dem Koalitionsvertrag der Ampel-Regierung sieht vor,\
+      \ die Lohnsteuerklassenkombination III/V abzuschaffen.  Alle Ehepaare müssten\n\
+      dann die Kombination IV/IV wählen.  Ob eine solche Reform das Arbeitsangebot\
+      \ verheirateter Frauen deutlich erhöhen würde, ist im Vorhinein schwer zu\n\
+      beurteilen. "
+    uid: 70d632d5-709d-4d56-95b9-949f57740b09
+  - metadata:
+      author: Daphne, Hahn
+      file_name: daphne_reproduktive_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'wurde dieses Recht erweitert und umfasste nun auch das Recht
+        auf Zugang zu Bildung und Informationen über Verhütungsmethoden sowie die
+        Nutzung
+
+        entsprechender Dienste und Mittel für eine selbstbestimmte Geburtenkontrolle. '
+      page_label: '2'
+      relevance_score: 0.42514418010081834
+      title: Reproduktive {Gesundheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553552/reproduktive-gesundheit/
+      year: '2024'
+    text: 'wurde dieses Recht erweitert und umfasste nun auch das Recht auf Zugang
+      zu Bildung und Informationen über Verhütungsmethoden sowie die Nutzung
+
+      entsprechender Dienste und Mittel für eine selbstbestimmte Geburtenkontrolle.  [7]
+      Der Zugang zu Verhütung, wie wir ihn heute kennen, ist also ein Ergebnis
+
+      langjähriger internationaler Diskussionen.  [8]
+
+      Die anhaltenden Debatten über die Anerkennung von Sexualität als integraler
+      Bestandteil der Menschenrechte mündeten 1994 auf der Konferenz für Bevölkerung
+
+      und Entwicklung in Kairo in einen internationalen Konsens, der insbesondere
+      durch die globale HIV/AIDS-Krise möglich wurde, die gemeinschaftliches Handeln
+
+      erforderte.  [9] Auf der Kairo-Konferenz wurde auch der Begriff „Reproductive
+      Health“ geprägt, durch den Reproduktion, Sexualität und Gesundheit erstmals
+
+      explizit mit den allgemeinen Menschenrechten verknüpft wurden. '
+    uid: 7ce8a388-4f8b-4c0d-b3ad-eeac0b460195
+  - metadata:
+      author: Wrohlich, Katharina
+      file_name: wrohlich_erwerbsbeteiligung_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Es ist plausibel anzunehmen, dass für manche Frauen nicht nur
+        das
+
+        gemeinsame Nettojahreseinkommen, sondern auch das individuelle monatliche
+        Nettoeinkommen eine Rolle spielt und sie daher bei einer Abschaffung der
+
+        Lohnsteuerklassenkombination III/V ihr Arbeitsangebot etwas ausweiten würden.
+
+        '
+      page_label: '4'
+      relevance_score: 0.4181394291374553
+      title: Erwerbsbeteiligung von {Frauen}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548772/erwerbsbeteiligung-von-frauen/
+      year: '2024'
+    text: "Nur die zeitliche Verteilung der Steuerzahlungen und die Verteilung der\
+      \ Steuerlast zwischen den Ehepartnern würde sich\nverschieben.  Inwieweit die\
+      \ Lohnsteuerklasse, die für abhängig Beschäftigte das monatliche Nettoerwerbseinkommen\
+      \ bestimmt, eine wesentliche Einflussgröße\nbei der Arbeitsangebotsentscheidung\
+      \ darstellt, ist schwer abzuschätzen.  Die zentrale empirische Frage ist, ob\
+      \ das Arbeitsangebot vom individuellen monatlichen\nNettoeinkommen abhängt oder\
+      \ ob sich die Verheirateten am gemeinsamen Nettojahreseinkommen orientieren,\
+      \ das über die Steuerklärung durch die\nEinkommensteuer bestimmt wird und von\
+      \ der Wahl der Lohnsteuerklassen unabhängig ist.  Es ist plausibel anzunehmen,\
+      \ dass für manche Frauen nicht nur das\ngemeinsame Nettojahreseinkommen, sondern\
+      \ auch das individuelle monatliche Nettoeinkommen eine Rolle spielt und sie\
+      \ daher bei einer Abschaffung der\nLohnsteuerklassenkombination III/V ihr Arbeitsangebot\
+      \ etwas ausweiten würden.\n Noch besser wäre es allerdings, das Ehegattensplitting\
+      \ als solches zu reformieren, etwa in Form eines Realsplittings mit einem Transferbetrag\
+      \ in Höhe des\nGrundfreibetrags.  In einem solchen System ist die steuerliche\
+      \ Freistellung des Existenzminimums beider Ehepartner gewährleistet, aber die\
+      \ Arbeitsanreize für\nZweitverdienende werden spürbar erhöht.  Eine solche Reform\
+      \ wäre daher mit einer (moderaten) Erhöhung sowohl der Erwerbsquote als auch\
+      \ der\nWochenarbeitszeit von Frauen verbunden."
+    uid: 5f72a89e-b732-4b0b-8a65-00f5df46fe3b
+  - metadata:
+      author: Daphne, Hahn
+      file_name: daphne_reproduktive_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'In jüngeren Diskussionen wurde das Konzept der sexuellen und
+        reproduktiven Gesundheit um zusätzliche Themen erweitert, darunter um das
+        der sexuellen
+
+        Orientierung, Intersexualität und der damit einhergehenden Diskriminierung
+        und Stigmatisierung. '
+      page_label: '2'
+      relevance_score: 0.4171237603837283
+      title: Reproduktive {Gesundheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553552/reproduktive-gesundheit/
+      year: '2024'
+    text: "[9] Auf der Kairo-Konferenz wurde auch der Begriff „Reproductive Health“\
+      \ geprägt, durch den Reproduktion, Sexualität und Gesundheit erstmals\nexplizit\
+      \ mit den allgemeinen Menschenrechten verknüpft wurden.  [10] Dies schloss Rechte\
+      \ wie jenes auf gewaltfreie Partnerschaften und sexuelle\nSelbstbestimmung ein,\
+      \ deckte aber auch Themenbereiche wie Familienplanung, Mütter- und Kindersterblichkeit,\
+      \ Teenagerschwangerschaften, assistierte\nReproduktion oder die Prävention gegen\
+      \ häusliche Gewalt ab.  Obwohl die Konvention der 179 teilnehmenden Staaten\
+      \ auf den Grundwerten von\nSelbstbestimmung, Autonomie und Menschenwürde basierte,\
+      \ blieb das Recht auf Schwangerschaftsabbruch ausdrücklich ausgeklammert.\n\
+      \ In jüngeren Diskussionen wurde das Konzept der sexuellen und reproduktiven\
+      \ Gesundheit um zusätzliche Themen erweitert, darunter um das der sexuellen\n\
+      Orientierung, Intersexualität und der damit einhergehenden Diskriminierung und\
+      \ Stigmatisierung.  Auch die Themen sexuelles Vergnügen, sexuelle\nFunktionsstörung,\
+      \ die Prävention und Behandlung sexuell übertragbarer Krankheiten sowie der\
+      \ Anspruch auf umfassende Aufklärung in sexuellen und\nreproduktiven Fragen\
+      \ spielen hier eine Rolle.  Zahlreiche internationale Dokumente zu Sexualität\
+      \ und Reproduktion haben in den vergangenen zehn Jahren dazu\nbeigetragen, diese\
+      \ Themen vermehrt in den Fokus nationaler und internationaler Debatten zu rücken.\
+      \  [11]\nReproduktive und sexuelle Gesundheit sind eng miteinander verwoben,\
+      \ da Entscheidungen und Zustände im einen Bereich direkte Auswirkungen auf den\n\
+      anderen haben. "
+    uid: 309098fe-a108-4fe5-8371-17847940bfaf
+  - metadata:
+      author: Wrohlich, Katharina
+      file_name: wrohlich_erwerbsbeteiligung_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Beispielsweise könnten die
+
+        beiden Partnermonate, die jedem Elternteil individuell zustehen und nicht
+        übertragbar sind, sukzessive erhöht werden.'
+      page_label: '3'
+      relevance_score: 0.4149441070252182
+      title: Erwerbsbeteiligung von {Frauen}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548772/erwerbsbeteiligung-von-frauen/
+      year: '2024'
+    text: "[22] Mütter kehren schneller auf den Arbeitsmarkt zurück, wenn ihr\nPartner\
+      \ Elternzeit nimmt. [23] Darüber hinaus besteht die Hoffnung, dass durch eine\
+      \ von Beginn an stärkere Beteiligung der Väter an der Kinderbetreuung und\n\
+      anderen unbezahlten Sorgearbeiten viele geschlechtsspezifische Ungleichheiten,\
+      \ die mit dem Gender Care Gap zusammenhängen, abgebaut werden können,\nwie beispielsweise\
+      \ die hohe Teilzeiterwerbstätigkeit von Frauen mit älteren Kindern.\n Die Elemente\
+      \ des Elterngeldes, die die gleichmäßigere Aufteilung der Kinderbetreuung fördern,\
+      \ sollten daher ausgebaut werden.  Beispielsweise könnten die\nbeiden Partnermonate,\
+      \ die jedem Elternteil individuell zustehen und nicht übertragbar sind, sukzessive\
+      \ erhöht werden. [24] Vorbild für ein solches Modell könnte\ndie Elternzeitregelung\
+      \ in Island sein, wo jedem Elternteil individuell sechs Monate Elternzeit zustehen,\
+      \ von denen jeweils sechs Wochen auf den anderen Elternteil\nübertragen werden\
+      \ können.  Bei einer Reform des Elterngeldes ist allerdings zu beachten, dass\
+      \ die monatlichen Mindest- und Höchstbeträge des Elterngeldes\n(300 beziehungsweise\
+      \ 1.800 Euro) seit seiner Einführung nicht angepasst wurden.  Eine solche Anpassung\
+      \ wäre angesichts der hohen Inflationsraten der\nvergangenen Jahre dringend\
+      \ erforderlich. "
+    uid: d63a8ccf-ea5f-4d3f-86df-710918dd75c9
+  - metadata:
+      author: Catherina, Hinz
+      file_name: catherina_30_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: '[10] Frauen, die finanziell schlechter gestellt sind, eine Behinderung
+        haben oder aufgrund ihrer Hautfarbe diskriminiert werden, haben nach wie vor
+        oft
+
+        einen schlechteren Zugang zu Familienplanung, Schwangerschaftsvorsorge und
+        Geburtshilfe. '
+      page_label: '2'
+      relevance_score: 0.41403930594748334
+      title: 30 {Jahre} {Kairo}-{Konferenz}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553553/30-jahre-kairo-konferenz/
+      year: '2024'
+    text: 'Das zeigt auch der aktuelle
+
+      Weltbevölkerungsbericht des UNFPA: Vor allem die weltweit am stärksten benachteiligten
+      Frauen sind in ihrem Recht auf sexuelle und reproduktive Gesundheit
+
+      weiterhin deutlich eingeschränkt.  Laut dem Bericht können ein Viertel der Frauen
+      in rund 70 Ländern noch immer nicht grundlegendste Entscheidungen über
+
+      ihren eigenen Körper treffen und beispielsweise Sex mit ihrem Mann oder Partner
+      ablehnen.  Beinahe jede zehnte Frau kann nicht frei entscheiden, ob sie verhütet
+
+      oder nicht.  [10] Frauen, die finanziell schlechter gestellt sind, eine Behinderung
+      haben oder aufgrund ihrer Hautfarbe diskriminiert werden, haben nach wie vor
+      oft
+
+      einen schlechteren Zugang zu Familienplanung, Schwangerschaftsvorsorge und Geburtshilfe.  Etwa
+      218 Millionen Frauen in Ländern mit niedrigem und mittlerem
+
+      Einkommen, die gerne eine Schwangerschaft vermeiden möchten, haben weiterhin
+      keinen Zugang zu modernen Verhütungsmitteln.  [11] Das Ergebnis sind häufige
+
+      unbeabsichtigte Schwangerschaften; in Afrika trifft dies auf 43 Prozent aller
+      Schwangerschaften zu.  Millionen dieser Schwangerschaften enden jedes Jahr mit
+
+      einer unsicheren Abtreibung. '
+    uid: 9ed6eb96-2373-40aa-984c-fb82ff082e21
+  - metadata:
+      author: Daphne, Hahn
+      file_name: daphne_reproduktive_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Entscheidungen rund um eine Schwangerschaft, einschließlich
+        jener zum
+
+        Schwangerschaftsabbruch, sind ganz erheblich von den Umständen der sexuellen
+        Gesundheit und den persönlichen, sozialen und ökonomischen Ressourcen
+
+        eines Menschen beeinflusst.
+
+        '
+      page_label: '2'
+      relevance_score: 0.41371872778336694
+      title: Reproduktive {Gesundheit}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553552/reproduktive-gesundheit/
+      year: '2024'
+    text: "Indem sie es Individuen ermöglichen, ihre sexuellen Erfahrungen ohne Sorge\
+      \ zu genießen, spielen Verhütungsmethoden eine wesentliche Rolle bei der Förderung\n\
+      einer selbstbestimmten und beglückenden Sexualität.\n Ähnliches gilt für den\
+      \ Bereich Schwangerschaft (und Schwangerschaftsabbruch).  Eine Schwangerschaft\
+      \ beeinflusst nicht nur die körperliche Gesundheit einer\nPerson, sondern auch\
+      \ ihr sexuelles Leben und ihre psychische Gesundheit.  Entscheidungen rund um\
+      \ eine Schwangerschaft, einschließlich jener zum\nSchwangerschaftsabbruch, sind\
+      \ ganz erheblich von den Umständen der sexuellen Gesundheit und den persönlichen,\
+      \ sozialen und ökonomischen Ressourcen\neines Menschen beeinflusst.\n Familienplanung\
+      \ und Verhütung\nEin Beispiel, das das komplexe Wechselspiel zwischen individuellen\
+      \ Vorstellungen, gesellschaftlichen Erwartungen und Ungleichheiten beim Zugang\
+      \ zu\nGesundheitsdienstleistungen verdeutlicht, ist das Thema Familienplanung\
+      \ und Verhütung.  Familienplanung beschreibt den Prozess, durch den Individuen\
+      \ oder\nPaare die Anzahl und den Zeitpunkt der Geburt ihrer Kinder bestimmen.\
+      \  Sie ist ein integraler Bestandteil der persönlichen Lebensgestaltung, kann\
+      \ aber nicht nur\nals eine Reihe von persönlichen oder paarbezogenen Entscheidungen\
+      \ zur Frage des Zusammenlebens verstanden werden, sondern ist ein komplexer\
+      \ Vorgang,\nder von verschiedenen gesellschaftlichen Diskursen, Strukturen und\
+      \ rechtlichen Regelungen beeinflusst wird. "
+    uid: 7a7db546-daf6-4b51-9ce6-b615b26c9f77
+  - metadata:
+      author: Catherina, Hinz
+      file_name: catherina_30_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: October
+      original_text: 'Am deutlichsten zeigt sich dieser Zusammenhang in vielen afrikanischen
+        Staaten südlich der Sahara, wo die Geburtenziffern im weltweiten Vergleich
+        weiterhin
+
+        hoch sind und nur langsam zurückgehen. '
+      page_label: '3'
+      relevance_score: 0.41301485464551635
+      title: 30 {Jahre} {Kairo}-{Konferenz}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/reproduktive-rechte-2024/553553/30-jahre-kairo-konferenz/
+      year: '2024'
+    text: "Erfahrungsgemäß bedeutet das auch anhaltend hohe Kinderzahlen.  Denn es\
+      \ fehlt nicht nur an Mitteln und\nWegen, die eigene Familiengröße zu planen.\
+      \  In armen Familien sind Kinder häufig auch wichtige Arbeitskräfte und eine\
+      \ Absicherung für die Eltern im Alter.\n Am deutlichsten zeigt sich dieser Zusammenhang\
+      \ in vielen afrikanischen Staaten südlich der Sahara, wo die Geburtenziffern\
+      \ im weltweiten Vergleich weiterhin\nhoch sind und nur langsam zurückgehen.\
+      \  Im Schnitt bekommt eine Frau in Subsahara-Afrika mehr als vier Kinder.  Das\
+      \ sind etwa doppelt so viele wie im globalen\nDurchschnitt.  Während in anderen\
+      \ Weltregionen die Bevölkerungen aufgrund niedriger Kinderzahlen – in mehr als\
+      \ der Hälfte aller Länder weltweit liegt die\ndurchschnittliche Kinderzahl pro\
+      \ Frau bei unter zwei – zunehmend altern und teilweise zu schrumpfen beginnen,\
+      \ wachsen sie dort weiterhin stark. "
+    uid: a3b41666-4eb5-4503-b583-055acf6bf252
+  evidential_uncertainty: 1.0
+  metadata: {}
+  n_evidence: 2
+  negation: Wachstum geht oft nicht mit mehr Geschlechtergerechtigkeit einher.
+  statement_type: *id002
+  text: Wachstum geht oft mit mehr Geschlechtergerechtigkeit einher.
+  uid: aeadd864-deaf-4227-ba2d-0d7cfc1c2c95
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - A
+        - B
+        - C
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(A|B|C)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          If you did not identify any ascriptions, make sure to return an empty list
+          containing no strings, not even empty ones..
+
+          Format your (possibly empty) list of ascriptions as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          If you did not identify any descriptive statements, make sure to return
+          an empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          If you did not identify any normative statements, make sure to return an
+          empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+request: Allzu leicht wird übersehen, dass Wachstum sich nicht im Mehren materieller
+  Bequemlichkeiten erschöpft, sondern vielen auch die schiere Existenz sichert oder
+  erträglicher macht – und oft mit zunehmender Demokratisierung, mehr Geschlechtergerechtigkeit
+  oder besserer Alphabetisierung einherging.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  trust_remote_code: null
+  window_size: 3
+time: 2025-09-19 11:05:07 UTC
+uid: baecfccc-d45a-469e-8aad-32c3204c4eaa

@@ -1369,7 +1369,7 @@ confirmation_config:
   used_model_key: Llama-3.3-70B-Instruct
   verbose: false
 feedback:
-  binary: null
+  binary: positive
 preprocessing_config:
   config_version: v0.1
   description: Configuration of EvidenceSeeker's preprocessing component.

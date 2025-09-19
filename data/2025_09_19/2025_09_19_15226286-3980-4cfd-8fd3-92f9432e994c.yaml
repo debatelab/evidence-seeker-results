@@ -1,0 +1,1665 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: &id001 inconclusive_confirmation
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Genfer Konventionen sollten die Zivilbevölkerung nicht schützen.
+  statement_type: &id002 normative
+  text: Die Genfer Konventionen sollten die Zivilbevölkerung schützen.
+  uid: ff8bef51-9dda-4658-b1ae-40421fe3681c
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Genfer Konventionen sind effektiv, wenn sie ihren Anspruch erfüllen.
+  statement_type: *id002
+  text: Die Genfer Konventionen sind nicht effektiv, wenn sie ihren Anspruch nicht
+    erfüllen.
+  uid: 5d0f5ac4-5b3c-4c35-b80c-fe877bb29794
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es ist nicht wichtig oder wünschenswert, dass die Genfer Konventionen
+    ihren Anspruch erfüllen.
+  statement_type: *id002
+  text: Es ist wichtig oder wünschenswert, dass die Genfer Konventionen ihren Anspruch
+    erfüllen.
+  uid: d080ead6-ed14-4065-bbbb-29b6c625e473
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: 1.0
+  confirmation_by_document:
+    0877b36f-d73a-4f0e-878d-fb1ada8193aa: -2.6771554495712015e-33
+    14d7320a-ed77-41d2-8574-c6f30b6fb34d: -4.905959634220225e-35
+    32735561-4346-44cb-9e07-80f6f359038b: 1.0946976928409267e-35
+    3a967105-e875-40d0-9efe-59833a7e9c9f: -8.193640616392913e-40
+    3c8f85fd-8eaa-4b92-b352-a0df9e8621a6: 2.1080241244466438e-38
+    3d75e21c-826d-4802-83bd-2bfb5d8a7187: 2.9712230942872015e-35
+    4382437c-b912-4d01-af2d-5d488c4875af: 1.0
+    6fd36a73-ebe8-42ab-a19f-50852d898126: 1.0
+    88db4136-34c4-43b7-9dc3-883710e38d6f: 1.198676948126037e-32
+    d38e4dfe-b8ec-4d80-bcc9-a18096e7d411: 9.941555343897472e-39
+    d7a586f8-5b37-4447-9c8d-3d67cc88509e: -4.412298567624404e-33
+    ed98b757-ad9a-4065-afbb-59930768bb4c: 3.475544213124196e-38
+  confirmation_level: &id003 strongly_confirmed
+  documents:
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Das prominenteste
+
+        Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+        beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+        Genfer
+
+        Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen.'
+      page_label: '3'
+      relevance_score: 0.6631687871224882
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: 'Das Uppsala Conflict Data Program etwa ermittelte für das Jahr 2023 mit
+      59 militärischen Konflikten so
+
+      viele wie noch nie seit Beginn der Datenerhebung 1946. [25]
+
+      In keinem dieser Konflikte schien jedoch die bloße Existenz einer "Notordnung"
+      den Ausbruch zu erleichtern oder zu beschleunigen.  Im Gegenteil: Das
+
+      humanitäre Völkerrecht wird von gewissen Staaten durchaus als Bürde wahrgenommen,
+      die einer effektiven Kriegführung entgegensteht.  Das prominenteste
+
+      Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+      beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+      Genfer
+
+      Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen. [26]
+      Dieser Vorstoß wird in Staatenpraxis und Wissenschaft allerdings weit
+
+      überwiegend mit der Begründung abgelehnt, das humanitäre Völkerrecht kenne grundsätzlich
+      nur Kombattanten und Zivilisten, aber keine dritte "Mischform". [27]
+
+      Gerade Verstöße gegen die Genfer Konventionen, die ja selbst nur "einen winzigen
+      Rest an Humanität" enthalten,[28] verfügen über eine erhebliche politische
+
+      Sprengkraft und können enorme öffentliche Aufmerksamkeit erzeugen.  Gleichwohl
+      dürfte es nur in den wenigsten Konflikten zu keinerlei Verstößen gegen das
+
+      humanitäre Völkerrecht gekommen sein. '
+    uid: 6fd36a73-ebe8-42ab-a19f-50852d898126
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'An dieser Stelle mag daher der Hinweis genügen, dass die menschenrechtliche
+        Dimension der Debatte deutlich prominenter
+
+        thematisiert wird als die Frage nach einer Aktualisierung der Genfer Konventionen
+        – hierzu fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.
+
+        '
+      page_label: '4'
+      relevance_score: 0.5703841752033055
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "individuell-rechtlichen Perspektive\", wie es etwa durch die Etablierung\
+      \ individueller Verantwortlichkeit im Statut des Internationalen Strafgerichtshofs\
+      \ sowie\ndurch die zunehmende Anerkennung der Fortgeltung der menschenrechtlichen\
+      \ Verträge geschehe. [38] Eine genaue Darstellung dieser Zusammenhänge wäre\n\
+      das Thema eines eigenen Beitrages.  An dieser Stelle mag daher der Hinweis genügen,\
+      \ dass die menschenrechtliche Dimension der Debatte deutlich prominenter\nthematisiert\
+      \ wird als die Frage nach einer Aktualisierung der Genfer Konventionen – hierzu\
+      \ fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.\n Gerade\
+      \ die menschenrechtlichen Kontrollmechanismen bieten ein gewisses Feinsteuerungs-\
+      \ und Konkretisierungspotenzial humanitär-völkerrechtlicher\nPflichten.  So\
+      \ hat etwa der UN-Menschenrechtsausschuss für das im Internationalen Pakt über\
+      \ bürgerliche und politische Rechte gewährte Recht auf Leben und\nFreiheit dahingehend\
+      \ eine staatliche Planungs- und Kontrollpflicht abgeleitet, dass sichergestellt\
+      \ werden muss, dass ein Angriff Risiken für Leben (Art.  6 Abs. "
+    uid: d38e4dfe-b8ec-4d80-bcc9-a18096e7d411
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Die Genfer Konventionen im System der UN-Charta
+
+        Nur unwesentlich älter als die Genfer Konventionen von 1949 ist die Charta
+        der Vereinten Nationen, die am 26. '
+      page_label: '3'
+      relevance_score: 0.5657720617348
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "Zivilisten.  1949 wurde es in seine heutige Form gebracht und 1977 durch\
+      \ zwei optionale Zusatzprotokolle ergänzt.\n Die Genfer Konventionen im System\
+      \ der UN-Charta\nNur unwesentlich älter als die Genfer Konventionen von 1949\
+      \ ist die Charta der Vereinten Nationen, die am 26.  Juni 1945 auf der Konferenz\
+      \ von San Francisco\nunterzeichnet wurde.  Dieser multilaterale Vertrag, der\
+      \ auch als \"Constitution of the International Community\" bezeichnet wurde,[18]\
+      \ gibt in Artikel 2 Absatz 4 ein\numfassendes Gewaltverbot (prohibition on the\
+      \ use of force) vor.  Gewaltanwendung ist fortan nur noch im Falle der Selbstverteidigung\
+      \ nach Artikel 51 oder mit\nAutorisierung des Sicherheitsrats nach Kapitel VII\
+      \ der Charta zulässig. "
+    uid: 0877b36f-d73a-4f0e-878d-fb1ada8193aa
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Bereits im darauffolgenden
+
+        Jahr nahm der Südsudan durch den Geneva Convention Act die Bestimmungen der
+        Genfer Konventionen an. '
+      page_label: '1'
+      relevance_score: 0.5650722561423712
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: 'Die Republik Südsudan wurde mit Erlangung der Unabhängigkeit von der Republik
+      Sudan am 9.  Juli 2011 zum jüngsten Staat der Erde.  Bereits im darauffolgenden
+
+      Jahr nahm der Südsudan durch den Geneva Convention Act die Bestimmungen der
+      Genfer Konventionen an.  Der offizielle Beitritt erfolgte am 25.  Januar 2013
+      mit
+
+      Hinterlegung der Ratifikationsurkunde.  Dies ist insofern ein bemerkenswerter
+      Vorgang, als der Südsudan anderen völkerrechtlichen Verträgen, insbesondere
+
+      menschenrechtlichen Vertragsregimen, die ebenfalls von nahezu universeller Geltung
+      sind, erst erheblich später beitrat.'
+    uid: 3d75e21c-826d-4802-83bd-2bfb5d8a7187
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Im Zentrum stehen heute die vier
+
+        Genfer Konventionen von 1949, die von 196 Staaten ratifiziert worden sind.'
+      page_label: '2'
+      relevance_score: 0.5573367445874682
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Andererseits rückten Mängel in den Durchsetzungsmechanismen in den\nVordergrund.\n\
+      \ Entwicklung durch Kodifizierung\nDie Regeln des humanitären Völkerrechts sind\
+      \ im 20.  Jahrhundert in mehreren Kodifizierungsschüben niedergelegt worden.\
+      \  Im Zentrum stehen heute die vier\nGenfer Konventionen von 1949, die von 196\
+      \ Staaten ratifiziert worden sind. [12] Zielten die Regeln bis dahin vor allem\
+      \ auf einen Schutz von Kriegsgefangenen und\nVerwundeten, war es nun das Ziel,\
+      \ auch die Zivilbevölkerung gerade in militärisch besetzten Gebieten in den\
+      \ Schutz einzubeziehen.  Die Dekolonisierungskriege\nund der Vietnamkrieg zeigten\
+      \ in den 1960er und 70er Jahren, dass die niedergelegten Regeln nicht ausreichend\
+      \ waren, einen hinreichenden Schutz der\nZivilbevölkerung vor Kampfhandlungen\
+      \ zu gewährleisten und alle Konfliktformen zu erfassen.\n Zum einen enthalten\
+      \ die Genfer Konventionen mit dem gemeinsamen Artikel 3 nur rudimentäre Regelungen\
+      \ des nicht-internationalen bewaffneten Konflikts. "
+    uid: d7a586f8-5b37-4447-9c8d-3d67cc88509e
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Anschließend werden die Konventionen in das heutige, von der
+        Charta der Vereinten Nationen geprägte
+
+        Völkerrechtssystem eingeordnet und Überlegungen angestellt, ob diese legitimierende
+        Funktion weiterhin besteht. '
+      page_label: '1'
+      relevance_score: 0.5572103215371238
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "Im Folgenden wird der Frage nachgegangen, ob die Genfer Konventionen von\
+      \ 1949 diesem Versprechen gerecht werden konnten.  Hierzu wird zunächst ihre\n\
+      Entstehungsgeschichte beleuchtet und gezeigt, wie das sogenannte Kriegsrecht\
+      \ im 19.  Jahrhundert im Europa der Nationalstaaten zur Legitimierung der\n\
+      Kriegführung in Stellung gebracht wurde.  Anschließend werden die Konventionen\
+      \ in das heutige, von der Charta der Vereinten Nationen geprägte\nVölkerrechtssystem\
+      \ eingeordnet und Überlegungen angestellt, ob diese legitimierende Funktion\
+      \ weiterhin besteht.  Abschließend wird die Frage aufgeworfen, ob\ndas Schutzversprechen\
+      \ inzwischen nicht besser von einem menschenrechtlichen Regime wahrgenommen\
+      \ werden könnte.\n Eine (sehr) kurze Geschichte des Rechts von Krieg und Frieden\n\
+      Krieg und Frieden sind historisch gesehen die beiden großen Fluchtpunkte des\
+      \ Völkerrechts.  Der auch heute noch als \"Vater\" des modernen Völkerrechts\n\
+      bezeichnete niederländische Jurist Hugo Grotius[2] unterteilte in seinem 1625\
+      \ erschienenen Hauptwerk \"De Jure Belli Ac Pacis\" das Völkerrecht in diese\
+      \ beiden\nTeilbereiche. "
+    uid: 3c8f85fd-8eaa-4b92-b352-a0df9e8621a6
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'September 2001 wurden insbesondere in den USA Rufe nach einer
+        Reform der Genfer
+
+        Konventionen laut, um diese an die Bedingungen asymmetrischer Kriegführung
+        anzupassen. '
+      page_label: '3'
+      relevance_score: 0.5416335193052052
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Je\nnach Interessenlage berufen sie sich dabei auf die Anwendbarkeit oder\
+      \ Nicht-Anwendbarkeit des bestehenden Rechts auf neue Phänomene, wechseln die\n\
+      Verhandlungsforen und versuchen mittels (rechts-)politischer Erklärungen, die\
+      \ Rechtsentwicklung im eigenen Interesse zu beeinflussen.  Letztlich zeigen\
+      \ diese\nProzesse, dass eine grundsätzliche Uneinigkeit über die zukünftige\
+      \ Richtung der Rechtsentwicklung besteht.\n Im Zusammenhang mit dem war on terror\
+      \ nach den Anschlägen vom 11.  September 2001 wurden insbesondere in den USA\
+      \ Rufe nach einer Reform der Genfer\nKonventionen laut, um diese an die Bedingungen\
+      \ asymmetrischer Kriegführung anzupassen.  Dieses Ansinnen wurde unter anderem\
+      \ auch in Europa\nzurückgewiesen.  Experten befürchteten, dass unter dem Eindruck\
+      \ der Anschläge der Schutzstandard der Genfer Konventionen herabgesenkt werden\
+      \ könnte,\nohne dass eine wirkliche Notwendigkeit zu ihrer Anpassung bestanden\
+      \ hätte. [18]\nVersuche, die Nutzung des Cyberraums auch im Hinblick auf mögliche\
+      \ militärische Angriffe vertraglich zu regeln, sind demgegenüber vor allem von\
+      \ China und\nRussland initiiert worden. "
+    uid: 88db4136-34c4-43b7-9dc3-883710e38d6f
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Das Statut hat 124 Mitgliedstaaten, zu denen jedoch weder China,
+        Indien, Israel, die Russische Föderation oder die USA
+
+        gehören.'
+      page_label: '2'
+      relevance_score: 0.540628694652603
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: 'Zu diesen zählen: Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
+      und das Aggressionsverbrechen, für
+
+      das die Zuständigkeit gesondert begründet werden musste.  Der IStGH ist damit
+      nicht nur für die Ahndung von Verbrechen im bewaffneten Konflikt zuständig,
+
+      sondern im Hinblick auf Genozid und Verbrechen gegen die Menschlichkeit auch
+      in Friedenszeiten.  Er ist kein unmittelbares Durchsetzungsinstrument der Genfer
+
+      Konventionen, sondern die Gehalte der Konventionen sind in das Statut eingeflossen,
+      sodass seine Rechtsprechung zumindest mittelbar zur Auslegung des
+
+      humanitären Völkerrechts beiträgt.  Das Statut hat 124 Mitgliedstaaten, zu denen
+      jedoch weder China, Indien, Israel, die Russische Föderation oder die USA
+
+      gehören. [17]
+
+      In Deutschland wurde die Errichtung des IStGH von der Einführung des Völkerstrafgesetzbuchs
+      begleitet (2002).  Seither sind über 200 Verfahren anhängig
+
+      beziehungsweise geführt worden, die unter anderem auf der Grundlage des Weltrechtsprinzips
+      Kriegsverbrechen ahnden (sollen), also auch Verbrechen
+
+      betreffen, die von ausländischen Staatsbürgern im Ausland begangen wurden.  Besondere
+      Aufmerksamkeit haben dabei Verbrechen gegen die Menschlichkeit,
+
+      Die Genfer Konventionen in der Praxis | Genfer Konventionen | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/...
+
+      2 von 5 12.12.2024, 16:51'
+    uid: 4382437c-b912-4d01-af2d-5d488c4875af
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Ähnlich findet sich dieses Argument auch noch nach 1945, siehe
+        hierzu Boyd van Dijk, Human Rights in War: On the Entangled Foundations of
+        the 1949
+
+        Geneva Conventions, in: American Journal of International Law 4/2019, S. '
+      page_label: '4'
+      relevance_score: 0.5404149420329492
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "4, Hamburg 1889, S.  174–194, hier S.\n 193.  Ähnlich findet sich dieses\
+      \ Argument auch noch nach 1945, siehe hierzu Boyd van Dijk, Human Rights in\
+      \ War: On the Entangled Foundations of the 1949\nGeneva Conventions, in: American\
+      \ Journal of International Law 4/2019, S.  553–582.\n [17] Alle drei zit.  nach\
+      \ Khan (Anm. "
+    uid: 3a967105-e875-40d0-9efe-59833a7e9c9f
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Dieser multilaterale Vertrag, der auch als "Constitution of
+        the International Community" bezeichnet wurde,[18] gibt in Artikel 2 Absatz
+        4 ein
+
+        umfassendes Gewaltverbot (prohibition on the use of force) vor. '
+      page_label: '3'
+      relevance_score: 0.5366477675003432
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "1949 wurde es in seine heutige Form gebracht und 1977 durch zwei optionale\
+      \ Zusatzprotokolle ergänzt.\n Die Genfer Konventionen im System der UN-Charta\n\
+      Nur unwesentlich älter als die Genfer Konventionen von 1949 ist die Charta der\
+      \ Vereinten Nationen, die am 26.  Juni 1945 auf der Konferenz von San Francisco\n\
+      unterzeichnet wurde.  Dieser multilaterale Vertrag, der auch als \"Constitution\
+      \ of the International Community\" bezeichnet wurde,[18] gibt in Artikel 2 Absatz\
+      \ 4 ein\numfassendes Gewaltverbot (prohibition on the use of force) vor.  Gewaltanwendung\
+      \ ist fortan nur noch im Falle der Selbstverteidigung nach Artikel 51 oder mit\n\
+      Autorisierung des Sicherheitsrats nach Kapitel VII der Charta zulässig.  Die\
+      \ Institution \"Krieg\" wurde durch die UN-Charta abgeschafft und durch die\
+      \ Rechtsfigur\ndes \"(internationalen) bewaffneten Konflikts\" ersetzt.  Dies\
+      \ war in der Tat ein absolutes Novum, vorherige Versuche wie die Drago-Porter-Konvention,[19]\
+      \ der\nKellogg-Briand-Pakt[20] oder die Völkerbundsatzung[21] bezogen sich vornehmlich\
+      \ auf die (partielle) Ächtung des Krieges, nicht auf den Ausschluss von Gewalt\n\
+      generell. "
+    uid: 32735561-4346-44cb-9e07-80f6f359038b
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Zum einen enthalten die Genfer Konventionen mit dem gemeinsamen
+        Artikel 3 nur rudimentäre Regelungen des nicht-internationalen bewaffneten
+        Konflikts. '
+      page_label: '2'
+      relevance_score: 0.5349129938414408
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Im Zentrum stehen heute die vier\nGenfer Konventionen von 1949, die von\
+      \ 196 Staaten ratifiziert worden sind. [12] Zielten die Regeln bis dahin vor\
+      \ allem auf einen Schutz von Kriegsgefangenen und\nVerwundeten, war es nun das\
+      \ Ziel, auch die Zivilbevölkerung gerade in militärisch besetzten Gebieten in\
+      \ den Schutz einzubeziehen.  Die Dekolonisierungskriege\nund der Vietnamkrieg\
+      \ zeigten in den 1960er und 70er Jahren, dass die niedergelegten Regeln nicht\
+      \ ausreichend waren, einen hinreichenden Schutz der\nZivilbevölkerung vor Kampfhandlungen\
+      \ zu gewährleisten und alle Konfliktformen zu erfassen.\n Zum einen enthalten\
+      \ die Genfer Konventionen mit dem gemeinsamen Artikel 3 nur rudimentäre Regelungen\
+      \ des nicht-internationalen bewaffneten Konflikts.  Zum\nanderen verdeutlichte\
+      \ gerade der Vietnamkrieg, dass die bestehenden Regeln über die Kampfführung,\
+      \ über Kampfmittel und -methoden für den Schutz von\nZivilisten und zivilen\
+      \ Objekten noch nicht hinreichend kodifiziert waren.  Ein Beispiel ist das Verbot\
+      \ der unterschiedslosen Kampfführung, das\nFlächenbombardements verbietet, die\
+      \ nicht gegen ein spezifisches Ziel gerichtet sind. [13] Als Reaktion wurden\
+      \ 1977 die zwei Zusatzprotokolle (ZP) zu den\nGenfer Konventionen verabschiedet:\
+      \ das ZP I, das ausdifferenzierte Regeln zur Kampfführung enthält, und das ZP\
+      \ II, das in Bürgerkriegssituationen zur\nAnwendung kommt. "
+    uid: 14d7320a-ed77-41d2-8574-c6f30b6fb34d
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Sowohl die Genfer Konventionen
+
+        von 1949 als auch die Zusatzprotokolle von 1977 entstanden in Reaktion auf
+        die Erfahrungen des Zweiten Weltkrieges und die darauffolgenden
+
+        Dekolonisierungskriege. '
+      page_label: '1'
+      relevance_score: 0.5310237691783131
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Der Satz spiegelt wesentliche Herausforderungen,\ndenen sich die Kodifizierung\
+      \ dieses Rechtsgebiets ausgesetzt sieht: Noch immer sind im Völkerrecht die\
+      \ Staaten die entscheidenden Akteure der Rechtsetzung.\n Da das Recht im Krieg\
+      \ Staaten Grenzen bei der Kriegführung setzt und einen Bereich regelt, in dem\
+      \ die staatlichen Selbsterhaltungsinteressen berührt sind,\nmüssen Befürworter\
+      \ neuer Kodifizierungsansätze hohe Schwellen überwinden, um in der Staatengemeinschaft\
+      \ einen Konsens zur rechtlichen Fortentwicklung\nherbeizuführen.  In der Vergangenheit\
+      \ haben vor allem die Erfahrungen vorausgegangener Kriege Kodifizierungen ermöglicht.\
+      \  Sowohl die Genfer Konventionen\nvon 1949 als auch die Zusatzprotokolle von\
+      \ 1977 entstanden in Reaktion auf die Erfahrungen des Zweiten Weltkrieges und\
+      \ die darauffolgenden\nDekolonisierungskriege.  Da sich aber die Rahmenbedingungen\
+      \ der Kriegführung über die Zeit verändern, droht das Recht an Bedeutung zu\
+      \ verlieren, wenn es\nneue Entwicklungen nicht adäquat erfasst.  Neue Waffen\
+      \ wie autonome Waffensysteme, neue Einsatzformen wie die Kriegführung im Cyberraum\
+      \ oder das\nAuftreten neuer Akteure wie in asymmetrischen Konflikten fordern\
+      \ die Regeln heraus.  So stellen sich bei der Entwicklung von Waffen im Zusammenspiel\
+      \ mit\nkünstlicher Intelligenz rechtliche Fragen der Zurechenbarkeit zu menschlichen\
+      \ Akteuren. "
+    uid: ed98b757-ad9a-4065-afbb-59930768bb4c
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 2
+  negation: Verstöße gegen die Genfer Konventionen kommen nicht vor.
+  statement_type: &id004 descriptive
+  text: Verstöße gegen die Genfer Konventionen kommen vor.
+  uid: ff3586d8-047a-4ad7-80cc-ae2a979523bf
+  verbalized_confirmation: The claim is strongly confirmed.
+- average_confirmation: 1.0
+  confirmation_by_document:
+    01a37b91-e249-4515-9642-dc1db9efe924: 7.345871014668221e-38
+    14ce51f1-9070-4251-93b5-437cbb66ab4d: 3.975449735908647e-31
+    26fce8f0-6063-4711-ba90-aa0df999ad70: 1.0
+    3320bb23-37b5-462f-96bd-9bbfe935bd00: 1.0
+    3dc671a3-a476-458a-844e-b6cf772e001c: 1.781670520509275e-30
+    473a4be3-70b6-47fe-a90c-70d9d6b6b87d: -6.054588210006474e-39
+    4a88d5bd-e36d-4881-b041-70c443f3c23c: 7.8823597905344535e-25
+    6a1e9a39-f550-49e7-a585-1ce6db785175: 2.227363559011199e-39
+    73d56e9e-2e5b-4e96-8417-e1220c9ed8b4: 1.0
+    76c171e9-6c2b-4bfb-81c5-096f95753626: 1.624675142135219e-33
+    dd5e659d-4381-4fb6-90be-de69e36fa962: 1.0
+    de6aed6f-524c-4b1a-8617-51a0a054ee70: -8.985825913513138e-37
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Im Zentrum stehen heute die vier
+
+        Genfer Konventionen von 1949, die von 196 Staaten ratifiziert worden sind.'
+      page_label: '2'
+      relevance_score: 0.47413756910659033
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Andererseits rückten Mängel in den Durchsetzungsmechanismen in den\nVordergrund.\n\
+      \ Entwicklung durch Kodifizierung\nDie Regeln des humanitären Völkerrechts sind\
+      \ im 20.  Jahrhundert in mehreren Kodifizierungsschüben niedergelegt worden.\
+      \  Im Zentrum stehen heute die vier\nGenfer Konventionen von 1949, die von 196\
+      \ Staaten ratifiziert worden sind. [12] Zielten die Regeln bis dahin vor allem\
+      \ auf einen Schutz von Kriegsgefangenen und\nVerwundeten, war es nun das Ziel,\
+      \ auch die Zivilbevölkerung gerade in militärisch besetzten Gebieten in den\
+      \ Schutz einzubeziehen.  Die Dekolonisierungskriege\nund der Vietnamkrieg zeigten\
+      \ in den 1960er und 70er Jahren, dass die niedergelegten Regeln nicht ausreichend\
+      \ waren, einen hinreichenden Schutz der\nZivilbevölkerung vor Kampfhandlungen\
+      \ zu gewährleisten und alle Konfliktformen zu erfassen.\n Zum einen enthalten\
+      \ die Genfer Konventionen mit dem gemeinsamen Artikel 3 nur rudimentäre Regelungen\
+      \ des nicht-internationalen bewaffneten Konflikts. "
+    uid: 3320bb23-37b5-462f-96bd-9bbfe935bd00
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Das prominenteste
+
+        Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+        beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+        Genfer
+
+        Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen.'
+      page_label: '3'
+      relevance_score: 0.4647904524567388
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: 'Das Uppsala Conflict Data Program etwa ermittelte für das Jahr 2023 mit
+      59 militärischen Konflikten so
+
+      viele wie noch nie seit Beginn der Datenerhebung 1946. [25]
+
+      In keinem dieser Konflikte schien jedoch die bloße Existenz einer "Notordnung"
+      den Ausbruch zu erleichtern oder zu beschleunigen.  Im Gegenteil: Das
+
+      humanitäre Völkerrecht wird von gewissen Staaten durchaus als Bürde wahrgenommen,
+      die einer effektiven Kriegführung entgegensteht.  Das prominenteste
+
+      Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+      beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+      Genfer
+
+      Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen. [26]
+      Dieser Vorstoß wird in Staatenpraxis und Wissenschaft allerdings weit
+
+      überwiegend mit der Begründung abgelehnt, das humanitäre Völkerrecht kenne grundsätzlich
+      nur Kombattanten und Zivilisten, aber keine dritte "Mischform". [27]
+
+      Gerade Verstöße gegen die Genfer Konventionen, die ja selbst nur "einen winzigen
+      Rest an Humanität" enthalten,[28] verfügen über eine erhebliche politische
+
+      Sprengkraft und können enorme öffentliche Aufmerksamkeit erzeugen.  Gleichwohl
+      dürfte es nur in den wenigsten Konflikten zu keinerlei Verstößen gegen das
+
+      humanitäre Völkerrecht gekommen sein. '
+    uid: dd5e659d-4381-4fb6-90be-de69e36fa962
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'September 2001 wurden insbesondere in den USA Rufe nach einer
+        Reform der Genfer
+
+        Konventionen laut, um diese an die Bedingungen asymmetrischer Kriegführung
+        anzupassen. '
+      page_label: '3'
+      relevance_score: 0.46184017644449404
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Je\nnach Interessenlage berufen sie sich dabei auf die Anwendbarkeit oder\
+      \ Nicht-Anwendbarkeit des bestehenden Rechts auf neue Phänomene, wechseln die\n\
+      Verhandlungsforen und versuchen mittels (rechts-)politischer Erklärungen, die\
+      \ Rechtsentwicklung im eigenen Interesse zu beeinflussen.  Letztlich zeigen\
+      \ diese\nProzesse, dass eine grundsätzliche Uneinigkeit über die zukünftige\
+      \ Richtung der Rechtsentwicklung besteht.\n Im Zusammenhang mit dem war on terror\
+      \ nach den Anschlägen vom 11.  September 2001 wurden insbesondere in den USA\
+      \ Rufe nach einer Reform der Genfer\nKonventionen laut, um diese an die Bedingungen\
+      \ asymmetrischer Kriegführung anzupassen.  Dieses Ansinnen wurde unter anderem\
+      \ auch in Europa\nzurückgewiesen.  Experten befürchteten, dass unter dem Eindruck\
+      \ der Anschläge der Schutzstandard der Genfer Konventionen herabgesenkt werden\
+      \ könnte,\nohne dass eine wirkliche Notwendigkeit zu ihrer Anpassung bestanden\
+      \ hätte. [18]\nVersuche, die Nutzung des Cyberraums auch im Hinblick auf mögliche\
+      \ militärische Angriffe vertraglich zu regeln, sind demgegenüber vor allem von\
+      \ China und\nRussland initiiert worden. "
+    uid: de6aed6f-524c-4b1a-8617-51a0a054ee70
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Sowohl die Genfer Konventionen
+
+        von 1949 als auch die Zusatzprotokolle von 1977 entstanden in Reaktion auf
+        die Erfahrungen des Zweiten Weltkrieges und die darauffolgenden
+
+        Dekolonisierungskriege. '
+      page_label: '1'
+      relevance_score: 0.4588411828651438
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Der Satz spiegelt wesentliche Herausforderungen,\ndenen sich die Kodifizierung\
+      \ dieses Rechtsgebiets ausgesetzt sieht: Noch immer sind im Völkerrecht die\
+      \ Staaten die entscheidenden Akteure der Rechtsetzung.\n Da das Recht im Krieg\
+      \ Staaten Grenzen bei der Kriegführung setzt und einen Bereich regelt, in dem\
+      \ die staatlichen Selbsterhaltungsinteressen berührt sind,\nmüssen Befürworter\
+      \ neuer Kodifizierungsansätze hohe Schwellen überwinden, um in der Staatengemeinschaft\
+      \ einen Konsens zur rechtlichen Fortentwicklung\nherbeizuführen.  In der Vergangenheit\
+      \ haben vor allem die Erfahrungen vorausgegangener Kriege Kodifizierungen ermöglicht.\
+      \  Sowohl die Genfer Konventionen\nvon 1949 als auch die Zusatzprotokolle von\
+      \ 1977 entstanden in Reaktion auf die Erfahrungen des Zweiten Weltkrieges und\
+      \ die darauffolgenden\nDekolonisierungskriege.  Da sich aber die Rahmenbedingungen\
+      \ der Kriegführung über die Zeit verändern, droht das Recht an Bedeutung zu\
+      \ verlieren, wenn es\nneue Entwicklungen nicht adäquat erfasst.  Neue Waffen\
+      \ wie autonome Waffensysteme, neue Einsatzformen wie die Kriegführung im Cyberraum\
+      \ oder das\nAuftreten neuer Akteure wie in asymmetrischen Konflikten fordern\
+      \ die Regeln heraus.  So stellen sich bei der Entwicklung von Waffen im Zusammenspiel\
+      \ mit\nkünstlicher Intelligenz rechtliche Fragen der Zurechenbarkeit zu menschlichen\
+      \ Akteuren. "
+    uid: 6a1e9a39-f550-49e7-a585-1ce6db785175
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'An dieser Stelle mag daher der Hinweis genügen, dass die menschenrechtliche
+        Dimension der Debatte deutlich prominenter
+
+        thematisiert wird als die Frage nach einer Aktualisierung der Genfer Konventionen
+        – hierzu fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.
+
+        '
+      page_label: '4'
+      relevance_score: 0.4568827289774503
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "individuell-rechtlichen Perspektive\", wie es etwa durch die Etablierung\
+      \ individueller Verantwortlichkeit im Statut des Internationalen Strafgerichtshofs\
+      \ sowie\ndurch die zunehmende Anerkennung der Fortgeltung der menschenrechtlichen\
+      \ Verträge geschehe. [38] Eine genaue Darstellung dieser Zusammenhänge wäre\n\
+      das Thema eines eigenen Beitrages.  An dieser Stelle mag daher der Hinweis genügen,\
+      \ dass die menschenrechtliche Dimension der Debatte deutlich prominenter\nthematisiert\
+      \ wird als die Frage nach einer Aktualisierung der Genfer Konventionen – hierzu\
+      \ fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.\n Gerade\
+      \ die menschenrechtlichen Kontrollmechanismen bieten ein gewisses Feinsteuerungs-\
+      \ und Konkretisierungspotenzial humanitär-völkerrechtlicher\nPflichten.  So\
+      \ hat etwa der UN-Menschenrechtsausschuss für das im Internationalen Pakt über\
+      \ bürgerliche und politische Rechte gewährte Recht auf Leben und\nFreiheit dahingehend\
+      \ eine staatliche Planungs- und Kontrollpflicht abgeleitet, dass sichergestellt\
+      \ werden muss, dass ein Angriff Risiken für Leben (Art.  6 Abs. "
+    uid: 26fce8f0-6063-4711-ba90-aa0df999ad70
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Zum einen enthalten die Genfer Konventionen mit dem gemeinsamen
+        Artikel 3 nur rudimentäre Regelungen des nicht-internationalen bewaffneten
+        Konflikts. '
+      page_label: '2'
+      relevance_score: 0.45685516950544103
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Im Zentrum stehen heute die vier\nGenfer Konventionen von 1949, die von\
+      \ 196 Staaten ratifiziert worden sind. [12] Zielten die Regeln bis dahin vor\
+      \ allem auf einen Schutz von Kriegsgefangenen und\nVerwundeten, war es nun das\
+      \ Ziel, auch die Zivilbevölkerung gerade in militärisch besetzten Gebieten in\
+      \ den Schutz einzubeziehen.  Die Dekolonisierungskriege\nund der Vietnamkrieg\
+      \ zeigten in den 1960er und 70er Jahren, dass die niedergelegten Regeln nicht\
+      \ ausreichend waren, einen hinreichenden Schutz der\nZivilbevölkerung vor Kampfhandlungen\
+      \ zu gewährleisten und alle Konfliktformen zu erfassen.\n Zum einen enthalten\
+      \ die Genfer Konventionen mit dem gemeinsamen Artikel 3 nur rudimentäre Regelungen\
+      \ des nicht-internationalen bewaffneten Konflikts.  Zum\nanderen verdeutlichte\
+      \ gerade der Vietnamkrieg, dass die bestehenden Regeln über die Kampfführung,\
+      \ über Kampfmittel und -methoden für den Schutz von\nZivilisten und zivilen\
+      \ Objekten noch nicht hinreichend kodifiziert waren.  Ein Beispiel ist das Verbot\
+      \ der unterschiedslosen Kampfführung, das\nFlächenbombardements verbietet, die\
+      \ nicht gegen ein spezifisches Ziel gerichtet sind. [13] Als Reaktion wurden\
+      \ 1977 die zwei Zusatzprotokolle (ZP) zu den\nGenfer Konventionen verabschiedet:\
+      \ das ZP I, das ausdifferenzierte Regeln zur Kampfführung enthält, und das ZP\
+      \ II, das in Bürgerkriegssituationen zur\nAnwendung kommt. "
+    uid: 73d56e9e-2e5b-4e96-8417-e1220c9ed8b4
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Das Statut hat 124 Mitgliedstaaten, zu denen jedoch weder China,
+        Indien, Israel, die Russische Föderation oder die USA
+
+        gehören.'
+      page_label: '2'
+      relevance_score: 0.45423285293525467
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: 'Zu diesen zählen: Völkermord, Verbrechen gegen die Menschlichkeit, Kriegsverbrechen
+      und das Aggressionsverbrechen, für
+
+      das die Zuständigkeit gesondert begründet werden musste.  Der IStGH ist damit
+      nicht nur für die Ahndung von Verbrechen im bewaffneten Konflikt zuständig,
+
+      sondern im Hinblick auf Genozid und Verbrechen gegen die Menschlichkeit auch
+      in Friedenszeiten.  Er ist kein unmittelbares Durchsetzungsinstrument der Genfer
+
+      Konventionen, sondern die Gehalte der Konventionen sind in das Statut eingeflossen,
+      sodass seine Rechtsprechung zumindest mittelbar zur Auslegung des
+
+      humanitären Völkerrechts beiträgt.  Das Statut hat 124 Mitgliedstaaten, zu denen
+      jedoch weder China, Indien, Israel, die Russische Föderation oder die USA
+
+      gehören. [17]
+
+      In Deutschland wurde die Errichtung des IStGH von der Einführung des Völkerstrafgesetzbuchs
+      begleitet (2002).  Seither sind über 200 Verfahren anhängig
+
+      beziehungsweise geführt worden, die unter anderem auf der Grundlage des Weltrechtsprinzips
+      Kriegsverbrechen ahnden (sollen), also auch Verbrechen
+
+      betreffen, die von ausländischen Staatsbürgern im Ausland begangen wurden.  Besondere
+      Aufmerksamkeit haben dabei Verbrechen gegen die Menschlichkeit,
+
+      Die Genfer Konventionen in der Praxis | Genfer Konventionen | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/...
+
+      2 von 5 12.12.2024, 16:51'
+    uid: 473a4be3-70b6-47fe-a90c-70d9d6b6b87d
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Die Stagnation im Genfer Prozess hat das Augenmerk auf andere
+        Foren gerichtet, insbesondere auf den Menschenrechtsrat und die UN-Generalversammlung.
+
+        '
+      page_label: '3'
+      relevance_score: 0.4542108194658794
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Ausgangspunkt ist\ndie Forderung eines vollständigen Verbots der Herstellung,\
+      \ des Besitzes, der Weitergabe und des Einsatzes solcher Waffen, die vor allem\
+      \ aus der Zivilgesellschaft\nund von Staaten aus dem globalen Süden vorgebracht\
+      \ wird.  Ein wesentliches Forum ist dabei die Konvention über bestimmte konventionelle\
+      \ Waffen, in deren\nRahmen eine Expertengruppe eingesetzt worden ist, die sogenannte\
+      \ UN Group of Governmental Experts (GGE) on Emerging Technologies in the Area\
+      \ of Lethal\nAutonomous Weapons Systems.  Bis heute fehlt es jedoch an einem\
+      \ klaren Konsens in der Staatengemeinschaft, diese Waffensysteme einer vertraglichen\n\
+      Regelung zu unterwerfen.\n Die Stagnation im Genfer Prozess hat das Augenmerk\
+      \ auf andere Foren gerichtet, insbesondere auf den Menschenrechtsrat und die\
+      \ UN-Generalversammlung.\n 2023 rief das IKRK gemeinsam mit dem UN-Generalsekretär\
+      \ die Staatengemeinschaft auf, bis 2026 einen rechtsverbindlichen Vertrag zu\
+      \ schaffen. [21] Im\nDezember 2023 verabschiedete auch die UN-Generalversammlung\
+      \ eine entsprechende Resolution. [22] Trotz dieser Initiativen bleiben Widerstände:\
+      \ Vor allem\nRussland und die USA halten weiterhin die GGE für das geeignete\
+      \ Forum und wenden sich gegen ein umfassendes Verbot. "
+    uid: 4a88d5bd-e36d-4881-b041-70c443f3c23c
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Er ist kein unmittelbares Durchsetzungsinstrument der Genfer
+
+        Konventionen, sondern die Gehalte der Konventionen sind in das Statut eingeflossen,
+        sodass seine Rechtsprechung zumindest mittelbar zur Auslegung des
+
+        humanitären Völkerrechts beiträgt. '
+      page_label: '2'
+      relevance_score: 0.4497617205848604
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: 'Der IStGH ist auf der Grundlage seines Statuts zuständig, über
+
+      die vier Kernverbrechen zu urteilen.  Zu diesen zählen: Völkermord, Verbrechen
+      gegen die Menschlichkeit, Kriegsverbrechen und das Aggressionsverbrechen, für
+
+      das die Zuständigkeit gesondert begründet werden musste.  Der IStGH ist damit
+      nicht nur für die Ahndung von Verbrechen im bewaffneten Konflikt zuständig,
+
+      sondern im Hinblick auf Genozid und Verbrechen gegen die Menschlichkeit auch
+      in Friedenszeiten.  Er ist kein unmittelbares Durchsetzungsinstrument der Genfer
+
+      Konventionen, sondern die Gehalte der Konventionen sind in das Statut eingeflossen,
+      sodass seine Rechtsprechung zumindest mittelbar zur Auslegung des
+
+      humanitären Völkerrechts beiträgt.  Das Statut hat 124 Mitgliedstaaten, zu denen
+      jedoch weder China, Indien, Israel, die Russische Föderation oder die USA
+
+      gehören. [17]
+
+      In Deutschland wurde die Errichtung des IStGH von der Einführung des Völkerstrafgesetzbuchs
+      begleitet (2002).  Seither sind über 200 Verfahren anhängig
+
+      beziehungsweise geführt worden, die unter anderem auf der Grundlage des Weltrechtsprinzips
+      Kriegsverbrechen ahnden (sollen), also auch Verbrechen
+
+      betreffen, die von ausländischen Staatsbürgern im Ausland begangen wurden. '
+    uid: 76c171e9-6c2b-4bfb-81c5-096f95753626
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: '[23] Zusammen mit Australien, Kanada, Japan, Polen, Südkorea
+        und dem Vereinigten Königreich haben die USA zudem einen Vertragsentwurf in
+        die
+
+        GGE eingebracht, der den Einsatz dieser Waffen im Einklang mit dem bestehenden
+        Völkerrecht reglementieren, aber eben nicht grundsätzlich verbieten soll.'
+      page_label: '3'
+      relevance_score: 0.44384974652845066
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: '[22] Trotz dieser Initiativen bleiben Widerstände: Vor allem
+
+      Russland und die USA halten weiterhin die GGE für das geeignete Forum und wenden
+      sich gegen ein umfassendes Verbot.  Gleichwohl haben die USA 2023 eine
+
+      politische Erklärung zum Umgang mit dieser Technologie formuliert, die aber
+      rechtlich unverbindlich ist.  53 Staaten unterstützen die Erklärung, darunter
+
+      Deutschland. [23] Zusammen mit Australien, Kanada, Japan, Polen, Südkorea und
+      dem Vereinigten Königreich haben die USA zudem einen Vertragsentwurf in die
+
+      GGE eingebracht, der den Einsatz dieser Waffen im Einklang mit dem bestehenden
+      Völkerrecht reglementieren, aber eben nicht grundsätzlich verbieten soll. [24]
+
+      Ein umfassendes Verbot dürfte letztlich vor den gleichen Herausforderungen stehen
+      wie der Atomwaffenverbotsvertrag.  Die Staaten, die über die einschlägigen
+
+      technologischen Fähigkeiten verfügen, werden dem Vertrag nicht beitreten.  Denn
+      Auslegung und Anwendung bestehender völkerrechtlicher Regelungen
+
+      erlauben ihnen die Weiterentwicklung dieser Waffen und verschaffen im Lichte
+      von Auslegungsunsicherheiten Handlungsspielräume. '
+    uid: 01a37b91-e249-4515-9642-dc1db9efe924
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Diese international, aber auch innerstaatlich zu vermeiden,
+        gilt gerade bei
+
+        demokratischen Staaten angesichts der Bedeutung der öffentlichen Meinung als
+        ein wesentlicher Grund, sich ans humanitäre Völkerrecht zu halten. '
+      page_label: '1'
+      relevance_score: 0.4436771657591309
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Einerseits ist diesem Rechtsgebiet ein besonderer, moralisch unterfütterter\
+      \ Legitimitätsanspruch\nzu eigen. [4] Laut Internationalem Gerichtshof bilden\
+      \ \"übergeordnete Erwägungen der Menschlichkeit (…) das Herzstück\" des humanitären\
+      \ Völkerrechts. [5]\nStaaten, die das humanitäre Völkerrecht verletzen, riskieren\
+      \ Ansehensverluste.  Diese international, aber auch innerstaatlich zu vermeiden,\
+      \ gilt gerade bei\ndemokratischen Staaten angesichts der Bedeutung der öffentlichen\
+      \ Meinung als ein wesentlicher Grund, sich ans humanitäre Völkerrecht zu halten.\
+      \  Schwere\nDie Genfer Konventionen in der Praxis\nZur Weiterentwicklung des\
+      \ humanitären Völkerrechts\n18.07.2024 / 15 Minuten zu lesen\nHeike Krieger\n\
+      Das Dilemma, den Krieg als Wirklichkeit akzeptieren zu müssen, um seine Führung\
+      \ rechtlich beschränken\nzu können, hat für die Rechtsetzung komplexe Folgen.\
+      \  Die Weiterentwicklung des Völkerrechts bleibt\nimmer auch ein Tauziehen um\
+      \ staatliche Spielräume.\n Die Genfer Konventionen in der Praxis | Genfer Konventionen\
+      \ | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/...\n\
+      1 von 5 12.12.2024, 16:51"
+    uid: 14ce51f1-9070-4251-93b5-437cbb66ab4d
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Die Genfer Konventionen im System der UN-Charta
+
+        Nur unwesentlich älter als die Genfer Konventionen von 1949 ist die Charta
+        der Vereinten Nationen, die am 26. '
+      page_label: '3'
+      relevance_score: 0.44306167285291276
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "Zivilisten.  1949 wurde es in seine heutige Form gebracht und 1977 durch\
+      \ zwei optionale Zusatzprotokolle ergänzt.\n Die Genfer Konventionen im System\
+      \ der UN-Charta\nNur unwesentlich älter als die Genfer Konventionen von 1949\
+      \ ist die Charta der Vereinten Nationen, die am 26.  Juni 1945 auf der Konferenz\
+      \ von San Francisco\nunterzeichnet wurde.  Dieser multilaterale Vertrag, der\
+      \ auch als \"Constitution of the International Community\" bezeichnet wurde,[18]\
+      \ gibt in Artikel 2 Absatz 4 ein\numfassendes Gewaltverbot (prohibition on the\
+      \ use of force) vor.  Gewaltanwendung ist fortan nur noch im Falle der Selbstverteidigung\
+      \ nach Artikel 51 oder mit\nAutorisierung des Sicherheitsrats nach Kapitel VII\
+      \ der Charta zulässig. "
+    uid: 3dc671a3-a476-458a-844e-b6cf772e001c
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 4
+  negation: Die praktische Umsetzung der Genfer Konventionen ist oft ausreichend.
+  statement_type: *id004
+  text: Die praktische Umsetzung der Genfer Konventionen ist oft unzureichend.
+  uid: 1207775d-a230-422c-8b28-82ca3a3ebc6e
+  verbalized_confirmation: The claim is strongly confirmed.
+- average_confirmation: 1.0
+  confirmation_by_document:
+    1bab0b57-2dee-497a-b1e3-cd86fe557582: 1.0800415930130108e-30
+    3b720db3-355c-41b1-8404-d360c7075dac: 1.0
+    717425fb-b972-4f5d-95ec-d1b679739e0e: 3.600714911766154e-34
+    7458f20e-020f-45f2-8111-e89021f8fb39: -8.088764455177795e-35
+    76138c95-e615-4c33-af2b-9f90cc60d523: 3.6251409163947743e-34
+    8d75b103-00c6-441d-889c-35878e9d3d53: 2.1987223902225862e-34
+    915c9aa5-c556-4a56-bf9c-379780125b82: 1.0
+    9535fe39-ecae-4a31-8416-cd6ff43ee356: 4.0269849590057284e-36
+    abaf851e-7881-453d-96b1-1d30d6cf5296: -1.8046286514892354e-35
+    b0cf309c-a6eb-4606-b172-4277c51b42e2: -1.4792848733145317e-36
+    d0651bb8-4ade-474e-a945-0beca9b0108f: 8.985792456992623e-37
+    ffe4fad0-5439-4058-958a-ad328ddf4f7e: -1.4813294037414224e-36
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Das prominenteste
+
+        Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+        beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+        Genfer
+
+        Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen.'
+      page_label: '3'
+      relevance_score: 0.5030655889298672
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: 'Das Uppsala Conflict Data Program etwa ermittelte für das Jahr 2023 mit
+      59 militärischen Konflikten so
+
+      viele wie noch nie seit Beginn der Datenerhebung 1946. [25]
+
+      In keinem dieser Konflikte schien jedoch die bloße Existenz einer "Notordnung"
+      den Ausbruch zu erleichtern oder zu beschleunigen.  Im Gegenteil: Das
+
+      humanitäre Völkerrecht wird von gewissen Staaten durchaus als Bürde wahrgenommen,
+      die einer effektiven Kriegführung entgegensteht.  Das prominenteste
+
+      Beispiel ist wohl der Versuch der USA, die Figur eines sogenannten unlawful
+      beziehungsweise illegal combatant zu etablieren, um den Verpflichtungen der
+      Genfer
+
+      Konventionen gegenüber Mitgliedern der Taliban und al-Qaida zu entgehen. [26]
+      Dieser Vorstoß wird in Staatenpraxis und Wissenschaft allerdings weit
+
+      überwiegend mit der Begründung abgelehnt, das humanitäre Völkerrecht kenne grundsätzlich
+      nur Kombattanten und Zivilisten, aber keine dritte "Mischform". [27]
+
+      Gerade Verstöße gegen die Genfer Konventionen, die ja selbst nur "einen winzigen
+      Rest an Humanität" enthalten,[28] verfügen über eine erhebliche politische
+
+      Sprengkraft und können enorme öffentliche Aufmerksamkeit erzeugen.  Gleichwohl
+      dürfte es nur in den wenigsten Konflikten zu keinerlei Verstößen gegen das
+
+      humanitäre Völkerrecht gekommen sein. '
+    uid: 915c9aa5-c556-4a56-bf9c-379780125b82
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: '; Michael Schmitt, Military Necessity and Humanity in International
+
+        Humanitarian Law: Preserving the Delicate Balance, in: Virginia Journal of
+        International Law 4/2010, S. '
+      page_label: '5'
+      relevance_score: 0.48078283930588933
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "), The\nInternational Rule of Law – Rise or Decline?, Oxford 2019, S. \
+      \ 293–300, hier S.  294ff. ; Michael Schmitt, Military Necessity and Humanity\
+      \ in International\nHumanitarian Law: Preserving the Delicate Balance, in: Virginia\
+      \ Journal of International Law 4/2010, S.  795–839, hier S.  816–838.\n [31]\
+      \ Vgl. "
+    uid: 717425fb-b972-4f5d-95ec-d1b679739e0e
+  - metadata:
+      author: Luca, Barana
+      file_name: luca_italien_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Land früher die Genfer Flüchtlingskonvention von 1951 unterzeichnet
+        haben musste, um als sicher anerkannt zu werden, hat die EU dieses Kriterium
+        nun
+
+        aufgeweicht – es muss lediglich ein „wirksamer Schutz“ gegeben sein, der nicht
+        alle Rechte der Flüchtlingskonvention umfasst. '
+      page_label: '4'
+      relevance_score: 0.4779576880933511
+      title: Italien und die {Migration}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552524/italien-und-die-migration/
+      year: '2024'
+    text: "Land früher die Genfer Flüchtlingskonvention von 1951 unterzeichnet haben\
+      \ musste, um als sicher anerkannt zu werden, hat die EU dieses Kriterium nun\n\
+      aufgeweicht – es muss lediglich ein „wirksamer Schutz“ gegeben sein, der nicht\
+      \ alle Rechte der Flüchtlingskonvention umfasst.  Außerdem gibt die Reform den\n\
+      Mitgliedstaaten die Möglichkeit, ein Land als sicher einzustufen, wenn mit der\
+      \ EU ein Abkommen besteht, in dem die Unterzeichner die Achtung der\nMenschenrechte\
+      \ garantieren. [14] Mit Blick auf Tunesien sind diese Regelungen offensichtlich\
+      \ im Sinne Italiens, denn Tunesien hat die Flüchtlingskonvention zwar\nunterschrieben,\
+      \ sie aber noch nicht in nationale Gesetzgebung überführt; das gemeinsame Abkommen\
+      \ von 2023 garantiert jedoch, dass Tunesien als sicherer\nDrittstaat eingestuft\
+      \ werden kann.\n Schlussfolgerungen\nAuch wenn das neue Migrations- und Asylpaket\
+      \ hauptsächlich die interne Dimension der europäischen Migrationspolitik betrifft\
+      \ und mit neuen Verpflichtungen\nfür Italien einhergeht, werden seine Regelungen\
+      \ tiefgreifende Auswirkungen auch auf die Beziehungen zu Drittländern haben. "
+    uid: d0651bb8-4ade-474e-a945-0beca9b0108f
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Ähnlich findet sich dieses Argument auch noch nach 1945, siehe
+        hierzu Boyd van Dijk, Human Rights in War: On the Entangled Foundations of
+        the 1949
+
+        Geneva Conventions, in: American Journal of International Law 4/2019, S. '
+      page_label: '4'
+      relevance_score: 0.476166697212144
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "4, Hamburg 1889, S.  174–194, hier S.\n 193.  Ähnlich findet sich dieses\
+      \ Argument auch noch nach 1945, siehe hierzu Boyd van Dijk, Human Rights in\
+      \ War: On the Entangled Foundations of the 1949\nGeneva Conventions, in: American\
+      \ Journal of International Law 4/2019, S.  553–582.\n [17] Alle drei zit.  nach\
+      \ Khan (Anm. "
+    uid: 9535fe39-ecae-4a31-8416-cd6ff43ee356
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'A/66/359, 14.9.2011; UN GA, Updated Concept for a
+
+        Convention of the United Nations on Ensuring International Information Security,
+        UN Dok. '
+      page_label: '5'
+      relevance_score: 0.4715741596553432
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "245/2003,\n12./13.12.2003.\n [19]\nVgl.  UN General Assembly (GA), International\
+      \ Code of Conduct for Information Security, UN Dok.  A/66/359, 14.9.2011; UN\
+      \ GA, Updated Concept for a\nConvention of the United Nations on Ensuring International\
+      \ Information Security, UN Dok.  A/77/894, 16.5.2023.\n [20] Vgl.  etwa das\
+      \ Positionspapier der Bundesregierung, On the Application of International Law\
+      \ in Cyberspace, März 2021.\n"
+    uid: 76138c95-e615-4c33-af2b-9f90cc60d523
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'etwa Nils Melzer, Interpretative Guidance on the Notion of Direct
+        Participation in Hostilities under International Humanitarian Law, Genf 2009.
+
+        '
+      page_label: '5'
+      relevance_score: 0.4694664079792376
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "ICRC, Factual Report on the Proceedings of the Intergovernmental Process\
+      \ on Strengthening Respect for IHL – Progress Report, Oktober 2019, S.  11.\n\
+      \ [27] Vgl.  etwa Nils Melzer, Interpretative Guidance on the Notion of Direct\
+      \ Participation in Hostilities under International Humanitarian Law, Genf 2009.\n\
+      \ [28] Vgl.  etwa Michael Schmitt (Hrsg. ), Tallinn Manual on the International\
+      \ Law Applicable to Cyber Warfare, Cambridge 2013.\n"
+    uid: 8d75b103-00c6-441d-889c-35878e9d3d53
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Im Zentrum stehen heute die vier
+
+        Genfer Konventionen von 1949, die von 196 Staaten ratifiziert worden sind.'
+      page_label: '2'
+      relevance_score: 0.4653144893214146
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Andererseits rückten Mängel in den Durchsetzungsmechanismen in den\nVordergrund.\n\
+      \ Entwicklung durch Kodifizierung\nDie Regeln des humanitären Völkerrechts sind\
+      \ im 20.  Jahrhundert in mehreren Kodifizierungsschüben niedergelegt worden.\
+      \  Im Zentrum stehen heute die vier\nGenfer Konventionen von 1949, die von 196\
+      \ Staaten ratifiziert worden sind. [12] Zielten die Regeln bis dahin vor allem\
+      \ auf einen Schutz von Kriegsgefangenen und\nVerwundeten, war es nun das Ziel,\
+      \ auch die Zivilbevölkerung gerade in militärisch besetzten Gebieten in den\
+      \ Schutz einzubeziehen.  Die Dekolonisierungskriege\nund der Vietnamkrieg zeigten\
+      \ in den 1960er und 70er Jahren, dass die niedergelegten Regeln nicht ausreichend\
+      \ waren, einen hinreichenden Schutz der\nZivilbevölkerung vor Kampfhandlungen\
+      \ zu gewährleisten und alle Konfliktformen zu erfassen.\n Zum einen enthalten\
+      \ die Genfer Konventionen mit dem gemeinsamen Artikel 3 nur rudimentäre Regelungen\
+      \ des nicht-internationalen bewaffneten Konflikts. "
+    uid: 3b720db3-355c-41b1-8404-d360c7075dac
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Dieser multilaterale Vertrag, der auch als "Constitution of
+        the International Community" bezeichnet wurde,[18] gibt in Artikel 2 Absatz
+        4 ein
+
+        umfassendes Gewaltverbot (prohibition on the use of force) vor. '
+      page_label: '3'
+      relevance_score: 0.45672829647518537
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "1949 wurde es in seine heutige Form gebracht und 1977 durch zwei optionale\
+      \ Zusatzprotokolle ergänzt.\n Die Genfer Konventionen im System der UN-Charta\n\
+      Nur unwesentlich älter als die Genfer Konventionen von 1949 ist die Charta der\
+      \ Vereinten Nationen, die am 26.  Juni 1945 auf der Konferenz von San Francisco\n\
+      unterzeichnet wurde.  Dieser multilaterale Vertrag, der auch als \"Constitution\
+      \ of the International Community\" bezeichnet wurde,[18] gibt in Artikel 2 Absatz\
+      \ 4 ein\numfassendes Gewaltverbot (prohibition on the use of force) vor.  Gewaltanwendung\
+      \ ist fortan nur noch im Falle der Selbstverteidigung nach Artikel 51 oder mit\n\
+      Autorisierung des Sicherheitsrats nach Kapitel VII der Charta zulässig.  Die\
+      \ Institution \"Krieg\" wurde durch die UN-Charta abgeschafft und durch die\
+      \ Rechtsfigur\ndes \"(internationalen) bewaffneten Konflikts\" ersetzt.  Dies\
+      \ war in der Tat ein absolutes Novum, vorherige Versuche wie die Drago-Porter-Konvention,[19]\
+      \ der\nKellogg-Briand-Pakt[20] oder die Völkerbundsatzung[21] bezogen sich vornehmlich\
+      \ auf die (partielle) Ächtung des Krieges, nicht auf den Ausschluss von Gewalt\n\
+      generell. "
+    uid: abaf851e-7881-453d-96b1-1d30d6cf5296
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Silja Vöneky, Implementation and Enforcement of International
+        Humanitarian Law, in: Dieter Fleck (Hrsg.'
+      page_label: '4'
+      relevance_score: 0.4563675873336109
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "[5] International Court of Justice, Legality of the Threat or Use of Nuclear\
+      \ Weapons (Advisory Opinion), 1996, ICJ Rep 253, para 95 (eig.  Übersetzung).\n\
+      \ [6]\nVgl.  Silja Vöneky, Implementation and Enforcement of International Humanitarian\
+      \ Law, in: Dieter Fleck (Hrsg. ), The Handbook of International Humanitarian\n\
+      Law, Oxford 20214, Rn.  21.05.\n [7] Vgl. "
+    uid: 7458f20e-020f-45f2-8111-e89021f8fb39
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: '32nd ICRC International Conference, Resolution 2: Strengthening
+        Compliance with International Humanitarian Law (32IC/15/R2), 8.–10.12.2015.
+
+        '
+      page_label: '5'
+      relevance_score: 0.45365062272667944
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "[24] Vgl.  Draft Articles on Autonomous Weapons Systems, CCW/GGE.1/2023/WP\
+      \ .4/Rev.2, 15.5.2023.\n [25] Vgl.  32nd ICRC International Conference, Resolution\
+      \ 2: Strengthening Compliance with International Humanitarian Law (32IC/15/R2),\
+      \ 8.–10.12.2015.\n [26] Vgl.  ICRC, Factual Report on the Proceedings of the\
+      \ Intergovernmental Process on Strengthening Respect for IHL – Progress Report,\
+      \ Oktober 2019, S.  11.\n"
+    uid: 1bab0b57-2dee-497a-b1e3-cd86fe557582
+  - metadata:
+      author: Heike, Krieger
+      file_name: heike_genfer_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'September 2001 wurden insbesondere in den USA Rufe nach einer
+        Reform der Genfer
+
+        Konventionen laut, um diese an die Bedingungen asymmetrischer Kriegführung
+        anzupassen. '
+      page_label: '3'
+      relevance_score: 0.4505959995253518
+      title: Die {Genfer} {Konventionen} in der {Praxis}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550590/die-genfer-konventionen-in-der-praxis/
+      year: '2024'
+    text: "Je\nnach Interessenlage berufen sie sich dabei auf die Anwendbarkeit oder\
+      \ Nicht-Anwendbarkeit des bestehenden Rechts auf neue Phänomene, wechseln die\n\
+      Verhandlungsforen und versuchen mittels (rechts-)politischer Erklärungen, die\
+      \ Rechtsentwicklung im eigenen Interesse zu beeinflussen.  Letztlich zeigen\
+      \ diese\nProzesse, dass eine grundsätzliche Uneinigkeit über die zukünftige\
+      \ Richtung der Rechtsentwicklung besteht.\n Im Zusammenhang mit dem war on terror\
+      \ nach den Anschlägen vom 11.  September 2001 wurden insbesondere in den USA\
+      \ Rufe nach einer Reform der Genfer\nKonventionen laut, um diese an die Bedingungen\
+      \ asymmetrischer Kriegführung anzupassen.  Dieses Ansinnen wurde unter anderem\
+      \ auch in Europa\nzurückgewiesen.  Experten befürchteten, dass unter dem Eindruck\
+      \ der Anschläge der Schutzstandard der Genfer Konventionen herabgesenkt werden\
+      \ könnte,\nohne dass eine wirkliche Notwendigkeit zu ihrer Anpassung bestanden\
+      \ hätte. [18]\nVersuche, die Nutzung des Cyberraums auch im Hinblick auf mögliche\
+      \ militärische Angriffe vertraglich zu regeln, sind demgegenüber vor allem von\
+      \ China und\nRussland initiiert worden. "
+    uid: ffe4fad0-5439-4058-958a-ad328ddf4f7e
+  - metadata:
+      author: Raphael, Schäfer
+      file_name: raphael_grausames_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'An dieser Stelle mag daher der Hinweis genügen, dass die menschenrechtliche
+        Dimension der Debatte deutlich prominenter
+
+        thematisiert wird als die Frage nach einer Aktualisierung der Genfer Konventionen
+        – hierzu fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.
+
+        '
+      page_label: '4'
+      relevance_score: 0.449874646169251
+      title: Ein grausames {Recht}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/genfer-konventionen-2024/550588/ein-grausames-recht/
+      year: '2024'
+    text: "individuell-rechtlichen Perspektive\", wie es etwa durch die Etablierung\
+      \ individueller Verantwortlichkeit im Statut des Internationalen Strafgerichtshofs\
+      \ sowie\ndurch die zunehmende Anerkennung der Fortgeltung der menschenrechtlichen\
+      \ Verträge geschehe. [38] Eine genaue Darstellung dieser Zusammenhänge wäre\n\
+      das Thema eines eigenen Beitrages.  An dieser Stelle mag daher der Hinweis genügen,\
+      \ dass die menschenrechtliche Dimension der Debatte deutlich prominenter\nthematisiert\
+      \ wird als die Frage nach einer Aktualisierung der Genfer Konventionen – hierzu\
+      \ fehlt es schlicht an der erforderlichen Bereitschaft der Staaten.\n Gerade\
+      \ die menschenrechtlichen Kontrollmechanismen bieten ein gewisses Feinsteuerungs-\
+      \ und Konkretisierungspotenzial humanitär-völkerrechtlicher\nPflichten.  So\
+      \ hat etwa der UN-Menschenrechtsausschuss für das im Internationalen Pakt über\
+      \ bürgerliche und politische Rechte gewährte Recht auf Leben und\nFreiheit dahingehend\
+      \ eine staatliche Planungs- und Kontrollpflicht abgeleitet, dass sichergestellt\
+      \ werden muss, dass ein Angriff Risiken für Leben (Art.  6 Abs. "
+    uid: b0cf309c-a6eb-4606-b172-4277c51b42e2
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 2
+  negation: Die Genfer Konventionen zielen nicht auf den Schutz der Zivilbevölkerung
+    ab.
+  statement_type: *id004
+  text: Die Genfer Konventionen zielen auf den Schutz der Zivilbevölkerung ab.
+  uid: cfab86ef-59ea-4d51-8571-32b851d47b36
+  verbalized_confirmation: The claim is strongly confirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - C
+        - A
+        - B
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(C|A|B)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          If you did not identify any ascriptions, make sure to return an empty list
+          containing no strings, not even empty ones..
+
+          Format your (possibly empty) list of ascriptions as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          If you did not identify any descriptive statements, make sure to return
+          an empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          If you did not identify any normative statements, make sure to return an
+          empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+request: Die Genfer Konventionen sind oft hinter ihrem Anspruch, die Zivilbevölkerung
+  zu schützen, zurückgeblieben.
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  trust_remote_code: null
+  window_size: 3
+time: 2025-09-19 10:53:53 UTC
+uid: 15226286-3980-4cfd-8fd3-92f9432e994c

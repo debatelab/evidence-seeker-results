@@ -1,0 +1,1833 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: &id001 inconclusive_confirmation
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Kombination von Demokratisierung und wirtschaftlichem Wachstum ist
+    nicht positiv.
+  statement_type: &id002 normative
+  text: Die Kombination von Demokratisierung und wirtschaftlichem Wachstum ist positiv.
+  uid: 06c3c199-93e0-46c3-959f-6de205d94f42
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Demokratisierung und wirtschaftliches Wachstum sind nicht wünschenswerte
+    Entwicklungen.
+  statement_type: *id002
+  text: Demokratisierung und wirtschaftliches Wachstum sind wünschenswerte Entwicklungen.
+  uid: fb8a1fc5-4d3e-40a5-80e6-e48a3840a3ef
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    2cdf8c8d-ab17-455e-a030-01f4200781dc: 2.198594532096297e-34
+    461634a0-4be3-4263-aa1e-124d2c632262: 1.7816729631100128e-30
+    4a3e0b31-ec11-40c3-b4b2-a155ff712661: 2.975690147538233e-35
+    592c2b37-01a3-436f-8d75-77f1d51afc11: -1.2160992992527565e-37
+    5b3b848c-3620-4754-9fe9-13676fde7d2e: 7.47197233734299e-43
+    63f3ac89-a1d4-4e76-8cd9-a87e178305f0: 3.348705657051728e-42
+    af2759de-afaf-497f-8c56-6e0d12ee84b8: 1.4616773489773817e-31
+    b1e41429-4cfc-4ec5-a4d2-10cd19ab4bb4: 2.9756471743945573e-35
+    cee525d4-8e68-4bb3-9aa0-103d31319fa5: 2.381772829608658e-46
+    edac3e61-ce3e-418b-9a48-c2c9c7d25880: 4.026348390878234e-36
+    f5287a94-b115-4eaf-9552-56828ab42a28: 1.4815114896790937e-36
+    fb350cda-6877-4395-a40b-8ecad83dc2e4: -4.416325735416452e-33
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.4269920966696475
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: cee525d4-8e68-4bb3-9aa0-103d31319fa5
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Diese Partnerschaft beförderte nicht nur das amerikanische Wirtschaftswachstum,
+        sondern auch die internationale
+
+        Führungsrolle des US-Dollar. '
+      page_label: '2'
+      relevance_score: 0.40126061745675995
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: 'Seit den 1950er Jahren war der Faktor Energie von zentraler Bedeutung für
+      die
+
+      Sicherheitsbeziehungen mit den USA.  Das Treffen zwischen US-Präsident Franklin
+      D. Roosevelt und dem saudischen König Abdul Aziz Ibn Saud an Bord der "USS
+
+      Quincy" im Suezkanal 1945 war seinerzeit der erste Schritt hin zu einem Bündnis,
+      das auf der stabilen Versorgung mit preiswertem Erdöl im Austausch für
+
+      amerikanische Sicherheitsgarantien beruhte.  1974 wurde diese gegenseitige Abhängigkeit
+      durch ein ähnliches Abkommen zwischen Präsident Richard Nixon und
+
+      König Faisal bin Abdulaziz Al Saud bekräftigt.  Diese Partnerschaft beförderte
+      nicht nur das amerikanische Wirtschaftswachstum, sondern auch die internationale
+
+      Führungsrolle des US-Dollar.  Im Gegenzug wurden die USA zum wichtigsten Sicherheitspartner
+      der Golfstaaten und zu einem Grundpfeiler der regionalen
+
+      Sicherheitsarchitektur.  Die Länder des Nahen Ostens – hauptsächlich die Golfstaaten,
+      Ägypten, Israel und Jordanien – importieren mehr als zwei Drittel ihrer
+
+      Verteidigungstechnologien aus den Vereinigten Staaten.  Die US-Stützpunkte in
+      der Region, unter anderem in Bahrain, Katar und Kuwait, spielen eine wichtige
+
+      Rolle bei der Abschreckung regionaler Rivalen, insbesondere Irans.
+
+      '
+    uid: edac3e61-ce3e-418b-9a48-c2c9c7d25880
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'War die Unterstützung der Erweiterung früher vor allem durch
+
+        wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in
+        Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.39738654733530565
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Polen und Schweden stehen dagegen exemplarisch für jene Gruppe von EU-Staaten,\
+      \ die nicht spezifisch an den Westbalkan denken, sondern traditionell zu den\n\
+      Befürwortern der EU-Osterweiterung gehören und sich daher federführend an der\
+      \ EU-Initiative Östliche Partnerschaft von 2009 beteiligt haben, um die\nIntegration\
+      \ der Länder in der östlichen Nachbarschaft der Union stärker zu unterstützen,\
+      \ vor allem, um die Stabilität in der Region zu sichern.  Der Krieg Russlands\n\
+      in der Ukraine hat bei ihnen zu einer spürbaren sicherheitspolitischen Präferenzverschiebung\
+      \ in Richtung Erweiterung geführt.  Mit dem Krieg sind aber auch die\nWerte,\
+      \ die mit der Zugehörigkeit zum „Westen“ verbunden werden, wichtiger denn je\
+      \ geworden.  War die Unterstützung der Erweiterung früher vor allem durch\n\
+      wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in\
+      \ Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.\n Darüber\
+      \ hinaus gibt es Länder wie Portugal, die trotz ihrer geografischen Entfernung\
+      \ am westlichen Rand der Union die Erweiterungsrunden als eine Form der\nSolidarität\
+      \ und der Begleichung einer „Schuld der Dankbarkeit“ unterstützt haben.  Hier\
+      \ wird die Erweiterung der EU um den Westbalkan, die Ukraine, die Republik\n\
+      Moldau und Georgien im Kontext eines Prozesses der europäischen integrativen\
+      \ Solidarität verstanden.\n Die portugiesische Haltung steht zugleich aber auch\
+      \ exemplarisch für gesellschaftliche und politische Veränderungen innerhalb\
+      \ eines Landes – und dafür, dass\nsich nationale Diskurse verändern können. "
+    uid: 461634a0-4be3-4263-aa1e-124d2c632262
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.39068418515190306
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: b1e41429-4cfc-4ec5-a4d2-10cd19ab4bb4
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Das Bruttoinlandsprodukt (BIP) legte
+
+        2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des
+        Euroraums von 0,4 Prozent deutlich übertraf. '
+      page_label: '1'
+      relevance_score: 0.3794406734238944
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Ökonomischer Aufwärtstrend
+
+      Wirtschaftlich befindet Italien sich seit Überwindung der Corona-Pandemie auf
+      einem moderat positiven Entwicklungspfad, trotz aller Schwierigkeiten, die sich
+
+      infolge des Angriffskriegs Russlands auf die Ukraine auch in Italien zeigen.  Die
+      Inflation ist deutlich rückläufig, nach 5,2 Prozent 2023 werden für 2024 sehr
+      gute
+
+      1,6 Prozent erwartet.  Allerdings ist die Sparneigung der privaten Haushalte
+      weiterhin relativ hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP)
+      legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent. '
+    uid: 592c2b37-01a3-436f-8d75-77f1d51afc11
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Oder kann die EU realistischerweise erwarten, dass sich die
+        Ukraine, Moldau, Georgien und die sechs Balkanstaaten in den kommenden
+
+        Jahren zu vollwertigen liberalen Demokratien entwickeln, wenn der Kreml jeden
+        Tag unerbittlich gegen sie und ihre Bevölkerungen vorgeht?'
+      page_label: '3'
+      relevance_score: 0.37759927515614067
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n Die Beitrittskandidaten gehen\
+      \ existenzielle Sicherheitsrisiken ein, wenn sie sich für uns, für die Demokratie,\
+      \ für die EU entscheiden. "
+    uid: 2cdf8c8d-ab17-455e-a030-01f4200781dc
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Rat und Kommission argumentierten deshalb, dass die Erweiterungspolitik
+        die
+
+        "(geo-)strategische Investition in Frieden, Stabilität, Sicherheit und wirtschaftliches
+        Wachstum"[15] sei. '
+      page_label: '2'
+      relevance_score: 0.3754738167917238
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "[14] Gespeist wurden diese Überlegungen durch die von Anbeginn kontroverse\
+      \ Aufnahme von\nBeitrittsverhandlungen mit der Türkei 2005, aber auch durch\
+      \ die 2003 offiziell als Alternative zur Erweiterung lancierte Europäische Nachbarschaftspolitik\
+      \ (ENP).\n Das Interesse der EU an enger Kooperation mit Südosteuropa einschließlich\
+      \ der Türkei belebte sich angesichts des massiven Zustroms von Geflüchteten\
+      \ über die\nBalkanroute im Krisenjahr 2015.  Zugleich nahm die EU eine wachsende\
+      \ geopolitische Konkurrenz mit Russland, China und auch der Türkei wahr, deren\
+      \ Präsenz\nund wirtschaftlich-politischer Einfluss in der Region stärker wurden.\
+      \  Rat und Kommission argumentierten deshalb, dass die Erweiterungspolitik die\n\
+      \"(geo-)strategische Investition in Frieden, Stabilität, Sicherheit und wirtschaftliches\
+      \ Wachstum\"[15] sei.  Einzelne Mitgliedstaaten wollten daraufhin die\nBeziehungen\
+      \ dynamisieren: 2014 startete etwa der Berliner Prozess mit dem Schwerpunkt\
+      \ auf regionaler Wirtschaftskooperation und 2018 ergriffen die deutsche\nund\
+      \ britische Regierung eine Initiative zur Wiederbelebung des Reformprozesses\
+      \ in Bosnien-Herzegowina.  Außerdem legte die Kommission 2018 sechs\nLeitinitiativen\
+      \ vor, die ausdrücklich \"eine glaubwürde Erweiterungsperspektive für und ein\
+      \ verstärktes Engagement der EU gegenüber dem westlichen Balkan\"\nanvisierten.\
+      \ [16] Im selben Jahr wurde zudem der Westbalkan-Gipfel lanciert, bei dem sich\
+      \ Staats- und Regierungschefs der EU und der sechs Länder treffen. "
+    uid: af2759de-afaf-497f-8c56-6e0d12ee84b8
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Die Industrialisierung der Technologiemacht China [5] löste
+        zudem einen Exportboom in den Rohstoffländern des
+
+        BRICS aus, etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden
+        Ländern ein höheres Wachstum als den Industrieländern.
+
+        '
+      page_label: '2'
+      relevance_score: 0.3742868711294464
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Jahrzehnten zudem erhebliche technologische Fortschritte und Innovationen,\
+      \ die zu einem wachsenden Anteil ihrer Hightech-Exporte führten und zugleich\
+      \ zu\nAbhängigkeiten der Länder des Globalen Südens und des Westens beitrugen\
+      \ (etwa in den Lieferketten).  [4] Diese Veränderungen markieren einen deutlichen\n\
+      wirtschaftlichen Dominanzverlust des Westens.  Die Industrialisierung der Technologiemacht\
+      \ China [5] löste zudem einen Exportboom in den Rohstoffländern des\nBRICS aus,\
+      \ etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden\
+      \ Ländern ein höheres Wachstum als den Industrieländern.\n Die wirtschaftlichen\
+      \ Machtverschiebungen manifestieren sich vor allem darin, dass der BRICS-Verbund\
+      \ wichtige strategische Güter und Dienstleistungen\nanbietet – und relativ viele\
+      \ mächtige Großunternehmen global agieren, die von den unterschiedlichen Mitgliedstaaten\
+      \ unterstützt werden.  [6] Dies lässt sich zum\nBeispiel an den jeweiligen Marktanteilen\
+      \ in wichtigen Produktgruppen und Dienstleistungen erkennen, etwa an der Dominanz\
+      \ in Kommunikationsnetzwerken und\nim Finanzsektor oder bei der Kreditvergabe\
+      \ an andere Länder, die mitunter zur Entstehung von Schuldnersituationen führt.\
+      \  [7]\nBesonders sichtbar wird die globale Neuvermessung der Wirtschaft an\
+      \ den globalen Wertschöpfungsketten (WSK), die zur vorherrschenden Organisationsform\n\
+      der Weltwirtschaft geworden sind. "
+    uid: 5b3b848c-3620-4754-9fe9-13676fde7d2e
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'Diesen Staaten bot die EU alles außer Institutionen an, also
+        so viel
+
+        funktionale Kooperation und Integration wie unterhalb der Mitgliedschaft möglich
+        wäre, um eine "Zone des Wohlstands und der guten Nachbarschaft" zu
+
+        schaffen.'
+      page_label: '3'
+      relevance_score: 0.37099702574250476
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: "Als der Europäische Rat im\nJuni 2022 den Kandidatenstatus an die Ukraine\
+      \ und Moldau vergab, zog das eine gleichgerichtete Entscheidung für Bosnien-Herzegowina\
+      \ im Dezember 2022\nnach sich und im März 2024 für die an Vorbedingungen gebundene\
+      \ Eröffnung von Beitrittsverhandlungen mit Sarajewo.  2022 gab der Europäische\
+      \ Rat schließlich\ngrünes Licht für die Verhandlungen mit Nordmazedonien und\
+      \ Montenegro.\n Nachbarschaftspolitik als Abhaltestrategie\nDie Europäische\
+      \ Sicherheitsstrategie von 2003 und die damals lancierte ENP zeigten, dass die\
+      \ EU auf eine Ordnung im \"größeren Europa\" hinarbeiten wollte, in\nder sie\
+      \ selbst von einem \"Ring verantwortungsvoll regierter Staaten\"[18] umgeben\
+      \ wäre.  Diesen Staaten bot die EU alles außer Institutionen an, also so viel\n\
+      funktionale Kooperation und Integration wie unterhalb der Mitgliedschaft möglich\
+      \ wäre, um eine \"Zone des Wohlstands und der guten Nachbarschaft\" zu\nschaffen.\
+      \ [19] Adressaten dieser \"Erweiterung light\" im \"größeren Europa\" waren\
+      \ die drei Südkaukasus-Staaten sowie die Ukraine, Moldau und mit\nEinschränkungen\
+      \ Belarus.  Russland gehörte auch nach eigenem Willen nicht zu den ENP-Ländern.\
+      \  Zugleich schloss die EU ihrerseits eine punktuelle Mitwirkung\nMoskaus nicht\
+      \ prinzipiell aus. "
+    uid: f5287a94-b115-4eaf-9552-56828ab42a28
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'So spricht die EU traditionell von
+
+        Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+        zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt.'
+      page_label: '1'
+      relevance_score: 0.36911692791555784
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: '[1] Die EU reagiert,
+
+      wenn Regierungen einen Antrag auf Aufnahme ihres Landes stellen oder dies ankündigen.  An
+      Aspiranten gab und gibt es dabei keinen Mangel.  In allen
+
+      Erweiterungsrunden seit 1973 machten sich zwar einzelne Mitgliedstaaten für
+      den Beitritt des einen oder anderen Landes stark, aber von einer
+
+      gemeinschaftlichen, proaktiven Strategie gegenüber ausgesuchten europäischen
+      Drittstaaten konnte nicht die Rede sein.  So spricht die EU traditionell von
+
+      Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+      zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt. [2] Auch
+      die
+
+      Praxis, mehrere Länder zum selben Zeitpunkt aufzunehmen, entsprang nicht einem
+      geopolitischen Ansatz, wie es die Bezeichnungen "Nord-" oder
+
+      "Süderweiterung" nahelegen könnten.  Ohnehin befasste sich die EU im Zeichen
+      von Grenzabbau und Transnationalität kaum mit der territorial-physischen
+
+      Dimension des Binnenmarkts oder des Raums der Freiheit, der Sicherheit und des
+      Rechts. [3]
+
+      Erst mit Blick auf die nach 1989 möglich gewordene Osterweiterung entwickelte
+      die EU eine umfassende Strategie, die die Europäische Kommission in der
+
+      "Agenda 2000"[4] skizzierte. '
+    uid: fb350cda-6877-4395-a40b-8ecad83dc2e4
+  - metadata:
+      author: Juhász, Réka and Steinwender, Claudia
+      file_name: juhasz_mehr_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'In der wissenschaftlichen Forschung konnte an vielen Beispielen
+        gezeigt werden, dass gerade Eisenbahnnetze viele positive Auswirkungen auf
+
+        Wirtschaftswachstum und Industrialisierung hatten. '
+      page_label: '3'
+      relevance_score: 0.3587535395294423
+      title: Mehr als {Protektionismus}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544581/mehr-als-protektionismus/
+      year: '2024'
+    text: "[24] Einige\nStaaten wie Großbritannien oder Preußen überließen den Eisenbahnbau\
+      \ eher der Privatwirtschaft.  Andere wiederum nahmen erheblichen Einfluss auf\
+      \ den\nAusbau, auch wenn sie ihn nicht direkt finanzierten.  Dies geschah beispielsweise\
+      \ durch die Vergabe von Landrechten und Konzessionen, durch Subventionen\noder\
+      \ Gewinngarantien oder durch die Regulierung des Eisenbahnbetriebs.\n In der\
+      \ wissenschaftlichen Forschung konnte an vielen Beispielen gezeigt werden, dass\
+      \ gerade Eisenbahnnetze viele positive Auswirkungen auf\nWirtschaftswachstum\
+      \ und Industrialisierung hatten.  Sie erschlossen weite landwirtschaftliche\
+      \ Gebiete innerhalb eines Landes für den Exportmarkt und\nermöglichten Produktivitätssteigerungen\
+      \ durch eine stärkere Spezialisierung der Regionen innerhalb eines Landes. \
+      \ Diese Vorteile zeigen sich in den früh\nindustrialisierten Ländern wie Großbritannien,\
+      \ in den später industrialisierten wie Schweden und Japan und sogar in den Kolonien\
+      \ wie Ghana und Britisch-Indien,\nwo die Entwicklung der Eisenbahn in erster\
+      \ Linie den Interessen der Kolonialherren und nicht der einheimischen Bevölkerung\
+      \ diente.  Eisenbahnen führten auch\nzu mehr Innovation und Technologieübernahme,\
+      \ da Erfinder durch die verbesserten Transportmöglichkeiten mehr über technologische\
+      \ Bedürfnisse wussten und\nihre Patente leichter verkaufen konnten. "
+    uid: 63f3ac89-a1d4-4e76-8cd9-a87e178305f0
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der große Unterschied zu 1999 besteht heute darin, dass eine
+        Reform des EU-Erweiterungsprozesses mit einer Neutralisierung der Bedrohung
+        durch den Kreml
+
+        einhergehen muss. '
+      page_label: '3'
+      relevance_score: 0.35852369931412714
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Mit verschiedenen\nMitteln versetzt die neoimperiale Kontrolle Russlands\
+      \ über die Staaten der ehemaligen Sowjetunion alle Länder in höchste Alarmbereitschaft\
+      \ und in eine Position\ngrößter Verwundbarkeit, von der insbesondere die Länder\
+      \ in der östlichen Nachbarschaft der EU und auf dem westlichen Balkan betroffen\
+      \ sind.  Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n"
+    uid: 4a3e0b31-ec11-40c3-b4b2-a155ff712661
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Demokratisierung und wirtschaftliches Wachstum stehen nicht in einer positiven
+    Beziehung zueinander.
+  statement_type: &id003 descriptive
+  text: Demokratisierung und wirtschaftliches Wachstum stehen in einer positiven Beziehung
+    zueinander.
+  uid: eca408bd-522e-4344-8b68-4b41d718c109
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    03d44d9d-f867-487c-9517-a240adacc45a: 4.906094703161431e-35
+    2831ae3e-f61f-461a-8d74-647f2a8dad0b: 1.804245927655875e-35
+    3139ac8b-950e-4c92-870e-bf04555f51cf: -2.4424179046056227e-36
+    4961f5f0-0146-4017-a741-e732e9c4b808: 1.639085375932629e-38
+    4f1bfcee-4a69-4f75-97d5-bd6e83cef350: -7.47197233734299e-43
+    5852e822-939d-45fb-8b16-44f0305a8a30: 4.0271586894148456e-36
+    6b9523ed-b651-4f00-ac7b-904ea2d87634: -9.486775350045416e-42
+    7473bdf8-85c7-4a75-b52b-e983cbede079: -1.8283245354924378e-40
+    8cc1f184-5a2b-4bd0-b6ae-b63cf4352622: 5.976846938145419e-34
+    9d77d8f4-1b49-48f9-8676-f51821c9b428: -1.8266641266650034e-40
+    a0136977-4515-402d-a551-d2dd616da4e6: -4.027167792136042e-36
+    f7c054cd-5e5f-41e8-aee4-10f74076273c: 1.2319199726660341e-42
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Die Industrialisierung der Technologiemacht China [5] löste
+        zudem einen Exportboom in den Rohstoffländern des
+
+        BRICS aus, etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden
+        Ländern ein höheres Wachstum als den Industrieländern.
+
+        '
+      page_label: '2'
+      relevance_score: 0.43044504577909726
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Jahrzehnten zudem erhebliche technologische Fortschritte und Innovationen,\
+      \ die zu einem wachsenden Anteil ihrer Hightech-Exporte führten und zugleich\
+      \ zu\nAbhängigkeiten der Länder des Globalen Südens und des Westens beitrugen\
+      \ (etwa in den Lieferketten).  [4] Diese Veränderungen markieren einen deutlichen\n\
+      wirtschaftlichen Dominanzverlust des Westens.  Die Industrialisierung der Technologiemacht\
+      \ China [5] löste zudem einen Exportboom in den Rohstoffländern des\nBRICS aus,\
+      \ etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden\
+      \ Ländern ein höheres Wachstum als den Industrieländern.\n Die wirtschaftlichen\
+      \ Machtverschiebungen manifestieren sich vor allem darin, dass der BRICS-Verbund\
+      \ wichtige strategische Güter und Dienstleistungen\nanbietet – und relativ viele\
+      \ mächtige Großunternehmen global agieren, die von den unterschiedlichen Mitgliedstaaten\
+      \ unterstützt werden.  [6] Dies lässt sich zum\nBeispiel an den jeweiligen Marktanteilen\
+      \ in wichtigen Produktgruppen und Dienstleistungen erkennen, etwa an der Dominanz\
+      \ in Kommunikationsnetzwerken und\nim Finanzsektor oder bei der Kreditvergabe\
+      \ an andere Länder, die mitunter zur Entstehung von Schuldnersituationen führt.\
+      \  [7]\nBesonders sichtbar wird die globale Neuvermessung der Wirtschaft an\
+      \ den globalen Wertschöpfungsketten (WSK), die zur vorherrschenden Organisationsform\n\
+      der Weltwirtschaft geworden sind. "
+    uid: 8cc1f184-5a2b-4bd0-b6ae-b63cf4352622
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.422221344823907
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: f7c054cd-5e5f-41e8-aee4-10f74076273c
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Oder kann die EU realistischerweise erwarten, dass sich die
+        Ukraine, Moldau, Georgien und die sechs Balkanstaaten in den kommenden
+
+        Jahren zu vollwertigen liberalen Demokratien entwickeln, wenn der Kreml jeden
+        Tag unerbittlich gegen sie und ihre Bevölkerungen vorgeht?'
+      page_label: '3'
+      relevance_score: 0.4052503589187647
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n Die Beitrittskandidaten gehen\
+      \ existenzielle Sicherheitsrisiken ein, wenn sie sich für uns, für die Demokratie,\
+      \ für die EU entscheiden. "
+    uid: a0136977-4515-402d-a551-d2dd616da4e6
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'So spricht die EU traditionell von
+
+        Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+        zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt.'
+      page_label: '1'
+      relevance_score: 0.40269393934445397
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: '[1] Die EU reagiert,
+
+      wenn Regierungen einen Antrag auf Aufnahme ihres Landes stellen oder dies ankündigen.  An
+      Aspiranten gab und gibt es dabei keinen Mangel.  In allen
+
+      Erweiterungsrunden seit 1973 machten sich zwar einzelne Mitgliedstaaten für
+      den Beitritt des einen oder anderen Landes stark, aber von einer
+
+      gemeinschaftlichen, proaktiven Strategie gegenüber ausgesuchten europäischen
+      Drittstaaten konnte nicht die Rede sein.  So spricht die EU traditionell von
+
+      Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+      zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt. [2] Auch
+      die
+
+      Praxis, mehrere Länder zum selben Zeitpunkt aufzunehmen, entsprang nicht einem
+      geopolitischen Ansatz, wie es die Bezeichnungen "Nord-" oder
+
+      "Süderweiterung" nahelegen könnten.  Ohnehin befasste sich die EU im Zeichen
+      von Grenzabbau und Transnationalität kaum mit der territorial-physischen
+
+      Dimension des Binnenmarkts oder des Raums der Freiheit, der Sicherheit und des
+      Rechts. [3]
+
+      Erst mit Blick auf die nach 1989 möglich gewordene Osterweiterung entwickelte
+      die EU eine umfassende Strategie, die die Europäische Kommission in der
+
+      "Agenda 2000"[4] skizzierte. '
+    uid: 5852e822-939d-45fb-8b16-44f0305a8a30
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.40139300876621115
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: 3139ac8b-950e-4c92-870e-bf04555f51cf
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: '[12] Wenige Länder
+
+        werden reicher – vor allem die G7 und einige Länder des BRICS-Verbunds –,
+        während viele Entwicklungsländer und auch zahlreiche BRICS-Staaten relativ
+
+        zurückfallen, beispielsweise Südafrika, Brasilien, Russland, Äthiopien und
+        Ägypten.
+
+        '
+      page_label: '2'
+      relevance_score: 0.38894207820496646
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "[11] Der BRICS-Club ist zur\nglobalen Rohstoff-Supermacht geworden.\n Große\
+      \ Divergenz\nDurch die Gründung von BRICS und seiner Erweiterung zu BRICS plus\
+      \ haben sich die globalen wirtschaftlichen und politischen Kräfteverhältnisse\
+      \ verschoben.\n Dies geht einher mit einer Konzentration der Produktion, des\
+      \ Konsums und der Einkommen – der „großen Divergenz“ in der Weltgesellschaft.\
+      \  [12] Wenige Länder\nwerden reicher – vor allem die G7 und einige Länder des\
+      \ BRICS-Verbunds –, während viele Entwicklungsländer und auch zahlreiche BRICS-Staaten\
+      \ relativ\nzurückfallen, beispielsweise Südafrika, Brasilien, Russland, Äthiopien\
+      \ und Ägypten.\n Das hat auch damit zu tun, dass die internationalen Wirtschaftsbeziehungen\
+      \ zunehmend durch geostrategisches Agieren geprägt sind.  Bei den\nHandelsstreitigkeiten\
+      \ zwischen den USA, der EU und China geht es nicht nur um Absatzmärkte, den\
+      \ Bezug von End- und Vorprodukten und um\nLieferbeziehungen, sondern auch um\
+      \ globale Technologieführerschaft und wirtschaftliche sowie strategische Dominanz.\
+      \  Technologieführerschaft ist die\nFähigkeit, in zentralen Bereichen – digitale\
+      \ Technologien, Roboterisierung und künstliche Intelligenz, Energietransfer,\
+      \ Halbleitertechnologien, Betriebssoftware\n[13] – globale Normen und Standards\
+      \ zu setzen, von denen Nutzer dieser Technologien abhängig sind. "
+    uid: 4f1bfcee-4a69-4f75-97d5-bd6e83cef350
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Das Bruttoinlandsprodukt (BIP) legte
+
+        2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des
+        Euroraums von 0,4 Prozent deutlich übertraf. '
+      page_label: '1'
+      relevance_score: 0.3842561021783984
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Ökonomischer Aufwärtstrend
+
+      Wirtschaftlich befindet Italien sich seit Überwindung der Corona-Pandemie auf
+      einem moderat positiven Entwicklungspfad, trotz aller Schwierigkeiten, die sich
+
+      infolge des Angriffskriegs Russlands auf die Ukraine auch in Italien zeigen.  Die
+      Inflation ist deutlich rückläufig, nach 5,2 Prozent 2023 werden für 2024 sehr
+      gute
+
+      1,6 Prozent erwartet.  Allerdings ist die Sparneigung der privaten Haushalte
+      weiterhin relativ hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP)
+      legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent. '
+    uid: 6b9523ed-b651-4f00-ac7b-904ea2d87634
+  - metadata:
+      author: Stephan, Sabine
+      file_name: stephan_europa_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Da die USA für viele Unternehmen ein attraktiver Wachstumsmarkt
+        sind, besteht die Gefahr, dass insbesondere
+
+        Unternehmen, die ohnehin eine Ansiedlung in den USA erwogen haben, entsprechende
+        Investitionen zeitnah tätigen, um von den üppigen US-Förderungen zu
+
+        profitieren, und ursprünglich in der EU geplante Investitionen zeitlich verschieben
+        oder sogar ganz streichen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.38063296678536945
+      title: Europa braucht eine aktive {Industriepolitik}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544577/europa-braucht-eine-aktive-industriepolitik/
+      year: '2024'
+    text: "Mit Projektverbünden in den Bereichen Mikroelektronik, Batterien, Wasserstoff\
+      \ und\nKommunikationstechnologie, die Forschungs- und Entwicklungsvorhaben entlang\
+      \ der gesamten Wertschöpfungskette bis hin zur konkreten Anwendung\numfassen,\
+      \ hat die EU unter den gegebenen Rahmenbedingungen eine gute Grundlage geschaffen,\
+      \ um Europa zu einem Standort für klimafreundliche\nZukunftstechnologien zu\
+      \ machen und das selbst gesteckte Ziel der Klimaneutralität bis 2050 zu erreichen.\n\
+      \ Ob die EU die Früchte ihrer Strategie in vollem Umfang ernten kann, ist derzeit\
+      \ allerdings ungewiss.  Denn die USA haben mit dem IRA attraktive\nInvestitionsbedingungen\
+      \ für Unternehmen geschaffen, die in den Bereichen Erneuerbare Energien, Wasserstoff\
+      \ und Elektromobilität auf der anderen Seite des\nAtlantiks investieren und\
+      \ produzieren wollen.  Da die USA für viele Unternehmen ein attraktiver Wachstumsmarkt\
+      \ sind, besteht die Gefahr, dass insbesondere\nUnternehmen, die ohnehin eine\
+      \ Ansiedlung in den USA erwogen haben, entsprechende Investitionen zeitnah tätigen,\
+      \ um von den üppigen US-Förderungen zu\nprofitieren, und ursprünglich in der\
+      \ EU geplante Investitionen zeitlich verschieben oder sogar ganz streichen.\n\
+      \ Dies könnte für Europa weitreichende Folgen haben.  Nicht nur, weil sich dadurch\
+      \ die Transformation von Wirtschaft und Gesellschaft hin zur Klimaneutralität\n\
+      verzögern würde, sondern auch, weil Europa als Standort für Schlüsseltechnologien\
+      \ den Anschluss an die USA und China verlieren könnte.  Der Grund dafür ist,\n\
+      dass in Hochtechnologie- und Wachstumsbranchen, wie sie für die Bewältigung\
+      \ der digitalen und grünen Transformation erforderlich sind, Größenvorteile\n\
+      (sogenannte Skalenerträge) und Spillover-Effekte eine wichtige Rolle spielen,\
+      \ weshalb sich die Produktion weltweit auf einige wenige Standorte und einige\
+      \ große\nUnternehmen konzentriert. "
+    uid: 7473bdf8-85c7-4a75-b52b-e983cbede079
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: '[9]
+
+        Dies verdeutlicht, dass China als bislang einzigem BRICS-Land der Sprung zu
+        einer führenden Weltwirtschaftsmacht gelungen ist, während die anderen
+
+        Mitgliedsländer von diesen Entwicklungen abgekoppelt sind.
+
+        '
+      page_label: '2'
+      relevance_score: 0.379607775480202
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Anderen Ländern gelang das eher nicht.  Die größten\nUnternehmen in den\
+      \ globalen Wertschöpfungsketten vereinen etwa 80 Prozent des Welthandels auf\
+      \ sich, sie sind die „Superstars“ der Weltwirtschaft.  [8]\nFührend sind hier\
+      \ US-amerikanische, chinesische und europäische Unternehmen, während Firmen\
+      \ aus den anderen BRICS-Ländern keine große Rolle spielen.  [9]\nDies verdeutlicht,\
+      \ dass China als bislang einzigem BRICS-Land der Sprung zu einer führenden Weltwirtschaftsmacht\
+      \ gelungen ist, während die anderen\nMitgliedsländer von diesen Entwicklungen\
+      \ abgekoppelt sind.\n Dies zeigt sich auch an der Zahl der schnell wachsenden\
+      \ Konzerne.  Chinesische Unternehmen stellen weltweit eine hohe Zahl der sogenannten\
+      \ Fortune-500-\nUnternehmen (über 140), während die übrigen BRICS-Staaten zusammen\
+      \ lediglich 20 aufweisen.  China liegt zudem mit 171 Start-up-Unternehmen mit\
+      \ einer\nBewertung von über einer Milliarde US-Dollar (sogenannte Unicorns,\
+      \ Einhörner) an zweiter Stelle hinter den USA; Indien ist mit 70 Unternehmen\
+      \ vertreten, die\nübrigen BRICS-Staaten kommen nur auf 17 „Einhörner“. "
+    uid: 9d77d8f4-1b49-48f9-8676-f51821c9b428
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Einige dieser Länder haben diese Partnerschaft noch vertieft,
+        indem sie gemeinsam mit Unternehmen wie Huawei, Tencent und Alibaba
+
+        Lösungen für Smart Cities und Datenzentren entwickelten. '
+      page_label: '1'
+      relevance_score: 0.37918058999357795
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: 'Laut dem "China Global Investments Tracker" des American Enterprise
+
+      Institute wurden in der MENA-Region seit 2013 Aufträge im Wert von über 122
+      Milliarden US-Dollar an chinesische Unternehmen vergeben. [5]
+
+      Darüber hinaus haben sich die Beziehungen zwischen China und verschiedenen Ländern
+      der MENA-Region über die Bereiche Energie und Infrastruktur hinaus
+
+      auf aufstrebende Sektoren wie neue Technologien, Gesundheit, erneuerbare Energien,
+      Kernenergie, Raumfahrt und Rüstungsindustrie ausgeweitet.  Fast alle
+
+      Länder des Nahen Ostens haben Verträge mit dem chinesischen Telekommunikationskonzern
+      Huawei über die Beteiligung an ihren 4G- und 5G-Netzen
+
+      abgeschlossen.  Einige dieser Länder haben diese Partnerschaft noch vertieft,
+      indem sie gemeinsam mit Unternehmen wie Huawei, Tencent und Alibaba
+
+      Lösungen für Smart Cities und Datenzentren entwickelten.  So hat Huawei für
+      Saudi-Arabien etwa die Hadsch und Umrah-App entwickelt, um Millionen von
+
+      muslimischen Pilgern zu überwachen, die jedes Jahr in das Königreich reisen.  Chinesische
+      Tech-Unternehmen sind außerdem zu wichtigen Investoren für
+
+      israelische Tech-Start-ups geworden.  Zudem kooperierte das chinesische Unternehmen
+      Sinopharm während der Corona-Pandemie mit den Vereinigten
+
+      Arabischen Emiraten (VAE), Ägypten und Marokko bei der gemeinsamen Herstellung
+      und Verteilung von Covid-19-Impfstoffen für die gesamte Region.
+
+      '
+    uid: 4961f5f0-0146-4017-a741-e732e9c4b808
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Zwischen 2000 und 2021 stieg der Anteil der BRICS-Länder an
+        den weltweiten Auslandsdirektinvestitionen
+
+        von 6 auf 25 Prozent, davon entfiel der größere Teil auf China. '
+      page_label: '1'
+      relevance_score: 0.3791577211161325
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Etwas anders sieht es bei den Anteilen am Welthandel aus: Die G7 hatten\n\
+      dort 2023 einen Anteil von knapp 30 Prozent (im Jahr 2000 waren es noch 43 Prozent),\
+      \ während die BRICS-Staaten ihren Anteil im gleichen Zeitraum von 21 auf\n25\
+      \ Prozent erhöhen konnten (ohne BRICS plus).  Nach wie vor dominieren die USA\
+      \ als größte Volkswirtschaft die globalen Währungsreserven in US-Dollar (mit\n\
+      einem Anteil von rund 50 Prozent), nur 2 Prozent entfallen etwa auf den chinesischen\
+      \ Renminbi (RMB).\n Der Erfolg der BRICS-Länder beruht unter anderem darauf,\
+      \ dass sie hohe ausländische Direktinvestitionen anziehen konnten, um ihre Ökonomien\
+      \ umzugestalten\nund sie international wettbewerbsfähig zu machen.  Zwischen\
+      \ 2000 und 2021 stieg der Anteil der BRICS-Länder an den weltweiten Auslandsdirektinvestitionen\n\
+      von 6 auf 25 Prozent, davon entfiel der größere Teil auf China.  [2] Auch in\
+      \ der Weltindustrieproduktion nehmen die BRICS-Länder inzwischen eine führende\
+      \ Rolle\nein.  So stieg in nur drei Jahrzehnten Chinas Anteil an der globalen\
+      \ Industriewertschöpfung von unter 5 auf über 31 Prozent im Jahr 2023 (zum Vergleich:\
+      \ USA 15,9\nProzent, Japan 6,5 Prozent, Deutschland 4,8 Prozent, Indien 2,9\
+      \ Prozent, Südkorea 2,7 Prozent und Russland 1,8 Prozent).  [3] Die Veränderungen\
+      \ werden unter\nanderem deutlich an der Zusammensetzung des Handels zwischen\
+      \ den OECD-Staaten und den BRICS-Ländern: Die BRICS-Mitglieder China, Brasilien,\
+      \ Indien und\nSüdafrika liefern nun ebenfalls Komponenten und Vorprodukte für\
+      \ die Industrieländer und den Globalen Süden. "
+    uid: 2831ae3e-f61f-461a-8d74-647f2a8dad0b
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der Anteil Chinas an den
+
+        Energieexporten der Region kletterte von weniger als 5 Prozent in den frühen
+        2000er Jahren auf über 20 Prozent im Jahr 2021.'
+      page_label: '2'
+      relevance_score: 0.3739485878018912
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Die Aussicht auf eine globale\nEnergiewende verstärkte in US-Politikerkreisen\
+      \ das Gefühl, dass die Golfregion sehr bald an strategischer Bedeutung verlieren\
+      \ würde.  Angesichts dieser neuen\nSituation weigerte sich Präsident Donald\
+      \ Trump 2019 beispielsweise, beim iranischen Angriff auf die saudischen Ölverarbeitungsanlagen\
+      \ in Abqaiq und Churais\nzu intervenieren, was in politischen Kreisen am Golf\
+      \ als Verrat gewertet wurde.\n Gleichzeitig ist China in den letzten zehn Jahren\
+      \ zum größten Ölimporteur der Welt und größten Abnehmer im Nahen Osten geworden.\
+      \  Der Anteil Chinas an den\nEnergieexporten der Region kletterte von weniger\
+      \ als 5 Prozent in den frühen 2000er Jahren auf über 20 Prozent im Jahr 2021.\
+      \ [7] Laut Prognosen der\nInternationalen Energieagentur dürfte sich dieser\
+      \ Trend in den kommenden Jahrzehnten fortsetzen.  Entsprechend erklärte Amin\
+      \ H. Nasser, der\nVorstandsvorsitzende des staatseigenen saudischen Ölkonzerns\
+      \ Aramco 2021, dass China für die nächsten 50 Jahre die oberste Priorität des\
+      \ Unternehmens\nbleiben werde. [8]\nDiese Verlagerung des Schwerpunkts globaler\
+      \ Energiemärkte nach China stellt eine Herausforderung für den Kern der Beziehungen\
+      \ zwischen der Region und\nden USA dar und schafft neue strategisch wichtige\
+      \ Abhängigkeitsverhältnisse mit China.\n"
+    uid: 03d44d9d-f867-487c-9517-a240adacc45a
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Länder oder Gesellschaften, die sich in einer Phase der Demokratisierung
+    befinden, erfahren tendenziell kein wirtschaftliches Wachstum.
+  statement_type: *id003
+  text: Länder oder Gesellschaften, die sich in einer Phase der Demokratisierung befinden,
+    erfahren tendenziell ein wirtschaftliches Wachstum.
+  uid: 5c39e02c-ef0d-4975-803c-a72a597b1df0
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document:
+    08d4c8ca-517d-41cd-8c7b-20a47592f805: -9.839339563742494e-34
+    20dc1a5b-161b-445a-8c1f-69c6790566af: -2.005008780441344e-37
+    2c97c016-411b-400e-a961-c141c085494c: -1.864370424309213e-42
+    37016274-32b8-47a4-bb2b-33c9a9bedc9d: 6.636004897898819e-36
+    6a62b32c-7699-497a-a0a4-4d83f14e11fa: -2.1987591132325917e-34
+    8bf96b87-3dce-4438-a0ac-2b064170c8d2: -8.300611482938555e-45
+    8e6ca05f-9d3b-4379-99e1-f844a443cc95: -6.639375758702228e-36
+    95d2dd6e-5d21-40c4-a5ad-dc05d3d3e16b: 1.4650541225655047e-36
+    964bf251-f332-4c2d-b758-a775138c993b: -2.9756471743945573e-35
+    9f1a0395-df98-47fc-8cfc-a0d785a36840: 3.6723016479923406e-39
+    af33882a-baae-406b-9802-6a6bfefaa19d: -7.521407109026043e-40
+    da5cc420-b4dc-4526-9770-5bdf2e3c739a: -9.982350930430614e-39
+  confirmation_level: *id001
+  documents:
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: '[1]
+
+        Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten
+        von etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+        ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt. '
+      page_label: '1'
+      relevance_score: 0.420292007354956
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Allerdings ist die Sparneigung der privaten Haushalte weiterhin relativ
+      hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP) legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent.  Die Beschäftigungsquote unter den 20- bis 64-Jährigen
+      lag mit 66,3 Prozent knapp drei Prozentpunkte über dem Vorpandemieniveau
+
+      von 2019.  Dabei nahm die Zahl unbefristeter Arbeitsverträge zuletzt zu, was
+      die Trendwende auf dem Arbeitsmarkt unterstreicht. '
+    uid: 2c97c016-411b-400e-a961-c141c085494c
+  - metadata:
+      author: Görg, Holger
+      file_name: gorg_comeback_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: January
+      original_text: 'Ist der Wachstumsunterschied darauf
+
+        zurückzuführen, dass die Unternehmen gefördert wurden, oder einfach darauf,
+        dass diese Branchen per se andere Wachstumsaussichten haben?
+
+        '
+      page_label: '3'
+      relevance_score: 0.41099551118649624
+      title: Comeback der {Industriepolitik}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/industriepolitik-2024/544575/comeback-der-industriepolitik/
+      year: '2024'
+    text: "Die Auswahl erfolgt also nicht zufällig, sondern in der Regel nach ökonomischen\
+      \ Kriterien.  Es\nwerden also Unternehmen oder Branchen gefördert, die ein anderes\
+      \ Wachstumspotenzial haben als andere, nicht geförderte Unternehmen.  Bei einer\
+      \ solchen\nAusgangslage ist es für die Forschung nicht einfach, nachzuweisen,\
+      \ ob die Wirtschaftspolitik einen Einfluss hatte.  Ist der Wachstumsunterschied\
+      \ darauf\nzurückzuführen, dass die Unternehmen gefördert wurden, oder einfach\
+      \ darauf, dass diese Branchen per se andere Wachstumsaussichten haben?\n Eine\
+      \ Reihe neuerer empirischer Studien nähert sich diesem Problem mit detaillierten\
+      \ theoretischen Modellen und neu entwickelten empirischen Methoden.  Diese\n\
+      Studien liefern methodisch glaubwürdige Belege für die Hypothese, dass industriepolitische\
+      \ Maßnahmen wirksam sein können.  [11] So zeigt beispielsweise die\nAnalyse\
+      \ einer industriepolitischen Intervention in Südkorea in den 1970er Jahren,\
+      \ die insbesondere auf die Schwer- und Chemieindustrie abzielte, dass diese\n\
+      Politikmaßnahme den komparativen Vorteil der ausgewählten Industrie positiv\
+      \ beeinflusste und damit das Wachstum der Exportunternehmen und ihrer Zulieferer\n\
+      in diesen Sektoren nachhaltig ankurbelte. "
+    uid: 8bf96b87-3dce-4438-a0ac-2b064170c8d2
+  - metadata:
+      author: Barbara, Lippert
+      file_name: barbara_strategische_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: July
+      original_text: 'So spricht die EU traditionell von
+
+        Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+        zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt.'
+      page_label: '1'
+      relevance_score: 0.3916139955841519
+      title: Strategische {Wende}?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/republik-moldau-2024/550129/strategische-wende/
+      year: '2024'
+    text: '[1] Die EU reagiert,
+
+      wenn Regierungen einen Antrag auf Aufnahme ihres Landes stellen oder dies ankündigen.  An
+      Aspiranten gab und gibt es dabei keinen Mangel.  In allen
+
+      Erweiterungsrunden seit 1973 machten sich zwar einzelne Mitgliedstaaten für
+      den Beitritt des einen oder anderen Landes stark, aber von einer
+
+      gemeinschaftlichen, proaktiven Strategie gegenüber ausgesuchten europäischen
+      Drittstaaten konnte nicht die Rede sein.  So spricht die EU traditionell von
+
+      Erweiterung im Sinne einer Vergrößerung, jedoch nicht von Expansion, die eine
+      zielgerichtete Aufnahme oder gar Rekrutierung von Ländern verfolgt. [2] Auch
+      die
+
+      Praxis, mehrere Länder zum selben Zeitpunkt aufzunehmen, entsprang nicht einem
+      geopolitischen Ansatz, wie es die Bezeichnungen "Nord-" oder
+
+      "Süderweiterung" nahelegen könnten.  Ohnehin befasste sich die EU im Zeichen
+      von Grenzabbau und Transnationalität kaum mit der territorial-physischen
+
+      Dimension des Binnenmarkts oder des Raums der Freiheit, der Sicherheit und des
+      Rechts. [3]
+
+      Erst mit Blick auf die nach 1989 möglich gewordene Osterweiterung entwickelte
+      die EU eine umfassende Strategie, die die Europäische Kommission in der
+
+      "Agenda 2000"[4] skizzierte. '
+    uid: da5cc420-b4dc-4526-9770-5bdf2e3c739a
+  - metadata:
+      author: Robert, Kappel
+      file_name: robert_willkommen_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: December
+      original_text: 'Die Industrialisierung der Technologiemacht China [5] löste
+        zudem einen Exportboom in den Rohstoffländern des
+
+        BRICS aus, etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden
+        Ländern ein höheres Wachstum als den Industrieländern.
+
+        '
+      page_label: '2'
+      relevance_score: 0.3867978540847451
+      title: Willkommen im {Club}.
+      url: https://www.bpb.de/shop/zeitschriften/apuz/brics-2024/557225/willkommen-im-club/
+      year: '2024'
+    text: "Jahrzehnten zudem erhebliche technologische Fortschritte und Innovationen,\
+      \ die zu einem wachsenden Anteil ihrer Hightech-Exporte führten und zugleich\
+      \ zu\nAbhängigkeiten der Länder des Globalen Südens und des Westens beitrugen\
+      \ (etwa in den Lieferketten).  [4] Diese Veränderungen markieren einen deutlichen\n\
+      wirtschaftlichen Dominanzverlust des Westens.  Die Industrialisierung der Technologiemacht\
+      \ China [5] löste zudem einen Exportboom in den Rohstoffländern des\nBRICS aus,\
+      \ etwa in Brasilien und Russland, und ermöglichte diesen rohstoffexportierenden\
+      \ Ländern ein höheres Wachstum als den Industrieländern.\n Die wirtschaftlichen\
+      \ Machtverschiebungen manifestieren sich vor allem darin, dass der BRICS-Verbund\
+      \ wichtige strategische Güter und Dienstleistungen\nanbietet – und relativ viele\
+      \ mächtige Großunternehmen global agieren, die von den unterschiedlichen Mitgliedstaaten\
+      \ unterstützt werden.  [6] Dies lässt sich zum\nBeispiel an den jeweiligen Marktanteilen\
+      \ in wichtigen Produktgruppen und Dienstleistungen erkennen, etwa an der Dominanz\
+      \ in Kommunikationsnetzwerken und\nim Finanzsektor oder bei der Kreditvergabe\
+      \ an andere Länder, die mitunter zur Entstehung von Schuldnersituationen führt.\
+      \  [7]\nBesonders sichtbar wird die globale Neuvermessung der Wirtschaft an\
+      \ den globalen Wertschöpfungsketten (WSK), die zur vorherrschenden Organisationsform\n\
+      der Weltwirtschaft geworden sind. "
+    uid: 9f1a0395-df98-47fc-8cfc-a0d785a36840
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Oder kann die EU realistischerweise erwarten, dass sich die
+        Ukraine, Moldau, Georgien und die sechs Balkanstaaten in den kommenden
+
+        Jahren zu vollwertigen liberalen Demokratien entwickeln, wenn der Kreml jeden
+        Tag unerbittlich gegen sie und ihre Bevölkerungen vorgeht?'
+      page_label: '3'
+      relevance_score: 0.38141895930042097
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n Die Beitrittskandidaten gehen\
+      \ existenzielle Sicherheitsrisiken ein, wenn sie sich für uns, für die Demokratie,\
+      \ für die EU entscheiden. "
+    uid: 08d4c8ca-517d-41cd-8c7b-20a47592f805
+  - metadata:
+      author: Alexander, Grasse
+      file_name: alexander_stabil_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: September
+      original_text: 'Das Bruttoinlandsprodukt (BIP) legte
+
+        2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des
+        Euroraums von 0,4 Prozent deutlich übertraf. '
+      page_label: '1'
+      relevance_score: 0.37739713058148056
+      title: Stabil fragil?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/italien-2024/552525/stabil-fragil/
+      year: '2024'
+    text: 'Ökonomischer Aufwärtstrend
+
+      Wirtschaftlich befindet Italien sich seit Überwindung der Corona-Pandemie auf
+      einem moderat positiven Entwicklungspfad, trotz aller Schwierigkeiten, die sich
+
+      infolge des Angriffskriegs Russlands auf die Ukraine auch in Italien zeigen.  Die
+      Inflation ist deutlich rückläufig, nach 5,2 Prozent 2023 werden für 2024 sehr
+      gute
+
+      1,6 Prozent erwartet.  Allerdings ist die Sparneigung der privaten Haushalte
+      weiterhin relativ hoch, was den Konsum bremst.  Das Bruttoinlandsprodukt (BIP)
+      legte
+
+      2023 gegenüber 2022 um 0,9 Prozent zu, womit Italien die Wachstumsrate des Euroraums
+      von 0,4 Prozent deutlich übertraf.  Im Ergebnis befand sich das reale
+
+      BIP 2023 erstmals wieder auf dem Vorkrisenniveau von 2007. [1]
+
+      Für 2024 und 2025 erwartet das nationale Statistikamt Istat Wachstumsraten von
+      etwa einem Prozent des BIP , da die Binnennachfrage leicht anziehen dürfte,
+
+      ausgehend von den seit 2022 positiven Entwicklungen am Arbeitsmarkt.  Nachdem
+      die Arbeitslosenquote 2021 noch bei hohen 9,7 Prozent gelegen hatte, sank sie
+
+      bis 2023 auf 7,8 Prozent. '
+    uid: 964bf251-f332-4c2d-b758-a775138c993b
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der große Unterschied zu 1999 besteht heute darin, dass eine
+        Reform des EU-Erweiterungsprozesses mit einer Neutralisierung der Bedrohung
+        durch den Kreml
+
+        einhergehen muss. '
+      page_label: '3'
+      relevance_score: 0.36416971542663196
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Mit verschiedenen\nMitteln versetzt die neoimperiale Kontrolle Russlands\
+      \ über die Staaten der ehemaligen Sowjetunion alle Länder in höchste Alarmbereitschaft\
+      \ und in eine Position\ngrößter Verwundbarkeit, von der insbesondere die Länder\
+      \ in der östlichen Nachbarschaft der EU und auf dem westlichen Balkan betroffen\
+      \ sind.  Diese Mittel\nreichen von wirtschaftlicher und politischer Einflussnahme\
+      \ über Desinformation und Wahlbeeinflussung bis hin zu Cyberangriffen und militärischer\
+      \ Gewalt. [25]\nRussland stellt die Grundprinzipien einer regelbasierten internationalen\
+      \ Ordnung und damit die Werte und Interessen der EU permanent infrage.\n Der\
+      \ große Unterschied zu 1999 besteht heute darin, dass eine Reform des EU-Erweiterungsprozesses\
+      \ mit einer Neutralisierung der Bedrohung durch den Kreml\neinhergehen muss.\
+      \  Oder kann die EU realistischerweise erwarten, dass sich die Ukraine, Moldau,\
+      \ Georgien und die sechs Balkanstaaten in den kommenden\nJahren zu vollwertigen\
+      \ liberalen Demokratien entwickeln, wenn der Kreml jeden Tag unerbittlich gegen\
+      \ sie und ihre Bevölkerungen vorgeht? [26] Wir haben in der\nEU auch ohne eine\
+      \ allgegenwärtige Bedrohung durch Russland bereits Probleme mit der Rechtsstaatlichkeit\
+      \ in manchen Mitgliedstaaten.  Welche\nIntegrationsfortschritte können wir also\
+      \ in den nächsten Jahren tatsächlich erwarten?\n"
+    uid: 95d2dd6e-5d21-40c4-a5ad-dc05d3d3e16b
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Diese Partnerschaft beförderte nicht nur das amerikanische Wirtschaftswachstum,
+        sondern auch die internationale
+
+        Führungsrolle des US-Dollar. '
+      page_label: '2'
+      relevance_score: 0.3603027077967409
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: 'Seit den 1950er Jahren war der Faktor Energie von zentraler Bedeutung für
+      die
+
+      Sicherheitsbeziehungen mit den USA.  Das Treffen zwischen US-Präsident Franklin
+      D. Roosevelt und dem saudischen König Abdul Aziz Ibn Saud an Bord der "USS
+
+      Quincy" im Suezkanal 1945 war seinerzeit der erste Schritt hin zu einem Bündnis,
+      das auf der stabilen Versorgung mit preiswertem Erdöl im Austausch für
+
+      amerikanische Sicherheitsgarantien beruhte.  1974 wurde diese gegenseitige Abhängigkeit
+      durch ein ähnliches Abkommen zwischen Präsident Richard Nixon und
+
+      König Faisal bin Abdulaziz Al Saud bekräftigt.  Diese Partnerschaft beförderte
+      nicht nur das amerikanische Wirtschaftswachstum, sondern auch die internationale
+
+      Führungsrolle des US-Dollar.  Im Gegenzug wurden die USA zum wichtigsten Sicherheitspartner
+      der Golfstaaten und zu einem Grundpfeiler der regionalen
+
+      Sicherheitsarchitektur.  Die Länder des Nahen Ostens – hauptsächlich die Golfstaaten,
+      Ägypten, Israel und Jordanien – importieren mehr als zwei Drittel ihrer
+
+      Verteidigungstechnologien aus den Vereinigten Staaten.  Die US-Stützpunkte in
+      der Region, unter anderem in Bahrain, Katar und Kuwait, spielen eine wichtige
+
+      Rolle bei der Abschreckung regionaler Rivalen, insbesondere Irans.
+
+      '
+    uid: 8e6ca05f-9d3b-4379-99e1-f844a443cc95
+  - metadata:
+      author: Lons, Camille
+      file_name: lons_im_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Der Anteil Chinas an den
+
+        Energieexporten der Region kletterte von weniger als 5 Prozent in den frühen
+        2000er Jahren auf über 20 Prozent im Jahr 2021.'
+      page_label: '2'
+      relevance_score: 0.3553768187868385
+      title: Im weltpolitischen {Machtgefüge}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/naher-osten-2024/546381/im-weltpolitischen-machtgefuege/
+      year: '2024'
+    text: "Die Aussicht auf eine globale\nEnergiewende verstärkte in US-Politikerkreisen\
+      \ das Gefühl, dass die Golfregion sehr bald an strategischer Bedeutung verlieren\
+      \ würde.  Angesichts dieser neuen\nSituation weigerte sich Präsident Donald\
+      \ Trump 2019 beispielsweise, beim iranischen Angriff auf die saudischen Ölverarbeitungsanlagen\
+      \ in Abqaiq und Churais\nzu intervenieren, was in politischen Kreisen am Golf\
+      \ als Verrat gewertet wurde.\n Gleichzeitig ist China in den letzten zehn Jahren\
+      \ zum größten Ölimporteur der Welt und größten Abnehmer im Nahen Osten geworden.\
+      \  Der Anteil Chinas an den\nEnergieexporten der Region kletterte von weniger\
+      \ als 5 Prozent in den frühen 2000er Jahren auf über 20 Prozent im Jahr 2021.\
+      \ [7] Laut Prognosen der\nInternationalen Energieagentur dürfte sich dieser\
+      \ Trend in den kommenden Jahrzehnten fortsetzen.  Entsprechend erklärte Amin\
+      \ H. Nasser, der\nVorstandsvorsitzende des staatseigenen saudischen Ölkonzerns\
+      \ Aramco 2021, dass China für die nächsten 50 Jahre die oberste Priorität des\
+      \ Unternehmens\nbleiben werde. [8]\nDiese Verlagerung des Schwerpunkts globaler\
+      \ Energiemärkte nach China stellt eine Herausforderung für den Kern der Beziehungen\
+      \ zwischen der Region und\nden USA dar und schafft neue strategisch wichtige\
+      \ Abhängigkeitsverhältnisse mit China.\n"
+    uid: 20dc1a5b-161b-445a-8c1f-69c6790566af
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'Klar ist, dass die Erweiterung die Disparitäten zwischen den
+        Staaten und
+
+        Regionen der EU erheblich vergrößern wird. '
+      page_label: '1'
+      relevance_score: 0.35376246222126506
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "[5] Wer wann beitreten wird, darüber kann derzeit nur spekuliert werden.\
+      \  Können die EU-\nInstitutionen eine höhere Mitgliederzahl überhaupt verkraften?\
+      \  Kann sich die EU die Kosten für die Aufnahme von Ländern leisten, die viel\
+      \ ärmer als der EU-\nDurchschnitt sind und deren Wirtschaft weitgehend von der\
+      \ Landwirtschaft abhängt?  Klar ist, dass die Erweiterung die Disparitäten zwischen\
+      \ den Staaten und\nRegionen der EU erheblich vergrößern wird.  Folglich wird\
+      \ sie unweigerlich Anpassungen des auf dem Bruttoinlandsprodukt basierenden\
+      \ EU-Haushalts erfordern.\n Entweder wird der Kuchen größer und das Gesamtbudget\
+      \ steigt – oder jeder bekommt ein kleineres Stück.  Folglich wird es zu einer\
+      \ tiefgreifenden Umverteilung\nvon EU-Mitteln zwischen den Mitgliedstaaten kommen. "
+    uid: 37016274-32b8-47a4-bb2b-33c9a9bedc9d
+  - metadata:
+      author: Kaeding, Michael
+      file_name: kaeding_wie_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: March
+      original_text: 'War die Unterstützung der Erweiterung früher vor allem durch
+
+        wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in
+        Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.
+
+        '
+      page_label: '2'
+      relevance_score: 0.35273055643973955
+      title: Wie soll die {Union} wachsen?
+      url: https://www.bpb.de/shop/zeitschriften/apuz/europa-2024/546717/wie-soll-die-union-wachsen/
+      year: '2024'
+    text: "Polen und Schweden stehen dagegen exemplarisch für jene Gruppe von EU-Staaten,\
+      \ die nicht spezifisch an den Westbalkan denken, sondern traditionell zu den\n\
+      Befürwortern der EU-Osterweiterung gehören und sich daher federführend an der\
+      \ EU-Initiative Östliche Partnerschaft von 2009 beteiligt haben, um die\nIntegration\
+      \ der Länder in der östlichen Nachbarschaft der Union stärker zu unterstützen,\
+      \ vor allem, um die Stabilität in der Region zu sichern.  Der Krieg Russlands\n\
+      in der Ukraine hat bei ihnen zu einer spürbaren sicherheitspolitischen Präferenzverschiebung\
+      \ in Richtung Erweiterung geführt.  Mit dem Krieg sind aber auch die\nWerte,\
+      \ die mit der Zugehörigkeit zum „Westen“ verbunden werden, wichtiger denn je\
+      \ geworden.  War die Unterstützung der Erweiterung früher vor allem durch\n\
+      wirtschaftliche Interessen motiviert, so hat heute der Sicherheitsaspekt in\
+      \ Kombination mit einer wertebasierten Haltung an Bedeutung gewonnen.\n Darüber\
+      \ hinaus gibt es Länder wie Portugal, die trotz ihrer geografischen Entfernung\
+      \ am westlichen Rand der Union die Erweiterungsrunden als eine Form der\nSolidarität\
+      \ und der Begleichung einer „Schuld der Dankbarkeit“ unterstützt haben.  Hier\
+      \ wird die Erweiterung der EU um den Westbalkan, die Ukraine, die Republik\n\
+      Moldau und Georgien im Kontext eines Prozesses der europäischen integrativen\
+      \ Solidarität verstanden.\n Die portugiesische Haltung steht zugleich aber auch\
+      \ exemplarisch für gesellschaftliche und politische Veränderungen innerhalb\
+      \ eines Landes – und dafür, dass\nsich nationale Diskurse verändern können. "
+    uid: af33882a-baae-406b-9802-6a6bfefaa19d
+  - metadata:
+      author: Hüther, Michael
+      file_name: huther_wir_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: May
+      original_text: 'Jetzt sind wir in einer Situation mit schwachem Wachstum, in
+        der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+        ist nicht einfach, denn die Potenziale sind nicht mehr da. '
+      page_label: '1'
+      relevance_score: 0.3519173907346388
+      title: '"{Wir} sind zu weit gegangen"'
+      url: https://www.bpb.de/shop/zeitschriften/apuz/fachkraeftemangel-2024/548768/wir-sind-zu-weit-gegangen/
+      year: '2024'
+    text: 'Deutschland galt vor gut 20 Jahren als kranker Mann Europas.  Damals hatten
+      wir keine Probleme, die
+
+      Lage zu erkennen: Wachstumsschwäche verbunden mit einer hohen, sehr beharrlichen
+      Arbeitslosigkeit, in der Spitze über fünf Millionen Beschäftigungslose.  Das
+
+      war Auslöser für große Reformen.  Jetzt sind wir in einer Situation mit schwachem
+      Wachstum, in der wir eigentlich feststellen müssten: Wachstum zu organisieren,
+
+      ist nicht einfach, denn die Potenziale sind nicht mehr da.  Wir wissen um den
+      Alterungsprozess.  Arbeit verknappt sich.  Das Bruttoinlandsprodukt kann nicht
+
+      wachsen, wenn das Produkt aus Arbeitsvolumen und Produktivität je Stunde nicht
+      steigt. '
+    uid: 6a62b32c-7699-497a-a0a4-4d83f14e11fa
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Wirtschaftliches Wachstum tritt nicht auf, wenn die Demokratisierung zunimmt,
+    oder die Demokratisierung nimmt zu, ohne dass wirtschaftliches Wachstum auftritt.
+  statement_type: *id003
+  text: Wirtschaftliches Wachstum tritt auf, wenn die Demokratisierung zunimmt.
+  uid: 57d8f244-adce-42af-82e7-8d50a44b1785
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyzer component.
+  env_file: null
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - B
+        - A
+        - C
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(B|A|C)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: null
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim makes any
+          explicit ascriptions, that is, whether it explicitly ascribes a statement
+          to a person or an organisation (e.g., as something the person has said,
+          believes, acts on etc.) rather than plainly asserting that statement straightaway.
+
+          If so, clarify which statements are ascribed to whom exactly and in which
+          ways.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          Conclude your analysis with a short list of all identified ascriptions:
+          Formulate each statement in a concise manner, and such that it is transparent
+          to whom it is attributed. Render the clarified ascriptions in {language}.'
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies factual or descriptive statements, which can be verified or falsified
+          by empirical observation or through scientific analysis, and which may include,
+          for example, descriptive reports, historical facts, or scientific claims.
+
+          If so, try to identify them and render them in your own words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit.
+
+          End your analysis with a short list of all identified factual or descriptive
+          statements in {language}. Formulate each statement in a concise manner and
+          such that its factual nature stands out clearly.'
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'The following {language} claim has been submitted for fact-checking.
+
+
+          <claim>{claim}</claim>
+
+
+          Before we proceed with retrieving evidence items, we carefully analyse the
+          claim. Your task is to contribute to this preparatory analysis, as detailed
+          below.
+
+          In particular, you should thoroughly discuss whether the claim contains
+          or implies normative statements, such as value judgements, recommendations,
+          or evaluations. If so, try to identify them and render them in your own
+          words.
+
+          In doing so, watch out for ambiguity and vagueness in the claim. Make alternative
+          interpretations explicit. However, avoid reading normative content into
+          the claim without textual evidence.
+
+
+          End your analysis with a short list of all identified normative statements
+          in {language}. Formulate each statement in a concise manner and such that
+          its normative nature stands out clearly.'
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for ascriptive
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis. Clearly
+          state each ascription as a concise {language} statement, such that it is
+          transparent to whom it is attributed. Only include ascriptions that are
+          explicitly attributed to a specific person or organisation.
+
+          If you did not identify any ascriptions, make sure to return an empty list
+          containing no strings, not even empty ones..
+
+          Format your (possibly empty) list of ascriptions as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} claim:
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis. Only include clear cases, i.e. statements that
+          are unambiguously factual or descriptive.
+
+          If you did not identify any descriptive statements, make sure to return
+          an empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative claims.
+    llm_specific_configs:
+      default:
+        guidance_type: json
+        prompt_template: 'The following {language} claim has been submitted for normative
+          content analysis.
+
+          <claim>{claim}</claim>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          If you did not identify any normative statements, make sure to return an
+          empty list containing no strings, not even empty ones.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a claim.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1800
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+request: Wirtschaftliches Wachstum geht mit zunehmender Demokratisierung einher
+retrieval_config:
+  api_key_name: hf_debatelab_inference_provider
+  bill_to: DebateLabKIT
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: null
+  document_input_files: null
+  embed_backend_type: huggingface_inference_api
+  embed_base_url: https://router.huggingface.co/hf-inference/models/sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  embed_batch_size: 32
+  embed_model_name: sentence-transformers/paraphrase-multilingual-mpnet-base-v2
+  env_file: null
+  hub_key_name: hf_evse_data
+  ignore_statement_types:
+  - normative
+  index_hub_path: DebateLabKIT/apuz-index-es
+  index_id: default_index_id
+  index_persist_path: null
+  meta_data_file: null
+  top_k: 12
+  trust_remote_code: null
+  window_size: 3
+time: 2025-09-19 11:10:10 UTC
+uid: 432e92fb-5de2-4a88-99ac-0fb73c0851d0

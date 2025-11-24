@@ -1643,7 +1643,7 @@ preprocessing_config:
     description: Instruct the assistant to list ascriptions.
     llm_specific_configs:
       default:
-        guidance_type: json
+        guidance_type: pydantic
         prompt_template: 'The following {language} claim has been submitted for ascriptive
           content analysis.
 
@@ -1677,7 +1677,7 @@ preprocessing_config:
     description: Instruct the assistant to list factual claims.
     llm_specific_configs:
       default:
-        guidance_type: json
+        guidance_type: pydantic
         prompt_template: 'We have previously analysed the descriptive content of the
           following {language} claim:
 
@@ -1710,7 +1710,7 @@ preprocessing_config:
     description: Instruct the assistant to list normative claims.
     llm_specific_configs:
       default:
-        guidance_type: json
+        guidance_type: pydantic
         prompt_template: 'The following {language} claim has been submitted for normative
           content analysis.
 

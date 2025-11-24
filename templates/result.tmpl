@@ -15,26 +15,34 @@ data: {{ time }}
 
 Es folgen die von der Pipeline gefundenen Interpretationen der eingegebenen Aussagen und deren Bewertung bezüglich der gegebenen Wissensbasis.
 
-{% for claim, sources in claims %}
+{% for claim in claims %}
 ---
 
 **Gefundene Interpretation:** _{{ claim.text }}_ <font color="orange">[{{ translation[claim.statement_type.value] }}e Aussage]</font>
 
-{% if sources %}
+{% if claim.documents is defined and claim.documents|length > 0 %}
 
 **Bestätigungslevel**: {{ translation[claim.confirmation_level.value] }}
 
 ??? abstract "Einzelanalysen bzgl. relevanter Textstellen"
 
-{% for doc_info in sources.values() %}
-    **Quelle:** {{ doc_info.author }} - *{{ doc_info.title }}* ([Link]({{ doc_info.url }}))
+{% set grouped_docs = claim.documents|groupby("metadata.file_name")%}
+{% for file_name, docs in grouped_docs %}
+{% set doc_info = docs[0].metadata %}
 
-{% for text in doc_info.texts %}
-    + *Textstelle:* "{{ text.original_text }}" (**Bestätigungslevel für die Interpretation:** *{{ translation[text.conf_level] }})*
+
+    **Quelle:** {{ doc_info.author }} - *{{ doc_info.title.replace("{", "").replace("}","") }}* ([Link]({{ doc_info.url }}))
+
+{% for doc in docs %}
+{% set original_text = doc.metadata["original_text"].strip().replace("\n", " ").replace('"', "'") %}
+{% set full_text = doc.text.strip().replace("\n", " ").replace('"', "'") %}
+{% set conf = confirmation_level(claim.confirmation_by_document[doc.uid]) %}
+
+    + *Textstelle:* "{{ original_text }}" (**Bestätigungslevel für die Interpretation:** *{{ translation[conf.value] }})*
         <details>
         <summary>Textstelle mit Textkontext</summary>
 
-        - "{{ text.full_text }}"
+        - "{{ full_text }}"
 
         </details>
 

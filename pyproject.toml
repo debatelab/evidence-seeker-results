@@ -1,0 +1,13 @@
+[project]
+name = "evidence-seeker-results"
+version = "0.1.0"
+description = "EvidenceSeeker results website built with MkDocs"
+requires-python = ">=3.12"
+dependencies = [
+    "evidence-seeker",
+    "mkdocs>=1.6.0",
+    "mkdocs-material>=9.5.0",
+]
+
+[tool.uv.sources]
+evidence-seeker = { path = "../evidence-seeker", editable = true }

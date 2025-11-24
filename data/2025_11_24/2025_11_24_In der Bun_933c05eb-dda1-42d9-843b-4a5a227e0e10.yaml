@@ -1,0 +1,2998 @@
+claims:
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: &id001 inconclusive_confirmation
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Die Abwesenheit von politischem Extremismus in der Bundeswehr ist nicht
+    wünschenswert.
+  statement_type: &id002 normative
+  text: Die Abwesenheit von politischem Extremismus in der Bundeswehr ist wünschenswert.
+  uid: 635f15ed-78b8-4fc0-8159-099aecff920b
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Es ist nicht gut, dass in der Bundeswehr politischer Extremismus vorhanden
+    ist.
+  statement_type: *id002
+  text: Es ist gut, dass in der Bundeswehr kein politischer Extremismus vorhanden
+    ist.
+  uid: 5066e546-01ec-4dc7-ad65-e4f3b94e6701
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: .nan
+  confirmation_by_document: {}
+  confirmation_level: *id001
+  documents: []
+  evidential_uncertainty: .nan
+  metadata: {}
+  n_evidence: 0
+  negation: Politischen Extremismus in der Bundeswehr zu vermeiden, ist nicht wichtig
+    für die Gesellschaft.
+  statement_type: *id002
+  text: Politischen Extremismus in der Bundeswehr zu vermeiden, ist wichtig für die
+    Gesellschaft.
+  uid: 36add212-e68a-4e64-8dca-067e1dbf11cf
+  verbalized_confirmation: The claim is neither confirmed nor disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    61bdd649-1530-40fa-b1fa-ba03b77974bb: -1.0
+    8a220677-c7a0-4a71-b8b9-6a70f3365a49: -1.0
+    8cf06ea9-b714-4289-9536-7f1f524927d0: -1.0
+    944edd8f-b699-4c2b-9f26-5b0779974422: -1.0
+    94c56342-5a9b-441c-8331-5cbf8f413335: -1.0
+    993e2db9-d03a-4604-866e-7265a4bc0f0b: -1.0
+    b235e806-0f54-4968-b670-aa3bb7427879: -1.0
+    b3575c5a-913c-4386-9fc9-2caa9c451c98: -1.4815088881706516e-36
+    ee856703-1a99-4013-bd00-0596254f5835: -1.0946977029531417e-35
+    f79a8001-ce24-4f2d-8a0c-88505001f418: -1.0
+    fa6b5999-3695-414a-8ec6-50e89ec9cf33: -1.0
+    ff738827-a847-427a-999c-a4512d638708: -1.0
+  confirmation_level: &id003 strongly_disconfirmed
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[2] Andererseits erkennen
+
+        manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+        der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+        Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang
+        stehen. '
+      page_label: '1'
+      relevance_score: 0.5339347726700574
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Damit ist\nunvereinbar, dass sich deren Angehörige als Extremisten zu erkennen\
+      \ geben und sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie\
+      \ verbreitet solche extremistischen Neigungen sind, ist in der Öffentlichkeit\
+      \ und der Literatur strittig.  [1] Einerseits findet sich die Auffassung, viele\
+      \ Soldatinnen\nund Soldaten besäßen eine gewisse Affinität zu rechtsextremen\
+      \ Positionen und die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits\
+      \ erkennen\nmanche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die\
+      \ aufgrund der gesellschaftlichen Entwicklungen unvermeidlich seien und die\
+      \ mit der\nBundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang\
+      \ stehen.  [3] Im Folgenden wird diesen Annahmen nachgegangen, und anhand\n\
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen\
+      \ in der Truppe sind und wie sie entstehen.  [4]\nNormative Vorgaben\nExtremistische\
+      \ Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr eigentlich\
+      \ überhaupt nicht vorkommen, sind sie doch mit deren\nSelbstverständnis als\
+      \ einer Armee (in) der Demokratie und deren normativen wie rechtlichen Vorgaben\
+      \ nicht vereinbar.  Aufgabe der Bundeswehr ist neben der\nVerteidigung der staatlichen\
+      \ Souveränität und der territorialen Integrität Deutschlands die Aufrechterhaltung\
+      \ der freiheitlichen demokratischen Grundordnung\n(FDGO). "
+    uid: 8a220677-c7a0-4a71-b8b9-6a70f3365a49
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr
+        immer wieder rechtsextremistische Vorfälle gegeben. '
+      page_label: '1'
+      relevance_score: 0.5330985653960113
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr immer
+      wieder rechtsextremistische Vorfälle gegeben.  Die Verhaftung und Verurteilung
+      des
+
+      Bundeswehroffiziers Franco A. aufgrund der Vorbereitung einer schweren staatsgefährdenden
+      Gewalttat haben ebenso wie die Entwendung von Waffen und
+
+      Munition im Kommando Spezialkräfte (KSK) im Jahr 2019 Zweifel an der politischen
+      Zuverlässigkeit und demokratischen Gesinnung der Streitkräfte aufkommen
+
+      lassen.  Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz und die
+      Verteidigung des demokratischen Gemeinwesens verantwortlich.  Damit ist
+
+      unvereinbar, dass sich deren Angehörige als Extremisten zu erkennen geben und
+      sich gegen die Ordnung stellen, die sie verteidigen sollen.
+
+      '
+    uid: 944edd8f-b699-4c2b-9f26-5b0779974422
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Normative Vorgaben
+
+        Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+        eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+        Selbstverständnis als einer Armee (in) der Demokratie und deren normativen
+        wie rechtlichen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5291015044326185
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+      die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits erkennen
+
+      manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+      der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+      Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang stehen.  [3]
+      Im Folgenden wird diesen Annahmen nachgegangen, und anhand
+
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen
+      in der Truppe sind und wie sie entstehen.  [4]
+
+      Normative Vorgaben
+
+      Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+      eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+      Selbstverständnis als einer Armee (in) der Demokratie und deren normativen wie
+      rechtlichen Vorgaben nicht vereinbar.  Aufgabe der Bundeswehr ist neben der
+
+      Verteidigung der staatlichen Souveränität und der territorialen Integrität Deutschlands
+      die Aufrechterhaltung der freiheitlichen demokratischen Grundordnung
+
+      (FDGO).  Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut
+      Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter
+
+      Bestrebungen zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen
+      Demokratie zu beseitigen. '
+    uid: ff738827-a847-427a-999c-a4512d638708
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'So wurden 2021 im Bereich Rechtsextremismus noch 1242 Verdachtsfälle
+        bearbeitet. '
+      page_label: '2'
+      relevance_score: 0.5237181962570596
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Hinzu kommen Vorfälle aus dem Milieu der Reichsbürger und Selbstverwalter,
+      oder solche, die auf
+
+      eine Delegitimierung des Staates zielen.  Andere Varianten des Extremismus wie
+      Linksextremismus und auslandsbezogener Extremismus (zum Beispiel die
+
+      türkische Bewegung der Grauen Wölfe/Ülkücü) oder Islamismus sind demgegenüber
+      selten.  [11]
+
+      Die Entwicklung über die vergangenen Jahre ist rückläufig.  So wurden 2021 im
+      Bereich Rechtsextremismus noch 1242 Verdachtsfälle bearbeitet.  [12] Die zuvor
+
+      gestiegene Zahl an Verdachtsfällen [13] basiert nach dem Urteil einiger Beobachterinnen
+      und Beobachter wie der Wehrbeauftragten Eva Högl auf einer
+
+      gewachsenen Sensibilität in der Truppe, die zu einer höheren Meldebereitschaft
+      geführt habe.  [14] Dagegen steht die Vermutung, dass die Zahlen des BAMAD
+
+      nicht alle extremistischen Vorfälle erfassen.  Es gebe eine Dunkelziffer an
+      Rechtsextremisten, die aufgrund eines falsch verstandenen Korpsgeistes gedeckt
+
+      würden und daher verborgen blieben. '
+    uid: 8cf06ea9-b714-4289-9536-7f1f524927d0
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Mit
+
+        dem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig von
+        der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt. '
+      page_label: '3'
+      relevance_score: 0.5188433733159771
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft.  Der Dienst in den Streitkräften ist daher mit einem\
+      \ elitären Professionsverständnis unvereinbar.  Mit\ndem Traditionserlass von\
+      \ 2018 hat sich die Bundeswehr zudem eindeutig von der Wehrmacht als nicht traditionswürdiger\
+      \ Institution abgegrenzt.  Diese klare\nDistanzierung bestätigte die jüngst\
+      \ erfolgte Aufhebung der – zumindest missverständlichen – Hinweise zur Traditionspflege.\
+      \  [41] Die Maßnahmen zur\nExtremismusprävention enden zudem nicht mit dem Ausscheiden\
+      \ aus dem Dienst: Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten\
+      \ für die\nFDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive\
+      \ und repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen. "
+    uid: ee856703-1a99-4013-bd00-0596254f5835
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[9]
+
+        Einen Überblick über Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme
+        Vorfälle in der Bundeswehr 2022 bietet die Antwort der
+
+        Bundesregierung auf eine parlamentarische Anfrage der Fraktion Die Linke. '
+      page_label: '4'
+      relevance_score: 0.5186402076941715
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "121–123;\ndies., Parteimitgliedschaft und politische Treuepflicht.  Teil\
+      \ 2, in: Bundeswehrverwaltung 3/2020, S.  56–60.\n [9]\nEinen Überblick über\
+      \ Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme Vorfälle\
+      \ in der Bundeswehr 2022 bietet die Antwort der\nBundesregierung auf eine parlamentarische\
+      \ Anfrage der Fraktion Die Linke.  Vgl.  Bundestagsdrucksache 20/10019, 11.1.2024.\n\
+      \ [10] Zum Beispiel Laabs (Anm. "
+    uid: b235e806-0f54-4968-b670-aa3bb7427879
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Blickt man auf einzelne Phänomenbereiche, werden dem
+
+        Rechtsextremismus 2023 776 Fälle (74 Prozent) zugerechnet. '
+      page_label: '2'
+      relevance_score: 0.512133773270824
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die Bandbreite reicht von schweren Straftaten wie bei Franco A., über das
+      Hören
+
+      rechtsextremistischer Musik in Kasernen und den Besitz von Propagandamaterial
+      bis hin zu extremistischen Äußerungen in Chats oder sozialen Medien, die das
+
+      Gros der Verdachtsfälle ausmachen.  Laut der Berichte bearbeitete das BAMAD
+      im Jahr 2023 1049 Verdachtsfälle, nach 962 im Jahr zuvor.  307 Verdachtsfälle
+
+      wurden 2023 neu aufgenommen, der größere Teil unterliegt einer mehrjährigen
+      Bearbeitung.  Blickt man auf einzelne Phänomenbereiche, werden dem
+
+      Rechtsextremismus 2023 776 Fälle (74 Prozent) zugerechnet.  Hinzu kommen Vorfälle
+      aus dem Milieu der Reichsbürger und Selbstverwalter, oder solche, die auf
+
+      eine Delegitimierung des Staates zielen.  Andere Varianten des Extremismus wie
+      Linksextremismus und auslandsbezogener Extremismus (zum Beispiel die
+
+      türkische Bewegung der Grauen Wölfe/Ülkücü) oder Islamismus sind demgegenüber
+      selten.  [11]
+
+      Die Entwicklung über die vergangenen Jahre ist rückläufig. '
+    uid: f79a8001-ce24-4f2d-8a0c-88505001f418
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '89 Prozent aller Verdachtsfälle entfallen
+
+        auf Soldatinnen und Soldaten; damit sind diese im Vergleich zu den Zivilangehörigen
+        der Bundeswehr deutlich überrepräsentiert. '
+      page_label: '2'
+      relevance_score: 0.5113985762196763
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[15] Beide Annahmen verweisen auf die Interaktion zwischen (vermeintlichen)\
+      \ Extremisten und ihrem dienstlichen Umfeld\nund die Reaktionen der Vorgesetzten\
+      \ sowie der Kameradinnen und Kameraden auf entsprechende Vorfälle.  Extremistische\
+      \ Vorkommnisse in der Bundeswehr\nwerden in der Regel nur erfasst und verfolgt,\
+      \ wenn sie explizit gemeldet werden.\n Die Statistiken des BAMAD zeigen auch,\
+      \ welche Gruppen bei den extremistischen Verdachtsfällen häufiger vorkommen.\
+      \  89 Prozent aller Verdachtsfälle entfallen\nauf Soldatinnen und Soldaten;\
+      \ damit sind diese im Vergleich zu den Zivilangehörigen der Bundeswehr deutlich\
+      \ überrepräsentiert.  Ebenso sind Angehörige des\nHeeres, Zeitsoldaten und Mannschaftsdienstgrade\
+      \ verstärkt vertreten, ferner 25- bis 34-Jährige und Personen mit Wohnort in\
+      \ Baden-Württemberg, Bayern oder\nSachsen.  Unterrepräsentiert sind Zivilbeschäftigte,\
+      \ Ältere sowie Personen mit Wohnort in Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz\
+      \ oder Schleswig-\nHolstein.  Bei den Soldatinnen und Soldaten sind Berufssoldaten\
+      \ sowie die Dienstgradgruppen der Unteroffiziere und Offiziere in geringerem\
+      \ Maße unter den\nVerdächtigten zu finden. "
+    uid: 61bdd649-1530-40fa-b1fa-ba03b77974bb
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+        und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+        die Truppe dulde solche Haltungen stillschweigend. '
+      page_label: '1'
+      relevance_score: 0.5094358212334625
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz und die Verteidigung\
+      \ des demokratischen Gemeinwesens verantwortlich.  Damit ist\nunvereinbar, dass\
+      \ sich deren Angehörige als Extremisten zu erkennen geben und sich gegen die\
+      \ Ordnung stellen, die sie verteidigen sollen.\n Wie verbreitet solche extremistischen\
+      \ Neigungen sind, ist in der Öffentlichkeit und der Literatur strittig.  [1]\
+      \ Einerseits findet sich die Auffassung, viele Soldatinnen\nund Soldaten besäßen\
+      \ eine gewisse Affinität zu rechtsextremen Positionen und die Truppe dulde solche\
+      \ Haltungen stillschweigend.  [2] Andererseits erkennen\nmanche in rechtsextremistischen\
+      \ Vorkommnissen nur Einzelfälle, die aufgrund der gesellschaftlichen Entwicklungen\
+      \ unvermeidlich seien und die mit der\nBundeswehr und dem soldatischen Dienst\
+      \ in keinem ursächlichen Zusammenhang stehen.  [3] Im Folgenden wird diesen\
+      \ Annahmen nachgegangen, und anhand\nder vorliegenden Literatur diskutiert,\
+      \ wie verbreitet extremistische Positionen in der Truppe sind und wie sie entstehen.\
+      \  [4]\nNormative Vorgaben\nExtremistische Einstellungen, Haltungen und Handlungen\
+      \ sollten in der Bundeswehr eigentlich überhaupt nicht vorkommen, sind sie doch\
+      \ mit deren\nSelbstverständnis als einer Armee (in) der Demokratie und deren\
+      \ normativen wie rechtlichen Vorgaben nicht vereinbar. "
+    uid: fa6b5999-3695-414a-8ec6-50e89ec9cf33
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[5] Die Verpflichtung der Bundeswehr auf die rechtliche und
+        politische Ordnung der Bundesrepublik schreibt das Soldatengesetz (SG) vor:
+        „Der Soldat muss die
+
+        freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes anerkennen
+        und durch sein gesamtes Verhalten für ihre Erhaltung eintreten“ (Paragraf
+        8
+
+        SG). '
+      page_label: '1'
+      relevance_score: 0.5087364644145566
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut\
+      \ Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter\nBestrebungen\
+      \ zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen Demokratie\
+      \ zu beseitigen.  Extremistische Bestrebungen umfassen konkrete\nHandlungen,\
+      \ die mit bestimmten Haltungen einhergehen – im Fall von Rechtsextremismus etwa\
+      \ mit Fremdenfeindlichkeit, Antisemitismus oder Antipluralismus.\n [5] Die Verpflichtung\
+      \ der Bundeswehr auf die rechtliche und politische Ordnung der Bundesrepublik\
+      \ schreibt das Soldatengesetz (SG) vor: „Der Soldat muss die\nfreiheitliche\
+      \ demokratische Grundordnung im Sinne des Grundgesetzes anerkennen und durch\
+      \ sein gesamtes Verhalten für ihre Erhaltung eintreten“ (Paragraf 8\nSG).  Die\
+      \ Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren Führung,\
+      \ legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen\ndes Grundgesetzes\
+      \ in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und Soldaten der\
+      \ Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer\nÜberzeugung für\
+      \ Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit, Solidarität und\
+      \ Demokratie als den leitenden Werten unseres Staates aktiv\neintreten“.  [7]\
+      \ Ein Engagement für verfassungsfeindliche Positionen oder in einer verfassungsfeindlichen\
+      \ Partei ist mit diesen Vorgaben nicht vereinbar. "
+    uid: b3575c5a-913c-4386-9fc9-2caa9c451c98
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Andere Varianten des Extremismus wie Linksextremismus und auslandsbezogener
+        Extremismus (zum Beispiel die
+
+        türkische Bewegung der Grauen Wölfe/Ülkücü) oder Islamismus sind demgegenüber
+        selten. '
+      page_label: '2'
+      relevance_score: 0.5060871215890772
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '307 Verdachtsfälle
+
+      wurden 2023 neu aufgenommen, der größere Teil unterliegt einer mehrjährigen
+      Bearbeitung.  Blickt man auf einzelne Phänomenbereiche, werden dem
+
+      Rechtsextremismus 2023 776 Fälle (74 Prozent) zugerechnet.  Hinzu kommen Vorfälle
+      aus dem Milieu der Reichsbürger und Selbstverwalter, oder solche, die auf
+
+      eine Delegitimierung des Staates zielen.  Andere Varianten des Extremismus wie
+      Linksextremismus und auslandsbezogener Extremismus (zum Beispiel die
+
+      türkische Bewegung der Grauen Wölfe/Ülkücü) oder Islamismus sind demgegenüber
+      selten.  [11]
+
+      Die Entwicklung über die vergangenen Jahre ist rückläufig.  So wurden 2021 im
+      Bereich Rechtsextremismus noch 1242 Verdachtsfälle bearbeitet.  [12] Die zuvor
+
+      gestiegene Zahl an Verdachtsfällen [13] basiert nach dem Urteil einiger Beobachterinnen
+      und Beobachter wie der Wehrbeauftragten Eva Högl auf einer
+
+      gewachsenen Sensibilität in der Truppe, die zu einer höheren Meldebereitschaft
+      geführt habe. '
+    uid: 993e2db9-d03a-4604-866e-7265a4bc0f0b
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[8] Liegen
+
+        entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+        für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+        Bundeswehr Ermittlungen auf. '
+      page_label: '1'
+      relevance_score: 0.5056610550365589
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren
+      Führung, legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen
+
+      des Grundgesetzes in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und
+      Soldaten der Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer
+
+      Überzeugung für Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit,
+      Solidarität und Demokratie als den leitenden Werten unseres Staates aktiv
+
+      eintreten“.  [7] Ein Engagement für verfassungsfeindliche Positionen oder in
+      einer verfassungsfeindlichen Partei ist mit diesen Vorgaben nicht vereinbar.  [8]
+      Liegen
+
+      entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+      für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+      Bundeswehr Ermittlungen auf.  Bestätigt sich der Verdacht, werden rechtliche
+      Schritte unternommen, die von disziplinarrechtlichen Maßnahmen bis zur
+
+      Entlassung reichen.  [9]
+
+      Zahlen und Fakten
+
+      Wie verbreitet extremistische Vorfälle in der Bundeswehr sind, ist in der wissenschaftlichen
+      Literatur strittig.  Es liegt eine Fülle von Reportagen, Darstellungen
+
+      und Überblicken zu medial bekannt gewordenen Vorkommnissen vor. '
+    uid: 94c56342-5a9b-441c-8331-5cbf8f413335
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 10
+  negation: Es gibt bekannte Fälle von rechtsextremem Verhalten innerhalb der Bundeswehr.
+  statement_type: &id004 descriptive
+  text: Es gibt keine bekannten Fälle von rechtsextremem Verhalten innerhalb der Bundeswehr.
+  uid: 472ffcd6-6c65-49c9-bbde-1965b8436296
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    00af264d-3fab-4aba-9d92-dd81365dcb6e: -1.0
+    32b600db-2acc-4cc3-a208-ad287e26f170: -1.0
+    3e590bad-7844-49ba-b745-847da1a7da21: -2.572980094379319e-35
+    4b773b7e-f46d-432b-b7de-eaa601a68bd1: -1.0
+    70adab0d-61a2-47af-9d5a-e695b1d4f799: -1.0
+    714f8abb-c4a0-4687-9d00-e930dfae3a88: -1.0
+    a4dee6c6-5dfa-416e-8292-c3c24f012a7b: -1.0
+    c2b7eb1f-5eb2-4b22-bbeb-4dc790fdf042: 1.4815122368763274e-36
+    d075837f-fea1-41c5-95cf-efc7dd8bb88c: -1.0
+    d678698e-e13a-4651-8d7c-dd339bd9f048: -5.974841933895437e-34
+    e09ae0ab-049a-4e1c-b92b-b5ed64567c2f: -2.578958804283146e-31
+    fe667a64-e03f-40a7-9bfd-a402178d571c: -1.0
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Normative Vorgaben
+
+        Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+        eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+        Selbstverständnis als einer Armee (in) der Demokratie und deren normativen
+        wie rechtlichen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5817200806463262
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+      die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits erkennen
+
+      manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+      der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+      Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang stehen.  [3]
+      Im Folgenden wird diesen Annahmen nachgegangen, und anhand
+
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen
+      in der Truppe sind und wie sie entstehen.  [4]
+
+      Normative Vorgaben
+
+      Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+      eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+      Selbstverständnis als einer Armee (in) der Demokratie und deren normativen wie
+      rechtlichen Vorgaben nicht vereinbar.  Aufgabe der Bundeswehr ist neben der
+
+      Verteidigung der staatlichen Souveränität und der territorialen Integrität Deutschlands
+      die Aufrechterhaltung der freiheitlichen demokratischen Grundordnung
+
+      (FDGO).  Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut
+      Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter
+
+      Bestrebungen zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen
+      Demokratie zu beseitigen. '
+    uid: 70adab0d-61a2-47af-9d5a-e695b1d4f799
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Dennoch empfinden sie viele Angehörige der Streitkräfte als
+        Ausweis eines
+
+        mangelnden öffentlichen Vertrauens, erst recht, wenn aufgrund von Vorkommnissen
+        ein Generalverdacht gegen die Bundeswehr geäußert wird und sich viele
+
+        Verdachtsfälle nicht bestätigen. '
+      page_label: '3'
+      relevance_score: 0.5745554058259109
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die
+
+      Anstrengungen werden aber auch künftig nicht verhindern können, dass Extremisten
+      den Weg in die Truppe finden, dass sich Soldatinnen und Soldaten im Laufe
+
+      ihres Dienstes radikalisieren und dass es zu extremistischen Vorfällen kommt.  Aus
+      der Tatsache, dass jeder Fall von Extremismus in der Bundeswehr einer zu viel
+
+      ist, erklärt sich die hohe öffentliche Aufmerksamkeit für die Thematik, zumal
+      in Zeiten gesellschaftlicher und politischer Polarisierung.  Die Resonanz, die
+
+      extremistische Vorfälle in der Bundeswehr erfahren, ist in der Sache begründet.  Dennoch
+      empfinden sie viele Angehörige der Streitkräfte als Ausweis eines
+
+      mangelnden öffentlichen Vertrauens, erst recht, wenn aufgrund von Vorkommnissen
+      ein Generalverdacht gegen die Bundeswehr geäußert wird und sich viele
+
+      Verdachtsfälle nicht bestätigen.  In dieser Zuspitzung liegt die Gefahr wechselseitiger
+      Missverständnisse und Zweifel.  Um dieser Dynamik entgegenzuwirken, ist
+
+      ein transparenter Umgang seitens der Bundeswehr mit einschlägigen Vorkommnissen
+      wesentlich, ohne dass es dadurch zu öffentlichen Vorverurteilungen
+
+      kommt.  Genauso wichtig erscheint aber ein nochmals verstärkter Austausch zwischen
+      Bundeswehr und Gesellschaft, um gegenseitige Vorbehalte und Vorurteile
+
+      Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...
+
+      3 von 5 12.12.2024, 15:46'
+    uid: a4dee6c6-5dfa-416e-8292-c3c24f012a7b
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[8] Liegen
+
+        entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+        für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+        Bundeswehr Ermittlungen auf. '
+      page_label: '1'
+      relevance_score: 0.5653273748099983
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren
+      Führung, legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen
+
+      des Grundgesetzes in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und
+      Soldaten der Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer
+
+      Überzeugung für Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit,
+      Solidarität und Demokratie als den leitenden Werten unseres Staates aktiv
+
+      eintreten“.  [7] Ein Engagement für verfassungsfeindliche Positionen oder in
+      einer verfassungsfeindlichen Partei ist mit diesen Vorgaben nicht vereinbar.  [8]
+      Liegen
+
+      entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+      für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+      Bundeswehr Ermittlungen auf.  Bestätigt sich der Verdacht, werden rechtliche
+      Schritte unternommen, die von disziplinarrechtlichen Maßnahmen bis zur
+
+      Entlassung reichen.  [9]
+
+      Zahlen und Fakten
+
+      Wie verbreitet extremistische Vorfälle in der Bundeswehr sind, ist in der wissenschaftlichen
+      Literatur strittig.  Es liegt eine Fülle von Reportagen, Darstellungen
+
+      und Überblicken zu medial bekannt gewordenen Vorkommnissen vor. '
+    uid: 714f8abb-c4a0-4687-9d00-e930dfae3a88
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[31] Die empirische Forschung hat zwar
+
+        nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+        mangelt. '
+      page_label: '3'
+      relevance_score: 0.5647086205406916
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die in der Gesellschaft auftretenden Enttäuschungen würden sich gleichermaßen
+      in der Bundeswehr
+
+      niederschlagen.  Parallel zum Anwachsen von Rechtspopulismus und -extremismus
+      im zivilen Umfeld steige die Zahl der Soldatinnen und Soldaten, die Zweifel
+      an
+
+      der Funktionsfähigkeit des politischen Systems und an den politischen Akteuren
+      hegen.  [30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten die
+
+      Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+      und Unterstützung zeigen.  [31] Die empirische Forschung hat zwar
+
+      nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+      mangelt.  [32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+      angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+      Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+      wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen.  [33]
+      Eine andere Variante der Sozialisationshypothese knüpft an die
+
+      Deprivationstheorie der Extremismusforschung an, die davon ausgeht, dass rechtsextremistische
+      Einstellungen das Ergebnis von sozioökonomischen und -
+
+      kulturellen Verlustängsten seien.  [34] Der Verlust des Arbeitsplatzes, sozialer
+      Abstieg sowie die Entwertung von Lebensleistungen machten anfällig für
+
+      rechtsextremistische Positionen, die Halt und Orientierung versprächen. '
+    uid: d075837f-fea1-41c5-95cf-efc7dd8bb88c
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Mit
+
+        dem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig von
+        der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt. '
+      page_label: '3'
+      relevance_score: 0.5634573874846376
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft.  Der Dienst in den Streitkräften ist daher mit einem\
+      \ elitären Professionsverständnis unvereinbar.  Mit\ndem Traditionserlass von\
+      \ 2018 hat sich die Bundeswehr zudem eindeutig von der Wehrmacht als nicht traditionswürdiger\
+      \ Institution abgegrenzt.  Diese klare\nDistanzierung bestätigte die jüngst\
+      \ erfolgte Aufhebung der – zumindest missverständlichen – Hinweise zur Traditionspflege.\
+      \  [41] Die Maßnahmen zur\nExtremismusprävention enden zudem nicht mit dem Ausscheiden\
+      \ aus dem Dienst: Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten\
+      \ für die\nFDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive\
+      \ und repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen. "
+    uid: d678698e-e13a-4651-8d7c-dd339bd9f048
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Wissenschaftliche Befunde
+
+        Ungeachtet der hohen politischen Relevanz der Thematik gibt es nur eine geringe
+        Zahl an sozialempirischen Untersuchungen zum politischen Extremismus und
+
+        zum Ausmaß und den Ursachen extremistischer Einstellungen in der Bundeswehr. '
+      page_label: '2'
+      relevance_score: 0.5617346430128023
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[17] Die Entfernung erkannter Extremisten aus dem Dienst war bislang sehr\
+      \ langwierig.  Selbst bei einem eindeutigen Fall wie Franco A.\nwar die Entlassung\
+      \ aus der Bundeswehr erst nach mehreren Jahren möglich.  [18] Eine Gesetzesnovelle\
+      \ von 2023 soll die Verfahren beschleunigen, damit\nAngehörige der Bundeswehr,\
+      \ die nicht auf dem Boden der FDGO stehen, schneller entlassen werden können.\n\
+      \ Wissenschaftliche Befunde\nUngeachtet der hohen politischen Relevanz der Thematik\
+      \ gibt es nur eine geringe Zahl an sozialempirischen Untersuchungen zum politischen\
+      \ Extremismus und\nzum Ausmaß und den Ursachen extremistischer Einstellungen\
+      \ in der Bundeswehr.  Die bescheidene Forschungslage ist darauf zurückzuführen,\
+      \ dass das BMVg\nden Zugang zu Untersuchungen in der Truppe kontrolliert und\
+      \ lange Zeit kein Interesse daran hatte, dieser Frage systematisch nachzugehen.\
+      \  [19]\nHinsichtlich der Erklärungen für extremistische Einstellungen konkurrieren\
+      \ zwei Hypothesen miteinander: Die Selektionshypothese geht davon aus, dass\n\
+      Personen bereits radikalisiert zur Bundeswehr kommen.  Demnach wäre der Extremismus\
+      \ in der Bundeswehr aus der Zivilgesellschaft importiert, käme also von\naußen. "
+    uid: 00af264d-3fab-4aba-9d92-dd81365dcb6e
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '89 Prozent aller Verdachtsfälle entfallen
+
+        auf Soldatinnen und Soldaten; damit sind diese im Vergleich zu den Zivilangehörigen
+        der Bundeswehr deutlich überrepräsentiert. '
+      page_label: '2'
+      relevance_score: 0.5608376376924716
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[15] Beide Annahmen verweisen auf die Interaktion zwischen (vermeintlichen)\
+      \ Extremisten und ihrem dienstlichen Umfeld\nund die Reaktionen der Vorgesetzten\
+      \ sowie der Kameradinnen und Kameraden auf entsprechende Vorfälle.  Extremistische\
+      \ Vorkommnisse in der Bundeswehr\nwerden in der Regel nur erfasst und verfolgt,\
+      \ wenn sie explizit gemeldet werden.\n Die Statistiken des BAMAD zeigen auch,\
+      \ welche Gruppen bei den extremistischen Verdachtsfällen häufiger vorkommen.\
+      \  89 Prozent aller Verdachtsfälle entfallen\nauf Soldatinnen und Soldaten;\
+      \ damit sind diese im Vergleich zu den Zivilangehörigen der Bundeswehr deutlich\
+      \ überrepräsentiert.  Ebenso sind Angehörige des\nHeeres, Zeitsoldaten und Mannschaftsdienstgrade\
+      \ verstärkt vertreten, ferner 25- bis 34-Jährige und Personen mit Wohnort in\
+      \ Baden-Württemberg, Bayern oder\nSachsen.  Unterrepräsentiert sind Zivilbeschäftigte,\
+      \ Ältere sowie Personen mit Wohnort in Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz\
+      \ oder Schleswig-\nHolstein.  Bei den Soldatinnen und Soldaten sind Berufssoldaten\
+      \ sowie die Dienstgradgruppen der Unteroffiziere und Offiziere in geringerem\
+      \ Maße unter den\nVerdächtigten zu finden. "
+    uid: 4b773b7e-f46d-432b-b7de-eaa601a68bd1
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten
+        die
+
+        Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+        und Unterstützung zeigen. '
+      page_label: '3'
+      relevance_score: 0.5584501654453822
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die steigende Unzufriedenheit mit politischen Entscheidungen und
+
+      Maßnahmen sowie ein wachsendes Misstrauen gegenüber den politisch Verantwortlichen
+      führten demnach zu einer Abkehr von demokratischen Werten und
+
+      einem Vertrauensverlust in politische Institutionen.  Die in der Gesellschaft
+      auftretenden Enttäuschungen würden sich gleichermaßen in der Bundeswehr
+
+      niederschlagen.  Parallel zum Anwachsen von Rechtspopulismus und -extremismus
+      im zivilen Umfeld steige die Zahl der Soldatinnen und Soldaten, die Zweifel
+      an
+
+      der Funktionsfähigkeit des politischen Systems und an den politischen Akteuren
+      hegen.  [30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten die
+
+      Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+      und Unterstützung zeigen.  [31] Die empirische Forschung hat zwar
+
+      nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+      mangelt.  [32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+      angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+      Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+      wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen.  [33]
+      Eine andere Variante der Sozialisationshypothese knüpft an die
+
+      Deprivationstheorie der Extremismusforschung an, die davon ausgeht, dass rechtsextremistische
+      Einstellungen das Ergebnis von sozioökonomischen und -
+
+      kulturellen Verlustängsten seien. '
+    uid: e09ae0ab-049a-4e1c-b92b-b5ed64567c2f
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[2] Andererseits erkennen
+
+        manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+        der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+        Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang
+        stehen. '
+      page_label: '1'
+      relevance_score: 0.5583092303632646
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Damit ist\nunvereinbar, dass sich deren Angehörige als Extremisten zu erkennen\
+      \ geben und sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie\
+      \ verbreitet solche extremistischen Neigungen sind, ist in der Öffentlichkeit\
+      \ und der Literatur strittig.  [1] Einerseits findet sich die Auffassung, viele\
+      \ Soldatinnen\nund Soldaten besäßen eine gewisse Affinität zu rechtsextremen\
+      \ Positionen und die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits\
+      \ erkennen\nmanche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die\
+      \ aufgrund der gesellschaftlichen Entwicklungen unvermeidlich seien und die\
+      \ mit der\nBundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang\
+      \ stehen.  [3] Im Folgenden wird diesen Annahmen nachgegangen, und anhand\n\
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen\
+      \ in der Truppe sind und wie sie entstehen.  [4]\nNormative Vorgaben\nExtremistische\
+      \ Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr eigentlich\
+      \ überhaupt nicht vorkommen, sind sie doch mit deren\nSelbstverständnis als\
+      \ einer Armee (in) der Demokratie und deren normativen wie rechtlichen Vorgaben\
+      \ nicht vereinbar.  Aufgabe der Bundeswehr ist neben der\nVerteidigung der staatlichen\
+      \ Souveränität und der territorialen Integrität Deutschlands die Aufrechterhaltung\
+      \ der freiheitlichen demokratischen Grundordnung\n(FDGO). "
+    uid: c2b7eb1f-5eb2-4b22-bbeb-4dc790fdf042
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[28] Eine neuere Analyse bestätigt, dass
+
+        sowohl ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter
+        sind und ein höheres politisches Interesse sowie politisches
+
+        Kompetenzbewusstsein aufweisen als Personen ohne Erfahrung in der Bundeswehr. '
+      page_label: '3'
+      relevance_score: 0.5556339374367285
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr.  [29] Über die inhaltliche\
+      \ Ausrichtung des Engagements und der\nEinstellungen sagen die Analysen jedoch\
+      \ nichts aus.\n Hinsichtlich der Frage, wie Radikalisierungen im Zuge des Dienstes\
+      \ ablaufen, finden sich mehrere Erklärungsansätze.  Eine erste Position hebt\
+      \ auf die\nWechselwirkungen gesamtgesellschaftlicher und innermilitärischer\
+      \ Entwicklungen ab. "
+    uid: 3e590bad-7844-49ba-b745-847da1a7da21
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[40] Darüber
+
+        hinaus ist davon auszugehen, dass sich manche Interessierte wegen dieser Überprüfungen
+        erst gar nicht bei der Bundeswehr bewerben, was dem
+
+        Selektionseffekt ebenfalls entgegenwirkt.
+
+        '
+      page_label: '3'
+      relevance_score: 0.5546715347764717
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "So soll die Überprüfung aller Bewerberinnen und Bewerber sowie die\nSoldateneinstellungsüberprüfungen,\
+      \ die 2017 eingeführt wurden, verhindern, dass Personen mit extremistischem\
+      \ Hintergrund überhaupt in die Streitkräfte\ngelangen und militärisch geschult\
+      \ werden.  [39] Im Jahr 2023 wurden 94 Personen wegen Zweifeln an ihrer Verfassungstreue\
+      \ vom Bewerbungsprozess\nausgeschlossen.  Zudem stellte das BAMAD durch die\
+      \ Soldateneinstellungsüberprüfungen bei 37 Personen ein mögliches Sicherheitsrisiko\
+      \ fest.  [40] Darüber\nhinaus ist davon auszugehen, dass sich manche Interessierte\
+      \ wegen dieser Überprüfungen erst gar nicht bei der Bundeswehr bewerben, was\
+      \ dem\nSelektionseffekt ebenfalls entgegenwirkt.\n Zudem werden Vorgesetzte\
+      \ umfassend zum Umgang mit extremistischen Vorfällen geschult sowie durch die\
+      \ zuständigen Stellen wie das BAMAD oder\nRechtsberater der Bundeswehr unterstützt.\
+      \  Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft. "
+    uid: 32b600db-2acc-4cc3-a208-ad287e26f170
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[16]
+
+        Bei den bislang berichteten Zahlen handelt es sich um Verdachtsfälle, von
+        denen sich einige bestätigen, viele sich aber als unbegründet erweisen. '
+      page_label: '2'
+      relevance_score: 0.5541985116675968
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Ebenso sind Angehörige des
+
+      Heeres, Zeitsoldaten und Mannschaftsdienstgrade verstärkt vertreten, ferner
+      25- bis 34-Jährige und Personen mit Wohnort in Baden-Württemberg, Bayern oder
+
+      Sachsen.  Unterrepräsentiert sind Zivilbeschäftigte, Ältere sowie Personen mit
+      Wohnort in Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz oder Schleswig-
+
+      Holstein.  Bei den Soldatinnen und Soldaten sind Berufssoldaten sowie die Dienstgradgruppen
+      der Unteroffiziere und Offiziere in geringerem Maße unter den
+
+      Verdächtigten zu finden.  [16]
+
+      Bei den bislang berichteten Zahlen handelt es sich um Verdachtsfälle, von denen
+      sich einige bestätigen, viele sich aber als unbegründet erweisen.  Weitaus
+
+      geringer sind daher die Zahlen der erkannten Extremistinnen und Extremisten
+      im Sinne des Paragrafen 4 BVerfSchG.  Im Jahr 2023 wurden rund 50 Personen
+
+      identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+      Verfassungstreue aufweisen.  Über 70 bereits identifizierte Extremisten haben
+      die
+
+      Bundeswehr verlassen. '
+    uid: fe667a64-e03f-40a7-9bfd-a402178d571c
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 8
+  negation: Laut offiziellen Berichten und Untersuchungen gibt es Anzeichen für politischen
+    Extremismus innerhalb der Bundeswehr.
+  statement_type: *id004
+  text: Laut offiziellen Berichten und Untersuchungen gibt es keine Anzeichen für
+    politischen Extremismus innerhalb der Bundeswehr.
+  uid: 695f17dd-508f-4d6f-9094-269cc7b80ec8
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    0164a148-cb49-458d-8104-96d73b7e81e3: -6.554408540191793e-31
+    2cac5b56-cd2e-436b-8f36-ce7602e035eb: -3.720075976020836e-44
+    2ec3b720-9394-4755-b3b5-1731a833e605: -9.102725410575261e-42
+    53874f6b-f5f8-4c19-baeb-3aebf57e34a0: -3.226996451822965e-32
+    6365e91d-ebd1-4b9f-9a59-4e20d8cd3ba5: -1.0
+    6f33b5ba-e5ff-4be8-bd18-511169d5c4f3: -1.0
+    905245ba-4f58-4e2b-8a75-a9ab0233fffe: -6.919809237390783e-36
+    a04cc7d8-fe48-4c50-93bc-13beb83e2874: -1.0
+    b08220e2-b73b-4dce-8b20-4dd32ab15392: -5.679277255318061e-34
+    b3639db2-41eb-41fa-ada1-5574bd628b50: -1.0
+    dec33dad-6e8f-48f4-b3b4-9335fcfdb5cb: 5.900087565900187e-29
+    f50fbedd-69f7-49a1-bc23-12143be3af43: -1.0
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Mit
+
+        dem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig von
+        der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt. '
+      page_label: '3'
+      relevance_score: 0.5423020165516222
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft.  Der Dienst in den Streitkräften ist daher mit einem\
+      \ elitären Professionsverständnis unvereinbar.  Mit\ndem Traditionserlass von\
+      \ 2018 hat sich die Bundeswehr zudem eindeutig von der Wehrmacht als nicht traditionswürdiger\
+      \ Institution abgegrenzt.  Diese klare\nDistanzierung bestätigte die jüngst\
+      \ erfolgte Aufhebung der – zumindest missverständlichen – Hinweise zur Traditionspflege.\
+      \  [41] Die Maßnahmen zur\nExtremismusprävention enden zudem nicht mit dem Ausscheiden\
+      \ aus dem Dienst: Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten\
+      \ für die\nFDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive\
+      \ und repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen. "
+    uid: 905245ba-4f58-4e2b-8a75-a9ab0233fffe
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Normative Vorgaben
+
+        Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+        eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+        Selbstverständnis als einer Armee (in) der Demokratie und deren normativen
+        wie rechtlichen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5336621030817785
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+      die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits erkennen
+
+      manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+      der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+      Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang stehen.  [3]
+      Im Folgenden wird diesen Annahmen nachgegangen, und anhand
+
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen
+      in der Truppe sind und wie sie entstehen.  [4]
+
+      Normative Vorgaben
+
+      Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+      eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+      Selbstverständnis als einer Armee (in) der Demokratie und deren normativen wie
+      rechtlichen Vorgaben nicht vereinbar.  Aufgabe der Bundeswehr ist neben der
+
+      Verteidigung der staatlichen Souveränität und der territorialen Integrität Deutschlands
+      die Aufrechterhaltung der freiheitlichen demokratischen Grundordnung
+
+      (FDGO).  Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut
+      Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter
+
+      Bestrebungen zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen
+      Demokratie zu beseitigen. '
+    uid: 53874f6b-f5f8-4c19-baeb-3aebf57e34a0
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten
+        die
+
+        Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+        und Unterstützung zeigen. '
+      page_label: '3'
+      relevance_score: 0.5260471357446821
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die steigende Unzufriedenheit mit politischen Entscheidungen und
+
+      Maßnahmen sowie ein wachsendes Misstrauen gegenüber den politisch Verantwortlichen
+      führten demnach zu einer Abkehr von demokratischen Werten und
+
+      einem Vertrauensverlust in politische Institutionen.  Die in der Gesellschaft
+      auftretenden Enttäuschungen würden sich gleichermaßen in der Bundeswehr
+
+      niederschlagen.  Parallel zum Anwachsen von Rechtspopulismus und -extremismus
+      im zivilen Umfeld steige die Zahl der Soldatinnen und Soldaten, die Zweifel
+      an
+
+      der Funktionsfähigkeit des politischen Systems und an den politischen Akteuren
+      hegen.  [30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten die
+
+      Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+      und Unterstützung zeigen.  [31] Die empirische Forschung hat zwar
+
+      nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+      mangelt.  [32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+      angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+      Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+      wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen.  [33]
+      Eine andere Variante der Sozialisationshypothese knüpft an die
+
+      Deprivationstheorie der Extremismusforschung an, die davon ausgeht, dass rechtsextremistische
+      Einstellungen das Ergebnis von sozioökonomischen und -
+
+      kulturellen Verlustängsten seien. '
+    uid: 2ec3b720-9394-4755-b3b5-1731a833e605
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[11]
+
+        Die Entwicklung über die vergangenen Jahre ist rückläufig. '
+      page_label: '2'
+      relevance_score: 0.5217930944845689
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Blickt man auf einzelne Phänomenbereiche, werden dem
+
+      Rechtsextremismus 2023 776 Fälle (74 Prozent) zugerechnet.  Hinzu kommen Vorfälle
+      aus dem Milieu der Reichsbürger und Selbstverwalter, oder solche, die auf
+
+      eine Delegitimierung des Staates zielen.  Andere Varianten des Extremismus wie
+      Linksextremismus und auslandsbezogener Extremismus (zum Beispiel die
+
+      türkische Bewegung der Grauen Wölfe/Ülkücü) oder Islamismus sind demgegenüber
+      selten.  [11]
+
+      Die Entwicklung über die vergangenen Jahre ist rückläufig.  So wurden 2021 im
+      Bereich Rechtsextremismus noch 1242 Verdachtsfälle bearbeitet.  [12] Die zuvor
+
+      gestiegene Zahl an Verdachtsfällen [13] basiert nach dem Urteil einiger Beobachterinnen
+      und Beobachter wie der Wehrbeauftragten Eva Högl auf einer
+
+      gewachsenen Sensibilität in der Truppe, die zu einer höheren Meldebereitschaft
+      geführt habe.  [14] Dagegen steht die Vermutung, dass die Zahlen des BAMAD
+
+      nicht alle extremistischen Vorfälle erfassen. '
+    uid: a04cc7d8-fe48-4c50-93bc-13beb83e2874
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Schluss
+
+        Die Bundeswehr hat umfangreiche präventive und repressive Maßnahmen ergriffen,
+        um politischen Extremismus in ihren Reihen zu bekämpfen. '
+      page_label: '3'
+      relevance_score: 0.5203744541770075
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Mit\ndem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig\
+      \ von der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt.  Diese\
+      \ klare\nDistanzierung bestätigte die jüngst erfolgte Aufhebung der – zumindest\
+      \ missverständlichen – Hinweise zur Traditionspflege.  [41] Die Maßnahmen zur\n\
+      Extremismusprävention enden zudem nicht mit dem Ausscheiden aus dem Dienst:\
+      \ Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten für die\n\
+      FDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive und\
+      \ repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen.  Die\nAnstrengungen werden aber auch künftig nicht verhindern\
+      \ können, dass Extremisten den Weg in die Truppe finden, dass sich Soldatinnen\
+      \ und Soldaten im Laufe\nihres Dienstes radikalisieren und dass es zu extremistischen\
+      \ Vorfällen kommt.  Aus der Tatsache, dass jeder Fall von Extremismus in der\
+      \ Bundeswehr einer zu viel\nist, erklärt sich die hohe öffentliche Aufmerksamkeit\
+      \ für die Thematik, zumal in Zeiten gesellschaftlicher und politischer Polarisierung.\
+      \  Die Resonanz, die\nextremistische Vorfälle in der Bundeswehr erfahren, ist\
+      \ in der Sache begründet. "
+    uid: b08220e2-b73b-4dce-8b20-4dd32ab15392
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr
+        immer wieder rechtsextremistische Vorfälle gegeben. '
+      page_label: '1'
+      relevance_score: 0.5198557219339744
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr immer
+      wieder rechtsextremistische Vorfälle gegeben.  Die Verhaftung und Verurteilung
+      des
+
+      Bundeswehroffiziers Franco A. aufgrund der Vorbereitung einer schweren staatsgefährdenden
+      Gewalttat haben ebenso wie die Entwendung von Waffen und
+
+      Munition im Kommando Spezialkräfte (KSK) im Jahr 2019 Zweifel an der politischen
+      Zuverlässigkeit und demokratischen Gesinnung der Streitkräfte aufkommen
+
+      lassen.  Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz und die
+      Verteidigung des demokratischen Gemeinwesens verantwortlich.  Damit ist
+
+      unvereinbar, dass sich deren Angehörige als Extremisten zu erkennen geben und
+      sich gegen die Ordnung stellen, die sie verteidigen sollen.
+
+      '
+    uid: 6365e91d-ebd1-4b9f-9a59-4e20d8cd3ba5
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[5] Die Verpflichtung der Bundeswehr auf die rechtliche und
+        politische Ordnung der Bundesrepublik schreibt das Soldatengesetz (SG) vor:
+        „Der Soldat muss die
+
+        freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes anerkennen
+        und durch sein gesamtes Verhalten für ihre Erhaltung eintreten“ (Paragraf
+        8
+
+        SG). '
+      page_label: '1'
+      relevance_score: 0.5188524317965469
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut\
+      \ Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter\nBestrebungen\
+      \ zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen Demokratie\
+      \ zu beseitigen.  Extremistische Bestrebungen umfassen konkrete\nHandlungen,\
+      \ die mit bestimmten Haltungen einhergehen – im Fall von Rechtsextremismus etwa\
+      \ mit Fremdenfeindlichkeit, Antisemitismus oder Antipluralismus.\n [5] Die Verpflichtung\
+      \ der Bundeswehr auf die rechtliche und politische Ordnung der Bundesrepublik\
+      \ schreibt das Soldatengesetz (SG) vor: „Der Soldat muss die\nfreiheitliche\
+      \ demokratische Grundordnung im Sinne des Grundgesetzes anerkennen und durch\
+      \ sein gesamtes Verhalten für ihre Erhaltung eintreten“ (Paragraf 8\nSG).  Die\
+      \ Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren Führung,\
+      \ legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen\ndes Grundgesetzes\
+      \ in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und Soldaten der\
+      \ Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer\nÜberzeugung für\
+      \ Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit, Solidarität und\
+      \ Demokratie als den leitenden Werten unseres Staates aktiv\neintreten“.  [7]\
+      \ Ein Engagement für verfassungsfeindliche Positionen oder in einer verfassungsfeindlichen\
+      \ Partei ist mit diesen Vorgaben nicht vereinbar. "
+    uid: 2cac5b56-cd2e-436b-8f36-ce7602e035eb
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[2] Andererseits erkennen
+
+        manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+        der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+        Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang
+        stehen. '
+      page_label: '1'
+      relevance_score: 0.5175628024594345
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Damit ist\nunvereinbar, dass sich deren Angehörige als Extremisten zu erkennen\
+      \ geben und sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie\
+      \ verbreitet solche extremistischen Neigungen sind, ist in der Öffentlichkeit\
+      \ und der Literatur strittig.  [1] Einerseits findet sich die Auffassung, viele\
+      \ Soldatinnen\nund Soldaten besäßen eine gewisse Affinität zu rechtsextremen\
+      \ Positionen und die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits\
+      \ erkennen\nmanche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die\
+      \ aufgrund der gesellschaftlichen Entwicklungen unvermeidlich seien und die\
+      \ mit der\nBundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang\
+      \ stehen.  [3] Im Folgenden wird diesen Annahmen nachgegangen, und anhand\n\
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen\
+      \ in der Truppe sind und wie sie entstehen.  [4]\nNormative Vorgaben\nExtremistische\
+      \ Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr eigentlich\
+      \ überhaupt nicht vorkommen, sind sie doch mit deren\nSelbstverständnis als\
+      \ einer Armee (in) der Demokratie und deren normativen wie rechtlichen Vorgaben\
+      \ nicht vereinbar.  Aufgabe der Bundeswehr ist neben der\nVerteidigung der staatlichen\
+      \ Souveränität und der territorialen Integrität Deutschlands die Aufrechterhaltung\
+      \ der freiheitlichen demokratischen Grundordnung\n(FDGO). "
+    uid: dec33dad-6e8f-48f4-b3b4-9335fcfdb5cb
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[28] Eine neuere Analyse bestätigt, dass
+
+        sowohl ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter
+        sind und ein höheres politisches Interesse sowie politisches
+
+        Kompetenzbewusstsein aufweisen als Personen ohne Erfahrung in der Bundeswehr. '
+      page_label: '3'
+      relevance_score: 0.5172043620677472
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Komposition des militärischen Personals geschuldet.\n Die Zahl der Studien,\
+      \ die der Frage nachgehen, ob sich Angehörige von Streitkräften im Laufe ihres\
+      \ Dienstes radikalisieren, ist ebenfalls begrenzt.  [27] Indizien für\nWirkungen\
+      \ der Sozialisation während des (Wehr-)Dienstes in der Bundeswehr erbrachte\
+      \ eine ältere Untersuchung, die nachweist, dass der Wehrdienst nicht zur\nAusprägung\
+      \ autoritärer Haltungen führt, sondern vielmehr demokratische Orientierungen\
+      \ und Überzeugungen stärkt.  [28] Eine neuere Analyse bestätigt, dass\nsowohl\
+      \ ehemalige als auch aktive Soldatinnen und Soldaten politisch engagierter sind\
+      \ und ein höheres politisches Interesse sowie politisches\nKompetenzbewusstsein\
+      \ aufweisen als Personen ohne Erfahrung in der Bundeswehr.  [29] Über die inhaltliche\
+      \ Ausrichtung des Engagements und der\nEinstellungen sagen die Analysen jedoch\
+      \ nichts aus.\n Hinsichtlich der Frage, wie Radikalisierungen im Zuge des Dienstes\
+      \ ablaufen, finden sich mehrere Erklärungsansätze.  Eine erste Position hebt\
+      \ auf die\nWechselwirkungen gesamtgesellschaftlicher und innermilitärischer\
+      \ Entwicklungen ab. "
+    uid: 0164a148-cb49-458d-8104-96d73b7e81e3
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[9]
+
+        Einen Überblick über Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme
+        Vorfälle in der Bundeswehr 2022 bietet die Antwort der
+
+        Bundesregierung auf eine parlamentarische Anfrage der Fraktion Die Linke. '
+      page_label: '4'
+      relevance_score: 0.516592944941444
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "121–123;\ndies., Parteimitgliedschaft und politische Treuepflicht.  Teil\
+      \ 2, in: Bundeswehrverwaltung 3/2020, S.  56–60.\n [9]\nEinen Überblick über\
+      \ Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme Vorfälle\
+      \ in der Bundeswehr 2022 bietet die Antwort der\nBundesregierung auf eine parlamentarische\
+      \ Anfrage der Fraktion Die Linke.  Vgl.  Bundestagsdrucksache 20/10019, 11.1.2024.\n\
+      \ [10] Zum Beispiel Laabs (Anm. "
+    uid: f50fbedd-69f7-49a1-bc23-12143be3af43
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Im Jahr 2023 wurden rund 50 Personen
+
+        identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+        Verfassungstreue aufweisen. '
+      page_label: '2'
+      relevance_score: 0.5115775592017315
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Bei den Soldatinnen und Soldaten sind Berufssoldaten sowie die Dienstgradgruppen
+      der Unteroffiziere und Offiziere in geringerem Maße unter den
+
+      Verdächtigten zu finden.  [16]
+
+      Bei den bislang berichteten Zahlen handelt es sich um Verdachtsfälle, von denen
+      sich einige bestätigen, viele sich aber als unbegründet erweisen.  Weitaus
+
+      geringer sind daher die Zahlen der erkannten Extremistinnen und Extremisten
+      im Sinne des Paragrafen 4 BVerfSchG.  Im Jahr 2023 wurden rund 50 Personen
+
+      identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+      Verfassungstreue aufweisen.  Über 70 bereits identifizierte Extremisten haben
+      die
+
+      Bundeswehr verlassen.  [17] Die Entfernung erkannter Extremisten aus dem Dienst
+      war bislang sehr langwierig.  Selbst bei einem eindeutigen Fall wie Franco A.
+
+      war die Entlassung aus der Bundeswehr erst nach mehreren Jahren möglich. '
+    uid: 6f33b5ba-e5ff-4be8-bd18-511169d5c4f3
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz
+        und die Verteidigung des demokratischen Gemeinwesens verantwortlich. '
+      page_label: '1'
+      relevance_score: 0.511225182083898
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr immer\
+      \ wieder rechtsextremistische Vorfälle gegeben.  Die Verhaftung und Verurteilung\
+      \ des\nBundeswehroffiziers Franco A. aufgrund der Vorbereitung einer schweren\
+      \ staatsgefährdenden Gewalttat haben ebenso wie die Entwendung von Waffen und\n\
+      Munition im Kommando Spezialkräfte (KSK) im Jahr 2019 Zweifel an der politischen\
+      \ Zuverlässigkeit und demokratischen Gesinnung der Streitkräfte aufkommen\n\
+      lassen.  Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz und die\
+      \ Verteidigung des demokratischen Gemeinwesens verantwortlich.  Damit ist\n\
+      unvereinbar, dass sich deren Angehörige als Extremisten zu erkennen geben und\
+      \ sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie verbreitet\
+      \ solche extremistischen Neigungen sind, ist in der Öffentlichkeit und der Literatur\
+      \ strittig.  [1] Einerseits findet sich die Auffassung, viele Soldatinnen\n\
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und\
+      \ die Truppe dulde solche Haltungen stillschweigend. "
+    uid: b3639db2-41eb-41fa-ada1-5574bd628b50
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 5
+  negation: Die Bundeswehr hat dokumentierte Vorfälle von politischem Extremismus
+    in den letzten fünf Jahren.
+  statement_type: *id004
+  text: Die Bundeswehr hat keine dokumentierten Vorfälle von politischem Extremismus
+    in den letzten fünf Jahren.
+  uid: bc0a9c6b-4e94-412d-9fad-9016c35eea1c
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    04912777-df1b-46f0-be01-4f9ad19b564a: -5.450177926685675e-37
+    08d6016c-1f41-42e0-a110-b3b974070f82: -2.158487435317999e-34
+    29362171-5cb3-485d-b46e-f3515b770f76: 2.6785632016570527e-33
+    2c755b11-3a46-4150-80b8-057c425f00b1: -1.4449381201192985e-39
+    58b3cca3-2326-42e9-8577-5a78c37741df: 1.979259877036632e-32
+    5fd3184d-40fd-4172-91d3-85b9501d681f: -1.6458112458705966e-38
+    6255eed3-ce6b-4496-b963-75102d42eed6: -1.0
+    942dc5e9-f62e-4206-8b69-84f5a924d653: 5.380186159110866e-32
+    b7f2ffef-1f80-4f65-8741-55592ed6caed: -9.854154686111257e-34
+    c7905079-b50e-4ae3-863c-3a03975724f9: 1.9538416488196967e-27
+    d28967f6-aae7-4b31-84c3-62a2c3df18a2: 2.644237129427904e-28
+    f632abeb-b09a-4fd6-afc3-840eb012c173: 6.639677138247051e-36
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Schluss
+
+        Die Bundeswehr hat umfangreiche präventive und repressive Maßnahmen ergriffen,
+        um politischen Extremismus in ihren Reihen zu bekämpfen. '
+      page_label: '3'
+      relevance_score: 0.6330136341035397
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Mit\ndem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig\
+      \ von der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt.  Diese\
+      \ klare\nDistanzierung bestätigte die jüngst erfolgte Aufhebung der – zumindest\
+      \ missverständlichen – Hinweise zur Traditionspflege.  [41] Die Maßnahmen zur\n\
+      Extremismusprävention enden zudem nicht mit dem Ausscheiden aus dem Dienst:\
+      \ Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten für die\n\
+      FDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive und\
+      \ repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen.  Die\nAnstrengungen werden aber auch künftig nicht verhindern\
+      \ können, dass Extremisten den Weg in die Truppe finden, dass sich Soldatinnen\
+      \ und Soldaten im Laufe\nihres Dienstes radikalisieren und dass es zu extremistischen\
+      \ Vorfällen kommt.  Aus der Tatsache, dass jeder Fall von Extremismus in der\
+      \ Bundeswehr einer zu viel\nist, erklärt sich die hohe öffentliche Aufmerksamkeit\
+      \ für die Thematik, zumal in Zeiten gesellschaftlicher und politischer Polarisierung.\
+      \  Die Resonanz, die\nextremistische Vorfälle in der Bundeswehr erfahren, ist\
+      \ in der Sache begründet. "
+    uid: 5fd3184d-40fd-4172-91d3-85b9501d681f
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[37]
+
+        Maßnahmen gegen Extremismus
+
+        Die Bundeswehr hat Maßnahmen ergriffen, um den beschriebenen Wirkungsfaktoren
+        entgegenzuwirken, und in einer Dienstvorschrift zusammengefasst. '
+      page_label: '3'
+      relevance_score: 0.6081910143838597
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[36] Mit einem soldatischen Elitismus gehe nicht nur eine
+
+      abschätzige Haltung gegenüber der Zivilbevölkerung einher, sondern auch gegenüber
+      weniger militärisch geprägten Teilen der Streitkräfte.  Soldatinnen und
+
+      Soldaten mit einer elitären Orientierung identifizierten sich zudem häufiger
+      mit der Wehrmacht und sähen diese als vorbildhaft an.  Im Gegensatz zum offiziellen
+
+      Traditionsverständnis der Bundeswehr seien für diese Soldatinnen und Soldaten
+      zuvorderst die militärisch-handwerklichen Leistungen der Wehrmacht
+
+      beispielgebend – bei Ausblendung des Vernichtungskriegs und der Beteiligung
+      am Holocaust.  [37]
+
+      Maßnahmen gegen Extremismus
+
+      Die Bundeswehr hat Maßnahmen ergriffen, um den beschriebenen Wirkungsfaktoren
+      entgegenzuwirken, und in einer Dienstvorschrift zusammengefasst.  [38]
+
+      Einige der vorhandenen Instrumente zielen darauf, Radikalisierungsprozesse während
+      der militärischen Sozialisation zu verhindern.  Andere sollen Extremisten,
+
+      die sich für die Streitkräfte interessieren, bereits im Vorfeld entgegenwirken.  So
+      soll die Überprüfung aller Bewerberinnen und Bewerber sowie die
+
+      Soldateneinstellungsüberprüfungen, die 2017 eingeführt wurden, verhindern, dass
+      Personen mit extremistischem Hintergrund überhaupt in die Streitkräfte
+
+      gelangen und militärisch geschult werden. '
+    uid: 04912777-df1b-46f0-be01-4f9ad19b564a
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Normative Vorgaben
+
+        Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+        eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+        Selbstverständnis als einer Armee (in) der Demokratie und deren normativen
+        wie rechtlichen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5773144496383589
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+      die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits erkennen
+
+      manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+      der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+      Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang stehen.  [3]
+      Im Folgenden wird diesen Annahmen nachgegangen, und anhand
+
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen
+      in der Truppe sind und wie sie entstehen.  [4]
+
+      Normative Vorgaben
+
+      Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+      eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+      Selbstverständnis als einer Armee (in) der Demokratie und deren normativen wie
+      rechtlichen Vorgaben nicht vereinbar.  Aufgabe der Bundeswehr ist neben der
+
+      Verteidigung der staatlichen Souveränität und der territorialen Integrität Deutschlands
+      die Aufrechterhaltung der freiheitlichen demokratischen Grundordnung
+
+      (FDGO).  Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut
+      Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter
+
+      Bestrebungen zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen
+      Demokratie zu beseitigen. '
+    uid: b7f2ffef-1f80-4f65-8741-55592ed6caed
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[8] Liegen
+
+        entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+        für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+        Bundeswehr Ermittlungen auf. '
+      page_label: '1'
+      relevance_score: 0.5714869169739543
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren
+      Führung, legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen
+
+      des Grundgesetzes in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und
+      Soldaten der Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer
+
+      Überzeugung für Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit,
+      Solidarität und Demokratie als den leitenden Werten unseres Staates aktiv
+
+      eintreten“.  [7] Ein Engagement für verfassungsfeindliche Positionen oder in
+      einer verfassungsfeindlichen Partei ist mit diesen Vorgaben nicht vereinbar.  [8]
+      Liegen
+
+      entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+      für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+      Bundeswehr Ermittlungen auf.  Bestätigt sich der Verdacht, werden rechtliche
+      Schritte unternommen, die von disziplinarrechtlichen Maßnahmen bis zur
+
+      Entlassung reichen.  [9]
+
+      Zahlen und Fakten
+
+      Wie verbreitet extremistische Vorfälle in der Bundeswehr sind, ist in der wissenschaftlichen
+      Literatur strittig.  Es liegt eine Fülle von Reportagen, Darstellungen
+
+      und Überblicken zu medial bekannt gewordenen Vorkommnissen vor. '
+    uid: c7905079-b50e-4ae3-863c-3a03975724f9
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[40] Darüber
+
+        hinaus ist davon auszugehen, dass sich manche Interessierte wegen dieser Überprüfungen
+        erst gar nicht bei der Bundeswehr bewerben, was dem
+
+        Selektionseffekt ebenfalls entgegenwirkt.
+
+        '
+      page_label: '3'
+      relevance_score: 0.5713132210379066
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "So soll die Überprüfung aller Bewerberinnen und Bewerber sowie die\nSoldateneinstellungsüberprüfungen,\
+      \ die 2017 eingeführt wurden, verhindern, dass Personen mit extremistischem\
+      \ Hintergrund überhaupt in die Streitkräfte\ngelangen und militärisch geschult\
+      \ werden.  [39] Im Jahr 2023 wurden 94 Personen wegen Zweifeln an ihrer Verfassungstreue\
+      \ vom Bewerbungsprozess\nausgeschlossen.  Zudem stellte das BAMAD durch die\
+      \ Soldateneinstellungsüberprüfungen bei 37 Personen ein mögliches Sicherheitsrisiko\
+      \ fest.  [40] Darüber\nhinaus ist davon auszugehen, dass sich manche Interessierte\
+      \ wegen dieser Überprüfungen erst gar nicht bei der Bundeswehr bewerben, was\
+      \ dem\nSelektionseffekt ebenfalls entgegenwirkt.\n Zudem werden Vorgesetzte\
+      \ umfassend zum Umgang mit extremistischen Vorfällen geschult sowie durch die\
+      \ zuständigen Stellen wie das BAMAD oder\nRechtsberater der Bundeswehr unterstützt.\
+      \  Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft. "
+    uid: f632abeb-b09a-4fd6-afc3-840eb012c173
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[38]
+
+        Einige der vorhandenen Instrumente zielen darauf, Radikalisierungsprozesse
+        während der militärischen Sozialisation zu verhindern. '
+      page_label: '3'
+      relevance_score: 0.5682362343426844
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Soldatinnen und
+
+      Soldaten mit einer elitären Orientierung identifizierten sich zudem häufiger
+      mit der Wehrmacht und sähen diese als vorbildhaft an.  Im Gegensatz zum offiziellen
+
+      Traditionsverständnis der Bundeswehr seien für diese Soldatinnen und Soldaten
+      zuvorderst die militärisch-handwerklichen Leistungen der Wehrmacht
+
+      beispielgebend – bei Ausblendung des Vernichtungskriegs und der Beteiligung
+      am Holocaust.  [37]
+
+      Maßnahmen gegen Extremismus
+
+      Die Bundeswehr hat Maßnahmen ergriffen, um den beschriebenen Wirkungsfaktoren
+      entgegenzuwirken, und in einer Dienstvorschrift zusammengefasst.  [38]
+
+      Einige der vorhandenen Instrumente zielen darauf, Radikalisierungsprozesse während
+      der militärischen Sozialisation zu verhindern.  Andere sollen Extremisten,
+
+      die sich für die Streitkräfte interessieren, bereits im Vorfeld entgegenwirken.  So
+      soll die Überprüfung aller Bewerberinnen und Bewerber sowie die
+
+      Soldateneinstellungsüberprüfungen, die 2017 eingeführt wurden, verhindern, dass
+      Personen mit extremistischem Hintergrund überhaupt in die Streitkräfte
+
+      gelangen und militärisch geschult werden.  [39] Im Jahr 2023 wurden 94 Personen
+      wegen Zweifeln an ihrer Verfassungstreue vom Bewerbungsprozess
+
+      ausgeschlossen. '
+    uid: 08d6016c-1f41-42e0-a110-b3b974070f82
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Mit
+
+        dem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig von
+        der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt. '
+      page_label: '3'
+      relevance_score: 0.567288287225347
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft.  Der Dienst in den Streitkräften ist daher mit einem\
+      \ elitären Professionsverständnis unvereinbar.  Mit\ndem Traditionserlass von\
+      \ 2018 hat sich die Bundeswehr zudem eindeutig von der Wehrmacht als nicht traditionswürdiger\
+      \ Institution abgegrenzt.  Diese klare\nDistanzierung bestätigte die jüngst\
+      \ erfolgte Aufhebung der – zumindest missverständlichen – Hinweise zur Traditionspflege.\
+      \  [41] Die Maßnahmen zur\nExtremismusprävention enden zudem nicht mit dem Ausscheiden\
+      \ aus dem Dienst: Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten\
+      \ für die\nFDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive\
+      \ und repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen. "
+    uid: 942dc5e9-f62e-4206-8b69-84f5a924d653
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Wissenschaftliche Befunde
+
+        Ungeachtet der hohen politischen Relevanz der Thematik gibt es nur eine geringe
+        Zahl an sozialempirischen Untersuchungen zum politischen Extremismus und
+
+        zum Ausmaß und den Ursachen extremistischer Einstellungen in der Bundeswehr. '
+      page_label: '2'
+      relevance_score: 0.5636496888312471
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[17] Die Entfernung erkannter Extremisten aus dem Dienst war bislang sehr\
+      \ langwierig.  Selbst bei einem eindeutigen Fall wie Franco A.\nwar die Entlassung\
+      \ aus der Bundeswehr erst nach mehreren Jahren möglich.  [18] Eine Gesetzesnovelle\
+      \ von 2023 soll die Verfahren beschleunigen, damit\nAngehörige der Bundeswehr,\
+      \ die nicht auf dem Boden der FDGO stehen, schneller entlassen werden können.\n\
+      \ Wissenschaftliche Befunde\nUngeachtet der hohen politischen Relevanz der Thematik\
+      \ gibt es nur eine geringe Zahl an sozialempirischen Untersuchungen zum politischen\
+      \ Extremismus und\nzum Ausmaß und den Ursachen extremistischer Einstellungen\
+      \ in der Bundeswehr.  Die bescheidene Forschungslage ist darauf zurückzuführen,\
+      \ dass das BMVg\nden Zugang zu Untersuchungen in der Truppe kontrolliert und\
+      \ lange Zeit kein Interesse daran hatte, dieser Frage systematisch nachzugehen.\
+      \  [19]\nHinsichtlich der Erklärungen für extremistische Einstellungen konkurrieren\
+      \ zwei Hypothesen miteinander: Die Selektionshypothese geht davon aus, dass\n\
+      Personen bereits radikalisiert zur Bundeswehr kommen.  Demnach wäre der Extremismus\
+      \ in der Bundeswehr aus der Zivilgesellschaft importiert, käme also von\naußen. "
+    uid: 6255eed3-ce6b-4496-b963-75102d42eed6
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'So soll die Überprüfung aller Bewerberinnen und Bewerber sowie
+        die
+
+        Soldateneinstellungsüberprüfungen, die 2017 eingeführt wurden, verhindern,
+        dass Personen mit extremistischem Hintergrund überhaupt in die Streitkräfte
+
+        gelangen und militärisch geschult werden. '
+      page_label: '3'
+      relevance_score: 0.5632439190900864
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[37]
+
+      Maßnahmen gegen Extremismus
+
+      Die Bundeswehr hat Maßnahmen ergriffen, um den beschriebenen Wirkungsfaktoren
+      entgegenzuwirken, und in einer Dienstvorschrift zusammengefasst.  [38]
+
+      Einige der vorhandenen Instrumente zielen darauf, Radikalisierungsprozesse während
+      der militärischen Sozialisation zu verhindern.  Andere sollen Extremisten,
+
+      die sich für die Streitkräfte interessieren, bereits im Vorfeld entgegenwirken.  So
+      soll die Überprüfung aller Bewerberinnen und Bewerber sowie die
+
+      Soldateneinstellungsüberprüfungen, die 2017 eingeführt wurden, verhindern, dass
+      Personen mit extremistischem Hintergrund überhaupt in die Streitkräfte
+
+      gelangen und militärisch geschult werden.  [39] Im Jahr 2023 wurden 94 Personen
+      wegen Zweifeln an ihrer Verfassungstreue vom Bewerbungsprozess
+
+      ausgeschlossen.  Zudem stellte das BAMAD durch die Soldateneinstellungsüberprüfungen
+      bei 37 Personen ein mögliches Sicherheitsrisiko fest.  [40] Darüber
+
+      hinaus ist davon auszugehen, dass sich manche Interessierte wegen dieser Überprüfungen
+      erst gar nicht bei der Bundeswehr bewerben, was dem
+
+      Selektionseffekt ebenfalls entgegenwirkt.
+
+      '
+    uid: 2c755b11-3a46-4150-80b8-057c425f00b1
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Und wie schützt sich die
+
+        Bundeswehr vor diesen Tendenzen?
+
+        '
+      page_label: '1'
+      relevance_score: 0.5626351015469812
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Ein seit\nExtremismus in der Bundeswehr\nAusmaß, Ursachen, Wirkungen\n\
+      15.11.2024 / 14 Minuten zu lesen\nMarkus Steinbrecher\nHeiko Biehl\nNina Leonhard\n\
+      Politischer Extremismus ist mit dem Dienst in der Bundeswehr unvereinbar.  Dennoch\
+      \ kommt es immer\nwieder zu Vorfällen.  Wie verbreitet ist Extremismus in den\
+      \ Streitkräften?  Und wie schützt sich die\nBundeswehr vor diesen Tendenzen?\n\
+      \ Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...\n\
+      1 von 5 12.12.2024, 15:46"
+    uid: 29362171-5cb3-485d-b46e-f3515b770f76
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz
+        und die Verteidigung des demokratischen Gemeinwesens verantwortlich. '
+      page_label: '1'
+      relevance_score: 0.5600452929318335
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "In den knapp 70 Jahren seit ihrer Gründung hat es in der Bundeswehr immer\
+      \ wieder rechtsextremistische Vorfälle gegeben.  Die Verhaftung und Verurteilung\
+      \ des\nBundeswehroffiziers Franco A. aufgrund der Vorbereitung einer schweren\
+      \ staatsgefährdenden Gewalttat haben ebenso wie die Entwendung von Waffen und\n\
+      Munition im Kommando Spezialkräfte (KSK) im Jahr 2019 Zweifel an der politischen\
+      \ Zuverlässigkeit und demokratischen Gesinnung der Streitkräfte aufkommen\n\
+      lassen.  Die Bundeswehr ist als bewaffnetes Staatsorgan für den Schutz und die\
+      \ Verteidigung des demokratischen Gemeinwesens verantwortlich.  Damit ist\n\
+      unvereinbar, dass sich deren Angehörige als Extremisten zu erkennen geben und\
+      \ sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie verbreitet\
+      \ solche extremistischen Neigungen sind, ist in der Öffentlichkeit und der Literatur\
+      \ strittig.  [1] Einerseits findet sich die Auffassung, viele Soldatinnen\n\
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und\
+      \ die Truppe dulde solche Haltungen stillschweigend. "
+    uid: d28967f6-aae7-4b31-84c3-62a2c3df18a2
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[9]
+
+        Einen Überblick über Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme
+        Vorfälle in der Bundeswehr 2022 bietet die Antwort der
+
+        Bundesregierung auf eine parlamentarische Anfrage der Fraktion Die Linke. '
+      page_label: '4'
+      relevance_score: 0.559520519240898
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "121–123;\ndies., Parteimitgliedschaft und politische Treuepflicht.  Teil\
+      \ 2, in: Bundeswehrverwaltung 3/2020, S.  56–60.\n [9]\nEinen Überblick über\
+      \ Ermittlungsergebnisse und Maßnahmen im Hinblick auf rechtsextreme Vorfälle\
+      \ in der Bundeswehr 2022 bietet die Antwort der\nBundesregierung auf eine parlamentarische\
+      \ Anfrage der Fraktion Die Linke.  Vgl.  Bundestagsdrucksache 20/10019, 11.1.2024.\n\
+      \ [10] Zum Beispiel Laabs (Anm. "
+    uid: 58b3cca3-2326-42e9-8577-5a78c37741df
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 1
+  negation: Die Bundeswehr hat keine Maßnahmen ergriffen, um politischen Extremismus
+    innerhalb ihrer Reihen zu verhindern, und es gibt derzeit Hinweise auf dessen
+    Vorhandensein.
+  statement_type: *id004
+  text: Die Bundeswehr hat Maßnahmen ergriffen, um politischen Extremismus innerhalb
+    ihrer Reihen zu verhindern, und es gibt derzeit keine Hinweise auf dessen Vorhandensein.
+  uid: 9d0f7e60-e9e2-4d40-a80d-924f2a619235
+  verbalized_confirmation: The claim is strongly disconfirmed.
+- average_confirmation: -1.0
+  confirmation_by_document:
+    0c542692-ecb6-402b-b349-a0cca95fbd4f: -1.0
+    19331fa2-da56-4f6b-8fff-488e9555d226: 1.4813294037414224e-36
+    299b54f1-c213-474c-b43d-c3412696fafe: -2.9374780845430106e-30
+    2a68ea45-b9d4-4932-96e5-840115c36801: -3.263247811315202e-32
+    2c0f03dc-6540-4d50-9b79-ba6f06cc2f9e: -1.0
+    405c8989-76f7-4246-a227-61388d74b3f4: -8.088647642062229e-35
+    4fcb4214-db23-4b84-81c1-3287d5b317cd: -1.0
+    5742d824-d99c-4189-adfb-c28811400c6b: 9.727596686204975e-29
+    84818e4d-c945-41ed-afe0-8c692fa75e51: -8.088764455177795e-35
+    97ff04a5-d67c-4276-9d16-654aa86e404d: 5.380186160021138e-32
+    a0d8801d-7d6b-4715-9cb9-5510ae705555: 8.068732650671668e-35
+    c235eb9b-ed88-4e7a-bc6f-442b181cedf7: 1.9792582321354735e-32
+  confirmation_level: *id003
+  documents:
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Mit
+
+        dem Traditionserlass von 2018 hat sich die Bundeswehr zudem eindeutig von
+        der Wehrmacht als nicht traditionswürdiger Institution abgegrenzt. '
+      page_label: '3'
+      relevance_score: 0.5865560895774841
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Für alle Soldatinnen und Soldaten ist Extremismus regelmäßiger Inhalt der\
+      \ umfangreichen politischen, historischen\nund ethischen Bildung.  Darüber hinaus\
+      \ verpflichtet die Führungskonzeption der Bundeswehr, die Innere Führung, die\
+      \ Soldatinnen und Soldaten auf das Primat\nder Politik und die enge Einbindung\
+      \ in die Zivilgesellschaft.  Der Dienst in den Streitkräften ist daher mit einem\
+      \ elitären Professionsverständnis unvereinbar.  Mit\ndem Traditionserlass von\
+      \ 2018 hat sich die Bundeswehr zudem eindeutig von der Wehrmacht als nicht traditionswürdiger\
+      \ Institution abgegrenzt.  Diese klare\nDistanzierung bestätigte die jüngst\
+      \ erfolgte Aufhebung der – zumindest missverständlichen – Hinweise zur Traditionspflege.\
+      \  [41] Die Maßnahmen zur\nExtremismusprävention enden zudem nicht mit dem Ausscheiden\
+      \ aus dem Dienst: Auch ehemalige Soldatinnen und Soldaten sind zum aktiven Eintreten\
+      \ für die\nFDGO verpflichtet.\n Schluss\nDie Bundeswehr hat umfangreiche präventive\
+      \ und repressive Maßnahmen ergriffen, um politischen Extremismus in ihren Reihen\
+      \ zu bekämpfen. "
+    uid: c235eb9b-ed88-4e7a-bc6f-442b181cedf7
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Dennoch empfinden sie viele Angehörige der Streitkräfte als
+        Ausweis eines
+
+        mangelnden öffentlichen Vertrauens, erst recht, wenn aufgrund von Vorkommnissen
+        ein Generalverdacht gegen die Bundeswehr geäußert wird und sich viele
+
+        Verdachtsfälle nicht bestätigen. '
+      page_label: '3'
+      relevance_score: 0.5733137106718218
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die
+
+      Anstrengungen werden aber auch künftig nicht verhindern können, dass Extremisten
+      den Weg in die Truppe finden, dass sich Soldatinnen und Soldaten im Laufe
+
+      ihres Dienstes radikalisieren und dass es zu extremistischen Vorfällen kommt.  Aus
+      der Tatsache, dass jeder Fall von Extremismus in der Bundeswehr einer zu viel
+
+      ist, erklärt sich die hohe öffentliche Aufmerksamkeit für die Thematik, zumal
+      in Zeiten gesellschaftlicher und politischer Polarisierung.  Die Resonanz, die
+
+      extremistische Vorfälle in der Bundeswehr erfahren, ist in der Sache begründet.  Dennoch
+      empfinden sie viele Angehörige der Streitkräfte als Ausweis eines
+
+      mangelnden öffentlichen Vertrauens, erst recht, wenn aufgrund von Vorkommnissen
+      ein Generalverdacht gegen die Bundeswehr geäußert wird und sich viele
+
+      Verdachtsfälle nicht bestätigen.  In dieser Zuspitzung liegt die Gefahr wechselseitiger
+      Missverständnisse und Zweifel.  Um dieser Dynamik entgegenzuwirken, ist
+
+      ein transparenter Umgang seitens der Bundeswehr mit einschlägigen Vorkommnissen
+      wesentlich, ohne dass es dadurch zu öffentlichen Vorverurteilungen
+
+      kommt.  Genauso wichtig erscheint aber ein nochmals verstärkter Austausch zwischen
+      Bundeswehr und Gesellschaft, um gegenseitige Vorbehalte und Vorurteile
+
+      Extremismus in der Bundeswehr | Bundeswehr | bpb.de https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/e...
+
+      3 von 5 12.12.2024, 15:46'
+    uid: 5742d824-d99c-4189-adfb-c28811400c6b
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[4]
+
+        Normative Vorgaben
+
+        Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+        eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+        Selbstverständnis als einer Armee (in) der Demokratie und deren normativen
+        wie rechtlichen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5719515954020782
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[1] Einerseits findet sich die Auffassung, viele Soldatinnen
+
+      und Soldaten besäßen eine gewisse Affinität zu rechtsextremen Positionen und
+      die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits erkennen
+
+      manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+      der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+      Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang stehen.  [3]
+      Im Folgenden wird diesen Annahmen nachgegangen, und anhand
+
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen
+      in der Truppe sind und wie sie entstehen.  [4]
+
+      Normative Vorgaben
+
+      Extremistische Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr
+      eigentlich überhaupt nicht vorkommen, sind sie doch mit deren
+
+      Selbstverständnis als einer Armee (in) der Demokratie und deren normativen wie
+      rechtlichen Vorgaben nicht vereinbar.  Aufgabe der Bundeswehr ist neben der
+
+      Verteidigung der staatlichen Souveränität und der territorialen Integrität Deutschlands
+      die Aufrechterhaltung der freiheitlichen demokratischen Grundordnung
+
+      (FDGO).  Gegen diese FDGO richtet sich jede Form des politischen Extremismus.  Laut
+      Paragraf 4 Bundesverfassungsschutzgesetz (BVerfSchG) sind darunter
+
+      Bestrebungen zu verstehen, die darauf zielen, die Grundwerte der freiheitlichen
+      Demokratie zu beseitigen. '
+    uid: 84818e4d-c945-41ed-afe0-8c692fa75e51
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten
+        die
+
+        Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+        und Unterstützung zeigen. '
+      page_label: '3'
+      relevance_score: 0.5702140455734502
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Die steigende Unzufriedenheit mit politischen Entscheidungen und
+
+      Maßnahmen sowie ein wachsendes Misstrauen gegenüber den politisch Verantwortlichen
+      führten demnach zu einer Abkehr von demokratischen Werten und
+
+      einem Vertrauensverlust in politische Institutionen.  Die in der Gesellschaft
+      auftretenden Enttäuschungen würden sich gleichermaßen in der Bundeswehr
+
+      niederschlagen.  Parallel zum Anwachsen von Rechtspopulismus und -extremismus
+      im zivilen Umfeld steige die Zahl der Soldatinnen und Soldaten, die Zweifel
+      an
+
+      der Funktionsfähigkeit des politischen Systems und an den politischen Akteuren
+      hegen.  [30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten die
+
+      Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+      und Unterstützung zeigen.  [31] Die empirische Forschung hat zwar
+
+      nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+      mangelt.  [32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+      angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+      Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+      wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen.  [33]
+      Eine andere Variante der Sozialisationshypothese knüpft an die
+
+      Deprivationstheorie der Extremismusforschung an, die davon ausgeht, dass rechtsextremistische
+      Einstellungen das Ergebnis von sozioökonomischen und -
+
+      kulturellen Verlustängsten seien. '
+    uid: a0d8801d-7d6b-4715-9cb9-5510ae705555
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[2] Andererseits erkennen
+
+        manche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die aufgrund
+        der gesellschaftlichen Entwicklungen unvermeidlich seien und die mit der
+
+        Bundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang
+        stehen. '
+      page_label: '1'
+      relevance_score: 0.5655353703938576
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Damit ist\nunvereinbar, dass sich deren Angehörige als Extremisten zu erkennen\
+      \ geben und sich gegen die Ordnung stellen, die sie verteidigen sollen.\n Wie\
+      \ verbreitet solche extremistischen Neigungen sind, ist in der Öffentlichkeit\
+      \ und der Literatur strittig.  [1] Einerseits findet sich die Auffassung, viele\
+      \ Soldatinnen\nund Soldaten besäßen eine gewisse Affinität zu rechtsextremen\
+      \ Positionen und die Truppe dulde solche Haltungen stillschweigend.  [2] Andererseits\
+      \ erkennen\nmanche in rechtsextremistischen Vorkommnissen nur Einzelfälle, die\
+      \ aufgrund der gesellschaftlichen Entwicklungen unvermeidlich seien und die\
+      \ mit der\nBundeswehr und dem soldatischen Dienst in keinem ursächlichen Zusammenhang\
+      \ stehen.  [3] Im Folgenden wird diesen Annahmen nachgegangen, und anhand\n\
+      der vorliegenden Literatur diskutiert, wie verbreitet extremistische Positionen\
+      \ in der Truppe sind und wie sie entstehen.  [4]\nNormative Vorgaben\nExtremistische\
+      \ Einstellungen, Haltungen und Handlungen sollten in der Bundeswehr eigentlich\
+      \ überhaupt nicht vorkommen, sind sie doch mit deren\nSelbstverständnis als\
+      \ einer Armee (in) der Demokratie und deren normativen wie rechtlichen Vorgaben\
+      \ nicht vereinbar.  Aufgabe der Bundeswehr ist neben der\nVerteidigung der staatlichen\
+      \ Souveränität und der territorialen Integrität Deutschlands die Aufrechterhaltung\
+      \ der freiheitlichen demokratischen Grundordnung\n(FDGO). "
+    uid: 405c8989-76f7-4246-a227-61388d74b3f4
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Im Jahr 2023 wurden rund 50 Personen
+
+        identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+        Verfassungstreue aufweisen. '
+      page_label: '2'
+      relevance_score: 0.5582749708470373
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Bei den Soldatinnen und Soldaten sind Berufssoldaten sowie die Dienstgradgruppen
+      der Unteroffiziere und Offiziere in geringerem Maße unter den
+
+      Verdächtigten zu finden.  [16]
+
+      Bei den bislang berichteten Zahlen handelt es sich um Verdachtsfälle, von denen
+      sich einige bestätigen, viele sich aber als unbegründet erweisen.  Weitaus
+
+      geringer sind daher die Zahlen der erkannten Extremistinnen und Extremisten
+      im Sinne des Paragrafen 4 BVerfSchG.  Im Jahr 2023 wurden rund 50 Personen
+
+      identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+      Verfassungstreue aufweisen.  Über 70 bereits identifizierte Extremisten haben
+      die
+
+      Bundeswehr verlassen.  [17] Die Entfernung erkannter Extremisten aus dem Dienst
+      war bislang sehr langwierig.  Selbst bei einem eindeutigen Fall wie Franco A.
+
+      war die Entlassung aus der Bundeswehr erst nach mehreren Jahren möglich. '
+    uid: 4fcb4214-db23-4b84-81c1-3287d5b317cd
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[39] Im Jahr 2023 wurden 94 Personen wegen Zweifeln an ihrer
+        Verfassungstreue vom Bewerbungsprozess
+
+        ausgeschlossen. '
+      page_label: '3'
+      relevance_score: 0.5568865069534843
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[38]\nEinige der vorhandenen Instrumente zielen darauf, Radikalisierungsprozesse\
+      \ während der militärischen Sozialisation zu verhindern.  Andere sollen Extremisten,\n\
+      die sich für die Streitkräfte interessieren, bereits im Vorfeld entgegenwirken.\
+      \  So soll die Überprüfung aller Bewerberinnen und Bewerber sowie die\nSoldateneinstellungsüberprüfungen,\
+      \ die 2017 eingeführt wurden, verhindern, dass Personen mit extremistischem\
+      \ Hintergrund überhaupt in die Streitkräfte\ngelangen und militärisch geschult\
+      \ werden.  [39] Im Jahr 2023 wurden 94 Personen wegen Zweifeln an ihrer Verfassungstreue\
+      \ vom Bewerbungsprozess\nausgeschlossen.  Zudem stellte das BAMAD durch die\
+      \ Soldateneinstellungsüberprüfungen bei 37 Personen ein mögliches Sicherheitsrisiko\
+      \ fest.  [40] Darüber\nhinaus ist davon auszugehen, dass sich manche Interessierte\
+      \ wegen dieser Überprüfungen erst gar nicht bei der Bundeswehr bewerben, was\
+      \ dem\nSelektionseffekt ebenfalls entgegenwirkt.\n Zudem werden Vorgesetzte\
+      \ umfassend zum Umgang mit extremistischen Vorfällen geschult sowie durch die\
+      \ zuständigen Stellen wie das BAMAD oder\nRechtsberater der Bundeswehr unterstützt. "
+    uid: 19331fa2-da56-4f6b-8fff-488e9555d226
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+        angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+        Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+        wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen. '
+      page_label: '3'
+      relevance_score: 0.5530575190715412
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Parallel zum Anwachsen von Rechtspopulismus und -extremismus im zivilen
+      Umfeld steige die Zahl der Soldatinnen und Soldaten, die Zweifel an
+
+      der Funktionsfähigkeit des politischen Systems und an den politischen Akteuren
+      hegen.  [30] In der Bundeswehr findet sich zudem seit mehreren Jahrzehnten die
+
+      Klage, dass weder die Politik noch die Bevölkerung ausreichende Wertschätzung
+      und Unterstützung zeigen.  [31] Die empirische Forschung hat zwar
+
+      nachgewiesen, dass es keineswegs am gesellschaftlichen Rückhalt für die Streitkräfte
+      mangelt.  [32] Dennoch könnten sich einige Soldatinnen und Soldaten
+
+      angesichts des wahrgenommenen, wenn auch nicht tatsächlichen Ausbleibens des
+      Zuspruchs von der Demokratie ab- und rechten Weltbildern zuwenden, zumal
+
+      wenn diese eine höhere Anerkennung für das Militär und seine Prinzipien versprechen.  [33]
+      Eine andere Variante der Sozialisationshypothese knüpft an die
+
+      Deprivationstheorie der Extremismusforschung an, die davon ausgeht, dass rechtsextremistische
+      Einstellungen das Ergebnis von sozioökonomischen und -
+
+      kulturellen Verlustängsten seien.  [34] Der Verlust des Arbeitsplatzes, sozialer
+      Abstieg sowie die Entwertung von Lebensleistungen machten anfällig für
+
+      rechtsextremistische Positionen, die Halt und Orientierung versprächen.  Auf
+      die Bundeswehr übertragen sollten insbesondere Beschäftigte, die unzufrieden
+      mit
+
+      ihrer Aufgabe, dem dienstlichen Umfeld, ihrer Bezahlung und ihrer Karriere sind,
+      anfällig für rechtsextremistische Positionen sein. '
+    uid: 299b54f1-c213-474c-b43d-c3412696fafe
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[23] Es ist also ungeklärt, ob radikale oder extremistische
+        Haltungen in den
+
+        Streitkräften verbreiteter sind als in der Gesamtgesellschaft.
+
+        '
+      page_label: '2'
+      relevance_score: 0.5526708146616892
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "Vor allem Grundwehrdienstleistende brächten rechtes Gedankengut in die\
+      \ Streitkräfte hinein.  [22]\nZwei Untersuchungen zu politischen Haltungen von\
+      \ studierenden Offizieren kommen zu gegensätzlichen Einschätzungen.  Während\
+      \ sich diese Gruppe in den\nStudien von Arwed Bonnemann und Kollegen politisch\
+      \ rechts von den zivilen Studentinnen und Studenten positioniert, zeigt sich\
+      \ in den Arbeiten von Thomas\nBulmahn und Kollegen ein gegenteiliger Effekt:\
+      \ Die Zustimmung zu Positionen der Neuen Rechten ist unter zivilen Jugendlichen\
+      \ und jungen Erwachsenen höher\nals bei den studierenden Offizieren an den Universitäten\
+      \ der Bundeswehr.  [23] Es ist also ungeklärt, ob radikale oder extremistische\
+      \ Haltungen in den\nStreitkräften verbreiteter sind als in der Gesamtgesellschaft.\n\
+      \ Die genauen Ursachen von Extremismus in Armeen sind daher in der wissenschaftlichen\
+      \ Literatur umstritten.  Die erwähnte Selektionshypothese geht davon aus,\n\
+      dass es Verbindungen zwischen militärischen Prinzipien und rechtsextremistischen\
+      \ Einstellungen gebe.  Militärische Grundsätze wie Disziplin, Hierarchie,\n\
+      Gehorsam und (Unter-)Ordnung seien in hohem Maße kompatibel mit rechten Wertevorstellungen. "
+    uid: 2a68ea45-b9d4-4932-96e5-840115c36801
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '89 Prozent aller Verdachtsfälle entfallen
+
+        auf Soldatinnen und Soldaten; damit sind diese im Vergleich zu den Zivilangehörigen
+        der Bundeswehr deutlich überrepräsentiert. '
+      page_label: '2'
+      relevance_score: 0.55200314936211
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: "[15] Beide Annahmen verweisen auf die Interaktion zwischen (vermeintlichen)\
+      \ Extremisten und ihrem dienstlichen Umfeld\nund die Reaktionen der Vorgesetzten\
+      \ sowie der Kameradinnen und Kameraden auf entsprechende Vorfälle.  Extremistische\
+      \ Vorkommnisse in der Bundeswehr\nwerden in der Regel nur erfasst und verfolgt,\
+      \ wenn sie explizit gemeldet werden.\n Die Statistiken des BAMAD zeigen auch,\
+      \ welche Gruppen bei den extremistischen Verdachtsfällen häufiger vorkommen.\
+      \  89 Prozent aller Verdachtsfälle entfallen\nauf Soldatinnen und Soldaten;\
+      \ damit sind diese im Vergleich zu den Zivilangehörigen der Bundeswehr deutlich\
+      \ überrepräsentiert.  Ebenso sind Angehörige des\nHeeres, Zeitsoldaten und Mannschaftsdienstgrade\
+      \ verstärkt vertreten, ferner 25- bis 34-Jährige und Personen mit Wohnort in\
+      \ Baden-Württemberg, Bayern oder\nSachsen.  Unterrepräsentiert sind Zivilbeschäftigte,\
+      \ Ältere sowie Personen mit Wohnort in Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz\
+      \ oder Schleswig-\nHolstein.  Bei den Soldatinnen und Soldaten sind Berufssoldaten\
+      \ sowie die Dienstgradgruppen der Unteroffiziere und Offiziere in geringerem\
+      \ Maße unter den\nVerdächtigten zu finden. "
+    uid: 2c0f03dc-6540-4d50-9b79-ba6f06cc2f9e
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: 'Weitaus
+
+        geringer sind daher die Zahlen der erkannten Extremistinnen und Extremisten
+        im Sinne des Paragrafen 4 BVerfSchG. '
+      page_label: '2'
+      relevance_score: 0.5493770194255579
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: 'Unterrepräsentiert sind Zivilbeschäftigte, Ältere sowie Personen mit Wohnort
+      in Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz oder Schleswig-
+
+      Holstein.  Bei den Soldatinnen und Soldaten sind Berufssoldaten sowie die Dienstgradgruppen
+      der Unteroffiziere und Offiziere in geringerem Maße unter den
+
+      Verdächtigten zu finden.  [16]
+
+      Bei den bislang berichteten Zahlen handelt es sich um Verdachtsfälle, von denen
+      sich einige bestätigen, viele sich aber als unbegründet erweisen.  Weitaus
+
+      geringer sind daher die Zahlen der erkannten Extremistinnen und Extremisten
+      im Sinne des Paragrafen 4 BVerfSchG.  Im Jahr 2023 wurden rund 50 Personen
+
+      identifiziert, die als Rechtsextremisten oder als Reichsbürger eine fehlende
+      Verfassungstreue aufweisen.  Über 70 bereits identifizierte Extremisten haben
+      die
+
+      Bundeswehr verlassen.  [17] Die Entfernung erkannter Extremisten aus dem Dienst
+      war bislang sehr langwierig. '
+    uid: 0c542692-ecb6-402b-b349-a0cca95fbd4f
+  - metadata:
+      author: Nina, Markus {\textbar} Biehl, Heiko {\textbar} Leonhard, Steinbrecher
+      file_name: nina_extremismus_2024.pdf
+      journal: Aus Politik und Zeitgeschichte (APuZ)
+      month: November
+      original_text: '[7] Ein Engagement für verfassungsfeindliche Positionen oder
+        in einer verfassungsfeindlichen Partei ist mit diesen Vorgaben nicht vereinbar. '
+      page_label: '1'
+      relevance_score: 0.5480878241735302
+      title: Extremismus in der {Bundeswehr}
+      url: https://www.bpb.de/shop/zeitschriften/apuz/bundeswehr-2024/556395/extremismus-in-der-bundeswehr/
+      year: '2024'
+    text: '[5] Die Verpflichtung der Bundeswehr auf die rechtliche und politische
+      Ordnung der Bundesrepublik schreibt das Soldatengesetz (SG) vor: „Der Soldat
+      muss die
+
+      freiheitliche demokratische Grundordnung im Sinne des Grundgesetzes anerkennen
+      und durch sein gesamtes Verhalten für ihre Erhaltung eintreten“ (Paragraf 8
+
+      SG).  Die Dienstvorschrift zur Führungskonzeption der Bundeswehr, der Inneren
+      Führung, legt fest, dass die Soldatinnen und Soldaten „den Werten und Normen
+
+      des Grundgesetzes in besonderer Weise verpflichtet“ sind.  [6] Soldatinnen und
+      Soldaten der Bundeswehr erfüllen ihren Auftrag, „wenn sie aus innerer
+
+      Überzeugung für Menschenwürde, Freiheit, Frieden, Gerechtigkeit, Gleichheit,
+      Solidarität und Demokratie als den leitenden Werten unseres Staates aktiv
+
+      eintreten“.  [7] Ein Engagement für verfassungsfeindliche Positionen oder in
+      einer verfassungsfeindlichen Partei ist mit diesen Vorgaben nicht vereinbar.  [8]
+      Liegen
+
+      entsprechende Hinweise für Angehörige der Bundeswehr vor, nimmt das Bundesamt
+      für den Militärischen Abschirmdienst (BAMAD) als Nachrichtendienst der
+
+      Bundeswehr Ermittlungen auf.  Bestätigt sich der Verdacht, werden rechtliche
+      Schritte unternommen, die von disziplinarrechtlichen Maßnahmen bis zur
+
+      Entlassung reichen.  [9]
+
+      Zahlen und Fakten
+
+      Wie verbreitet extremistische Vorfälle in der Bundeswehr sind, ist in der wissenschaftlichen
+      Literatur strittig. '
+    uid: 97ff04a5-d67c-4276-9d16-654aa86e404d
+  evidential_uncertainty: 0.0
+  metadata: {}
+  n_evidence: 3
+  negation: Es existieren offiziell anerkannte Gruppen oder Einzelpersonen mit extremistischen
+    politischen Überzeugungen innerhalb der Bundeswehr.
+  statement_type: *id004
+  text: Es existieren keine offiziell anerkannten Gruppen oder Einzelpersonen mit
+    extremistischen politischen Überzeugungen innerhalb der Bundeswehr.
+  uid: c2e2236c-4e9e-44ff-bdf2-bb5dd10423ae
+  verbalized_confirmation: The claim is strongly disconfirmed.
+confirmation_config:
+  config_version: v0.2
+  description: Configuration of EvidenceSeeker's confirmation analyser component.
+  env_file: ../.env
+  freetext_confirmation_analysis:
+    description: Instruct the assistant to carry out free-text RTE analysis.
+    llm_specific_configs:
+      default:
+        prompt_template: 'Determine the relationship between the following two texts:
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+          Does the TEXT entail, contradict, or neither entail nor contradict the HYPOTHESIS?
+
+          Classify the relationship as one of the following:
+
+          Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.
+
+          Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.
+
+          Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.
+
+          Please discuss this question thoroughly before providing your final answer.'
+        system_prompt: null
+    name: freetext_confirmation_analysis
+    used_model_key: null
+  models:
+    DeepSeek-V3:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Model served via Together.ai over HuggingFace
+      max_tokens: 1024
+      model: deepseek-ai/DeepSeek-V3
+      name: DeepSeek-V3
+      temperature: 0.2
+      timeout: 260
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen2.5-32B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen2.5-32B-Instruct served by featherless.ai over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen2.5-32B-Instruct:featherless-ai
+      model_link: https://huggingface.co/Qwen/Qwen2.5-32B-Instruct
+      name: Qwen2.5-32B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen2.5-VL-32B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen2.5-VL-32B-Instruct served by fireworks over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen2.5-VL-32B-Instruct:fireworks-ai
+      model_link: https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct
+      name: Qwen2.5-VL-32B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen3-235B-A22B-Instruct-2507:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen3-235B-A22B-Instruct-2507 served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen3-235B-A22B-Instruct-2507:together
+      model_link: https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507
+      name: Qwen3-235B-A22B-Instruct-2507
+      temperature: 0.2
+      timeout: 260
+  multiple_choice_confirmation_analysis:
+    description: Multiple choice RTE task given CoT trace.
+    llm_specific_configs:
+      default:
+        answer_labels:
+        - B
+        - C
+        - A
+        answer_options:
+        - 'Entailment: The TEXT provides sufficient evidence to support the HYPOTHESIS.'
+        - 'Contradiction: The TEXT provides evidence that contradicts the HYPOTHESIS.'
+        - 'Neutral: The TEXT neither supports nor contradicts the HYPOTHESIS.'
+        claim_option: 'Entailment: The TEXT provides sufficient evidence to support
+          the HYPOTHESIS.'
+        constrained_decoding_grammar: null
+        constrained_decoding_regex: null
+        delim_str: ''
+        guidance_type: json
+        json_schema:
+          properties:
+            answer:
+              pattern: ^(B|C|A)$
+              type: string
+          required:
+          - answer
+        logprobs_type: openai_like
+        n_repetitions_mcq: 1
+        prompt_template: 'Your task is to sum up the results of a rich textual entailment
+          analysis.
+
+
+          <TEXT>{evidence_item}</TEXT>
+
+
+          <HYPOTHESIS>{statement}</HYPOTHESIS>
+
+
+          Our previous analysis has yielded the following result:
+
+
+          <RESULT>
+
+          {freetext_confirmation_analysis}
+
+          </RESULT>
+
+
+          Please sum up this result by deciding which of the following choices is
+          correct. Just answer with the label of the correct choice.
+
+
+          {answer_options}
+
+
+          '
+        system_prompt: null
+        validation_regex: null
+    name: multiple_choice_confirmation_analysis
+    used_model_key: null
+  system_prompt: 'You are a helpful assistant with outstanding expertise in critical
+    thinking and logico-semantic analysis.
+
+    You have a background in philosophy and experience in fact checking and debate
+    analysis.
+
+    You read instructions carefully and follow them precisely. You give concise and
+    clear answers.'
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+feedback:
+  binary: null
+preprocessing_config:
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's preprocessing component.
+  env_file: ../.env
+  freetext_ascriptive_analysis:
+    description: Instruct the assistant to carry out free-text ascriptions analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: "The following {language} statement has been submitted for\
+          \ fact-checking.\n\n<statement>{claim}</statement>\n\nBefore we proceed\
+          \ with retrieving evidence items, we carefully analyse the statement.\n\
+          Your task is to contribute to this preparatory analysis, as detailed below.\n\
+          In particular, you should thoroughly discuss whether the statement makes\
+          \ any explicit ascriptions,\nthat is, whether it explicitly ascribes a statement\
+          \ to a person, group, or an organisation\n(e.g., as something the person\
+          \ has said, believes, wishes for, fears, or intends, etc.)\nrather than\
+          \ plainly asserting that statement straightaway. In other words, you should\
+          \ identify\nwhether the statement formulates any propositional attitudes,\
+          \ which are canonically formulated as \"that-clauses\".\n\nExamples of ascriptive\
+          \ statements are:\n\n+ 'Viele Menschen wünschen sich mehr Informationen\
+          \ darüber, wie sie ihren Alltag klimafreundlich gestalten können.',\n+ 'Caritas\
+          \ befürchtet Verelendung von Menschen wegen Sparmaßnahmen.' and\n+ 'Merz\
+          \ möchte harte Sanktionen.'\n\nProceed with your analysis as follows:\n\n\
+          1. **Analysis of the ascription:** Analyse the ascription of the input statement.\
+          \ Which statement(s) are ascribed to whom exactly and in which ways? What\
+          \ is the propositional attitude expressed in the ascription?\n2. **Identification\
+          \ of relevant ambiguities:** Identify ambiguities and vagueness in the ascription\
+          \ that make it difficult to fact-check whether the ascription is correct.\
+          \ (Do not analyse ambiguities in the ascribed statement itself here since\
+          \ it is not relevant for fact-checking the ascription.)\n3. **Formulation\
+          \ of relevant interpretations:** Given your analysis in Steps 1 and 2, formulate\
+          \ relevant ascriptive statements that make the ascription explicit and possibly\
+          \ resolve the identified ambiguities and vagueness clearly.\n\nSome further\
+          \ hints about the identification of ascriptions:\n\n+ **Dealing with unclear\
+          \ ascriptees:** Oftentimes, the ascription is indirect, i.e., it remains\
+          \ unsaid to whom the content is ascribed. For instance, \"Die Deutsche Bahn\
+          \ wird weithin als dysfunktional wahrgenommen.\" does not specify who exactly\
+          \ perceives the Deutsche Bahn as dysfunctional. In these cases, Step 2 demands\
+          \ to pinpoint this ambiguity and Step 3 requires to formulate interpretations\
+          \ that resolve this ambiguity. In the described example, one could formulate\
+          \ interpretations such as \"Viele Fahrgäste der Deutschen Bahn nehmen die\
+          \ Deutsche Bahn als dysfunktional wahr.\" or \"In der Öffentlichkeit wird\
+          \ die Deutsche Bahn als dysfunktional wahrgenommen.\"\n\nAdhere to the following\
+          \ guidelines:\n\n+ If the statement does not contain ambiguities, do not\
+          \ make up any interpretations (Step 3). \n+ Do not read any content into\
+          \ the statement without textual evidence (Step 1).\n+ Make sure not to introduce\
+          \ new ambiguities in your interpretations (during Step 3).\n+ Each formulated\
+          \ statement (Step 3) should be understandable on its own, without reference\
+          \ to the original statement. Formulate each statement in a concise manner\
+          \ and such that its ascriptive and factual nature stands out clearly.\n\
+          + If the original statement contains only minor ambiguities that do not\
+          \ obstruct fact-checking (i.e., if it is already verifiable or falsifiable\
+          \ in its original form), do not formulate any relevant interpretations (Step\
+          \ 3).\n\nEnd your analysis with a short list of all identified relevant\
+          \ ascriptive interpretations (Step 3) in {language}. If the input statement\
+          \ does not contain any ascriptive content, return an empty list. If the\
+          \ input statement is ascriptive and does not contain any ambiguities, return\
+          \ the input statement as it is. \n"
+        system_prompt: null
+    name: freetext_ascriptive_analysis
+    used_model_key: null
+  freetext_descriptive_analysis:
+    description: Instruct the assistant to carry out free-text factual/descriptive
+      analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: "The following {language} statement has been submitted for\
+          \ fact-checking.\n\n<statement>{claim}</statement>\n\nBefore we proceed\
+          \ with retrieving evidence items, we carefully analyse the statement. \n\
+          Your task is to contribute to this preparatory analysis, as detailed below.\n\
+          In particular, you should thoroughly discuss whether the statement contains\
+          \ or implies factual or descriptive statements,\nwhich can be verified or\
+          \ falsified by empirical observation or through scientific analysis, and\
+          \ which may include,\nfor example, descriptive reports, historical facts,\
+          \ or scientific statements.\n\nExamples of descriptive statements are: \n\
+          \n+ 'Jeder vierte Mensch lebt in einem von Bürgerkrieg betroffenen Land.\n\
+          + 'Das Grundgesetz verbietet die Auslieferung an das Ausland.' and\n+ 'Durch\
+          \ die weiteren Transportwege etablierte sich die Banane in Europa erst in\
+          \ den 1920er Jahren.'\n\nProceed with your analysis as follows:\n\n1. **Identification\
+          \ of descriptive content:** Identify the descriptive content that is contained\
+          \ in or implied by the original statement. If the input statement ascribes\
+          \ descriptive content to a person, group, or organisation (ascriptive statement),\
+          \ do not include the ascriptive part in your analysis; focus only on the\
+          \ descriptive content. If, on the other hand, the input statement ascribes\
+          \ normative or evaluative content that does not contain descriptive content,\
+          \ return an empty list at the end of your analysis.\n2. **Identification\
+          \ of ambiguities:** Identify ambiguities and vagueness in the original statement\
+          \ that make it difficult to scrutinise the descriptive content empirically.\n\
+          3. **Formulation of relevant interpretations:** Given your results from\
+          \ Steps 1 and 2, provide different reformulations of the input statement\
+          \ that resolve the identified ambiguities and vagueness in different directions\
+          \ (as suggested by your analysis results from Step 2). The number of statements\
+          \ should increase with the extent of ambiguity: The statements you formulate\
+          \ should illustrate the whole spectrum of possible interpretations.\n\n\
+          Some further hints about the identification of descriptive content:\n\n\
+          + **Dealing with a mix of descriptive and normative content:** Oftentimes,\
+          \ the original statement contains a mix of descriptive and normative content.\
+          \ In these cases, focus only on the descriptive content for your analysis\
+          \ and try to strip the normative content by rephrasing the input statement.\
+          \ For instance, the statement \"Die Klimakatastrophe ist menschengemacht\"\
+          \ contains a descriptive part (a causal statement about what causes climate\
+          \ change) and an evaluative part expressed by the term \"Katastrophe\".\
+          \ In this case, Step 3 requires formulating purely descriptive interpretations\
+          \ that preserve the descriptive content as much as possible. In the described\
+          \ example, one could formulate interpretations such as \"Der Klimawandel\
+          \ wird durch menschliche Aktivitäten verursacht.\" or \"Der Klimawandel\
+          \ ist auf menschliche Einflüsse zurückzuführen.\"\n\nAdhere to the following\
+          \ guidelines:\n\n+ If the statement is descriptive and does not contain\
+          \ ambiguities, do not make up any interpretations (Step 3). \n+ Do not read\
+          \ descriptive content into the statement without textual evidence (Step\
+          \ 1).\n+ Make sure not to introduce new ambiguities in your interpretations\
+          \ (during Step 3).\n+ Each formulated descriptive statement (Step 3) should\
+          \ be understandable on its own, without reference to the original statement.\
+          \ Formulate each statement in a concise manner and such that its factual\
+          \ nature stands out clearly.\n+ If the original statement contains only\
+          \ minor ambiguities that do not obstruct fact-checking (i.e., if it is already\
+          \ verifiable or falsifiable in its original form), do not formulate any\
+          \ relevant interpretations (Step 3).\n\nEnd your analysis with a short list\
+          \ of all identified relevant interpretations (Step 3) in {language}. If\
+          \ the input statement does not contain any descriptive content, return an\
+          \ empty list. If the input statement is descriptive and does not contain\
+          \ any ambiguities, return the input statement as it is.\n"
+        system_prompt: null
+    name: freetext_descriptive_analysis
+    used_model_key: null
+  freetext_normative_analysis:
+    description: Instruct the assistant to carry out free-text normative analysis.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: "The following {language} statement has been submitted for\
+          \ fact-checking.\n\n<statement>{claim}</statement>\n\nBefore we proceed\
+          \ with retrieving evidence items, we carefully analyse the statement. \n\
+          Your task is to contribute to this preparatory analysis, as detailed below.\n\
+          In particular, you should thoroughly discuss whether the statement contains\
+          \ or implies normative statements, such as value judgements, recommendations,\
+          \ or evaluations.\n\nExamples of normative statements are: \n\n+ 'Wir dürfen\
+          \ die Gefahren eines menschengemachten Klimawandels nicht unterschätzen.',\
+          \ \n+ 'Du sollst nicht töten' und \n+ 'Erbschaftssteuern sind ungerecht'.\n\
+          \nProceed with your analysis as follows:\n\n1. **Identification of normative\
+          \ content:** Identify the normative content that is contained in or implied\
+          \ by the original statement. If the input statement ascribes normative content\
+          \ to a person, group, or organisation (ascriptive statement), do not include\
+          \ the ascriptive part in your analysis; focus only on the normative content\
+          \ that is ascribed. If, on the other hand, the input statement ascribes\
+          \ only descriptive or factual content that does not contain normative content,\
+          \ return an empty list at the end of your analysis.\n2. **Identification\
+          \ of ambiguities:** Identify ambiguities and vagueness in the original statement\
+          \ that make it difficult to pinpoint the normative content.\n3. **Formulation\
+          \ of relevant interpretations:** Given your results from Steps 1 and 2,\
+          \ provide different reformulations of the input statement that resolve the\
+          \ identified ambiguities and vagueness in different directions (as suggested\
+          \ by your analysis results from Step 2). The number of statements should\
+          \ increase with the extent of ambiguity: The statements you formulate should\
+          \ illustrate the whole spectrum of possible interpretations.\n\nSome further\
+          \ hints about the identification of descriptive content:\n\n+ **Dealing\
+          \ with a mix of descriptive and normative content:** Oftentimes, the original\
+          \ statement contains a mix of descriptive and normative content. In these\
+          \ cases, focus only on the normative content for your analysis and try to\
+          \ strip the descriptive content by rephrasing the input statement. For instance,\
+          \ the statement \"Die Klimakatastrophe ist menschengemacht\" contains a\
+          \ descriptive part (a causal statement about what causes climate change)\
+          \ and an evaluative part expressed by the term \"Katastrophe\". In this\
+          \ case, Step 3 requires formulating purely normative interpretations that\
+          \ preserve the normative content as much as possible. In the described example,\
+          \ one could formulate interpretations such as \"Der Klimawandel ist sehr\
+          \ schlecht für die Menschheit.\" or \"Die Folgen des Klimawandels sind sehr\
+          \ schlecht.\"\n\n\nAdhere to the following guidelines:\n\n+ If the statement\
+          \ is clearly normative and does not contain ambiguities, do not make up\
+          \ any interpretations (Step 3). \n+ Do not read normative content into the\
+          \ statement without textual evidence (Step 1).\n+ Make sure not to introduce\
+          \ new ambiguities in your interpretations (during Step 3).\n+ Each formulated\
+          \ normative statement (Step 3) should be understandable on its own, without\
+          \ reference to the original statement. Formulate each statement in a concise\
+          \ manner and such that its normative nature stands out clearly.\n\nEnd your\
+          \ analysis with a short list of all identified relevant interpretations\
+          \ (Step 3) in {language}.\nIf the input statement does not contain any normative\
+          \ content, return an empty list.\nIf the input statement is normative and\
+          \ does not contain any ambiguities, return the input statement as it is.\
+          \ \n"
+        system_prompt: null
+    name: freetext_normative_analysis
+    used_model_key: null
+  language: DE
+  list_ascriptive_statements:
+    description: Instruct the assistant to list ascriptions.
+    llm_specific_configs:
+      default:
+        guidance_type: pydantic
+        prompt_template: 'The following {language} statement has been submitted for
+          ascriptive content analysis.
+
+          <statement>{claim}</statement>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {ascriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all ascriptions identified in this analysis (i.e.,
+          the identified relevant interpretations). Clearly state each ascription
+          as a concise {language} statement, such that it is transparent to whom it
+          is attributed. Only include ascriptions that are explicitly attributed to
+          a specific person or organisation.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_ascriptive_statements
+    used_model_key: null
+  list_descriptive_statements:
+    description: Instruct the assistant to list factual statements.
+    llm_specific_configs:
+      default:
+        guidance_type: pydantic
+        prompt_template: 'We have previously analysed the descriptive content of the
+          following {language} statement:
+
+          <statement>{claim}</statement>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {descriptive_analysis}
+
+          </results>
+
+
+          Your task is to list all factual or descriptive {language} statements identified
+          in the previous analysis (i.e., the identified relevant interpretations).
+          Only include clear cases, i.e. statements that are unambiguously factual
+          or descriptive.
+
+          Format your (possibly empty) list of statements as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_descriptive_statements
+    used_model_key: null
+  list_normative_statements:
+    description: Instruct the assistant to list normative statements.
+    llm_specific_configs:
+      default:
+        guidance_type: pydantic
+        prompt_template: 'The following {language} statement has been submitted for
+          normative content analysis.
+
+          <statement>{claim}</statement>
+
+          The analysis yielded the following results:
+
+
+          <results>
+
+          {normative_analysis}
+
+          </results>
+
+
+          Your task is to list all normative statements identified in this analysis
+          (e.g., value judgements, recommendations, or evaluations) in {language}.
+
+          Format your (possibly empty) list of statements (i.e., the identified relevant
+          interpretations) as a JSON object.
+
+          Do not include any other text than the JSON object.'
+        system_prompt: null
+    name: list_normative_statements
+    used_model_key: null
+  models:
+    AceReason-Nemotron-14B:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: AceReason-Nemotron-14B served by featherless.ai over HuggingFace
+      max_tokens: 1024
+      model: nvidia/AceReason-Nemotron-14B:featherless-ai
+      model_link: https://huggingface.co/AceReason/Nemotron-14B
+      name: AceReason-Nemotron-14B
+      temperature: 0.2
+      timeout: 260
+    DeepSeek-V3:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Model served via Together.ai over HuggingFace
+      max_tokens: 1024
+      model: deepseek-ai/DeepSeek-V3
+      name: DeepSeek-V3
+      temperature: 0.2
+      timeout: 260
+    Kimi-K2-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Kimi-K2-Instruct served by together.ai over HuggingFace
+      max_tokens: 1024
+      model: moonshotai/Kimi-K2-Instruct:together
+      model_link: https://huggingface.co/moonshotai/Kimi-K2-Instruct
+      name: Kimi-K2-Instruct
+      temperature: 0.6
+      timeout: 260
+    Llama-3.2-3B-Instruct-Turbo:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/together/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.2-3B-Instruct-Turbo served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.2-3B-Instruct-Turbo
+      model_link: https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+      name: Llama-3.2-3B-Instruct-Turbo
+      temperature: 0.2
+      timeout: 260
+    Llama-3.3-70B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Llama-3.3-70B served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: meta-llama/Llama-3.3-70B-Instruct:together
+      model_link: https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct
+      name: Llama-3.3-70B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen2.5-32B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen2.5-32B-Instruct served by featherless.ai over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen2.5-32B-Instruct:featherless-ai
+      model_link: https://huggingface.co/Qwen/Qwen2.5-32B-Instruct
+      name: Qwen2.5-32B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen2.5-VL-32B-Instruct:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen2.5-VL-32B-Instruct served by fireworks over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen2.5-VL-32B-Instruct:fireworks-ai
+      model_link: https://huggingface.co/Qwen/Qwen2.5-VL-32B-Instruct
+      name: Qwen2.5-VL-32B-Instruct
+      temperature: 0.2
+      timeout: 260
+    Qwen3-235B-A22B-Instruct-2507:
+      api_key_name: hf_debatelab_inference_provider
+      backend_type: openai
+      base_url: https://router.huggingface.co/v1
+      default_headers:
+        X-HF-Bill-To: DebateLabKIT
+      description: Qwen3-235B-A22B-Instruct-2507 served by Together.ai over HuggingFace
+      max_tokens: 1024
+      model: Qwen/Qwen3-235B-A22B-Instruct-2507:together
+      model_link: https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507
+      name: Qwen3-235B-A22B-Instruct-2507
+      temperature: 0.2
+      timeout: 260
+  negate_claim:
+    description: Instruct the assistant to negate a statement.
+    llm_specific_configs:
+      default:
+        guidance_type: null
+        prompt_template: 'Your task is to express the opposite of the following statement
+          in plain and unequivocal language.
+
+          Please generate a single {language} sentence that clearly states the negation.
+
+          <statement>
+
+          {statement}
+
+          </statement>
+
+          Provide only the negated statement in {language} without any additional
+          comments.'
+        system_prompt: null
+    name: negate_claim
+    used_model_key: null
+  system_prompt: "You are a helpful assistant with outstanding expertise in critical\
+    \ thinking and logico-semantic analysis. \nYou have a background in philosophy\
+    \ and experience in fact checking and debate analysis.\nYou read instructions\
+    \ carefully and follow them precisely. You give concise and clear answers."
+  timeout: 1200
+  used_model_key: Llama-3.3-70B-Instruct
+  verbose: false
+request: In der Bundeswehr gibt es keinen politischen Extremismus.
+retrieval_config:
+  api_key_name: API_TOKEN_EMBEDDING_MODEL
+  bill_to: null
+  config_version: v0.1
+  description: Configuration of EvidenceSeeker's retriever component.
+  document_input_dir: ./knowledge_base/data_files
+  document_input_files: null
+  embed_backend_type: huggingface
+  embed_base_url: null
+  embed_batch_size: 32
+  embed_model_name: BAAI/bge-m3
+  env_file: null
+  hub_key_name: null
+  ignore_statement_types:
+  - normative
+  index_hub_path: null
+  index_id: default_index_id
+  index_persist_path: /home/basti/tmp/APUZ/storage/bge-m3
+  meta_data_file: ./knowledge_base/meta_data.json
+  postgres_database: evidence_seeker
+  postgres_embed_dim: null
+  postgres_host: localhost
+  postgres_llamaindex_table_name_prefix: data_
+  postgres_password: null
+  postgres_password_env_var: postgres_password
+  postgres_port: '5432'
+  postgres_schema_name: public
+  postgres_table_name: evse_embeddings
+  postgres_user: null
+  top_k: 12
+  trust_remote_code: null
+  use_postgres: false
+  window_size: 3
+time: 2025-11-24 18:38:14 UTC
+uid: 933c05eb-dda1-42d9-843b-4a5a227e0e10
